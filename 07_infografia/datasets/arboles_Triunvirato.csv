@@ -1,0 +1,220 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.49437499773859,-34.566469653167204,126246,12,Triunvirato Av.,5600.0,5677.0,Platanus,6.5,Ocupada,Regular,A nivel,67,19
+-58.4941177550362,-34.566798801655395,126276,12,Triunvirato Av.,5600.0,5643.0,Platanus,6.5,Ocupada,Regular,A nivel,51,17
+-58.4941693016324,-34.5667328467445,126277,12,Triunvirato Av.,5600.0,5657.0,Platanus,6.5,Ocupada,Regular,A nivel,62,14
+-58.4944681522233,-34.5663504588871,126278,12,Triunvirato Av.,5600.0,5689.0,Platanus,6.5,Ocupada,Regular,A nivel,47,16
+-58.493964494808296,-34.5669949004596,126280,12,Triunvirato Av.,5600.0,5619.0,Platanus,4.5,Ocupada,Regular,Elevada,60,17
+-58.4942726811228,-34.5666005702165,126281,12,Triunvirato Av.,5600.0,5669.0,Platanus,6.5,Ocupada,Regular,A nivel,56,19
+-58.494066864594,-34.5668639168749,126283,12,Triunvirato Av.,5600.0,5635.0,Platanus,6.5,Ocupada,Regular,A nivel,53,17
+-58.49432428695721,-34.5665345391225,126284,12,Triunvirato Av.,5600.0,5675.0,Platanus,6.5,Ocupada,Regular,A nivel,52,19
+-58.4939138046233,-34.567059759091,126287,12,Triunvirato Av.,5600.0,5609.0,Platanus,6.5,Ocupada,Regular,A nivel,57,17
+-58.4938536681705,-34.5671367041462,126289,12,Triunvirato Av.,5600.0,5607.0,Platanus,6.5,Ocupada,Ochava,A nivel,68,16
+-58.49365449344579,-34.56739180101889,127366,12,Triunvirato Av.,5500.0,5587.0,Platanus,6.8,Ocupada,Regular,A nivel,52,7
+-58.49365449344579,-34.56739180101889,127388,12,Triunvirato Av.,5500.0,5595.0,Platanus,6.8,Ocupada,Regular,A nivel,61,7
+-58.496242272742606,-34.5639107892383,127689,12,Triunvirato Av.,5800.0,5875.0,Platanus,6.8,Ocupada,Regular,A nivel,46,10
+-58.4956814802921,-34.5646871072232,127691,12,Triunvirato Av.,5800.0,5803.0,Platanus,6.8,Ocupada,Regular,Bajo nivel,48,15
+-58.496242272742606,-34.5639107892383,127692,12,Triunvirato Av.,5800.0,5873.0,Platanus,6.8,Ocupada,NA,A nivel,55,13
+-58.4963434711357,-34.563770615801104,127694,12,Triunvirato Av.,5800.0,5885.0,Platanus,6.8,Ocupada,Regular,Elevada,53,10
+-58.4962930949425,-34.5638403937051,127696,12,Triunvirato Av.,5800.0,5877.0,Platanus,6.8,Sobreocupada,Regular,A nivel,46,9
+-58.493570743658104,-34.5674989996176,127849,12,Triunvirato Av.,5500.0,5575.0,Platanus,6.8,Ocupada,Regular,A nivel,52,13
+-58.4932081086905,-34.5679596846251,127850,12,Triunvirato Av.,5500.0,5533.0,Platanus,6.8,Ocupada,Regular,Elevada,61,13
+-58.496394192264795,-34.5637003599856,127861,12,Triunvirato Av.,5800.0,5889.0,Platanus,6.8,Ocupada,Regular,Elevada,40,13
+-58.496394192264795,-34.5637003599856,127863,12,Triunvirato Av.,5800.0,5889.0,Platanus,6.8,Ocupada,Regular,Elevada,45,14
+-58.4963434711357,-34.563770615801104,127865,12,Triunvirato Av.,5800.0,5885.0,Platanus,6.8,Ocupada,Regular,A nivel,54,12
+-58.493570743658104,-34.5674989996176,127869,12,Triunvirato Av.,5500.0,5575.0,Platanus,6.8,Ocupada,Regular,A nivel,76,18
+-58.4932598283035,-34.5678934668985,127870,12,Triunvirato Av.,5500.0,5537.0,Platanus,6.8,Ocupada,Regular,Bajo nivel,3,3
+-58.4934057023336,-34.5677067005698,127872,12,Triunvirato Av.,5500.0,5549.0,Platanus,6.8,Ocupada,Regular,Elevada,66,19
+-58.4934076594186,-34.567707767067105,127873,12,Triunvirato Av.,5500.0,5551.0,Platanus,6.8,Ocupada,Regular,Elevada,52,17
+-58.49316217685221,-34.5680184920396,127874,12,Triunvirato Av.,5500.0,5525.0,Platanus,6.8,Ocupada,Regular,A nivel,63,16
+-58.49307689196421,-34.568127683646495,127876,12,Triunvirato Av.,5500.0,5509.0,Platanus,6.8,Ocupada,Ochava,Elevada,57,15
+-58.4933103221778,-34.5678288183813,127877,12,Triunvirato Av.,5500.0,5545.0,Platanus,6.8,Ocupada,Regular,Elevada,55,17
+-58.493091048331,-34.5681095590413,127878,12,Triunvirato Av.,5500.0,5511.0,Platanus,6.8,Ocupada,Regular,A nivel,66,17
+-58.4934076594186,-34.567707767067105,127880,12,Triunvirato Av.,5500.0,5557.0,Platanus,6.8,Ocupada,Regular,A nivel,61,18
+-58.4934076594186,-34.567707767067105,127882,12,Triunvirato Av.,5500.0,5557.0,Platanus,6.8,Ocupada,Regular,Elevada,62,21
+-58.4926703236602,-34.568857116141,136040,12,Triunvirato Av.,5400.0,5468.0,Platanus,7.2,Ocupada,Regular,A nivel,49,12
+-58.49261888516789,-34.5689229697507,136042,12,Triunvirato Av.,5400.0,5464.0,Platanus,7.2,Ocupada,Regular,A nivel,70,17
+-58.4925671911913,-34.5689891503013,136043,12,Triunvirato Av.,5400.0,5456.0,Platanus,7.2,Ocupada,Regular,A nivel,60,15
+-58.4925234996303,-34.5690450857712,136044,12,Triunvirato Av.,5400.0,5444.0,Platanus,7.2,Ocupada,Regular,A nivel,64,13
+-58.4923099437778,-34.569318486136396,136046,12,Triunvirato Av.,5400.0,5404.0,Platanus,7.2,Ocupada,Regular,A nivel,72,16
+-58.492303270853206,-34.569327028979004,136047,12,Triunvirato Av.,5400.0,5402.0,Platanus,7.2,Ocupada,Regular,A nivel,68,16
+-58.4932380526633,-34.568129780408604,136578,12,Triunvirato Av.,5500.0,5510.0,Platanus,6.5,Ocupada,Regular,Elevada,78,19
+-58.4962904491506,-34.564064993547504,135138,12,Triunvirato Av.,5850.0,5864.0,Platanus,6.6,Ocupada,Regular,A nivel,68,17
+-58.4919928758095,-34.5695168807404,137329,12,Triunvirato Av.,5300.0,5395.0,Melia,6.6,Ocupada,Regular,A nivel,42,11
+-58.4919928758095,-34.5695168807404,137333,12,Triunvirato Av.,5300.0,5399.0,Melia,6.6,Ocupada,Regular,A nivel,18,5
+-58.4932380526633,-34.568129780408604,136546,12,Triunvirato Av.,5500.0,5508.0,Platanus,6.5,Ocupada,Regular,A nivel,48,17
+-58.49317071325971,-34.5682159961688,136549,12,Triunvirato Av.,5500.0,5506.0,Platanus,6.5,Ocupada,Ochava,A nivel,66,18
+-58.4933140539721,-34.568032474388,136550,12,Triunvirato Av.,5500.0,5514.0,Platanus,6.5,Ocupada,Regular,Bajo nivel,3,5
+-58.4929811375633,-34.5684591971456,136026,12,Triunvirato Av.,5400.0,5498.0,Platanus,7.2,Ocupada,Ochava,A nivel,75,16
+-58.4929265493842,-34.5685290839087,136033,12,Triunvirato Av.,5400.0,5490.0,Platanus,7.2,Ocupada,Regular,Elevada,65,16
+-58.492874673270904,-34.5685954984022,136034,12,Triunvirato Av.,5400.0,5486.0,Platanus,7.2,Ocupada,Regular,A nivel,69,17
+-58.493395390817795,-34.5679283368881,136561,12,Triunvirato Av.,5500.0,5548.0,Platanus,6.5,Ocupada,Ochava,A nivel,67,18
+-58.4945709032518,-34.5664206680062,139551,12,Triunvirato Av.,5600.0,5688.0,Platanus,6.5,Ocupada,Regular,A nivel,70,17
+-58.494212432428206,-34.566879341785004,139552,12,Triunvirato Av.,5600.0,5644.0,Platanus,6.5,Ocupada,Regular,Bajo nivel,49,14
+-58.4944946341897,-34.566518256994,139553,12,Triunvirato Av.,5600.0,5680.0,Platanus,4.5,Ocupada,Regular,A nivel,3,4
+-58.4944946341897,-34.566518256994,139554,12,Triunvirato Av.,5600.0,5680.0,Platanus,4.5,Ocupada,Regular,A nivel,64,16
+-58.49395634213511,-34.5672070129523,139555,12,Triunvirato Av.,5600.0,5602.0,Platanus,6.5,Ocupada,Ochava,A nivel,54,13
+-58.4943144526126,-34.5667488046399,139556,12,Triunvirato Av.,5600.0,5650.0,Platanus,6.5,Ocupada,Regular,Elevada,45,14
+-58.4946208074956,-34.566356813604,139557,12,Triunvirato Av.,5600.0,5700.0,Platanus,6.5,Ocupada,Ochava,Elevada,74,17
+-58.4944174038285,-34.5666170757032,139599,12,Triunvirato Av.,5600.0,5666.0,Platanus,6.5,Ocupada,Regular,Bajo nivel,61,15
+-58.494007988849795,-34.5671409305062,139604,12,Triunvirato Av.,5600.0,5618.0,Platanus,6.5,Ocupada,Regular,A nivel,63,15
+-58.49486075895471,-34.5660417972903,140163,12,Triunvirato Av.,5700.0,5732.0,Platanus,6.5,Ocupada,Regular,A nivel,52,19
+-58.49486075895471,-34.5660417972903,140165,12,Triunvirato Av.,5700.0,5720.0,Platanus,6.5,Ocupada,Ochava,A nivel,58,19
+-58.49486075895471,-34.5660417972903,140167,12,Triunvirato Av.,5700.0,5720.0,Platanus,6.5,Ocupada,Regular,A nivel,45,19
+-58.49486075895471,-34.5660417972903,140169,12,Triunvirato Av.,5700.0,5720.0,Platanus,6.5,Ocupada,Regular,A nivel,50,19
+-58.4949945258664,-34.5658586725329,140171,12,Triunvirato Av.,5700.0,5736.0,Platanus,6.5,Ocupada,Regular,A nivel,77,20
+-58.4950445280187,-34.5657902201263,140172,12,Triunvirato Av.,5700.0,5742.0,Platanus,6.5,Ocupada,Regular,A nivel,62,19
+-58.495094081949794,-34.5657223812168,140175,12,Triunvirato Av.,5700.0,5744.0,Platanus,6.5,Ocupada,Regular,A nivel,45,19
+-58.4951531601232,-34.565641503518,140178,12,Triunvirato Av.,5700.0,5750.0,Platanus,6.5,Ocupada,Regular,A nivel,65,18
+-58.4936633471996,-34.5675817406534,138846,12,Triunvirato Av.,5550.0,5578.0,Platanus,6.3,Ocupada,Regular,Elevada,15,8
+-58.4936117907479,-34.5676477393258,138848,12,Triunvirato Av.,5550.0,5570.0,Platanus,6.3,Ocupada,Regular,A nivel,68,20
+-58.4937749120602,-34.5674389393024,138850,12,Triunvirato Av.,5550.0,5600.0,Platanus,6.3,Ocupada,Ochava,A nivel,76,17
+-58.4936633471996,-34.5675817406534,138851,12,Triunvirato Av.,5550.0,5578.0,Platanus,6.3,Ocupada,Regular,Elevada,31,15
+-58.4935528620403,-34.5677231752388,138852,12,Triunvirato Av.,5550.0,5552.0,Platanus,6.3,Ocupada,Ochava,Elevada,77,19
+-58.4956814802921,-34.5646871072232,142444,12,Triunvirato Av.,5800.0,5809.0,Platanus,6.8,Ocupada,Regular,Bajo nivel,54,15
+-58.4958938514504,-34.564394834499694,142449,12,Triunvirato Av.,5800.0,5839.0,Ficus,6.8,Ocupada,Regular,Bajo nivel,43,6
+-58.495942427523005,-34.564327982041604,142453,12,Triunvirato Av.,5800.0,5845.0,Platanus,6.8,Ocupada,Regular,Bajo nivel,72,25
+-58.4964516885161,-34.5636207195142,142454,12,Triunvirato Av.,5800.0,5897.0,Platanus,6.8,Ocupada,Regular,Bajo nivel,51,9
+-58.49030401150779,-34.5711321555657,146440,12,Triunvirato Av.,5100.0,5193.0,Ficus,4,Ocupada,Fuera de línea,A nivel,17,3
+-58.484984482056205,-34.5750999097523,148240,12,Triunvirato Av.,4500.0,4585.0,Tilia,3.2,Ocupada,Regular,Bajo nivel,38,8
+-58.487987449704,-34.5731583841389,149272,12,Triunvirato Av.,4800.0,4900.0,Ficus,3.2,Ocupada,Ochava,A nivel,36,9
+-58.4875575676767,-34.573492618154305,149315,12,Triunvirato Av.,4800.0,4820.0,Melia,3.2,Ocupada,Regular,Bajo nivel,30,7
+-58.484998401462,-34.5752936405198,148336,12,Triunvirato Av.,4500.0,4546.0,Ficus,3.2,Ocupada,Regular,Elevada,20,2
+-58.48490647294129,-34.5753443644187,148341,12,Triunvirato Av.,4500.0,4528.0,Ficus,3.2,Ocupada,Regular,Bajo nivel,10,2
+-58.484998401462,-34.5752936405198,148343,12,Triunvirato Av.,4500.0,4546.0,Ficus,3.2,Ocupada,Regular,Elevada,25,2
+-58.48340376515571,-34.5760624215998,148356,12,Triunvirato Av.,4400.0,4451.0,Tilia,3.3,Ocupada,Regular,Bajo nivel,24,8
+-58.4832208787302,-34.5764089432462,148402,12,Triunvirato Av.,4400.0,4414.0,Ficus,3.2,Ocupada,Regular,Bajo nivel,102,12
+-58.4833038737455,-34.5763534315945,148403,12,Triunvirato Av.,4400.0,4422.0,Ficus,3.2,Ocupada,Regular,Bajo nivel,12,3
+-58.4907797103229,-34.5707295727261,152047,12,Triunvirato Av.,5200.0,5237.0,Jacaranda,3.8,Ocupada,Regular,A nivel,50,12
+-58.4907797103229,-34.5707295727261,152050,12,Triunvirato Av.,5200.0,5237.0,Jacaranda,3.8,Ocupada,Regular,A nivel,42,10
+-58.481214979996096,-34.577751914292,155603,12,Triunvirato Av.,4200.0,4282.0,Tilia,3.1,Ocupada,Regular,Bajo nivel,35,14
+-58.480541465105894,-34.5782079903478,155616,12,Triunvirato Av.,4200.0,4214.0,Jacaranda,3.1,Ocupada,Regular,Bajo nivel,18,9
+-58.47937473244221,-34.5787565552421,155663,12,Triunvirato Av.,4100.0,4135.0,Tilia,3.2,Ocupada,Regular,Bajo nivel,35,10
+-58.4800506911825,-34.578543604994195,155712,12,Triunvirato Av.,4100.0,4196.0,Jacaranda,3.2,Ocupada,Regular,A nivel,19,6
+-58.4856493348494,-34.574703587349,161935,12,Triunvirato Av.,4600.0,4631.0,Jacaranda,3.2,Ocupada,Regular,A nivel,3,3
+-58.480905835750505,-34.5777401344412,164270,12,Triunvirato Av.,4200.0,4265.0,Ficus,3.3,Ocupada,Regular,Bajo nivel,40,8
+-58.481218184156106,-34.5775286235182,164282,12,Triunvirato Av.,4200.0,4295.0,Tilia,3.3,Ocupada,Regular,Bajo nivel,29,13
+-58.4956508760505,-34.5575342978298,170641,12,Triunvirato Av.,6400.0,6401.0,Jacaranda,1.8,Ocupada,Regular,A nivel,8,2
+-58.4956508760505,-34.5575342978298,170961,12,Triunvirato Av.,6400.0,6401.0,Jacaranda,2.4,Ocupada,Regular,A nivel,8,2
+-58.4956508760505,-34.5575342978298,168852,12,Triunvirato Av.,6400.0,6401.0,Jacaranda,2.2,Sobreocupada,Regular,A nivel,8,3
+-58.4956508760505,-34.5575342978298,170989,12,Triunvirato Av.,6400.0,6401.0,Jacaranda,2.4,Ocupada,Regular,A nivel,6,2
+-58.4956508760505,-34.5575342978298,170753,12,Triunvirato Av.,6400.0,6401.0,Jacaranda,1.8,Ocupada,Regular,A nivel,6,3
+-58.4956508760505,-34.5575342978298,171016,12,Triunvirato Av.,6400.0,6401.0,Jacaranda,2.4,Ocupada,Regular,A nivel,8,2
+-58.4956508760505,-34.5575342978298,171027,12,Triunvirato Av.,6400.0,6401.0,Jacaranda,2.4,Ocupada,Regular,A nivel,6,3
+-58.495421052445096,-34.5652632590807,174554,12,Triunvirato Av.,5700.0,5768.0,Platanus,6.4,Ocupada,Regular,Elevada,49,14
+-58.4955641130869,-34.5650636699489,174555,12,Triunvirato Av.,5700.0,5792.0,Platanus,6.4,Ocupada,Regular,A nivel,70,14
+-58.49546837534471,-34.5651972372999,174556,12,Triunvirato Av.,5700.0,5778.0,Platanus,6.4,Ocupada,Regular,A nivel,68,14
+-58.4951294611444,-34.565456700803,174560,12,Triunvirato Av.,5700.0,5755.0,Platanus,6.4,Ocupada,Ochava,A nivel,59,15
+-58.4953727433974,-34.565330656553805,174561,12,Triunvirato Av.,5700.0,5760.0,Platanus,6.4,Ocupada,Regular,A nivel,42,12
+-58.4928110030214,-34.568467605665,179960,12,Triunvirato Av.,5400.0,5491.0,Platanus,5,Ocupada,Regular,A nivel,72,20
+-58.4927596871872,-34.5685333027444,179962,12,Triunvirato Av.,5400.0,5485.0,Platanus,5,Ocupada,Regular,A nivel,46,15
+-58.49270882214379,-34.568598422574894,179973,12,Triunvirato Av.,5400.0,5479.0,Platanus,5,Ocupada,Regular,Elevada,73,20
+-58.4926570797685,-34.5686646654961,179982,12,Triunvirato Av.,5400.0,5477.0,Platanus,5,Sobreocupada,Regular,Elevada,54,20
+-58.4926053927026,-34.5687308374642,179984,12,Triunvirato Av.,5400.0,5473.0,Platanus,5,Ocupada,Regular,Elevada,50,20
+-58.4925541020803,-34.568796501761696,179987,12,Triunvirato Av.,5400.0,5471.0,Platanus,5,Ocupada,Regular,Elevada,68,20
+-58.4924518074429,-34.568927463060604,179988,12,Triunvirato Av.,5400.0,5441.0,Platanus,5,Ocupada,Regular,A nivel,55,15
+-58.4923487657244,-34.5690593803115,180011,12,Triunvirato Av.,5400.0,5435.0,Platanus,5,Ocupada,Regular,A nivel,51,15
+-58.4922975361209,-34.5691249658587,180019,12,Triunvirato Av.,5400.0,5419.0,Platanus,5,Ocupada,Regular,A nivel,45,20
+-58.49224644908399,-34.5691903687701,180027,12,Triunvirato Av.,5400.0,5415.0,Melia,5,Sobreocupada,Regular,Elevada,54,20
+-58.492190343424,-34.5692621965148,180031,12,Triunvirato Av.,5400.0,5409.0,Platanus,5,Ocupada,Regular,A nivel,54,20
+-58.4956508760505,-34.5575342978298,185801,12,Triunvirato Av.,6400,6401.0,Jacaranda,2.8,Ocupada,Regular,A nivel,6,3
+-58.4965936912053,-34.563644961034605,186144,12,Triunvirato Av.,5900,5900.0,Jacaranda,2.8,Sobreocupada,Regular,A nivel,7,2
+-58.4965936912053,-34.563644961034605,186147,12,Triunvirato Av.,5900,5900.0,Jacaranda,2.8,Sobreocupada,Regular,A nivel,6,2
+-58.4965936912053,-34.563644961034605,186152,12,Triunvirato Av.,5900,5900.0,Jacaranda,2.8,Sobreocupada,Regular,A nivel,6,3
+-58.4965936912053,-34.563644961034605,186156,12,Triunvirato Av.,5900,5900.0,Jacaranda,2.8,Sobreocupada,Regular,A nivel,9,2
+-58.4956508760505,-34.5575342978298,186429,12,Triunvirato Av.,6400,6401.0,Jacaranda,2.2,Sobreocupada,Regular,A nivel,6,2
+-58.4956508760505,-34.5575342978298,186485,12,Triunvirato Av.,6400,6401.0,Jacaranda,2.2,Sobreocupada,Regular,A nivel,9,3
+-58.4956508760505,-34.5575342978298,186488,12,Triunvirato Av.,6400,6401.0,Jacaranda,2.2,Sobreocupada,Regular,A nivel,6,3
+-58.4956508760505,-34.5575342978298,185749,12,Triunvirato Av.,6400,6401.0,Jacaranda,2.8,Sobreocupada,Regular,A nivel,6,3
+-58.4956508760505,-34.5575342978298,185757,12,Triunvirato Av.,6400,6401.0,Jacaranda,2.8,Sobreocupada,Regular,A nivel,6,3
+-58.4956508760505,-34.5575342978298,185758,12,Triunvirato Av.,6400,6401.0,Jacaranda,2.8,Sobreocupada,Regular,A nivel,6,3
+-58.4956508760505,-34.5575342978298,185760,12,Triunvirato Av.,6400,6401.0,Jacaranda,2.8,Sobreocupada,Regular,A nivel,9,3
+-58.4956508760505,-34.5575342978298,186321,12,Triunvirato Av.,6400,6401.0,Jacaranda,2.2,Sobreocupada,Regular,A nivel,4,2
+-58.4965936912053,-34.563644961034605,385562,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,385564,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,385566,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,3
+-58.4965936912053,-34.563644961034605,385576,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,385580,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,385587,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,3
+-58.4965936912053,-34.563644961034605,385589,12,Triunvirato Av.,5900,5900.0,Jacaranda,4.4,Ocupada,Regular,A nivel,2,3
+-58.4965936912053,-34.563644961034605,385531,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,385537,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,385543,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,385547,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,385550,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,3,3
+-58.4965936912053,-34.563644961034605,385560,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377820,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,3,2
+-58.4965936912053,-34.563644961034605,377824,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,3,3
+-58.4965936912053,-34.563644961034605,377827,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,4,3
+-58.4965936912053,-34.563644961034605,377828,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377829,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,3,2
+-58.4965936912053,-34.563644961034605,377853,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377858,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377860,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,3,3
+-58.4965936912053,-34.563644961034605,377863,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377865,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377876,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377878,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377880,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377882,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377884,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377887,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377889,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,3,3
+-58.4965936912053,-34.563644961034605,377891,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,2,2
+-58.4965936912053,-34.563644961034605,377898,12,Triunvirato Av.,5900,5900.0,Jacaranda,6.4,Ocupada,Regular,A nivel,3,3
+-58.494679304884606,-34.5660657753382,423244,12,Triunvirato Av.,5700,5705.0,Platanus,7,Ocupada,Regular,Elevada,70,14
+-58.4947352430723,-34.5659891972954,423246,12,Triunvirato Av.,5700,5711.0,Platanus,7,Ocupada,Regular,A nivel,59,15
+-58.4947352430723,-34.5659891972954,423247,12,Triunvirato Av.,5700,5715.0,Platanus,7,Ocupada,Regular,A nivel,70,15
+-58.494880385753206,-34.5657904996581,423249,12,Triunvirato Av.,5700,5729.0,Platanus,7,Ocupada,Regular,A nivel,82,17
+-58.495026397261,-34.565590611484,423250,12,Triunvirato Av.,5700,5737.0,Platanus,7,Ocupada,Regular,A nivel,75,18
+-58.4949284454872,-34.5657247065321,423251,12,Triunvirato Av.,5700,5739.0,Platanus,7,Ocupada,Regular,A nivel,53,13
+-58.4949284454872,-34.5657247065321,423252,12,Triunvirato Av.,5700,5739.0,Platanus,7,Ocupada,Regular,A nivel,60,15
+-58.4951294611444,-34.565456700803,423253,12,Triunvirato Av.,5700,5759.0,Platanus,7,Ocupada,Regular,A nivel,59,15
+-58.495177458224894,-34.565389739045,423254,12,Triunvirato Av.,5700,5767.0,Platanus,7,Ocupada,Regular,A nivel,56,11
+-58.495177458224894,-34.565389739045,423255,12,Triunvirato Av.,5700,5767.0,Platanus,7,Ocupada,Regular,A nivel,75,14
+-58.4952745618168,-34.5652542673338,423256,12,Triunvirato Av.,5700,5775.0,Platanus,7,Ocupada,Regular,A nivel,74,16
+-58.495371790688296,-34.5651186203395,423257,12,Triunvirato Av.,5700,5787.0,Platanus,7,Ocupada,Regular,A nivel,81,16
+-58.4954197395438,-34.5650517252207,423258,12,Triunvirato Av.,5700,5789.0,Platanus,7,Ocupada,Ochava,A nivel,82,12
+-58.4958715614954,-34.5646396279725,438204,12,Triunvirato Av.,5800,5818.0,Platanus,6.5,Ocupada,Regular,A nivel,68,9
+-58.4959202831157,-34.5645725754459,438205,12,Triunvirato Av.,5800,5822.0,Platanus,6.5,Ocupada,Regular,A nivel,52,11
+-58.4959690415629,-34.5645054721016,438206,12,Triunvirato Av.,5800,5826.0,Platanus,6.5,Ocupada,Regular,A nivel,57,12
+-58.4960658771663,-34.564372202648,438207,12,Triunvirato Av.,5800,5844.0,Platanus,6.5,Sobreocupada,Regular,A nivel,72,11
+-58.4864115527511,-34.5741513728349,542355,12,Triunvirato Av.,4700,4711.0,Ficus,3.8,Ocupada,Regular,AN,20,3
+-58.4864115527511,-34.5741513728349,542356,12,Triunvirato Av.,4700,4711.0,Ficus,3.8,Ocupada,Regular,AN,18,4
+-58.4675731383049,-34.583812596483604,192746,15,Triunvirato Av.,3200.0,3208,Ficus,3.2,Ocupada,Regular,A nivel,64,8
+-58.47064984146,-34.5826192706803,192210,15,Triunvirato Av.,3400.0,3487,Tilia,3.2,Ocupada,Regular,Elevada,3,2
+-58.4686683555071,-34.583453442266304,191265,15,Triunvirato Av.,3300.0,3310,Ficus,3.4,Ocupada,Regular,A nivel,42,7
+-58.4671405768941,-34.5839532813076,213355,15,Triunvirato Av.,3100.0,3186,Ficus,3.3,Sobreocupada,Regular,A nivel,55,4
+-58.466971754314606,-34.5840081799576,213415,15,Triunvirato Av.,3100.0,3174,Jacaranda,3.5,Ocupada,Regular,Elevada,12,7
+-58.466971754314606,-34.5840081799576,213468,15,Triunvirato Av.,3100.0,3174,Ficus,4.3,Ocupada,Regular,Elevada,143,10
+-58.4762379345677,-34.5798595687457,205403,15,Triunvirato Av.,3900.0,3938,Jacaranda,3.2,Ocupada,Regular,A nivel,19,7
+-58.4758391959748,-34.5799538405419,205455,15,Triunvirato Av.,3900.0,3908,Jacaranda,3.2,Ocupada,Regular,A nivel,17,7
+-58.4770249785317,-34.5796734873895,205253,15,Triunvirato Av.,3900.0,3994,Ficus,3.2,Ocupada,Regular,A nivel,67,3
+-58.4745078139655,-34.5809824434607,208771,15,Triunvirato Av.,3750.0,3767,Ficus,3.5,Ocupada,Regular,A nivel,59,24
+-58.465901505667105,-34.5843538182925,219035,15,Triunvirato Av.,3000.0,3070,Tilia,3.2,Ocupada,Regular,A nivel,9,4
+-58.464751643487794,-34.5847286634642,219863,15,Triunvirato Av.,2900.0,3000,Jacaranda,3.2,Ocupada,Ochava,A nivel,13,4
+-58.465779717516,-34.584393420134894,219111,15,Triunvirato Av.,3000.0,3064,Ficus,3.3,Ocupada,Regular,A nivel,101,5
+-58.4753808489657,-34.5801727789595,215431,15,Triunvirato Av.,3900.0,3900.0,Jacaranda,3.7,Ocupada,Ochava,A nivel,16,8
+-58.470029141131,-34.5830128977353,215484,15,Triunvirato Av.,3400.0,3432.0,Ficus,3.3,Sobreocupada,Regular,A nivel,21,7
+-58.4770249785317,-34.5796734873895,215342,15,Triunvirato Av.,3900.0,3994.0,Ficus,3.7,Ocupada,Ochava,A nivel,18,3
+-58.4762379345677,-34.5798595687457,215390,15,Triunvirato Av.,3900.0,3938.0,Jacaranda,3.7,Ocupada,Regular,A nivel,17,8
+-58.47748596169029,-34.579566584703805,233215,15,Triunvirato Av.,4000.0,4012.0,Jacaranda,3.3,Ocupada,Regular,A nivel,16,7
+-58.478724698874395,-34.5792802573928,233323,15,Triunvirato Av.,4000.0,4092.0,Jacaranda,3.3,Ocupada,Regular,A nivel,5,5
+-58.47852134097239,-34.5793272634511,233335,15,Triunvirato Av.,4000.0,4082.0,Jacaranda,3.3,Ocupada,Regular,A nivel,12,7
+-58.47827679465429,-34.579383789683696,233349,15,Triunvirato Av.,4000.0,4064.0,Jacaranda,3.3,Ocupada,Regular,Bajo nivel,17,8
+-58.4781040661984,-34.579423715061196,233354,15,Triunvirato Av.,4000.0,4056.0,Melia,3.3,Ocupada,Regular,A nivel,45,12
+-58.478003959323395,-34.579446854153396,233363,15,Triunvirato Av.,4000.0,4048.0,Jacaranda,3.3,Ocupada,Regular,A nivel,15,8
+-58.4779048020925,-34.5794697736782,233371,15,Triunvirato Av.,4000.0,4040.0,Jacaranda,3.3,Ocupada,Regular,A nivel,19,8
+-58.477697252289,-34.5795177470825,233385,15,Triunvirato Av.,4000.0,4026.0,Jacaranda,3.3,Ocupada,Regular,A nivel,11,8
+-58.4775923845606,-34.579541986194805,233390,15,Triunvirato Av.,4000.0,4022.0,Jacaranda,3.3,Sobreocupada,Regular,A nivel,15,8
+-58.4774929617266,-34.579376412725,235063,15,Triunvirato Av.,3990.0,4013.0,Jacaranda,3.3,Ocupada,Regular,A nivel,13,8
+-58.477301612144096,-34.579421492699396,235084,15,Triunvirato Av.,3990.0,3997.0,Jacaranda,3.3,Ocupada,Regular,A nivel,15,7
+-58.476457188565,-34.579620567342204,235139,15,Triunvirato Av.,3900.0,3939.0,Jacaranda,3.3,Ocupada,Regular,A nivel,17,8
+-58.4762725946964,-34.5796642106313,235151,15,Triunvirato Av.,3900.0,3925.0,Jacaranda,3.3,Ocupada,Regular,A nivel,17,8
+-58.4760916662905,-34.5797069869853,235164,15,Triunvirato Av.,3900.0,3915.0,Jacaranda,3.3,Ocupada,Regular,A nivel,13,7
+-58.4760916662905,-34.5797069869853,235168,15,Triunvirato Av.,3900.0,3915.0,Jacaranda,3.3,Ocupada,Regular,A nivel,11,6
+-58.46602294830279,-34.584125429071804,259919,15,Triunvirato Av.,3000.0,3085.0,Ficus,4,Ocupada,Regular,Elevada,21,7
+-58.46592032544189,-34.584158799174396,259938,15,Triunvirato Av.,3000.0,3075.0,Ficus,4,Ocupada,Regular,Elevada,2,2
+-58.4615446981555,-34.5850775110607,264131,15,Triunvirato Av.,2700.0,2763.0,Ficus,2,Ocupada,Regular,Elevada,28,5
+NA,NA,126282,12,Triunvirato Av.,5600.0,5095.0,Platanus,6.5,Ocupada,Ochava,A nivel,78,20
+-58.490495,-34.571195,152044,12,Triunvirato Av.,5200.0,NA,Ficus,11,Ocupada,Ochava,Elevada,94,13
+-58.490495,-34.571195,152049,12,Triunvirato Av.,5200.0,NA,Ficus,11,Ocupada,Ochava,Elevada,25,5

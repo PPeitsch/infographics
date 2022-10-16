@@ -1,0 +1,303 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.368201377146704,-34.6123248726365,57915,1,Belgrano Av.,100.0,130.0,Jacaranda,12,Ocupada,Regular,NA,9,4
+-58.377995857568,-34.612794532695105,59572,1,Belgrano Av.,800.0,831.0,Jacaranda,3.6,Ocupada,Regular,A nivel,15,7
+-58.3782227689253,-34.6128092207464,59581,1,Belgrano Av.,800.0,845.0,Jacaranda,3.6,Ocupada,Regular,A nivel,14,7
+-58.378548258652295,-34.6128302895071,59588,1,Belgrano Av.,800.0,865.0,Jacaranda,3.6,Ocupada,Regular,A nivel,13,7
+-58.3783843638764,-34.6128196805315,59590,1,Belgrano Av.,800.0,853.0,Jacaranda,3.6,Ocupada,Regular,A nivel,2,2
+-58.3787015937527,-34.6128402145966,59609,1,Belgrano Av.,800.0,873.0,Jacaranda,3.6,Ocupada,Regular,A nivel,34,9
+-58.3788785236582,-34.6128518723834,59612,1,Belgrano Av.,800.0,891.0,Jacaranda,3.6,Ocupada,Regular,A nivel,15,7
+-58.37997207015329,-34.6129224048547,59613,1,Belgrano Av.,900.0,955.0,Jacaranda,3.2,Ocupada,Regular,A nivel,18,7
+-58.37997207015329,-34.6129224048547,59615,1,Belgrano Av.,900.0,955.0,Jacaranda,3.2,Ocupada,Regular,A nivel,36,10
+-58.37932081498701,-34.6128816818966,59618,1,Belgrano Av.,900.0,923.0,Jacaranda,3.2,Ocupada,Regular,A nivel,44,12
+-58.37997207015329,-34.6129224048547,59637,1,Belgrano Av.,900.0,955.0,Jacaranda,3.2,Ocupada,Regular,A nivel,53,12
+-58.37997207015329,-34.6129224048547,59638,1,Belgrano Av.,900.0,955.0,Jacaranda,3.2,Ocupada,Regular,NA,19,8
+-58.3782227689253,-34.6128092207464,59639,1,Belgrano Av.,800.0,847.0,Jacaranda,3.6,Ocupada,Regular,A nivel,16,7
+-58.379147094124,-34.612870195933105,59648,1,Belgrano Av.,900.0,909.0,Jacaranda,3.2,Ocupada,Regular,A nivel,16,6
+-58.3788785236582,-34.6128518723834,59653,1,Belgrano Av.,800.0,891.0,Jacaranda,3.6,Ocupada,Ochava,A nivel,11,3
+-58.37997207015329,-34.6129224048547,59655,1,Belgrano Av.,900.0,955.0,Jacaranda,3.2,Ocupada,Regular,A nivel,32,11
+-58.371470387943106,-34.6123575670372,60721,1,Belgrano Av.,300.0,369.0,Jacaranda,4,Ocupada,Regular,Elevada,17,8
+-58.37165870351029,-34.6123686266355,60723,1,Belgrano Av.,300.0,381.0,Jacaranda,4,Ocupada,Regular,Elevada,11,6
+-58.3713034861732,-34.6123477652061,60727,1,Belgrano Av.,300.0,355.0,Jacaranda,3.6,Ocupada,Regular,Elevada,13,7
+-58.3717214754325,-34.6123723125148,60732,1,Belgrano Av.,300.0,385.0,Jacaranda,4,Ocupada,Regular,Elevada,15,6
+-58.3713034861732,-34.6123477652061,60733,1,Belgrano Av.,300.0,357.0,Tilia,3.6,Ocupada,Regular,Elevada,8,5
+-58.372905521692296,-34.612445155946105,60740,1,Belgrano Av.,400.0,475.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,14,6
+-58.3725005226839,-34.6124200161607,60741,1,Belgrano Av.,400.0,423.0,Jacaranda,4,Ocupada,Regular,A nivel,7,4
+-58.3745118821916,-34.6125534326769,64725,1,Belgrano Av.,500.0,599.0,Jacaranda,9,Ocupada,Ochava,Bajo nivel,18,8
+-58.3750961083866,-34.6125933596926,64729,1,Belgrano Av.,600.0,609.0,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,33,12
+-58.3750961083866,-34.6125933596926,64732,1,Belgrano Av.,600.0,625.0,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,36,13
+-58.3738620718689,-34.6125074993329,64733,1,Belgrano Av.,500.0,539.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,12,7
+-58.3740914443457,-34.6125237133084,64694,1,Belgrano Av.,500.0,561.0,Jacaranda,4,Ocupada,Regular,A nivel,10,5
+-58.3740914443457,-34.6125237133084,64696,1,Belgrano Av.,500.0,561.0,Jacaranda,4,Ocupada,Regular,A nivel,34,11
+-58.3745118821916,-34.6125534326769,64737,1,Belgrano Av.,500.0,599.0,Jacaranda,9,Ocupada,Ochava,Bajo nivel,20,9
+-58.3745118821916,-34.6125534326769,64706,1,Belgrano Av.,500.0,599.0,Jacaranda,4,Ocupada,Regular,A nivel,2,2
+-58.3738620718689,-34.6125074993329,64710,1,Belgrano Av.,500.0,535.0,Platanus,4,Ocupada,Regular,A nivel,4,2
+-58.376736507783,-34.6127079774079,64787,1,Belgrano Av.,700.0,737.0,Tilia,4,Ocupada,Ochava,Elevada,17,2
+-58.3796390240058,-34.6130662641792,68508,1,Belgrano Av.,900.0,940.0,Jacaranda,3.75,Ocupada,Regular,Elevada,28,8
+-58.3792274880361,-34.613040305564496,68520,1,Belgrano Av.,900.0,918.0,Jacaranda,3.75,Ocupada,Regular,Elevada,20,4
+-58.3792274880361,-34.613040305564496,68525,1,Belgrano Av.,900.0,918.0,Jacaranda,3.75,Ocupada,Regular,Elevada,10,4
+-58.380092560805394,-34.613094623345496,68312,1,Belgrano Av.,900.0,980.0,Jacaranda,3.75,Ocupada,Regular,A nivel,22,5
+-58.37980198058471,-34.6130764536362,68315,1,Belgrano Av.,900.0,954.0,Jacaranda,3.75,Ocupada,Regular,Elevada,36,8
+-58.380026090638104,-34.6130904673447,68412,1,Belgrano Av.,900.0,970.0,Ficus,3.75,Ocupada,Regular,A nivel,84,11
+-58.3796390240058,-34.6130662641792,68414,1,Belgrano Av.,900.0,936.0,Jacaranda,3.75,Ocupada,Regular,Elevada,4,3
+-58.3793194859409,-34.6128816909222,68418,1,Belgrano Av.,900.0,915.0,Jacaranda,3.75,Ocupada,Regular,Elevada,23,6
+-58.3794652361314,-34.613055397363,68422,1,Belgrano Av.,900.0,926.0,Jacaranda,3.75,Ocupada,Regular,Elevada,33,8
+-58.379226642459706,-34.6130404772513,68423,1,Belgrano Av.,900.0,920.0,Jacaranda,3.75,Ocupada,Regular,Elevada,5,3
+-58.3796390240058,-34.6130662641792,68425,1,Belgrano Av.,900.0,948.0,Jacaranda,3.75,Ocupada,Regular,Elevada,36,8
+-58.3838838155193,-34.6131965579246,70576,1,Belgrano Av.,1200.0,1245.0,Jacaranda,4,Ocupada,Regular,A nivel,30,11
+-58.3836396490785,-34.613179280094,70590,1,Belgrano Av.,1200.0,1225.0,Jacaranda,4,Ocupada,Regular,A nivel,2,4
+-58.3835172123763,-34.6131706161883,70602,1,Belgrano Av.,1200.0,1219.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,12,9
+-58.384251508089,-34.6132225754136,70352,1,Belgrano Av.,1200.0,1279.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,8,5
+-58.3833561204135,-34.6131592166282,70654,1,Belgrano Av.,1200.0,1209.0,Jacaranda,4,Ocupada,Regular,A nivel,21,9
+-58.3772089244282,-34.6129080722509,70146,1,Belgrano Av.,800.0,774.0,Jacaranda,3.86,Ocupada,Regular,Elevada,41,11
+-58.3828970628957,-34.613127355068805,70693,1,Belgrano Av.,1100.0,1177.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,17,12
+-58.3827002265814,-34.6131134225649,70737,1,Belgrano Av.,1100.0,1151.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,37,16
+-58.385281311372005,-34.613295050284904,70224,1,Belgrano Av.,1300.0,1337.0,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,14,8
+-58.385281311372005,-34.613295050284904,70235,1,Belgrano Av.,1300.0,1335.0,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,12,8
+-58.3851542348022,-34.613286207674,70245,1,Belgrano Av.,1300.0,1331.0,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,15,8
+-58.3851542348022,-34.613286207674,70251,1,Belgrano Av.,1300.0,1329.0,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,14,10
+-58.3822582907596,-34.6130821398452,70770,1,Belgrano Av.,1100.0,1127.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,50,15
+-58.376294675843106,-34.6128453146803,70259,1,Belgrano Av.,800.0,702.0,Jacaranda,3.86,Ocupada,Regular,A nivel,33,9
+-58.375251951919005,-34.6127711314279,70263,1,Belgrano Av.,700.0,636.0,Jacaranda,4.4,Ocupada,Regular,A nivel,13,6
+-58.3764232041526,-34.6128541937684,70268,1,Belgrano Av.,800.0,720.0,Jacaranda,3.86,Ocupada,Regular,A nivel,42,9
+-58.3773815798431,-34.612919910907394,70269,1,Belgrano Av.,800.0,794.0,Jacaranda,3.86,Ocupada,Regular,A nivel,56,10
+-58.375642715630804,-34.612798743153704,70271,1,Belgrano Av.,700.0,672.0,Jacaranda,4.4,Ocupada,Regular,A nivel,25,7
+-58.37593450834889,-34.612819360676305,70272,1,Belgrano Av.,700.0,680.0,Jacaranda,4.4,Ocupada,Regular,Elevada,51,15
+-58.3785810037786,-34.6129980490578,71694,1,Belgrano Av.,800.0,866.0,Jacaranda,4,Ocupada,Regular,A nivel,46,16
+-58.3894674051401,-34.6135886080336,75040,1,Belgrano Av.,1600.0,1637.0,Jacaranda,4.4,Sobreocupada,Regular,Bajo nivel,8,5
+-58.3742719220963,-34.6127005072365,74494,1,Belgrano Av.,600.0,570.0,Jacaranda,3,Ocupada,Regular,Bajo nivel,20,5
+-58.3728236096889,-34.6126055714235,74510,1,Belgrano Av.,500.0,456.0,Jacaranda,3.2,Ocupada,Regular,Bajo nivel,36,6
+-58.37175804541229,-34.612541682919606,74522,1,Belgrano Av.,350.0,390.0,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,31,7
+-58.3895996581942,-34.6135972162133,75010,1,Belgrano Av.,1600.0,1647.0,Jacaranda,4.4,Ocupada,Regular,A nivel,38,15
+-58.37175804541229,-34.612541682919606,74488,1,Belgrano Av.,350.0,390.0,Jacaranda,3.6,Ocupada,Regular,A nivel,40,7
+-58.3862606098999,-34.6133632695856,75897,1,Belgrano Av.,1400.0,1403.0,Jacaranda,3.7,Ocupada,Regular,Bajo nivel,20,10
+-58.385855133869704,-34.6133349783589,75912,1,Belgrano Av.,1300.0,1389.0,Ficus,3.6,Ocupada,Regular,A nivel,14,7
+-58.3865221897023,-34.6133816693444,75913,1,Belgrano Av.,1400.0,1433.0,Jacaranda,3.7,Ocupada,Regular,A nivel,17,10
+-58.385764405687,-34.6133286654225,75914,1,Belgrano Av.,1300.0,1381.0,Jacaranda,3.6,Ocupada,Regular,A nivel,15,9
+-58.38567946050671,-34.6133227550203,75916,1,Belgrano Av.,1300.0,1377.0,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,15,7
+-58.3871506233121,-34.6134262932171,75917,1,Belgrano Av.,1400.0,1477.0,Jacaranda,3.7,Ocupada,Regular,Elevada,43,20
+-58.38640866913239,-34.6133735494803,75919,1,Belgrano Av.,1400.0,1417.0,Jacaranda,3.7,Ocupada,Regular,Bajo nivel,43,14
+-58.385855133869704,-34.6133349783589,75920,1,Belgrano Av.,1300.0,1389.0,Jacaranda,3.6,Ocupada,Regular,A nivel,17,10
+-58.387221784283504,-34.6134313459114,75921,1,Belgrano Av.,1400.0,1483.0,Jacaranda,3.7,Ocupada,Regular,A nivel,40,19
+-58.3873513136057,-34.613440543303696,75924,1,Belgrano Av.,1400.0,1493.0,Jacaranda,3.7,Ocupada,Regular,A nivel,13,8
+-58.38817025102679,-34.6135013031371,75926,1,Belgrano Av.,1500.0,1547.0,Jacaranda,4.6,Ocupada,Regular,Elevada,40,12
+-58.38817025102679,-34.6135013031371,75929,1,Belgrano Av.,1500.0,1551.0,Jacaranda,4.6,Ocupada,Regular,A nivel,12,6
+-58.386995361626994,-34.613415268877695,75930,1,Belgrano Av.,1400.0,1463.0,Jacaranda,3.7,Ocupada,Regular,A nivel,50,13
+-58.3862606098999,-34.6133632695856,75931,1,Belgrano Av.,1400.0,1411.0,Jacaranda,3.7,Ocupada,Regular,Bajo nivel,18,10
+-58.38817025102679,-34.6135013031371,75944,1,Belgrano Av.,1500.0,1551.0,Jacaranda,4.6,Ocupada,Regular,Elevada,40,12
+-58.38817025102679,-34.6135013031371,75945,1,Belgrano Av.,1500.0,1551.0,Jacaranda,4.6,Ocupada,Regular,Elevada,20,9
+-58.38817025102679,-34.6135013031371,75946,1,Belgrano Av.,1500.0,1547.0,Jacaranda,4.6,Ocupada,Regular,Elevada,42,12
+-58.38817025102679,-34.6135013031371,75952,1,Belgrano Av.,1500.0,1547.0,Jacaranda,4.6,Ocupada,Regular,A nivel,18,8
+-58.38817025102679,-34.6135013031371,75956,1,Belgrano Av.,1500.0,1551.0,Jacaranda,4.6,Ocupada,Regular,A nivel,12,6
+-58.38817025102679,-34.6135013031371,75957,1,Belgrano Av.,1500.0,1551.0,Jacaranda,4.6,Ocupada,Regular,A nivel,40,11
+-58.3894674051401,-34.6135886080336,75456,1,Belgrano Av.,1600.0,1629.0,Jacaranda,4.4,Ocupada,Regular,A nivel,18,5
+-58.390059657766294,-34.6136271590342,75459,1,Belgrano Av.,1600.0,1683.0,Jacaranda,4.4,Ocupada,Regular,A nivel,9,6
+-58.3700068461704,-34.6124382561382,76682,1,Belgrano Av.,300.0,254.0,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,34,6
+-58.3700068461704,-34.6124382561382,76693,1,Belgrano Av.,300.0,254.0,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,40,6
+-58.3701336925831,-34.6124458686411,76716,1,Belgrano Av.,300.0,270.0,Jacaranda,3.6,Ocupada,Regular,A nivel,12,6
+-58.367839476679706,-34.612298269543096,79181,1,Belgrano Av.,100.0,98.0,Tilia,3.9,Ocupada,Regular,A nivel,4,2
+-58.370861591804704,-34.6124872152875,80420,1,Belgrano Av.,350.0,302.0,Jacaranda,3.5,Ocupada,Regular,Elevada,18,6
+-58.39131175510221,-34.613705964928606,81058,1,Belgrano Av.,1700.0,1779.0,Jacaranda,3,Ocupada,Regular,Bajo nivel,15,10
+-58.39114840119779,-34.613695324449395,81063,1,Belgrano Av.,1700.0,1757.0,Jacaranda,3,Ocupada,Regular,Bajo nivel,15,9
+-58.39082116143,-34.6136740085643,81065,1,Belgrano Av.,1700.0,1733.0,Ficus,3,Sobreocupada,Regular,Elevada,2,2
+-58.390657752462594,-34.6136633638351,81067,1,Belgrano Av.,1700.0,1723.0,Tilia,3,Ocupada,Regular,A nivel,33,12
+-58.390657752462594,-34.6136633638351,81068,1,Belgrano Av.,1700.0,1719.0,Jacaranda,3,Ocupada,Regular,A nivel,8,6
+-58.3905039881698,-34.613653347003606,81069,1,Belgrano Av.,1700.0,1711.0,Jacaranda,3,Ocupada,Regular,A nivel,15,9
+-58.3913026313566,-34.6137017669255,81046,1,Belgrano Av.,1700.0,1783.0,Jacaranda,3,Ocupada,Regular,Bajo nivel,10,7
+-58.3907347486913,-34.6138380410455,500061,1,Belgrano Av.,1700.0,1724.0,Jacaranda,2.4,Ocupada,Regular,A nivel,42,7
+-58.390902555815,-34.613848971961396,500063,1,Belgrano Av.,1700.0,1736.0,Jacaranda,2.4,Ocupada,Regular,A nivel,45,8
+-58.3912527800216,-34.6138717852767,500064,1,Belgrano Av.,1700.0,1772.0,Jacaranda,2.4,Ocupada,Regular,A nivel,19,6
+-58.3914673695704,-34.6138868166131,500066,1,Belgrano Av.,1700.0,1786.0,Jacaranda,2.4,Ocupada,Regular,A nivel,46,7
+-58.3892429707464,-34.6137381792094,500094,1,Belgrano Av.,1000.0,1620.0,Jacaranda,2.4,Ocupada,Regular,A nivel,49,7
+-58.3896813731235,-34.613766716760104,500096,1,Belgrano Av.,1000.0,1654.0,Jacaranda,2.4,Ocupada,Regular,A nivel,51,7
+-58.388805420897896,-34.6137084962027,500144,1,Belgrano Av.,1500.0,1586.0,Ficus,2.8,Ocupada,Regular,Bajo Nivel,31,7
+-58.3886502143079,-34.6136979937012,500145,1,Belgrano Av.,1500.0,1580.0,Jacaranda,2.8,Ocupada,Regular,Bajo Nivel,10,5
+-58.388217326105,-34.6136666667001,500152,1,Belgrano Av.,1500.0,1554.0,Jacaranda,2.8,Ocupada,Regular,Bajo Nivel,3,7
+-58.388217326105,-34.6136666667001,500153,1,Belgrano Av.,1500.0,1554.0,Jacaranda,2.8,Ocupada,Regular,Bajo Nivel,11,7
+-58.386248128404205,-34.6135284810061,500154,1,Belgrano Av.,1400.0,1408.0,Jacaranda,2.4,Ocupada,Regular,A nivel,57,8
+-58.3863673267702,-34.6135367569878,500155,1,Belgrano Av.,1400.0,1420.0,Jacaranda,2.4,Ocupada,Regular,A nivel,51,8
+-58.38662009821589,-34.6135547265906,500157,1,Belgrano Av.,1400.0,1436.0,Jacaranda,2.4,Ocupada,Regular,A nivel,41,6
+-58.3871506233121,-34.6134262932171,500160,1,Belgrano Av.,1400.0,1477.0,Jacaranda,2.4,Ocupada,Regular,A nivel,58,7
+-58.3873348179795,-34.6136054768843,500162,1,Belgrano Av.,1400.0,1494.0,Jacaranda,2.4,Ocupada,Regular,A nivel,90,10
+-58.3849730486534,-34.6134398878109,500178,1,Belgrano Av.,1300.0,1322.0,Ficus,3.6,Ocupada,Regular,Elevada,8,5
+-58.38519006818971,-34.613454989698894,500180,1,Belgrano Av.,1300.0,1336.0,Jacaranda,3.6,Ocupada,Regular,A Nivel,38,9
+-58.38519006818971,-34.613454989698894,500181,1,Belgrano Av.,1300.0,1340.0,Jacaranda,3.6,Ocupada,Regular,A Nivel,10,7
+-58.3853116309256,-34.6134634484661,500182,1,Belgrano Av.,1300.0,1344.0,Jacaranda,3.6,Ocupada,Regular,Bajo Nivel,28,10
+-58.3838043878083,-34.6133573998415,500198,1,Belgrano Av.,1200.0,1240.0,Jacaranda,3.2,Ocupada,Regular,Bajo Nivel,37,8
+-58.404322312328,-34.6146876080007,23915,3,Belgrano Av.,2700.0,2736.0,Platanus,4,Ocupada,Regular,A nivel,55,22
+-58.40409141928679,-34.614676778716806,23917,3,Belgrano Av.,2700.0,2698.0,Platanus,4,Ocupada,Regular,A nivel,55,22
+-58.4039978728144,-34.614671288642505,23920,3,Belgrano Av.,2700.0,2694.0,Platanus,4,Ocupada,Regular,A nivel,44,21
+-58.4039978728144,-34.614671288642505,23921,3,Belgrano Av.,2600.0,2690.0,Platanus,4,Ocupada,Regular,A nivel,60,22
+-58.4037879454873,-34.6146589686569,23922,3,Belgrano Av.,2600.0,2670.0,Platanus,4,Ocupada,Regular,A nivel,50,22
+-58.4037879454873,-34.6146589686569,23924,3,Belgrano Av.,2600.0,2670.0,Platanus,4,Ocupada,Regular,A nivel,51,20
+-58.403359332078296,-34.6146338127121,23930,3,Belgrano Av.,2600.0,2630.0,Ficus,4,Ocupada,Regular,A nivel,7,3
+-58.40314235578771,-34.614620572323105,23933,3,Belgrano Av.,2600.0,2610.0,Tilia,4,Ocupada,Regular,Bajo nivel,28,13
+-58.4046671460585,-34.6147049201846,23906,3,Belgrano Av.,2700.0,2792.0,Platanus,4,Ocupada,Regular,A nivel,67,22
+-58.404557413224,-34.614699411138,23907,3,Belgrano Av.,2700.0,2784.0,Platanus,4,Ocupada,Regular,A nivel,27,20
+-58.404463116511,-34.6146946769749,23910,3,Belgrano Av.,2700.0,2780.0,Platanus,4,Ocupada,Regular,A nivel,55,22
+-58.3968638116039,-34.614252311548704,24425,3,Belgrano Av.,2100.0,2158.0,Platanus,4,Ocupada,Regular,A nivel,66,21
+-58.3966933237329,-34.614243662555,24437,3,Belgrano Av.,2100.0,2140.0,Platanus,4,Ocupada,Regular,Bajo nivel,31,11
+-58.395986127110795,-34.6142088656541,24457,3,Belgrano Av.,2000.0,2100.0,Jacaranda,2.8,Ocupada,Regular,Elevada,17,9
+-58.395862865468295,-34.6142025915972,24458,3,Belgrano Av.,2000.0,2088.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,20,11
+-58.3957013005796,-34.6141904746212,24460,3,Belgrano Av.,2000.0,2070.0,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,31,12
+-58.3954639741008,-34.61417387442,24461,3,Belgrano Av.,2000.0,2056.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,49,16
+-58.3953444000961,-34.6141655101504,24462,3,Belgrano Av.,2000.0,2048.0,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,4,2
+-58.3952104582479,-34.6141561410753,24463,3,Belgrano Av.,2000.0,2034.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,67,27
+-58.39479783157601,-34.6141262554181,24471,3,Belgrano Av.,2000.0,2002.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,74,28
+-58.3970906588992,-34.6142629279577,24320,3,Belgrano Av.,2100.0,2184.0,Ficus,4,Ocupada,Regular,Elevada,27,6
+-58.403967327790205,-34.614510208025195,26643,3,Belgrano Av.,2600.0,2699.0,Platanus,4,Ocupada,Regular,A nivel,65,24
+-58.4036300825918,-34.614490415583,26646,3,Belgrano Av.,2600.0,2657.0,Platanus,4,Ocupada,Regular,Bajo nivel,84,21
+-58.394368084879105,-34.6140979248867,26423,3,Belgrano Av.,1900.0,1980.0,Melia,4,Ocupada,Regular,Bajo nivel,32,8
+-58.4033365831151,-34.6144732744834,26684,3,Belgrano Av.,2600.0,2627.0,Platanus,4,Ocupada,Regular,Bajo nivel,69,19
+-58.404691727159395,-34.6145480846294,26694,3,Belgrano Av.,2700.0,2769.0,Platanus,4.2,Ocupada,Regular,Bajo nivel,64,23
+-58.40324261864121,-34.6144674517071,26696,3,Belgrano Av.,2600.0,2615.0,Platanus,4,Ocupada,Regular,Bajo nivel,79,20
+-58.4031479282511,-34.6144615844055,26698,3,Belgrano Av.,2600.0,2601.0,Platanus,4,Ocupada,Regular,A nivel,83,28
+-58.3942105582057,-34.6140859806529,26743,3,Belgrano Av.,1900.0,1972.0,Platanus,4,Ocupada,Regular,Bajo nivel,19,10
+-58.4109534181345,-34.6152484938898,26745,3,Belgrano Av.,3100.0,3189.0,Jacaranda,4,Ocupada,Regular,A nivel,8,4
+-58.4059673340777,-34.6148533600293,26320,3,Belgrano Av.,2800.0,2890.0,Jacaranda,4,Ocupada,Regular,A nivel,7,3
+-58.405476330804504,-34.6147904420117,26327,3,Belgrano Av.,2800.0,2838.0,Jacaranda,4,Ocupada,Regular,A nivel,28,9
+-58.405162436441096,-34.614750217882104,26329,3,Belgrano Av.,2800.0,2822.0,Jacaranda,4,Ocupada,Regular,Elevada,20,6
+-58.4026569828604,-34.6145928838253,26118,3,Belgrano Av.,2500.0,2584.0,Platanus,4,Ocupada,Regular,Bajo nivel,19,13
+-58.4018154477853,-34.6145407927824,26120,3,Belgrano Av.,2500.0,2530.0,Platanus,4,Ocupada,Regular,A nivel,63,16
+-58.4034322798627,-34.6144788062236,26629,3,Belgrano Av.,2600.0,2637.0,Platanus,4,Ocupada,Regular,A nivel,75,20
+-58.3940836097822,-34.614076354913,27258,3,Belgrano Av.,1900.0,1964.0,Ficus,3.9,Ocupada,Regular,Bajo nivel,39,5
+-58.4106658682724,-34.6152304010851,27163,3,Belgrano Av.,3100.0,3159.0,Jacaranda,4,Ocupada,Regular,Elevada,15,7
+-58.4104344785015,-34.6152158419032,27171,3,Belgrano Av.,3100.0,3141.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,12,3
+-58.40123290339721,-34.6145034731802,29804,3,Belgrano Av.,2400.0,2496.0,Platanus,4.2,Ocupada,Ochava,A nivel,61,18
+-58.401105805971696,-34.614495772343,29805,3,Belgrano Av.,2400.0,2488.0,Tilia,4.2,Ocupada,Regular,Bajo nivel,16,7
+-58.400974063829295,-34.6144877897661,29809,3,Belgrano Av.,2400.0,2482.0,Platanus,4.2,Ocupada,Regular,A nivel,50,19
+-58.400881095906,-34.614482156194704,29815,3,Belgrano Av.,2400.0,2472.0,Platanus,4.2,Ocupada,Regular,A nivel,54,22
+-58.4006730022633,-34.6144695471845,29817,3,Belgrano Av.,2400.0,2452.0,Platanus,4.2,Ocupada,Regular,Bajo nivel,26,12
+-58.4004442927182,-34.6144556885412,29827,3,Belgrano Av.,2400.0,2422.0,Platanus,4.2,Ocupada,Regular,Bajo nivel,60,18
+-58.400881095906,-34.614482156194704,29849,3,Belgrano Av.,2400.0,2470.0,Platanus,4.2,Ocupada,Regular,A nivel,71,17
+-58.3997486356941,-34.6144134166471,29857,3,Belgrano Av.,2400.0,2350.0,Platanus,4.2,Ocupada,Regular,A nivel,63,19
+-58.40578683271271,-34.614669938050106,29378,3,Belgrano Av.,2800.0,2875.0,Platanus,4.2,Ocupada,Regular,A nivel,41,17
+-58.40578683271271,-34.614669938050106,29379,3,Belgrano Av.,2800.0,2875.0,Platanus,4.2,Ocupada,Regular,A nivel,54,20
+-58.40063141873279,-34.6144670272328,29895,3,Belgrano Av.,2400.0,2444.0,Ficus,4.2,Ocupada,Regular,A nivel,25,6
+-58.404691727159395,-34.6145480846294,31217,3,Belgrano Av.,2700.0,2769.0,Platanus,4.2,Ocupada,Regular,Bajo nivel,64,23
+-58.403967327790205,-34.614510208025195,30895,3,Belgrano Av.,2600.0,2699.0,Platanus,4,Ocupada,Regular,A nivel,65,24
+-58.4034322798627,-34.6144788062236,30896,3,Belgrano Av.,2600.0,2637.0,Platanus,4,Ocupada,Regular,A nivel,75,20
+-58.4033365831151,-34.6144732744834,31176,3,Belgrano Av.,2600.0,2627.0,Platanus,4,Ocupada,Regular,Bajo nivel,69,19
+-58.40324261864121,-34.6144674517071,31219,3,Belgrano Av.,2600.0,2615.0,Platanus,4,Ocupada,Regular,Bajo nivel,79,20
+-58.4036300825918,-34.614490415583,31229,3,Belgrano Av.,2600.0,2657.0,Platanus,4,Ocupada,Regular,Bajo nivel,84,21
+-58.4071131971229,-34.6150005444835,30230,3,Belgrano Av.,2900.0,2944.0,Jacaranda,4,Ocupada,Regular,A nivel,60,10
+-58.4069972177253,-34.6149856772361,30234,3,Belgrano Av.,2900.0,2940.0,Melia,4,Ocupada,Regular,Elevada,40,11
+-58.406528312122,-34.6149255678443,30239,3,Belgrano Av.,2900.0,2920.0,Jacaranda,4,Ocupada,Regular,Elevada,23,9
+-58.4109534181345,-34.6152484938898,31382,3,Belgrano Av.,3100.0,3189.0,Jacaranda,4,Ocupada,Regular,A nivel,8,4
+-58.4106852865476,-34.615393284776204,31720,3,Belgrano Av.,3100.0,3174.0,Ficus,4.4,Ocupada,Regular,A nivel,63,12
+-58.394368084879105,-34.6140979248867,31254,3,Belgrano Av.,1900.0,1980.0,Melia,4,Ocupada,Regular,Bajo nivel,32,8
+-58.3942105582057,-34.6140859806529,31259,3,Belgrano Av.,1900.0,1972.0,Platanus,4,Ocupada,Regular,Bajo nivel,19,10
+-58.4031479282511,-34.6144615844055,31289,3,Belgrano Av.,2600.0,2601.0,Platanus,4,Ocupada,Regular,A nivel,83,28
+-58.4090237400313,-34.615246585978305,33311,3,Belgrano Av.,3000.0,3042.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,9,4
+-58.4016801736317,-34.6143683067797,35467,3,Belgrano Av.,2500.0,2515.0,Platanus,4,Ocupada,Regular,Bajo nivel,46,19
+-58.402217444090205,-34.6144016168921,35469,3,Belgrano Av.,2500.0,2551.0,Platanus,4,Ocupada,Regular,Bajo nivel,12,8
+-58.4018586382942,-34.6143794059999,35471,3,Belgrano Av.,2500.0,2527.0,Platanus,4,Ocupada,Regular,Bajo nivel,51,19
+-58.4015908609797,-34.614362879347894,35472,3,Belgrano Av.,2500.0,2509.0,Platanus,4,Ocupada,Regular,A nivel,55,19
+-58.402307662512705,-34.6144072015788,35475,3,Belgrano Av.,2500.0,2561.0,Platanus,4,Sobreocupada,Regular,Bajo nivel,16,8
+-58.402037950079794,-34.6143905056867,35477,3,Belgrano Av.,2500.0,2541.0,Platanus,4,Ocupada,Regular,Bajo nivel,87,30
+-58.4015908609797,-34.614362879347894,35478,3,Belgrano Av.,2500.0,2511.0,Platanus,4,Ocupada,Regular,A nivel,59,20
+-58.4064375965265,-34.6147530334595,36678,3,Belgrano Av.,2900.0,2907.0,Jacaranda,4,Ocupada,Regular,A nivel,4,3
+-58.3940836097822,-34.614076354913,36450,3,Belgrano Av.,1900.0,1964.0,Ficus,3.9,Ocupada,Regular,Bajo nivel,39,5
+-58.3998745967731,-34.614261332395394,38002,3,Belgrano Av.,2300.0,2387.0,Platanus,4,Ocupada,Regular,Bajo nivel,64,25
+-58.399943647959994,-34.6142647838633,38003,3,Belgrano Av.,2300.0,2393.0,Platanus,4,Ocupada,Regular,Bajo nivel,43,18
+-58.3994253386546,-34.6142363835856,38007,3,Belgrano Av.,2300.0,2355.0,Platanus,4,Ocupada,Regular,A nivel,23,13
+-58.3991186792121,-34.614219360684096,38009,3,Belgrano Av.,2300.0,2319.0,Platanus,4,Ocupada,Regular,A nivel,68,23
+-58.3991186792121,-34.614219360684096,38011,3,Belgrano Av.,2300.0,2319.0,Platanus,4,Ocupada,Regular,A nivel,70,26
+-58.398908385345706,-34.6142074834716,38014,3,Belgrano Av.,2300.0,2301.0,Platanus,4,Ocupada,Regular,Bajo nivel,69,21
+-58.3990129287348,-34.6142134874825,38015,3,Belgrano Av.,2300.0,2309.0,Platanus,4,Ocupada,Regular,Bajo nivel,58,22
+-58.400417518642705,-34.6142934591518,38054,3,Belgrano Av.,2400.0,2425.0,Platanus,4,Ocupada,Regular,A nivel,9,6
+-58.4005621681017,-34.6143022239903,38056,3,Belgrano Av.,2400.0,2431.0,Platanus,4,Ocupada,Regular,Bajo nivel,54,25
+-58.400417518642705,-34.6142934591518,38060,3,Belgrano Av.,2400.0,2421.0,Platanus,4,Ocupada,Regular,A nivel,18,10
+-58.400927838217704,-34.6143243822615,38061,3,Belgrano Av.,2400.0,2479.0,Platanus,4,Ocupada,Regular,Bajo nivel,7,7
+-58.394368084879105,-34.6140979248867,38652,3,Belgrano Av.,1900.0,1980.0,Platanus,4,Ocupada,Regular,Bajo nivel,6,7
+-58.396398497340094,-34.6140690936497,39738,3,Belgrano Av.,300.0,2119.0,Platanus,3,Ocupada,Regular,A nivel,53,20
+-58.39653133141479,-34.6140758332102,39740,3,Belgrano Av.,2100.0,2123.0,Platanus,3,Ocupada,Regular,Bajo nivel,58,20
+-58.397038733524,-34.6141015751097,39742,3,Belgrano Av.,2100.0,2145.0,Platanus,4,Ocupada,Regular,A nivel,40,19
+-58.397038733524,-34.6141015751097,39743,3,Belgrano Av.,2100.0,2145.0,Platanus,4,Ocupada,Regular,A nivel,36,20
+-58.397038733524,-34.6141015751097,39746,3,Belgrano Av.,2100.0,2133.0,Platanus,4,Ocupada,Regular,Bajo nivel,33,18
+-58.397038733524,-34.6141015751097,39747,3,Belgrano Av.,2100.0,2139.0,Platanus,4,Ocupada,Regular,A nivel,32,18
+-58.397038733524,-34.6141015751097,39778,3,Belgrano Av.,2100.0,2145.0,Platanus,4,Ocupada,Regular,A nivel,49,21
+-58.397038733524,-34.6141015751097,39779,3,Belgrano Av.,2100.0,2145.0,Platanus,4,Ocupada,Regular,A nivel,40,19
+-58.397038733524,-34.6141015751097,39782,3,Belgrano Av.,2100.0,2145.0,Platanus,4,Ocupada,Regular,A nivel,36,18
+-58.397038733524,-34.6141015751097,40057,3,Belgrano Av.,2100.0,2145.0,Platanus,4,Ocupada,Regular,A nivel,58,21
+-58.3951165510994,-34.6139874748482,40075,3,Belgrano Av.,2000.0,2029.0,Platanus,4,Ocupada,Regular,A nivel,49,20
+-58.3951165510994,-34.6139874748482,40076,3,Belgrano Av.,2000.0,2031.0,Platanus,4,Ocupada,Regular,A nivel,50,20
+-58.394860518709095,-34.6139688109793,40077,3,Belgrano Av.,2000.0,2007.0,Platanus,4,Ocupada,Regular,A nivel,61,20
+-58.394786448625005,-34.6139631943673,40078,3,Belgrano Av.,2000.0,2001.0,Platanus,4,Ocupada,Ochava,A nivel,67,22
+-58.395790341457605,-34.6140346055064,40079,3,Belgrano Av.,2000.0,2075.0,Platanus,4,Ocupada,Regular,A nivel,31,20
+-58.3949616555219,-34.6139764803024,40080,3,Belgrano Av.,2000.0,2017.0,Platanus,4,Ocupada,Regular,A nivel,45,21
+-58.3959594584466,-34.6140456820961,40081,3,Belgrano Av.,2000.0,2087.0,Platanus,4,Ocupada,Regular,Bajo nivel,38,21
+-58.3954577672927,-34.6140113430596,40082,3,Belgrano Av.,2000.0,2049.0,Jacaranda,4,Ocupada,Regular,A nivel,7,6
+-58.395306586990394,-34.614000768042104,40085,3,Belgrano Av.,2000.0,2039.0,Platanus,4,Ocupada,Regular,A nivel,63,21
+-58.395533165150205,-34.6140166167715,40088,3,Belgrano Av.,2000.0,2059.0,Platanus,4,Ocupada,Regular,A nivel,48,20
+-58.395558213456795,-34.6140183689517,40089,3,Belgrano Av.,2000.0,2061.0,Platanus,4,Ocupada,Regular,A nivel,43,20
+-58.3982122723623,-34.614166665193,41001,3,Belgrano Av.,2200.0,2257.0,Platanus,4,Ocupada,Regular,Bajo nivel,4,7
+-58.3983373978185,-34.6141738238767,41003,3,Belgrano Av.,2200.0,2271.0,Platanus,4,Ocupada,Regular,A nivel,52,23
+-58.3979896977071,-34.614153930233805,41006,3,Belgrano Av.,2200.0,2239.0,Platanus,4,Ocupada,Regular,Bajo nivel,67,21
+-58.3986761107378,-34.6141932026608,41009,3,Belgrano Av.,2200.0,2299.0,Platanus,4,Ocupada,Regular,Bajo nivel,49,21
+-58.3986761107378,-34.6141932026608,41010,3,Belgrano Av.,2200.0,2299.0,Platanus,4,Ocupada,Regular,Bajo nivel,72,28
+-58.3978030484285,-34.6141432503749,41054,3,Belgrano Av.,2200.0,2221.0,Jacaranda,4,Ocupada,Regular,A nivel,10,5
+-58.3977174557012,-34.614138353702,41076,3,Belgrano Av.,2200.0,2215.0,Lagerstroemia,4,Ocupada,Regular,Bajo nivel,4,3
+-58.411788065437,-34.615458906189396,41833,3,Belgrano Av.,3200.0,3234.0,Jacaranda,4,Ocupada,Regular,Elevada,18,6
+-58.4119466448988,-34.615468483193304,41838,3,Belgrano Av.,3200.0,3252.0,Ficus,4,Ocupada,Regular,Elevada,48,10
+-58.412148658552,-34.615480683168805,41840,3,Belgrano Av.,3200.0,3262.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,18,6
+-58.412495655736294,-34.6155016380449,41843,3,Belgrano Av.,3200.0,3282.0,Jacaranda,4,Ocupada,Regular,Elevada,9,6
+-58.4123573564624,-34.6153359453973,41691,3,Belgrano Av.,3200.0,3273.0,Jacaranda,4.1,Ocupada,Regular,Bajo nivel,6,4
+-58.412006620062,-34.615314764611,41698,3,Belgrano Av.,3200.0,3265.0,Jacaranda,4.1,Ocupada,Regular,A nivel,15,5
+-58.3933634097311,-34.6138532306137,44352,3,Belgrano Av.,1900.0,1907.0,Platanus,4,Ocupada,Regular,A nivel,62,19
+-58.394176696812494,-34.613912705904696,44353,3,Belgrano Av.,1900.0,1975.0,Platanus,4,Ocupada,Regular,A nivel,42,21
+-58.394342297525704,-34.613925262403896,44356,3,Belgrano Av.,1900.0,1981.0,Platanus,4,Ocupada,Regular,A nivel,57,22
+-58.394176696812494,-34.613912705904696,44358,3,Belgrano Av.,1900.0,1975.0,Platanus,4,Ocupada,Regular,A nivel,48,21
+-58.394342297525704,-34.613925262403896,44359,3,Belgrano Av.,1900.0,1979.0,Platanus,4,Ocupada,Regular,A nivel,39,20
+-58.3935753531277,-34.6138669927834,44360,3,Belgrano Av.,1900.0,1921.0,Platanus,4,Ocupada,Regular,A nivel,52,20
+-58.39372117754099,-34.6138781659255,44366,3,Belgrano Av.,1900.0,1937.0,Platanus,4,Ocupada,Regular,A nivel,61,21
+-58.3938883106718,-34.613890839129404,44367,3,Belgrano Av.,1900.0,1949.0,Platanus,4,Ocupada,Regular,A nivel,57,20
+-58.394486927981795,-34.6139362284332,44371,3,Belgrano Av.,1900.0,1991.0,Platanus,4,Ocupada,Regular,A nivel,66,21
+-58.394342297525704,-34.613925262403896,44375,3,Belgrano Av.,1900.0,1987.0,Platanus,4,Ocupada,Regular,A nivel,38,21
+-58.3934792913982,-34.613860755146106,43963,3,Belgrano Av.,1900.0,1915.0,Platanus,4,Ocupada,Regular,Elevada,58,20
+-58.3940509544269,-34.6139031718085,43964,3,Belgrano Av.,1900.0,1961.0,Platanus,4,Ocupada,Regular,A nivel,65,22
+-58.393119439676,-34.6138429086873,47980,3,Belgrano Av.,1800.0,1899.0,Platanus,3.8,Ocupada,Regular,A nivel,68,22
+-58.3923852713049,-34.6137952600156,47983,3,Belgrano Av.,1800.0,1841.0,Platanus,3.8,Ocupada,Regular,Bajo nivel,10,5
+-58.3928605156995,-34.6138261042422,47985,3,Belgrano Av.,1800.0,1881.0,Jacaranda,3.8,Ocupada,Regular,Elevada,8,4
+-58.39294395631761,-34.6138315197618,47986,3,Belgrano Av.,1800.0,1887.0,Ficus,3.8,Ocupada,Regular,Bajo nivel,22,7
+-58.4213156219345,-34.6157613764912,961,5,Belgrano Av.,3800.0,3889.0,Ficus,2.55,Ocupada,Regular,A nivel,20,9
+-58.4213156219345,-34.6157613764912,962,5,Belgrano Av.,3800.0,3889.0,Ficus,2.55,Ocupada,Regular,A nivel,15,6
+-58.4213156219345,-34.6157613764912,1061,5,Belgrano Av.,3800.0,3889.0,Ficus,2.55,Ocupada,Regular,A nivel,20,9
+-58.4213156219345,-34.6157613764912,1062,5,Belgrano Av.,3800.0,3889.0,Ficus,2.55,Ocupada,Regular,A nivel,15,6
+-58.4208793779747,-34.615777380027396,1858,5,Belgrano Av.,3800.0,3849.0,Tilia,2.6,Sobreocupada,Regular,A nivel,12,4
+-58.42080960050551,-34.6157798167771,3169,5,Belgrano Av.,3800.0,3837.0,Ficus,2.6,Ocupada,Regular,A nivel,49,12
+-58.414593594127105,-34.6156293960195,9432,5,Belgrano Av.,3400.0,3412.0,Platanus,4,Ocupada,Regular,A nivel,64,15
+-58.4206298439888,-34.615861141097305,9433,5,Belgrano Av.,3400.0,3828.0,Platanus,4,Ocupada,Regular,Elevada,27,13
+-58.414946558251295,-34.6156506897983,9435,5,Belgrano Av.,3400.0,3438.0,Jacaranda,4,Ocupada,Regular,Elevada,26,10
+-58.417828611335494,-34.6158223770786,11614,5,Belgrano Av.,3600.0,3660.0,Ficus,4,Ocupada,Regular,Elevada,4,2
+-58.4174557303631,-34.6157998402203,11636,5,Belgrano Av.,3600.0,3626.0,Ficus,4,Ocupada,Regular,Bajo nivel,97,13
+-58.4192529964364,-34.6158932929377,12520,5,Belgrano Av.,3700.0,3756.0,Ficus,4,Ocupada,Regular,Elevada,10,5
+-58.4175470106813,-34.6158053573396,11727,5,Belgrano Av.,3600.0,3636.0,Jacaranda,4,Ocupada,Regular,Bajo nivel,3,2
+-58.4171928597027,-34.6157839512099,11661,5,Belgrano Av.,3600.0,3608.0,Ficus,4,Ocupada,Regular,Bajo nivel,65,15
+-58.4217942803995,-34.6157569859295,12464,5,Belgrano Av.,3900.0,3923.0,Ficus,3,Sobreocupada,Regular,A nivel,17,6
+-58.4197893236279,-34.615912901216895,12859,5,Belgrano Av.,3700.0,3798.0,Ficus,4,Ocupada,Regular,Elevada,8,3
+-58.4214700651206,-34.6158340285296,14328,5,Belgrano Av.,3800.0,3900.0,Jacaranda,3,Ocupada,Regular,Bajo nivel,3,2
+-58.414047204857205,-34.6155953237746,13851,5,Belgrano Av.,3400.0,3378.0,Jacaranda,4.2,Ocupada,Regular,A nivel,23,6
+-58.413319716405894,-34.6155514169995,13859,5,Belgrano Av.,3400.0,3334.0,Platanus,4.2,Ocupada,Regular,A nivel,38,12
+-58.4202654341335,-34.6158738657162,14270,5,Belgrano Av.,3800.0,3808.0,Jacaranda,3,Ocupada,Regular,Bajo nivel,4,2
+-58.42171182475579,-34.615830189602796,14901,5,Belgrano Av.,3900.0,3908.0,Ficus,3,Ocupada,Regular,A nivel,14,5
+-58.42227493205171,-34.6158367463619,14914,5,Belgrano Av.,3900.0,3962.0,Lagerstroemia,3,Ocupada,Regular,A nivel,3,3
+-58.4226517153489,-34.6158409059486,14915,5,Belgrano Av.,3900.0,3986.0,Lagerstroemia,3,Ocupada,Regular,Elevada,3,2
+-58.4220157886356,-34.6158339007445,14917,5,Belgrano Av.,3900.0,3924.0,Jacaranda,3,Sobreocupada,Regular,A nivel,35,8
+-58.42194726453221,-34.6158331482023,14918,5,Belgrano Av.,3900.0,3918.0,Jacaranda,3,Ocupada,Regular,Elevada,24,6
+-58.4233902082693,-34.6157904185718,34706,5,Belgrano Av.,4000.0,4029.0,Jacaranda,2.6,Ocupada,Regular,A nivel,16,9
+-58.4232943082111,-34.6157846742666,34711,5,Belgrano Av.,4000.0,4021.0,Ficus,2.6,Ocupada,Regular,Elevada,10,3
+-58.423585300403296,-34.6158021058599,34682,5,Belgrano Av.,4000.0,4049.0,Jacaranda,2.6,Ocupada,Regular,A nivel,16,11
+-58.4239434786351,-34.615823558976395,34686,5,Belgrano Av.,4000.0,4067.0,Ficus,2.6,Ocupada,Regular,Elevada,13,4
+-58.4237983126164,-34.6158148641625,34700,5,Belgrano Av.,4000.0,4055.0,Ficus,2.6,Ocupada,Fuera de línea,A nivel,31,12
+-58.4260560772175,-34.616027020969,36255,5,Belgrano Av.,4200.0,4202.0,Ficus,2.6,Ocupada,Ochava,A nivel,48,6
+-58.4130562570164,-34.6153781120544,39556,5,Belgrano Av.,3300.0,3305.0,Jacaranda,4,Ocupada,Regular,A nivel,26,9
+-58.413998094058,-34.6154349563206,39566,5,Belgrano Av.,3300.0,3373.0,Ficus,4,Ocupada,Fuera de línea,Elevada,17,9
+-58.4173771408289,-34.615640216013,43296,5,Belgrano Av.,3600.0,3617.0,Jacaranda,4,Ocupada,Regular,Elevada,3,2
+-58.4149114761374,-34.6154889649995,44432,5,Belgrano Av.,3400.0,3443.0,Jacaranda,4,Ocupada,Regular,Elevada,18,9
+-58.4148280871119,-34.6154839343226,44434,5,Belgrano Av.,3400.0,3431.0,Lagerstroemia,4,Ocupada,Regular,A nivel,3,3
+-58.4150825503804,-34.6154992855,44435,5,Belgrano Av.,3400.0,3455.0,Platanus,4,Ocupada,Regular,A nivel,70,19
+-58.4156425018432,-34.6155330634882,44767,5,Belgrano Av.,3400.0,3493.0,Ficus,4,Ocupada,Regular,A nivel,15,6
+-58.388805420897896,-34.6137084962027,527850,8,Belgrano Av.,1500,1586,Ficus,2.8,Ocupada,Regular,Bajo Nivel,31,7
+-58.3886502143079,-34.6136979937012,527851,8,Belgrano Av.,1500,1580,Jacaranda,2.8,Ocupada,Regular,Bajo Nivel,10,5
+-58.388217326105,-34.6136666667001,527858,8,Belgrano Av.,1500,1554,Jacaranda,2.8,Ocupada,Regular,Bajo Nivel,3,7
+-58.388217326105,-34.6136666667001,527859,8,Belgrano Av.,1500,1554,Jacaranda,2.8,Ocupada,Regular,Bajo Nivel,11,7

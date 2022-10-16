@@ -1,0 +1,112 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.439172132973795,-34.6605608031362,428131,5,San Pedrito Av.,3000.0,3037.0,Ficus,4.8,Ocupada,Regular,A nivel,58,6
+-58.468133091172,-34.6338197470572,329102,7,San Pedrito Av.,200.0,238,Jacaranda,3.2,Ocupada,Regular,A nivel,5,5
+-58.468180851877,-34.634223086884106,329125,7,San Pedrito Av.,200.0,279,Jacaranda,3.2,Ocupada,Regular,A nivel,4,3
+-58.4693840105559,-34.6310208157192,314700,7,San Pedrito Av.,1.0,8,Tilia,3.2,Ocupada,Regular,Bajo nivel,14,6
+-58.46776948895639,-34.6351506951448,316339,7,San Pedrito Av.,300.0,373,Jacaranda,3.2,Ocupada,Regular,A nivel,2,3
+-58.467969583442105,-34.6347005629469,315026,7,San Pedrito Av.,300.0,313,Ficus,3.2,Ocupada,Regular,A nivel,72,11
+-58.4652397517627,-34.6394617227726,348394,7,San Pedrito Av.,700.0,740,Jacaranda,3,Ocupada,Regular,Bajo nivel,5,4
+-58.4652825272691,-34.6394314226118,348396,7,San Pedrito Av.,700.0,734,Melia,3,Sobreocupada,Regular,Bajo nivel,10,4
+-58.460469126582495,-34.643206935510804,346667,7,San Pedrito Av.,1100.0,1113,Jacaranda,3.2,Ocupada,Regular,A nivel,25,7
+-58.4601151988174,-34.643510557708694,346674,7,San Pedrito Av.,1100.0,1169,Ficus,3.2,Ocupada,Regular,A nivel,23,6
+-58.4600174790932,-34.643594387449305,346675,7,San Pedrito Av.,1100.0,1177,Jacaranda,3.2,Ocupada,Regular,A nivel,6,5
+-58.467437809554205,-34.6358989243669,336155,7,San Pedrito Av.,400.0,421,Jacaranda,3.2,Sobreocupada,Regular,Elevada,6,2
+-58.467309751535595,-34.6361905754569,336159,7,San Pedrito Av.,400.0,463,Tilia,3.2,Ocupada,Regular,Elevada,25,6
+-58.4659842182148,-34.638684925261195,339497,7,San Pedrito Av.,600.0,674,Ficus,3,Sobreocupada,Regular,Elevada,7,3
+-58.4659842182148,-34.638684925261195,339500,7,San Pedrito Av.,600.0,674,Ficus,3,Ocupada,Regular,A nivel,17,5
+-58.466342059454696,-34.6378701594584,339508,7,San Pedrito Av.,600.0,604,Ficus,3,Ocupada,Ochava,A nivel,27,8
+-58.466342059454696,-34.6378701594584,339509,7,San Pedrito Av.,600.0,604,Melia,3,Ocupada,Ochava,A nivel,10,3
+-58.4660706575385,-34.639014052326004,339528,7,San Pedrito Av.,600.0,687,Lagerstroemia,2.8,Sobreocupada,Regular,Elevada,25,3
+-58.4662647236245,-34.638572187547105,339535,7,San Pedrito Av.,600.0,655,Jacaranda,2.8,Ocupada,Regular,A nivel,36,3
+-58.4663076768957,-34.63847438751311,339536,7,San Pedrito Av.,600.0,647,Ficus,2.8,Ocupada,Regular,A nivel,28,10
+-58.4663404045011,-34.6383998700691,339537,7,San Pedrito Av.,600.0,639,Ficus,2.8,Ocupada,Regular,Elevada,17,3
+-58.4663404045011,-34.6383998700691,339538,7,San Pedrito Av.,600.0,637,Ficus,2.8,Ocupada,Regular,A nivel,28,7
+-58.4664036824008,-34.6382557922925,339539,7,San Pedrito Av.,600.0,629,Ficus,2.8,Ocupada,Regular,Elevada,32,7
+-58.46646619140671,-34.6381134646928,339541,7,San Pedrito Av.,600.0,617,Ficus,3,Ocupada,Regular,Elevada,21,8
+-58.46654279577821,-34.6379390424474,339543,7,San Pedrito Av.,600.0,603,Jacaranda,3,Ocupada,Regular,A nivel,3,3
+-58.46762050653699,-34.6349705094731,338668,7,San Pedrito Av.,300.0,364,Ficus,3,Ocupada,Regular,Elevada,59,12
+-58.4675451179444,-34.6351401017573,338669,7,San Pedrito Av.,300.0,376,Ficus,3,Sobreocupada,Regular,Elevada,23,8
+-58.4675829934675,-34.635054898022,338783,7,San Pedrito Av.,300.0,372,Ficus,2.8,Ocupada,Regular,Elevada,24,6
+-58.465584908214,-34.639454363101,366193,7,San Pedrito Av.,700.0,717,Jacaranda,3,Ocupada,Regular,A nivel,3,3
+-58.46562068731979,-34.6394290186918,366194,7,San Pedrito Av.,700.0,715,Jacaranda,3,Ocupada,Regular,A nivel,5,2
+-58.45829140845429,-34.645166188505804,353672,7,San Pedrito Av.,1300.0,1335,Jacaranda,3,Ocupada,Regular,Bajo nivel,6,5
+-58.45829140845429,-34.645166188505804,353673,7,San Pedrito Av.,1300.0,1333,Jacaranda,3,Ocupada,Regular,Bajo nivel,6,5
+-58.4686904406151,-34.6325728436422,351880,7,San Pedrito Av.,100.0,140,Ficus,3,Ocupada,Regular,A nivel,37,8
+-58.468728614110496,-34.6324875722282,351883,7,San Pedrito Av.,100.0,134,Ficus,3,Ocupada,Regular,A nivel,14,7
+-58.468766661451305,-34.6324025824338,351884,7,San Pedrito Av.,100.0,126,Ficus,3,Ocupada,Regular,A nivel,39,8
+-58.468766661451305,-34.6324025824338,351885,7,San Pedrito Av.,1003.0,126,Ficus,3,Ocupada,Regular,A nivel,18,6
+-58.462261311164895,-34.6418540389006,382671,7,San Pedrito Av.,900.0,987,Melia,3.6,Ocupada,Regular,A nivel,67,10
+-58.4577069865403,-34.645560476964505,395239,7,San Pedrito Av.,1300.0,1390,Tilia,3.2,Ocupada,Regular,Bajo nivel,26,8
+-58.4580457682753,-34.6452478912896,395245,7,San Pedrito Av.,1300.0,1346,Jacaranda,3.2,Ocupada,Regular,A nivel,4,2
+-58.4582677102283,-34.6450431090528,395248,7,San Pedrito Av.,1300.0,1328,Tilia,3.2,Ocupada,Regular,Bajo nivel,38,12
+-58.4583300318441,-34.644985605650604,395250,7,San Pedrito Av.,1300.0,1316,Tilia,3.2,Ocupada,Regular,A nivel,27,9
+-58.4589527829514,-34.6445549494752,399838,7,San Pedrito Av.,1200.0,1275,Jacaranda,3,Ocupada,Regular,Elevada,2,2
+-58.458827352937206,-34.644670676426,399840,7,San Pedrito Av.,1200.0,1283,Ficus,3,Ocupada,Regular,Elevada,15,7
+-58.458827352937206,-34.644670676426,399841,7,San Pedrito Av.,1200.0,1283,Ficus,3,Ocupada,Regular,Elevada,61,9
+-58.459599931201105,-34.6439578564583,399828,7,San Pedrito Av.,1200.0,1207,Jacaranda,3,Ocupada,Regular,Elevada,1,2
+-58.45952073758221,-34.644030925307305,399830,7,San Pedrito Av.,1200.0,1215,Ficus,3,Sobreocupada,Regular,Elevada,20,3
+-58.4593035748948,-34.6442312918787,399831,7,San Pedrito Av.,1200.0,1229,Jacaranda,3,Ocupada,Regular,Bajo nivel,7,4
+-58.4592752542361,-34.6442574220127,399832,7,San Pedrito Av.,1200.0,1231,Jacaranda,3,Ocupada,Regular,Elevada,6,3
+-58.4591744324697,-34.6443504453266,399834,7,San Pedrito Av.,1200.0,1243,Ficus,3,Ocupada,Regular,Elevada,70,5
+-58.4590160339355,-34.64449659132789,399836,7,San Pedrito Av.,1200.0,1261,Ficus,3,Ocupada,Regular,Elevada,53,3
+-58.4589708546764,-34.644538275725104,399837,7,San Pedrito Av.,1200.0,1271,Ficus,3,Ocupada,Regular,Elevada,31,3
+-58.4642002796173,-34.6404384897356,387132,7,San Pedrito Av.,800.0,825,Jacaranda,3.2,Ocupada,Regular,A nivel,5,3
+-58.4640415628401,-34.640558144841,387135,7,San Pedrito Av.,800.0,845,Ficus,3.2,Sobreocupada,Ochava,A nivel,34,8
+-58.4689566547082,-34.632484778378895,388454,7,San Pedrito Av.,100.0,127,Jacaranda,3,Ocupada,Regular,A nivel,5,5
+-58.4689873286926,-34.632416258654,388455,7,San Pedrito Av.,100.0,119,Jacaranda,3,Ocupada,Regular,A nivel,2,2
+-58.4690265408469,-34.6323286661436,388456,7,San Pedrito Av.,100.0,115,Jacaranda,3,Ocupada,Regular,A nivel,4,4
+-58.4690265408469,-34.6323286661436,388457,7,San Pedrito Av.,100.0,107,Ficus,3,Ocupada,Ochava,A nivel,17,4
+-58.4574794207526,-34.6459149721098,409226,7,San Pedrito Av.,1400.0,1425,Melia,3.2,Ocupada,Regular,A nivel,41,8
+-58.4574794207526,-34.6459149721098,409227,7,San Pedrito Av.,1400.0,1425,Jacaranda,3.2,Ocupada,Regular,A nivel,7,2
+-58.4574794207526,-34.6459149721098,409231,7,San Pedrito Av.,1400.0,1425,Melia,3.2,Ocupada,Regular,A nivel,83,11
+-58.4566939506785,-34.6466396392909,409232,7,San Pedrito Av.,1500.0,1529,Tilia,3.2,Ocupada,Regular,A nivel,3,2
+-58.4566939506785,-34.6466396392909,409233,7,San Pedrito Av.,1500.0,1529,Jacaranda,3.2,Ocupada,Regular,A nivel,5,3
+-58.4566751523514,-34.646656982225196,409235,7,San Pedrito Av.,1500.0,1531,Ficus,3.2,Ocupada,Regular,A nivel,22,4
+-58.4576524856425,-34.6456107632968,409289,7,San Pedrito Av.,1400.0,1400,Melia,3,Ocupada,Regular,A nivel,40,8
+-58.4576524856425,-34.6456107632968,409290,7,San Pedrito Av.,1400.0,1400,Tilia,3,Ocupada,Regular,A nivel,24,6
+-58.4576524856425,-34.6456107632968,409291,7,San Pedrito Av.,1400.0,1400,Tilia,3,Ocupada,Regular,A nivel,21,6
+-58.4563732684649,-34.646791366051694,409292,7,San Pedrito Av.,1400.0,1490,Jacaranda,3,Ocupada,Regular,A nivel,4,3
+-58.4563732684649,-34.646791366051694,409293,7,San Pedrito Av.,1400.0,1480,Jacaranda,3,Ocupada,Regular,A nivel,4,2
+-58.4563732684649,-34.646791366051694,409294,7,San Pedrito Av.,1400.0,1480,Jacaranda,3,Ocupada,Regular,A nivel,15,3
+-58.456061564780704,-34.6470789336064,409295,7,San Pedrito Av.,1500.0,1570,Tilia,4,Ocupada,Regular,A nivel,28,6
+-58.456061564780704,-34.6470789336064,409296,7,San Pedrito Av.,1570.0,1570,Jacaranda,3,Ocupada,Regular,A nivel,17,3
+-58.4626179497876,-34.6414620564284,425029,7,San Pedrito Av.,900.0,934,Jacaranda,3,Ocupada,Regular,Bajo nivel,3,4
+-58.46197974972671,-34.641995307371104,426847,7,San Pedrito Av.,1000.0,1001,Ficus,4.4,Ocupada,Fuera de línea,A nivel,29,3
+-58.46197974972671,-34.641995307371104,426886,7,San Pedrito Av.,1000.0,1001,Ficus,5,Ocupada,Fuera de línea,Elevada,21,5
+-58.46197974972671,-34.641995307371104,426887,7,San Pedrito Av.,1000.0,1001,Ficus,8,Ocupada,Fuera de línea,Elevada,45,5
+-58.466977457098295,-34.636944100627105,416480,7,San Pedrito Av.,500.0,519,Ficus,4.4,Ocupada,Regular,A nivel,8,4
+-58.4664726383043,-34.6375779770635,416549,7,San Pedrito Av.,500.0,594,Ficus,4.4,Ocupada,Regular,Elevada,43,12
+-58.466604289504794,-34.6372781850859,416552,7,San Pedrito Av.,500.0,562,Ficus,4.4,Ocupada,Regular,Elevada,20,10
+-58.4408589669627,-34.6592149757675,432588,8,San Pedrito Av.,2800,2877,Lagerstroemia,4.4,Ocupada,Regular,A nivel,15,4
+-58.4398069987123,-34.6600531368927,427567,8,San Pedrito Av.,2900,2981,Jacaranda,4.4,Ocupada,Regular,A nivel,22,6
+-58.4393971915715,-34.6603815441132,428135,8,San Pedrito Av.,3000,3011,Melia,4.8,Ocupada,Regular,A nivel,48,7
+-58.437128028443496,-34.6621885016799,427470,8,San Pedrito Av.,3200,3261,Ficus,4.4,Ocupada,Regular,Bajo nivel,14,3
+-58.441331755237506,-34.658736323340605,533329,8,San Pedrito Av.,2800,2814,Melia,4.4,Ocupada,Regular,A Nivel,68,10
+-58.4393054607152,-34.660347882848804,533424,8,San Pedrito Av.,3000,3006,Tilia,4.4,Ocupada,Ochava,A Nivel,25,11
+-58.438057650977,-34.661343857918894,533504,8,San Pedrito Av.,3100,3114,Tilia,4,Ocupada,Ochava,A nivel,4,3
+-58.438057650977,-34.661343857918894,533505,8,San Pedrito Av.,3100,3114,Tilia,4,sobreocupada,Regular,A nivel,3,3
+-58.4378102575317,-34.6615408965971,533506,8,San Pedrito Av.,3100,3164,Tilia,4,Ocupada,Regular,A nivel,3,4
+-58.4376746706563,-34.6616488853365,533509,8,San Pedrito Av.,3100,3188,Ficus,4,Ocupada,Regular,A nivel,5,2
+-58.4376237302167,-34.661689456946696,533510,8,San Pedrito Av.,3100,3196,Ficus,4,Ocupada,Regular,A nivel,35,5
+-58.4364858013749,-34.662597280940396,533511,8,San Pedrito Av.,3100,3310,Ficus,4,sobreocupada,Regular,Elevada,37,7
+-58.4370260160149,-34.662163676939,533558,8,San Pedrito Av.,3200,3254,Ficus,4.4,Ocupada,Regular,A Nivel,25,7
+-58.4368567058569,-34.662298519970996,533560,8,San Pedrito Av.,3200,3284,Ficus,4.4,Ocupada,Regular,Bajo Nivel,13,4
+-58.4349498247146,-34.664080679898895,533626,8,San Pedrito Av.,3400,3412,Ficus,4.4,Ocupada,Regular,A nivel,25,6
+-58.43427123068621,-34.6658862584627,533661,8,San Pedrito Av.,3600,3600,Jacaranda,4.4,Ocupada,Regular,A nivel,23,7
+-58.43427123068621,-34.6658862584627,533663,8,San Pedrito Av.,3600,3600,Jacaranda,4.4,Ocupada,Regular,A nivel,34,7
+-58.43427123068621,-34.6658862584627,533673,8,San Pedrito Av.,3600,3600,Melia,4.4,Ocupada,Fuera de línea,A nivel,36,8
+-58.44235886200789,-34.6579177185993,533935,8,San Pedrito Av.,2700,2738,Ficus,4.4,Sobreocupada,Regular,Elevada,11,3
+-58.44235886200789,-34.6579177185993,533937,8,San Pedrito Av.,2700,2738,Ficus,4.4,Ocupada,Regular,Elevada,13,2
+-58.4434444641734,-34.6570539837028,534019,8,San Pedrito Av.,2600,2622,Tilia,4.4,Ocupada,Regular,A nivel,25,9
+-58.4434444641734,-34.6570539837028,534020,8,San Pedrito Av.,2600,2622,Tilia,4.4,Ocupada,Regular,A nivel,25,9
+-58.443308556667795,-34.6571622650104,534023,8,San Pedrito Av.,2600,2644,Ficus,4.4,Sobreocupada,Regular,Elevada,17,5
+-58.44342377695859,-34.6571710176265,534077,8,San Pedrito Av.,2600,2627,Ficus,4.4,Ocupada,Regular,Bajo Nivel,3,2
+-58.44342377695859,-34.6571710176265,534078,8,San Pedrito Av.,2600,2627,Ficus,4.4,Ocupada,Regular,A nivel,17,3
+-58.443355060491506,-34.6572257659,534079,8,San Pedrito Av.,2600,2633,Jacaranda,4.4,Ocupada,Regular,A nivel,28,9
+-58.443060453191606,-34.6574604863126,534085,8,San Pedrito Av.,2600,2685,Tilia,4.4,Ocupada,Regular,A nivel,22,8
+-58.441894096123896,-34.6583909955376,534090,8,San Pedrito Av.,2700,2785,Ficus,4.4,Ocupada,Regular,Elevada,37,6
+-58.4423688737679,-34.6580126729163,534092,8,San Pedrito Av.,2700,2743,Lagerstroemia,4.4,Ocupada,Regular,A nivel,25,5
+-58.4424366462162,-34.6579586773159,534094,8,San Pedrito Av.,2700,2735,Ficus,4.4,Sobreocupada,Regular,Elevada,27,7
+NA,NA,409301,7,San Pedrito Av.,1700.0,1700,Jacaranda,4,Ocupada,Regular,A nivel,6,2
+NA,NA,409298,7,San Pedrito Av.,1700.0,1700,Jacaranda,4,Ocupada,Regular,A nivel,2,2
+NA,NA,409299,7,San Pedrito Av.,1700.0,1790,Jacaranda,4,Ocupada,Regular,A nivel,4,2

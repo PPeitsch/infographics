@@ -1,0 +1,194 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+NA,NA,120959,12,Naón Rómulo S. Dr. Av.,3900.0,3957.0,Melia,2.8,Ocupada,Regular,A nivel,68,18
+NA,NA,120962,12,Naón Rómulo S. Dr. Av.,3900.0,3957.0,Melia,2.8,Ocupada,Regular,A nivel,54,15
+NA,NA,120732,12,Naón Rómulo S. Dr. Av.,4200.0,4217.0,Tilia,2.7,Ocupada,Regular,A nivel,37,13
+NA,NA,120737,12,Naón Rómulo S. Dr. Av.,4200.0,4289.0,Melia,2.7,Ocupada,Regular,A nivel,81,13
+NA,NA,120742,12,Naón Rómulo S. Dr. Av.,4200.0,4261.0,Platanus,2.7,Ocupada,Regular,Bajo nivel,4,5
+NA,NA,121412,12,Naón Rómulo S. Dr. Av.,3900.0,3966.0,Melia,2.8,Ocupada,Regular,A nivel,7,6
+NA,NA,121413,12,Naón Rómulo S. Dr. Av.,3900.0,3966.0,Melia,2.8,Ocupada,Regular,A nivel,58,6
+NA,NA,121418,12,Naón Rómulo S. Dr. Av.,3900.0,3966.0,Melia,2.8,Ocupada,Regular,A nivel,56,16
+NA,NA,121421,12,Naón Rómulo S. Dr. Av.,3900.0,3966.0,Melia,2.8,Ocupada,Regular,A nivel,63,13
+NA,NA,121445,12,Naón Rómulo S. Dr. Av.,3900.0,3966.0,Melia,2.8,Ocupada,Regular,A nivel,58,9
+NA,NA,121590,12,Naón Rómulo S. Dr. Av.,4100.0,4123.0,Tilia,2.8,Ocupada,Regular,A nivel,36,10
+NA,NA,121593,12,Naón Rómulo S. Dr. Av.,4100.0,4159.0,Melia,2.8,Ocupada,Regular,A nivel,71,14
+NA,NA,121595,12,Naón Rómulo S. Dr. Av.,4100.0,4171.0,Tilia,2.8,Sobreocupada,Regular,Bajo nivel,35,10
+NA,NA,121599,12,Naón Rómulo S. Dr. Av.,4100.0,4137.0,Melia,2.8,Ocupada,Regular,A nivel,60,14
+NA,NA,122759,12,Naón Rómulo S. Dr. Av.,4100.0,4112.0,Lagerstroemia,2.8,Ocupada,Regular,Bajo nivel,17,6
+NA,NA,122762,12,Naón Rómulo S. Dr. Av.,4100.0,4180.0,Melia,2.8,Sobreocupada,Regular,A nivel,63,12
+NA,NA,122789,12,Naón Rómulo S. Dr. Av.,4100.0,4140.0,Melia,2.8,Ocupada,Regular,Bajo nivel,67,14
+NA,NA,122794,12,Naón Rómulo S. Dr. Av.,4100.0,4124.0,Jacaranda,2.8,Ocupada,Regular,A nivel,33,8
+NA,NA,122797,12,Naón Rómulo S. Dr. Av.,4100.0,4132.0,Tilia,2.8,Ocupada,Regular,A nivel,47,13
+NA,NA,122539,12,Naón Rómulo S. Dr. Av.,4100.0,4164.0,Melia,2.8,Ocupada,Regular,A nivel,82,12
+NA,NA,122540,12,Naón Rómulo S. Dr. Av.,4100.0,4180.0,Melia,2.8,Ocupada,Ochava,A nivel,66,13
+NA,NA,124249,12,Naón Rómulo S. Dr. Av.,4200.0,4270.0,Lagerstroemia,2.8,Ocupada,Regular,Bajo nivel,5,3
+NA,NA,124250,12,Naón Rómulo S. Dr. Av.,4200.0,4290.0,Ficus,2.8,Ocupada,Regular,A nivel,46,5
+NA,NA,124251,12,Naón Rómulo S. Dr. Av.,4200.0,4280.0,Tilia,2.8,Ocupada,Regular,Bajo nivel,26,10
+NA,NA,124253,12,Naón Rómulo S. Dr. Av.,4200.0,4270.0,Lagerstroemia,2.8,Ocupada,Regular,Bajo nivel,7,4
+NA,NA,124268,12,Naón Rómulo S. Dr. Av.,4200.0,4220.0,Ficus,2.8,Ocupada,Regular,A nivel,48,7
+NA,NA,124665,12,Naón Rómulo S. Dr. Av.,4300.0,4301.0,Ficus,3.1,Ocupada,Regular,A nivel,8,2
+NA,NA,124666,12,Naón Rómulo S. Dr. Av.,4300.0,4301.0,Ficus,3.1,Ocupada,Regular,A nivel,6,2
+NA,NA,126718,12,Naón Rómulo S. Dr. Av.,3600.0,3624.0,Ficus,2.8,Sobreocupada,Regular,Elevada,59,10
+NA,NA,126727,12,Naón Rómulo S. Dr. Av.,3600.0,3624.0,Ficus,2.8,Ocupada,Regular,A nivel,42,13
+NA,NA,126728,12,Naón Rómulo S. Dr. Av.,3600.0,3632.0,Ficus,2.8,Ocupada,Regular,Elevada,51,8
+NA,NA,128360,12,Naón Rómulo S. Dr. Av.,3800.0,3860.0,Melia,2.8,Ocupada,Regular,A nivel,81,15
+NA,NA,130038,12,Naón Rómulo S. Dr. Av.,3800.0,3899.0,Ficus,2.8,Ocupada,Regular,A nivel,37,6
+NA,NA,130162,12,Naón Rómulo S. Dr. Av.,3300.0,3306.0,Ficus,2.4,Ocupada,Ochava,A nivel,25,7
+NA,NA,130163,12,Naón Rómulo S. Dr. Av.,3300.0,3310.0,Ficus,2.4,Ocupada,Regular,A nivel,54,11
+NA,NA,130164,12,Naón Rómulo S. Dr. Av.,3300.0,3324.0,Melia,2.4,Ocupada,Regular,A nivel,103,14
+NA,NA,130168,12,Naón Rómulo S. Dr. Av.,3400.0,3400.0,Melia,2.4,Ocupada,Regular,A nivel,46,14
+NA,NA,130172,12,Naón Rómulo S. Dr. Av.,3400.0,3446.0,Melia,2.8,Ocupada,Regular,Elevada,58,15
+NA,NA,130173,12,Naón Rómulo S. Dr. Av.,3400.0,3446.0,Tilia,2.8,Ocupada,Regular,Elevada,46,16
+NA,NA,130174,12,Naón Rómulo S. Dr. Av.,3400.0,3454.0,Lagerstroemia,2.8,Ocupada,Regular,A nivel,7,5
+NA,NA,130022,12,Naón Rómulo S. Dr. Av.,3800.0,3801.0,Melia,2.8,Ocupada,Regular,A nivel,76,8
+NA,NA,133917,12,Naón Rómulo S. Dr. Av.,4000.0,4090.0,Tilia,2.9499999999999997,Ocupada,Regular,Elevada,49,8
+NA,NA,133678,12,Naón Rómulo S. Dr. Av.,3500.0,3540.0,Tilia,2.6,Ocupada,Regular,Bajo nivel,37,9
+NA,NA,135497,12,Naón Rómulo S. Dr. Av.,4000.0,4005.0,Ficus,2.75,Ocupada,Regular,A nivel,30,9
+NA,NA,135514,12,Naón Rómulo S. Dr. Av.,4000.0,4041.0,Melia,2.75,Ocupada,Regular,A nivel,55,11
+NA,NA,134233,12,Naón Rómulo S. Dr. Av.,4000.0,4064.0,Lagerstroemia,2.9499999999999997,Ocupada,Regular,Elevada,16,4
+NA,NA,134235,12,Naón Rómulo S. Dr. Av.,4000.0,4020.0,Ficus,2.9499999999999997,Ocupada,Regular,A nivel,66,12
+NA,NA,134897,12,Naón Rómulo S. Dr. Av.,3500.0,3568.0,Lagerstroemia,2.9,Ocupada,Regular,Bajo nivel,6,4
+NA,NA,134914,12,Naón Rómulo S. Dr. Av.,3500.0,3584.0,Tilia,2.9,Ocupada,Regular,A nivel,40,10
+NA,NA,135491,12,Naón Rómulo S. Dr. Av.,4000.0,4001.0,Ficus,2.75,Ocupada,Regular,A nivel,29,6
+NA,NA,140449,12,Naón Rómulo S. Dr. Av.,3100.0,3176.0,Jacaranda,4.4,Ocupada,Regular,A nivel,4,3
+NA,NA,140450,12,Naón Rómulo S. Dr. Av.,3100.0,3184.0,Lagerstroemia,4.4,Ocupada,Regular,Elevada,7,5
+NA,NA,140453,12,Naón Rómulo S. Dr. Av.,3100.0,3158.0,Lagerstroemia,4.4,Ocupada,Regular,A nivel,7,6
+NA,NA,140454,12,Naón Rómulo S. Dr. Av.,3100.0,3130.0,Ficus,4.4,Sobreocupada,Regular,Elevada,11,3
+NA,NA,140457,12,Naón Rómulo S. Dr. Av.,3100.0,3114.0,Ficus,4.4,Ocupada,Regular,A nivel,39,12
+NA,NA,140461,12,Naón Rómulo S. Dr. Av.,3100.0,3158.0,Tilia,4.4,Ocupada,Regular,A nivel,23,9
+NA,NA,140463,12,Naón Rómulo S. Dr. Av.,3100.0,3130.0,Tilia,4.4,Sobreocupada,Regular,Elevada,13,8
+NA,NA,141803,12,Naón Rómulo S. Dr. Av.,3200.0,3249.0,Ficus,4.3,Ocupada,Regular,A nivel,50,12
+NA,NA,140466,12,Naón Rómulo S. Dr. Av.,3000.0,3047.0,Tilia,4.4,Sobreocupada,Regular,A nivel,21,15
+NA,NA,141552,12,Naón Rómulo S. Dr. Av.,3700.0,3746.0,Melia,2.6,Ocupada,Regular,Bajo nivel,28,15
+NA,NA,141553,12,Naón Rómulo S. Dr. Av.,3700.0,3710.0,Ficus,2.6,Ocupada,Regular,A nivel,33,7
+NA,NA,141810,12,Naón Rómulo S. Dr. Av.,3200.0,3263.0,Lagerstroemia,4.3,Ocupada,Regular,Elevada,4,4
+NA,NA,141811,12,Naón Rómulo S. Dr. Av.,3200.0,3201.0,Tilia,4.3,Ocupada,Regular,A nivel,18,7
+NA,NA,141819,12,Naón Rómulo S. Dr. Av.,3200.0,3277.0,Tilia,4.3,Ocupada,Regular,Bajo nivel,30,14
+NA,NA,141571,12,Naón Rómulo S. Dr. Av.,3700.0,3710.0,Ficus,2.6,Ocupada,Ochava,A nivel,33,7
+NA,NA,141822,12,Naón Rómulo S. Dr. Av.,3200.0,3273.0,Jacaranda,4.3,Ocupada,Regular,A nivel,25,11
+NA,NA,141824,12,Naón Rómulo S. Dr. Av.,3200.0,3285.0,Jacaranda,4.3,Ocupada,Regular,Elevada,32,15
+NA,NA,141825,12,Naón Rómulo S. Dr. Av.,3200.0,3295.0,Lagerstroemia,4.3,Ocupada,Regular,A nivel,5,4
+NA,NA,141826,12,Naón Rómulo S. Dr. Av.,3200.0,3243.0,Jacaranda,4.3,Ocupada,Regular,A nivel,29,9
+NA,NA,141827,12,Naón Rómulo S. Dr. Av.,3200.0,3299.0,Lagerstroemia,4.3,Ocupada,Regular,A nivel,5,5
+NA,NA,138667,12,Naón Rómulo S. Dr. Av.,3100.0,3107.0,Ficus,4.4,Ocupada,Ochava,Elevada,27,5
+NA,NA,138673,12,Naón Rómulo S. Dr. Av.,3100.0,3135.0,Tilia,4.4,Ocupada,Regular,A nivel,18,8
+NA,NA,140568,12,Naón Rómulo S. Dr. Av.,3000.0,3091.0,Melia,4.4,Ocupada,Regular,A nivel,56,8
+NA,NA,140569,12,Naón Rómulo S. Dr. Av.,3000.0,3085.0,Tilia,4.4,Ocupada,Regular,A nivel,20,7
+NA,NA,140572,12,Naón Rómulo S. Dr. Av.,3000.0,3029.0,Tilia,4.4,Ocupada,Regular,A nivel,36,15
+NA,NA,138675,12,Naón Rómulo S. Dr. Av.,3100.0,3171.0,Tilia,4.4,Ocupada,Regular,Elevada,18,8
+NA,NA,138680,12,Naón Rómulo S. Dr. Av.,3100.0,3135.0,Lagerstroemia,4.4,Ocupada,Regular,A nivel,4,3
+NA,NA,140584,12,Naón Rómulo S. Dr. Av.,3000.0,3099.0,Melia,4.4,Sobreocupada,Regular,Elevada,7,2
+NA,NA,140590,12,Naón Rómulo S. Dr. Av.,3000.0,3019.0,Tilia,4.4,Ocupada,Regular,A nivel,45,15
+NA,NA,140591,12,Naón Rómulo S. Dr. Av.,3000.0,3019.0,Jacaranda,4.4,Ocupada,Regular,A nivel,3,3
+NA,NA,143669,12,Naón Rómulo S. Dr. Av.,2900.0,2938.0,Ficus,4.4,Ocupada,Regular,A nivel,185,10
+NA,NA,143691,12,Naón Rómulo S. Dr. Av.,2900.0,2938.0,Melia,4.4,Ocupada,Regular,A nivel,77,9
+NA,NA,145889,12,Naón Rómulo S. Dr. Av.,3200.0,3250.0,Ficus,4.4,Ocupada,Regular,A nivel,35,5
+NA,NA,143734,12,Naón Rómulo S. Dr. Av.,3500.0,3519.0,Tilia,2.8,Ocupada,Regular,Elevada,33,7
+NA,NA,145910,12,Naón Rómulo S. Dr. Av.,3200.0,3210.0,Ficus,4.4,Ocupada,Regular,A nivel,35,8
+NA,NA,143742,12,Naón Rómulo S. Dr. Av.,3500.0,3541.0,Tilia,2.8,Ocupada,Regular,A nivel,43,15
+NA,NA,143743,12,Naón Rómulo S. Dr. Av.,3500.0,3525.0,Tilia,2.8,Ocupada,Regular,Elevada,32,3
+NA,NA,143747,12,Naón Rómulo S. Dr. Av.,3500.0,3525.0,Tilia,2.8,Ocupada,Regular,Elevada,31,9
+NA,NA,143749,12,Naón Rómulo S. Dr. Av.,3500.0,3599.0,Lagerstroemia,2.8,Ocupada,Ochava,Bajo nivel,5,3
+NA,NA,143522,12,Naón Rómulo S. Dr. Av.,3500.0,3511.0,Melia,2.8,Sobreocupada,Regular,A nivel,31,9
+NA,NA,150051,12,Naón Rómulo S. Dr. Av.,2900.0,2997.0,Tilia,4.4,Ocupada,Regular,A nivel,26,11
+NA,NA,150053,12,Naón Rómulo S. Dr. Av.,2900.0,2991.0,Tilia,4.4,Ocupada,Regular,A nivel,38,13
+NA,NA,150054,12,Naón Rómulo S. Dr. Av.,2900.0,2987.0,Tilia,4.4,Ocupada,Regular,A nivel,32,15
+NA,NA,150056,12,Naón Rómulo S. Dr. Av.,2900.0,2977.0,Tilia,4.4,Ocupada,Regular,A nivel,62,14
+NA,NA,150059,12,Naón Rómulo S. Dr. Av.,2900.0,2933.0,Tilia,4.4,Ocupada,Regular,Elevada,38,13
+NA,NA,150061,12,Naón Rómulo S. Dr. Av.,2900.0,2923.0,Tilia,4.4,Ocupada,Regular,A nivel,64,13
+NA,NA,150062,12,Naón Rómulo S. Dr. Av.,2900.0,2901.0,Tilia,4.4,Sobreocupada,Regular,A nivel,48,11
+NA,NA,149029,12,Naón Rómulo S. Dr. Av.,2900.0,2997.0,Tilia,4.4,Ocupada,Regular,A nivel,38,11
+NA,NA,150982,12,Naón Rómulo S. Dr. Av.,2800.0,28841.0,Ficus,4,Ocupada,Regular,A nivel,40,9
+NA,NA,154198,12,Naón Rómulo S. Dr. Av.,3000.0,3098.0,Tilia,4.4,Ocupada,Ochava,A nivel,44,10
+NA,NA,154199,12,Naón Rómulo S. Dr. Av.,3000.0,3068.0,Ficus,4.4,Sobreocupada,Regular,Elevada,18,2
+NA,NA,154229,12,Naón Rómulo S. Dr. Av.,3000.0,3040.0,Tilia,4.4,Ocupada,Regular,A nivel,33,9
+NA,NA,154235,12,Naón Rómulo S. Dr. Av.,3000.0,3012.0,Tilia,4.4,Ocupada,Regular,Elevada,46,12
+NA,NA,153727,12,Naón Rómulo S. Dr. Av.,2100.0,2180.0,Melia,5.6,Ocupada,Regular,A nivel,73,13
+NA,NA,153728,12,Naón Rómulo S. Dr. Av.,2100.0,2186.0,Melia,5.6,Sobreocupada,Regular,Bajo nivel,68,13
+NA,NA,153741,12,Naón Rómulo S. Dr. Av.,2100.0,2186.0,Melia,5.6,Sobreocupada,Regular,Bajo nivel,62,15
+NA,NA,153745,12,Naón Rómulo S. Dr. Av.,2100.0,2136.0,Melia,5.6,Ocupada,Regular,Elevada,92,14
+NA,NA,153746,12,Naón Rómulo S. Dr. Av.,2100.0,2126.0,Lagerstroemia,5.6,Ocupada,Regular,Elevada,4,2
+NA,NA,159263,12,Naón Rómulo S. Dr. Av.,2200.0,2202.0,Jacaranda,5.7,Ocupada,Regular,A nivel,40,9
+NA,NA,159267,12,Naón Rómulo S. Dr. Av.,2200.0,2238.0,Melia,5.7,Ocupada,Regular,A nivel,59,11
+NA,NA,158217,12,Naón Rómulo S. Dr. Av.,1800.0,1828.0,Platanus,5.8,Sobreocupada,Ochava,A nivel,62,12
+NA,NA,158218,12,Naón Rómulo S. Dr. Av.,1800.0,1892.0,Platanus,5.8,Ocupada,Fuera de línea,Elevada,60,15
+NA,NA,158220,12,Naón Rómulo S. Dr. Av.,1800.0,1850.0,Platanus,5.8,Ocupada,Regular,Elevada,57,12
+NA,NA,158221,12,Naón Rómulo S. Dr. Av.,1800.0,1836.0,Platanus,5.8,Sobreocupada,Regular,Elevada,55,11
+NA,NA,158222,12,Naón Rómulo S. Dr. Av.,1800.0,1880.0,Platanus,5.8,Ocupada,Regular,Elevada,54,10
+NA,NA,158223,12,Naón Rómulo S. Dr. Av.,1800.0,1836.0,Platanus,5.8,Ocupada,Regular,Elevada,53,14
+NA,NA,158224,12,Naón Rómulo S. Dr. Av.,1800.0,1844.0,Platanus,5.8,Ocupada,Regular,Elevada,50,10
+NA,NA,158225,12,Naón Rómulo S. Dr. Av.,1800.0,1892.0,Platanus,5.8,Ocupada,Regular,Elevada,61,13
+NA,NA,159297,12,Naón Rómulo S. Dr. Av.,2200.0,2280.0,Ficus,5.7,Ocupada,Regular,A nivel,26,4
+NA,NA,161328,12,Naón Rómulo S. Dr. Av.,1900.0,1900.0,Platanus,4.4,Ocupada,Regular,A nivel,0,14
+NA,NA,161331,12,Naón Rómulo S. Dr. Av.,1900.0,1938.0,Platanus,4.4,Sobreocupada,Regular,Elevada,38,14
+NA,NA,161333,12,Naón Rómulo S. Dr. Av.,1900.0,1930.0,Platanus,4.4,Sobreocupada,Regular,Elevada,68,15
+NA,NA,161335,12,Naón Rómulo S. Dr. Av.,1900.0,1988.0,Platanus,4.4,Ocupada,Regular,A nivel,58,14
+NA,NA,161337,12,Naón Rómulo S. Dr. Av.,1900.0,1970.0,Platanus,4.4,Ocupada,Regular,Elevada,48,14
+NA,NA,161338,12,Naón Rómulo S. Dr. Av.,1900.0,1920.0,Platanus,4.4,Ocupada,Regular,A nivel,68,15
+NA,NA,167675,12,Naón Rómulo S. Dr. Av.,2300.0,2376.0,Melia,5.6,Ocupada,Regular,Bajo nivel,59,18
+NA,NA,167682,12,Naón Rómulo S. Dr. Av.,2300.0,2380.0,Melia,5.6,Ocupada,Ochava,Bajo nivel,68,15
+NA,NA,167704,12,Naón Rómulo S. Dr. Av.,2300.0,2324.0,Melia,5.6,Ocupada,Regular,Bajo nivel,76,19
+NA,NA,175950,12,Naón Rómulo S. Dr. Av.,3700.0,3769.0,Melia,3.2,Ocupada,Regular,A nivel,64,16
+NA,NA,175953,12,Naón Rómulo S. Dr. Av.,3700.0,3769.0,Tilia,3.2,Ocupada,Regular,A nivel,36,16
+NA,NA,175988,12,Naón Rómulo S. Dr. Av.,3700.0,3759.0,Tilia,3.2,Ocupada,Regular,A nivel,36,14
+NA,NA,175994,12,Naón Rómulo S. Dr. Av.,3700.0,3755.0,Tilia,3.2,Ocupada,Regular,A nivel,37,14
+NA,NA,175996,12,Naón Rómulo S. Dr. Av.,3700.0,3755.0,Melia,3.2,Ocupada,Regular,A nivel,77,17
+NA,NA,175997,12,Naón Rómulo S. Dr. Av.,3700.0,3719.0,Melia,3.2,Ocupada,Regular,A nivel,72,15
+NA,NA,175998,12,Naón Rómulo S. Dr. Av.,3700.0,3719.0,Melia,3.2,Ocupada,Regular,A nivel,69,15
+NA,NA,177013,12,Naón Rómulo S. Dr. Av.,2000.0,2020.0,Melia,5.7,Ocupada,Regular,A nivel,76,6
+NA,NA,177014,12,Naón Rómulo S. Dr. Av.,2000.0,2020.0,Melia,5.7,Ocupada,Regular,Elevada,60,10
+NA,NA,177017,12,Naón Rómulo S. Dr. Av.,2000.0,2026.0,Jacaranda,5.7,Ocupada,Regular,Elevada,38,10
+NA,NA,177069,12,Naón Rómulo S. Dr. Av.,2000.0,2068.0,Melia,5.7,Sobreocupada,Regular,A nivel,180,10
+NA,NA,177072,12,Naón Rómulo S. Dr. Av.,2000.0,2068.0,Melia,5.7,Sobreocupada,Regular,A nivel,32,10
+NA,NA,177085,12,Naón Rómulo S. Dr. Av.,2000.0,2068.0,Melia,5.7,Ocupada,Regular,A nivel,54,10
+NA,NA,177113,12,Naón Rómulo S. Dr. Av.,2000.0,2068.0,Melia,5.7,Sobreocupada,Regular,A nivel,96,14
+NA,NA,177121,12,Naón Rómulo S. Dr. Av.,2000.0,2074.0,Melia,5.7,Sobreocupada,Regular,Elevada,96,13
+NA,NA,177133,12,Naón Rómulo S. Dr. Av.,2000.0,2090.0,Melia,5.7,Ocupada,Regular,A nivel,64,11
+NA,NA,177134,12,Naón Rómulo S. Dr. Av.,2000.0,2090.0,Melia,5.7,Ocupada,Regular,A nivel,51,9
+NA,NA,177135,12,Naón Rómulo S. Dr. Av.,2000.0,2090.0,Melia,5.7,Ocupada,Regular,A nivel,67,10
+NA,NA,182849,12,Naón Rómulo S. Dr. Av.,2700,2741.0,Ficus,4.4,Ocupada,Regular,Elevada,35,10
+NA,NA,182856,12,Naón Rómulo S. Dr. Av.,2700,2793.0,Ficus,4.4,Sobreocupada,Ochava,Elevada,22,6
+NA,NA,182861,12,Naón Rómulo S. Dr. Av.,2700,2785.0,Ficus,4.4,Sobreocupada,Regular,Elevada,46,9
+NA,NA,226866,12,Naón Rómulo S. Dr. Av.,3300,3409.0,Melia,2.8,Sobreocupada,Regular,Elevada,50,13
+NA,NA,226875,12,Naón Rómulo S. Dr. Av.,3300,3455.0,Tilia,2.8,Ocupada,Regular,A nivel,40,11
+NA,NA,226876,12,Naón Rómulo S. Dr. Av.,3300,3479.0,Tilia,2.8,Ocupada,Regular,A nivel,40,12
+NA,NA,226879,12,Naón Rómulo S. Dr. Av.,3300,3479.0,Tilia,2.8,Ocupada,Regular,A nivel,30,10
+NA,NA,226460,12,Naón Rómulo S. Dr. Av.,3300,33.0,Lagerstroemia,2.8,Ocupada,Regular,A nivel,13,3
+NA,NA,226472,12,Naón Rómulo S. Dr. Av.,3300,3381.0,Lagerstroemia,2.8,Ocupada,Regular,Elevada,11,3
+NA,NA,542450,12,Naón Rómulo S. Dr. Av.,2400,2454.0,Ficus,5.8,Sobreocupada,Fuera de línea,Elevada,40,4
+NA,NA,112079,13,Naón Rómulo S. Dr. Av.,2000,2031.0,Melia,5.8,Sobreocupada,Regular,A nivel,40,7
+NA,NA,112090,13,Naón Rómulo S. Dr. Av.,2000,2031.0,Melia,5.8,Sobreocupada,Regular,A nivel,91,12
+NA,NA,112094,13,Naón Rómulo S. Dr. Av.,2000,2065.0,Melia,5.8,Sobreocupada,Regular,Elevada,101,11
+NA,NA,112095,13,Naón Rómulo S. Dr. Av.,2000,2047.0,Platanus,5.8,Ocupada,Regular,A nivel,67,11
+NA,NA,112096,13,Naón Rómulo S. Dr. Av.,2000,2089.0,Melia,5.8,Ocupada,Regular,Elevada,68,6
+NA,NA,112097,13,Naón Rómulo S. Dr. Av.,2000,2031.0,Melia,5.8,Sobreocupada,Regular,A nivel,84,12
+NA,NA,112098,13,Naón Rómulo S. Dr. Av.,2000,2075.0,Melia,5.8,Sobreocupada,Regular,Elevada,68,12
+NA,NA,112103,13,Naón Rómulo S. Dr. Av.,2000,2037.0,Melia,5.8,Sobreocupada,Regular,A nivel,87,11
+NA,NA,112106,13,Naón Rómulo S. Dr. Av.,2000,2081.0,Melia,5.8,Sobreocupada,Regular,Elevada,57,9
+NA,NA,114707,13,Naón Rómulo S. Dr. Av.,1800,1821.0,Platanus,5.6,Sobreocupada,Fuera de línea,Elevada,58,21
+NA,NA,114710,13,Naón Rómulo S. Dr. Av.,1800,1821.0,Platanus,5.6,Sobreocupada,Fuera de línea,Elevada,78,24
+NA,NA,114713,13,Naón Rómulo S. Dr. Av.,1800,1827.0,Platanus,5.4,Ocupada,Fuera de línea,A nivel,67,25
+NA,NA,114714,13,Naón Rómulo S. Dr. Av.,1800,1821.0,Platanus,5.4,Ocupada,Fuera de línea,Elevada,60,24
+NA,NA,114715,13,Naón Rómulo S. Dr. Av.,1800,1839.0,Platanus,5.4,Ocupada,Fuera de línea,Elevada,82,26
+NA,NA,114716,13,Naón Rómulo S. Dr. Av.,1800,1821.0,Platanus,5.4,Ocupada,Fuera de línea,A nivel,65,24
+NA,NA,114717,13,Naón Rómulo S. Dr. Av.,1800,1865.0,Platanus,5.4,Ocupada,Fuera de línea,Elevada,70,24
+NA,NA,114718,13,Naón Rómulo S. Dr. Av.,1800,1881.0,Platanus,5.4,Ocupada,Fuera de línea,Elevada,54,22
+NA,NA,114719,13,Naón Rómulo S. Dr. Av.,1800,1865.0,Platanus,5.4,Ocupada,Fuera de línea,Elevada,56,23
+NA,NA,114720,13,Naón Rómulo S. Dr. Av.,1800,1897.0,Platanus,5.4,Ocupada,Fuera de línea,Elevada,75,23
+NA,NA,114721,13,Naón Rómulo S. Dr. Av.,1800,1885.0,Platanus,5.4,Ocupada,Fuera de línea,Elevada,64,23
+NA,NA,117039,13,Naón Rómulo S. Dr. Av.,1900,1925.0,Platanus,5.6,Ocupada,Regular,Elevada,72,24
+NA,NA,117055,13,Naón Rómulo S. Dr. Av.,1900,1975.0,Platanus,5.6,Sobreocupada,Regular,A nivel,46,20
+NA,NA,117056,13,Naón Rómulo S. Dr. Av.,1900,1975.0,Platanus,5.6,Ocupada,Regular,Elevada,93,28
+NA,NA,117057,13,Naón Rómulo S. Dr. Av.,1900,1915.0,Platanus,5.6,Ocupada,Regular,Elevada,71,28
+NA,NA,117061,13,Naón Rómulo S. Dr. Av.,1900,1955.0,Platanus,5.6,Ocupada,Regular,Elevada,69,28
+NA,NA,117065,13,Naón Rómulo S. Dr. Av.,1900,1975.0,Platanus,5.6,Sobreocupada,Regular,Elevada,67,27
+NA,NA,117066,13,Naón Rómulo S. Dr. Av.,1900,1975.0,Platanus,5.6,Sobreocupada,Regular,A nivel,56,27
+NA,NA,117506,13,Naón Rómulo S. Dr. Av.,2200,2205.0,Tilia,4.4,Sobreocupada,Regular,A nivel,8,5
+NA,NA,118420,13,Naón Rómulo S. Dr. Av.,2100,2119.0,Melia,5.6,Ocupada,Regular,A nivel,49,11
+NA,NA,118421,13,Naón Rómulo S. Dr. Av.,2100,2111.0,Melia,5.6,Ocupada,Regular,A nivel,69,6
+NA,NA,118595,13,Naón Rómulo S. Dr. Av.,1900,1909.0,Platanus,5.6,Ocupada,Ochava,Elevada,75,19
+NA,NA,119219,13,Naón Rómulo S. Dr. Av.,2400,2491.0,Melia,5.7,Sobreocupada,Regular,A nivel,9,14
+NA,NA,119234,13,Naón Rómulo S. Dr. Av.,2400,2431.0,Ficus,5.7,Sobreocupada,Regular,Elevada,26,3
+NA,NA,119246,13,Naón Rómulo S. Dr. Av.,2300,2345.0,Jacaranda,5.7,Ocupada,Regular,Elevada,21,7
+NA,NA,119284,13,Naón Rómulo S. Dr. Av.,2300,2395.0,Ficus,5.7,Sobreocupada,Regular,Elevada,6,2
+NA,NA,134659,13,Naón Rómulo S. Dr. Av.,2300,2367.0,Tilia,5.7,Ocupada,Regular,Elevada,14,6
+NA,NA,134660,13,Naón Rómulo S. Dr. Av.,2300,2357.0,Tilia,5.7,Ocupada,Regular,A nivel,3,2

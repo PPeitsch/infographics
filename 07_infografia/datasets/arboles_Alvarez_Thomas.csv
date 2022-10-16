@@ -1,0 +1,126 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.4854865028324,-34.5698838979286,146457,12,Alvarez Thomas Av.,3400.0,3456.0,Ficus,5.3,Ocupada,Regular,Elevada,44,10
+-58.4854865028324,-34.5698838979286,146460,12,Alvarez Thomas Av.,3400.0,3456.0,Ficus,5.3,Sobreocupada,Regular,Elevada,40,8
+-58.4854099719112,-34.56994269985999,146461,12,Alvarez Thomas Av.,3400.0,3442.0,Ficus,5.6,Sobreocupada,Regular,Elevada,5,4
+-58.4868849853938,-34.568815684484896,143242,12,Alvarez Thomas Av.,3600.0,3616.0,Lagerstroemia,5.3,Sobreocupada,Regular,Elevada,18,4
+-58.483419810313606,-34.5714688629977,147203,12,Alvarez Thomas Av.,3200.0,3202.0,Tilia,6,Ocupada,Regular,A nivel,17,7
+-58.4813625469693,-34.573044526652495,148559,12,Alvarez Thomas Av.,2900.0,2970.0,Tilia,5.6,Ocupada,Regular,Bajo nivel,23,6
+-58.481002366162,-34.5733171998549,148562,12,Alvarez Thomas Av.,2900.0,2918.0,Tilia,5.6,Ocupada,Regular,Bajo nivel,14,5
+-58.481277084313795,-34.5729373528997,150443,12,Alvarez Thomas Av.,2900.0,2975.0,Tilia,5.2,Sobreocupada,Regular,Elevada,33,11
+-58.4809470561356,-34.5733612743507,148585,12,Alvarez Thomas Av.,2900.0,2906.0,Ficus,5.6,Ocupada,Regular,A nivel,13,2
+-58.4810696836508,-34.5730960188559,150445,12,Alvarez Thomas Av.,2900.0,2953.0,Tilia,5.2,Ocupada,Regular,A nivel,17,6
+-58.4807713827956,-34.573325359407804,150446,12,Alvarez Thomas Av.,2900.0,2907.0,Tilia,5.2,Ocupada,Regular,A nivel,37,12
+-58.481277084313795,-34.5729373528997,150450,12,Alvarez Thomas Av.,2900.0,2975.0,Ficus,5.2,Sobreocupada,Regular,Elevada,27,5
+-58.4821617606066,-34.5722598550939,154333,12,Alvarez Thomas Av.,4000.0,3079.0,Tilia,5.2,Ocupada,Regular,Elevada,90,16
+-58.4821617606066,-34.5722598550939,154338,12,Alvarez Thomas Av.,3000.0,3067.0,Tilia,5.6,Ocupada,Regular,A nivel,56,11
+-58.481900094967,-34.5724600608206,154346,12,Alvarez Thomas Av.,3000.0,3035.0,Jacaranda,5.6,Ocupada,Regular,A nivel,63,7
+-58.4817644010598,-34.572563882411195,154350,12,Alvarez Thomas Av.,3000.0,3021.0,Tilia,5.6,Ocupada,Regular,A nivel,22,4
+-58.4817644010598,-34.572563882411195,154367,12,Alvarez Thomas Av.,3000.0,3021.0,Tilia,5.6,Ocupada,NA,A nivel,90,16
+-58.4817008180675,-34.57261253064,154374,12,Alvarez Thomas Av.,3000.0,3005.0,Tilia,5.6,Ocupada,Fuera de línea,A nivel,21,7
+-58.48617738828,-34.5691745874363,153859,12,Alvarez Thomas Av.,3500.0,3559.0,Jacaranda,5.2,Ocupada,Regular,A nivel,18,13
+-58.486382258,-34.5690188867636,153865,12,Alvarez Thomas Av.,3500.0,3581.0,Tilia,5.2,Ocupada,Regular,A nivel,34,12
+-58.485913386106205,-34.569375227318304,153866,12,Alvarez Thomas Av.,3500.0,3527.0,Ficus,5.2,Sobreocupada,Regular,Elevada,6,2
+-58.4784570286382,-34.5750318740885,158813,12,Alvarez Thomas Av.,2600.0,2695.0,Ficus,5,Sobreocupada,Regular,A nivel,8,4
+-58.4775556674134,-34.575691953644096,159268,12,Alvarez Thomas Av.,2600.0,2611.0,Lagerstroemia,5,Ocupada,Regular,Elevada,5,2
+-58.4775556674134,-34.575691953644096,159269,12,Alvarez Thomas Av.,2600.0,2611.0,Lagerstroemia,5,Ocupada,Regular,Elevada,5,4
+-58.4778981082005,-34.5754265825817,159300,12,Alvarez Thomas Av.,2600.0,2651.0,Ficus,5,Ocupada,Regular,A nivel,33,9
+-58.4818674317085,-34.572658905306895,159737,12,Alvarez Thomas Av.,3000.0,3010.0,Ficus,5.6,Ocupada,Regular,A nivel,70,5
+-58.482022023321,-34.5725406246479,159738,12,Alvarez Thomas Av.,3000.0,3036.0,Ficus,5.6,Ocupada,Regular,A nivel,30,6
+-58.482022023321,-34.5725406246479,159766,12,Alvarez Thomas Av.,3000.0,3030.0,Tilia,5.6,Ocupada,Regular,A nivel,19,5
+-58.482022023321,-34.5725406246479,159769,12,Alvarez Thomas Av.,3000.0,3040.0,Ficus,5.6,Ocupada,Regular,Elevada,41,6
+-58.4822437392429,-34.5723709851131,159772,12,Alvarez Thomas Av.,3000.0,3068.0,Tilia,NA,Ocupada,Regular,A nivel,42,15
+-58.475949140054,-34.5768517009843,163894,12,Alvarez Thomas Av.,2400.0,2447.0,Ficus,5.8,Ocupada,Regular,A nivel,74,8
+-58.47907469601729,-34.574752615184195,165647,12,Alvarez Thomas Av.,2700.0,2738.0,Jacaranda,5.7,Ocupada,Regular,Elevada,19,8
+-58.47935782991421,-34.5745467338782,165663,12,Alvarez Thomas Av.,2700.0,2748.0,Ficus,5.7,Ocupada,Regular,A nivel,61,10
+-58.47942849464,-34.5744953496268,165666,12,Alvarez Thomas Av.,2700.0,2770.0,Tilia,5.7,Ocupada,Regular,Elevada,35,8
+-58.4794303885042,-34.574324784375804,165672,12,Alvarez Thomas Av.,2700.0,2785.0,Ficus,5.6,Ocupada,Regular,Elevada,64,7
+-58.4793594909225,-34.5743763380433,165675,12,Alvarez Thomas Av.,2700.0,2775.0,Ficus,5.6,Sobreocupada,Regular,A nivel,8,2
+-58.4771562495729,-34.5761553491319,172326,12,Alvarez Thomas Av.,2500.0,2566.0,Ficus,6,Ocupada,NA,Elevada,93,14
+-58.4757950008925,-34.5771302010618,178743,12,Alvarez Thomas Av.,2400.0,2402.0,Ficus,5.6,Ocupada,Ochava,A nivel,45,7
+-58.4854640657989,-34.569726579025605,182870,12,Alvarez Thomas Av.,3400.0,3499.0,Tilia,5.2,Ocupada,Ochava,A nivel,36,11
+-58.4831834294419,-34.5716524280233,181553,12,Alvarez Thomas Av.,3100.0,3190.0,Ficus,5.6,Ocupada,Regular,A nivel,43,10
+-58.4777967951122,-34.5756939210428,183248,12,Alvarez Thomas Av.,2600.0,2630.0,Ficus,5.6,Ocupada,Regular,A nivel,72,9
+-58.4850364832617,-34.5700551074576,183864,12,Alvarez Thomas Av.,3400,3439.0,Ficus,5.2,Ocupada,Regular,A nivel,18,11
+-58.4850364832617,-34.5700551074576,183868,12,Alvarez Thomas Av.,3400,3439.0,Ficus,5.2,Ocupada,Regular,A nivel,29,9
+-58.4848350347657,-34.5704613612542,204791,12,Alvarez Thomas Av.,3300,3366.0,Melia,5,Sobreocupada,Regular,Elevada,72,11
+-58.4849462729834,-34.5703758828125,204552,12,Alvarez Thomas Av.,3300,3400.0,Melia,5,Ocupada,Regular,A nivel,85,9
+-58.4844509153092,-34.5707565268332,204845,12,Alvarez Thomas Av.,3300,3320.0,Tilia,5,Ocupada,Regular,Elevada,33,8
+-58.4844509153092,-34.5707565268332,204858,12,Alvarez Thomas Av.,3300,3312.0,Tilia,5,Sobreocupada,Regular,Elevada,7,2
+-58.4848350347657,-34.5704613612542,204671,12,Alvarez Thomas Av.,3300,3366.0,Melia,5,Sobreocupada,Regular,Elevada,48,8
+-58.4486731489936,-34.5812663288207,110620,13,Alvarez Thomas Av.,300,331.0,Ficus,2.4,Ocupada,Regular,A nivel,38,6
+-58.4485868918955,-34.5812980853125,110621,13,Alvarez Thomas Av.,300,313.0,Jacaranda,2.4,Ocupada,Regular,Bajo nivel,1,2
+-58.4522845102927,-34.5799646087285,113135,13,Alvarez Thomas Av.,700,729.0,Jacaranda,3.8,Ocupada,Regular,A nivel,2,2
+-58.452511413398504,-34.5798918331156,113137,13,Alvarez Thomas Av.,700,751.0,Jacaranda,3.8,Ocupada,Regular,A nivel,2,3
+-58.453245996334495,-34.5796553167625,113170,13,Alvarez Thomas Av.,700,795.0,Tilia,3.8,Ocupada,Regular,Elevada,34,9
+-58.452373079995205,-34.579936201451304,113171,13,Alvarez Thomas Av.,700,739.0,Jacaranda,3.8,Ocupada,Regular,A nivel,2,2
+-58.4555948106988,-34.5789134501868,116085,13,Alvarez Thomas Av.,900,985.0,Jacaranda,4.4,Ocupada,Regular,A nivel,16,3
+-58.455241081077205,-34.5790149242903,116087,13,Alvarez Thomas Av.,900,933.0,Lagerstroemia,4.4,Ocupada,Regular,Bajo nivel,6,2
+-58.4553090542534,-34.5789931217585,116093,13,Alvarez Thomas Av.,900,937.0,Lagerstroemia,4.4,Ocupada,Regular,A nivel,8,2
+-58.4473221452653,-34.5818632592945,126523,13,Alvarez Thomas Av.,201,221.0,Jacaranda,3.75,Ocupada,Regular,Elevada,1,2
+-58.4569253593439,-34.5785547062893,128779,13,Alvarez Thomas Av.,1000,1085.0,Lagerstroemia,4,Ocupada,Regular,Elevada,10,5
+-58.456248708321,-34.5787372619005,128810,13,Alvarez Thomas Av.,1000,1031.0,Ficus,4,Ocupada,Regular,Bajo nivel,15,6
+-58.4561467953257,-34.578764756907304,128814,13,Alvarez Thomas Av.,1000,1029.0,Tilia,4,Ocupada,Regular,A nivel,24,7
+-58.44811224208671,-34.5815153423136,145565,13,Alvarez Thomas Av.,201,297.0,Tilia,3.75,Ocupada,Regular,Elevada,18,5
+-58.44811224208671,-34.5815153423136,145567,13,Alvarez Thomas Av.,201,297.0,Tilia,3.75,Ocupada,Regular,Elevada,18,5
+-58.4476138350521,-34.5817378776656,145573,13,Alvarez Thomas Av.,201,233.0,Jacaranda,3.75,Ocupada,Regular,A nivel,1,2
+-58.44811224208671,-34.5815153423136,160102,13,Alvarez Thomas Av.,201,297.0,Tilia,3.75,Ocupada,Regular,Elevada,24,4
+-58.4557790101373,-34.578863759510696,180129,13,Alvarez Thomas Av.,900,997.0,Platanus,4.4,Ocupada,Regular,A nivel,6,2
+-58.45100268348251,-34.580372139720104,544445,13,Alvarez Thomas Av.,600.0,601,Jacaranda,3.8,Ocupada,Regular,A Nivel,4,2
+-58.4512977680739,-34.580279904284,544446,13,Alvarez Thomas Av.,600.0,623,Jacaranda,3.8,Ocupada,Regular,A Nivel,4,3
+-58.4503599049838,-34.5806251045534,544448,13,Alvarez Thomas Av.,600.0,543,Lagerstroemia,3.8,Ocupada,Regular,A Nivel,48,4
+-58.4517903206011,-34.580121924505804,544450,13,Alvarez Thomas Av.,600.0,675,Jacaranda,3.8,Ocupada,Regular,A Nivel,13,5
+-58.4658914691232,-34.5789233101232,208441,15,Alvarez Thomas Av.,1600.0,1695,Jacaranda,4.4,Ocupada,Ochava,A nivel,17,8
+-58.4626487033782,-34.5784066795793,211602,15,Alvarez Thomas Av.,1500.0,1462,Tilia,4.4,Ocupada,Regular,Elevada,22,10
+-58.462122039913,-34.5782395435563,209830,15,Alvarez Thomas Av.,1400.0,1411,Ficus,4.4,Ocupada,Regular,A nivel,18,7
+-58.4717239594947,-34.5781611431703,220077,15,Alvarez Thomas Av.,2100.0,2166,Ficus,5.6,Sobreocupada,Regular,Elevada,8,2
+-58.472791301384405,-34.5779103653681,241077,15,Alvarez Thomas Av.,2200.0,2250,Ficus,6,Ocupada,Regular,Elevada,1,32
+-58.472547415178205,-34.5778353401553,241378,15,Alvarez Thomas Av.,2200.0,2225,Ficus,6,Sobreocupada,Regular,A nivel,1,8
+-58.471403754671,-34.5782330563105,240266,15,Alvarez Thomas Av.,2100.0,2142,Ficus,5.6,Ocupada,Regular,Elevada,20,2
+-58.472609677039095,-34.5779543035975,241116,15,Alvarez Thomas Av.,2200.0,2238,Jacaranda,6,Sobreocupada,Regular,A nivel,1,22
+-58.47108691062321,-34.5782992373805,240301,15,Alvarez Thomas Av.,2100.0,2108,Ficus,5.6,Ocupada,Ochava,Elevada,60,8
+-58.4724206094556,-34.578000060465605,241177,15,Alvarez Thomas Av.,2200.0,2216,Ficus,6,Sobreocupada,Regular,A nivel,0,9
+-58.467838794458295,-34.5788518350655,240923,15,Alvarez Thomas Av.,1800.0,1843,Ficus,6,Sobreocupada,Regular,A nivel,18,3
+-58.46774941089561,-34.578870891554295,240952,15,Alvarez Thomas Av.,1800.0,1835,Ficus,6,Sobreocupada,Regular,Elevada,30,7
+-58.4716328060731,-34.5781816149407,240164,15,Alvarez Thomas Av.,2100.0,2162.0,Ficus,5.6,Ocupada,Regular,Elevada,35,4
+-58.468998244431894,-34.5787409114306,240175,15,Alvarez Thomas Av.,2000.0,1974.0,Platanus,4.4,Ocupada,Regular,A nivel,2,3
+-58.472970430342905,-34.5778670304973,241011,15,Alvarez Thomas Av.,2200.0,2262.0,Tilia,6,Ocupada,Regular,A nivel,0,2
+-58.472791301384405,-34.5779103653681,241041,15,Alvarez Thomas Av.,2200.0,2250.0,Jacaranda,6,Sobreocupada,Regular,Elevada,0,9
+-58.4725264129722,-34.5778404209749,241319,15,Alvarez Thomas Av.,2200.0,2219.0,Melia,6,Sobreocupada,Regular,A nivel,0,3
+-58.471403754671,-34.5782330563105,240220,15,Alvarez Thomas Av.,2100.0,2142.0,Ficus,5.6,Ocupada,Regular,Elevada,15,2
+-58.4634889853364,-34.578514031828,214423,15,Alvarez Thomas Av.,1600.0,1514.0,Melia,4.4,Sobreocupada,Regular,Elevada,25,11
+-58.471085738403104,-34.5781574613778,217461,15,Alvarez Thomas Av.,2100.0,2115.0,Ficus,5.6,Ocupada,Regular,Elevada,100,11
+-58.466933872742,-34.579180003832896,217781,15,Alvarez Thomas Av.,1800.0,1788.0,Ficus,4.4,Ocupada,Regular,Elevada,64,13
+-58.4633986800891,-34.5784936056976,214492,15,Alvarez Thomas Av.,1600.0,1506.0,Melia,4.4,Ocupada,Ochava,A nivel,45,12
+-58.4669188879944,-34.579183200474,217817,15,Alvarez Thomas Av.,1800.0,1786.0,Ficus,4.4,Ocupada,Regular,Elevada,21,2
+-58.4644991290355,-34.5787425110688,214273,15,Alvarez Thomas Av.,1600.0,1590.0,Ficus,4.4,Ocupada,Ochava,A nivel,35,10
+-58.4644991290355,-34.5787425110688,214298,15,Alvarez Thomas Av.,1600.0,1586.0,Platanus,4.4,Ocupada,Regular,A nivel,38,14
+-58.4507044030546,-34.5807123203958,225792,15,Alvarez Thomas Av.,500.0,592.0,Lagerstroemia,4,Ocupada,Regular,A nivel,7,3
+-58.4507044030546,-34.5807123203958,225843,15,Alvarez Thomas Av.,500.0,588.0,Ficus,4,Ocupada,Regular,A nivel,61,4
+-58.45032563088101,-34.580862548313604,225863,15,Alvarez Thomas Av.,500.0,524.0,Ficus,4,Ocupada,Regular,A nivel,111,8
+-58.449812925005894,-34.58106354077,242413,15,Alvarez Thomas Av.,400.0,486.0,Tilia,4.4,Ocupada,Regular,A nivel,39,8
+-58.449812925005894,-34.58106354077,242456,15,Alvarez Thomas Av.,400.0,478.0,Lagerstroemia,4.4,Ocupada,Regular,A nivel,9,3
+-58.475149371762505,-34.5772261301054,246014,15,Alvarez Thomas Av.,2300.0,2389.0,Tilia,5.6,Ocupada,Regular,A nivel,22,7
+-58.4717239594947,-34.5781611431703,242304,15,Alvarez Thomas Av.,2100.0,2164.0,Lagerstroemia,4.5,Sobreocupada,Regular,Elevada,0,3
+-58.471751452755605,-34.5780123522379,242347,15,Alvarez Thomas Av.,2100.0,2165.0,Jacaranda,4.5,Ocupada,Regular,Elevada,0,3
+-58.4515947440021,-34.5803973126893,252241,15,Alvarez Thomas Av.,600.0,636.0,Ficus,3.8,Ocupada,Regular,Elevada,80,13
+-58.4534303043212,-34.579808430001805,253355,15,Alvarez Thomas Av.,700.0,796.0,Ficus,4.4,Ocupada,Ochava,A nivel,26,5
+-58.451505030302,-34.580426087111604,252272,15,Alvarez Thomas Av.,600.0,628.0,Melia,3.8,Ocupada,Regular,A nivel,46,7
+-58.452957724059495,-34.5799590716596,253494,15,Alvarez Thomas Av.,700.0,764.0,Melia,4,Sobreocupada,Regular,A nivel,4,3
+-58.457757730999795,-34.578542373214,260670,15,Alvarez Thomas Av.,1100.0,1136.0,Tilia,3.8,Ocupada,Regular,A nivel,36,10
+-58.47385160565,-34.5776622277209,258490,15,Alvarez Thomas Av.,2300.0,2304.0,Ficus,5.7,Ocupada,Ochava,Elevada,19,3
+-58.4449639506487,-34.5830223911431,259442,15,Alvarez Thomas Av.,0.0,28.0,Melia,3.5,Ocupada,Regular,A nivel,69,11
+-58.47385160565,-34.5776622277209,258444,15,Alvarez Thomas Av.,2300.0,2304.0,Ficus,5.7,Ocupada,Ochava,Elevada,19,2
+-58.4742987075589,-34.5775595919157,258243,15,Alvarez Thomas Av.,2300.0,2336.0,Ficus,5.7,Ocupada,Regular,A nivel,38,7
+-58.4743893591793,-34.5775385128702,258359,15,Alvarez Thomas Av.,2300.0,2340.0,Ficus,5.7,Ocupada,Ochava,A nivel,33,2
+-58.4751016336755,-34.5773728862871,257835,15,Alvarez Thomas Av.,2300.0,2388.0,Ficus,5.7,Ocupada,Regular,Elevada,37,10
+-58.47385160565,-34.5776622277209,258413,15,Alvarez Thomas Av.,2300.0,2304.0,Ficus,5.7,Ocupada,Ochava,A nivel,48,2
+-58.44822844134279,-34.581619585034296,257869,15,Alvarez Thomas Av.,2300.0,286.0,Jacaranda,5.7,Ocupada,Regular,Elevada,10,3
+-58.45403626022039,-34.5796140913422,271923,15,Alvarez Thomas Av.,800.0,840.0,Ficus,4,Ocupada,Regular,A nivel,59,12
+-58.4546738678017,-34.579409595124396,271926,15,Alvarez Thomas Av.,800.0,880.0,Ficus,4,Ocupada,Regular,A nivel,44,10
+-58.448849783453795,-34.581427997735,265809,15,Alvarez Thomas Av.,300.0,328.0,Ficus,4,Ocupada,Regular,A nivel,79,14
+-58.4556491843107,-34.5791079224375,277162,15,Alvarez Thomas Av.,900.0,958.0,Ficus,4,Ocupada,Regular,Elevada,82,11
+-58.456297012046,-34.578932936040395,272369,15,Alvarez Thomas Av.,1000.0,1010.0,Ficus,4.4,Ocupada,Regular,A nivel,0,35
+-58.4516863575213,-34.5803679288327,297030,15,Alvarez Thomas Av.,600.0,640.0,Ficus,4.4,Ocupada,Regular,A nivel,102,11
+-58.4534303043212,-34.579808430001805,297037,15,Alvarez Thomas Av.,700.0,796.0,Ficus,4.4,Ocupada,Ochava,A nivel,25,7
+-58.451505030302,-34.580426087111604,297142,15,Alvarez Thomas Av.,600.0,632.0,Melia,4.4,Ocupada,Regular,A nivel,50,7
+-58.452957724059495,-34.5799590716596,297146,15,Alvarez Thomas Av.,700.0,762.0,Melia,4.4,Sobreocupada,Regular,A nivel,3,3

@@ -1,0 +1,328 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.437244041792,-34.623159842985395,49992,6,Alberdi Juan Bautista Av.,600.0,659.0,Tilia,3.5,Ocupada,Regular,Bajo nivel,4,3
+-58.4391332087957,-34.623151403094894,49743,6,Alberdi Juan Bautista Av.,750.0,790.0,Platanus,3.6,Ocupada,Regular,Bajo nivel,38,15
+-58.437244041792,-34.623159842985395,50021,6,Alberdi Juan Bautista Av.,600.0,659.0,Tilia,3.5,Ocupada,Regular,Bajo nivel,25,8
+-58.437453431527395,-34.6231381690014,50022,6,Alberdi Juan Bautista Av.,600.0,677.0,Melia,3.5,Ocupada,Regular,Bajo nivel,6,4
+-58.437531924367704,-34.6231315401875,50025,6,Alberdi Juan Bautista Av.,600.0,689.0,Tilia,3.5,Ocupada,Regular,Bajo nivel,8,3
+-58.4285524618635,-34.6222772666581,50720,6,Alberdi Juan Bautista Av.,100.0,52.0,Ficus,2.5,Ocupada,Regular,A nivel,24,5
+-58.4365680001444,-34.623156935932805,50350,6,Alberdi Juan Bautista Av.,600.0,615.0,Ficus,3.2,Ocupada,Regular,Elevada,35,8
+-58.4366621846279,-34.6231653054585,50351,6,Alberdi Juan Bautista Av.,600.0,621.0,Jacaranda,3.2,Ocupada,Regular,Bajo nivel,20,7
+-58.4367747290267,-34.6231584103759,50353,6,Alberdi Juan Bautista Av.,600.0,637.0,Ficus,3.2,Ocupada,Regular,Elevada,30,9
+-58.44211961769171,-34.622755591914604,52484,6,Alberdi Juan Bautista Av.,1100.0,1011.0,Platanus,3.6,Ocupada,Regular,Elevada,37,17
+-58.4426590006456,-34.622741243643,52493,6,Alberdi Juan Bautista Av.,1100.0,1035.0,Platanus,3.6,Ocupada,Regular,Elevada,25,14
+-58.4418538483685,-34.6227608053167,52741,6,Alberdi Juan Bautista Av.,900.0,999.0,Ficus,3.6,Sobreocupada,Regular,Elevada,6,4
+-58.4455470606887,-34.6240640195983,52314,6,Alberdi Juan Bautista Av.,1200.0,1235.0,Ficus,4.8,Ocupada,Regular,Elevada,26,7
+-58.438962066643,-34.6230024299896,52823,6,Alberdi Juan Bautista Av.,700.0,757.0,Ficus,3.2,Ocupada,Regular,A nivel,15,7
+-58.444466644709394,-34.623606313547604,53074,6,Alberdi Juan Bautista Av.,1100.0,1176.0,Platanus,4.2,Sobreocupada,Regular,A nivel,39,13
+-58.440474731056995,-34.622852053547604,52602,6,Alberdi Juan Bautista Av.,800.0,885.0,Jacaranda,3.2,Ocupada,Regular,A nivel,6,5
+-58.44610992123071,-34.624374621730105,52361,6,Alberdi Juan Bautista Av.,1200.0,1277.0,Tilia,4.8,Ocupada,Regular,Bajo nivel,28,14
+-58.4455470606887,-34.6240640195983,52365,6,Alberdi Juan Bautista Av.,1200.0,1233.0,Tilia,4.8,Ocupada,Regular,Elevada,5,3
+-58.44581466124371,-34.6242041183566,52366,6,Alberdi Juan Bautista Av.,1200.0,1265.0,Tilia,4.8,Ocupada,Regular,Elevada,44,15
+-58.444466644709394,-34.623606313547604,52884,6,Alberdi Juan Bautista Av.,1100.0,1172.0,Ficus,4.2,Ocupada,Regular,A nivel,76,11
+-58.4431666030806,-34.622817027709196,52447,6,Alberdi Juan Bautista Av.,1000.0,1063.0,Tilia,5.2,Ocupada,Regular,Elevada,12,4
+-58.4383485964124,-34.623058272059495,53497,6,Alberdi Juan Bautista Av.,700.0,739.0,Platanus,3.2,Ocupada,Regular,A nivel,31,13
+-58.4290443900807,-34.6221890797351,54078,6,Alberdi Juan Bautista Av.,NA,97.0,Platanus,3.74,Ocupada,Regular,Bajo nivel,36,11
+-58.4282490754561,-34.6220622460429,54103,6,Alberdi Juan Bautista Av.,0.0,23.0,Platanus,3.74,Ocupada,Regular,A nivel,43,11
+-58.4282490754561,-34.6220622460429,54105,6,Alberdi Juan Bautista Av.,NA,27.0,Platanus,3.74,Ocupada,Regular,Bajo nivel,37,9
+-58.4418538483685,-34.6227608053167,53904,6,Alberdi Juan Bautista Av.,900.0,999.0,Ficus,3.6,Sobreocupada,Regular,Elevada,11,4
+-58.4418538483685,-34.6227608053167,53910,6,Alberdi Juan Bautista Av.,900.0,999.0,Ficus,3.6,Sobreocupada,Regular,Elevada,9,4
+-58.4418538483685,-34.6227608053167,53915,6,Alberdi Juan Bautista Av.,900.0,999.0,Ficus,3.6,Sobreocupada,Regular,Elevada,12,4
+-58.4418538483685,-34.6227608053167,53918,6,Alberdi Juan Bautista Av.,900.0,999.0,Ficus,3.6,Sobreocupada,Regular,Elevada,10,4
+-58.4383485964124,-34.623058272059495,53482,6,Alberdi Juan Bautista Av.,700.0,739.0,Tilia,3.2,Ocupada,Ochava,A nivel,42,15
+-58.435555287727794,-34.6230587079023,54828,6,Alberdi Juan Bautista Av.,500.0,557.0,Ficus,3.6,Ocupada,Regular,Elevada,29,7
+-58.4365075442585,-34.6233147938866,55590,6,Alberdi Juan Bautista Av.,600.0,612.0,Platanus,3.6,Ocupada,Ochava,Elevada,33,21
+-58.4432219387578,-34.622997357824104,56189,6,Alberdi Juan Bautista Av.,1000.0,1082.0,Platanus,3.8,Ocupada,Regular,A nivel,44,18
+-58.4482841919989,-34.62567114898,56222,6,Alberdi Juan Bautista Av.,1400.0,1420.0,Melia,3.8,Ocupada,Regular,A nivel,40,11
+-58.4425569683969,-34.6229087017082,56540,6,Alberdi Juan Bautista Av.,1000.0,1040.0,Ficus,3.8,Ocupada,Regular,Elevada,56,11
+-58.4421278916086,-34.6229201155059,56559,6,Alberdi Juan Bautista Av.,1000.0,1012.0,Tilia,3.8,Ocupada,Regular,Bajo nivel,14,3
+-58.433155229330794,-34.622883778613804,56314,6,Alberdi Juan Bautista Av.,300.0,378.0,Melia,3.6,Ocupada,Regular,A nivel,98,18
+-58.432225134998504,-34.62277362010639,56318,6,Alberdi Juan Bautista Av.,300.0,306.0,Platanus,3.6,Ocupada,Regular,A nivel,74,18
+-58.432751443919294,-34.622838962200696,56319,6,Alberdi Juan Bautista Av.,300.0,344.0,Ficus,3.6,Ocupada,Regular,A nivel,16,9
+-58.43596746413179,-34.6232675686761,57542,6,Alberdi Juan Bautista Av.,500.0,586.0,Jacaranda,3.8,Ocupada,Regular,A nivel,12,7
+-58.435702838130105,-34.623239401475,57630,6,Alberdi Juan Bautista Av.,500.0,570.0,Platanus,3.8,Sobreocupada,Regular,Elevada,34,19
+-58.435276632022706,-34.6230291222403,57636,6,Alberdi Juan Bautista Av.,500.0,539.0,Ficus,3.8,Ocupada,Regular,A nivel,20,3
+-58.43559868138221,-34.623228342983104,57638,6,Alberdi Juan Bautista Av.,500.0,568.0,Platanus,3.8,Ocupada,Regular,A nivel,43,22
+-58.44951218494229,-34.6262829875241,57904,6,Alberdi Juan Bautista Av.,1500.0,1522.0,Tilia,4,Ocupada,Regular,A nivel,21,14
+-58.4338612439528,-34.622875839766806,58572,6,Alberdi Juan Bautista Av.,400.0,437.0,Platanus,3.2,Ocupada,Regular,Bajo nivel,45,12
+-58.42943524712699,-34.6224182198943,58592,6,Alberdi Juan Bautista Av.,100.0,112.0,Jacaranda,3.6,Ocupada,Regular,A nivel,12,6
+-58.4295830673049,-34.6224416158115,58597,6,Alberdi Juan Bautista Av.,100.0,128.0,Ficus,3.6,Ocupada,Regular,A nivel,32,7
+-58.433955844417,-34.622886055303304,58609,6,Alberdi Juan Bautista Av.,400.0,441.0,Ficus,3.2,Ocupada,Regular,A nivel,40,8
+-58.44541602872721,-34.6241628376269,59879,6,Alberdi Juan Bautista Av.,1200.0,1232.0,Platanus,4.4,Ocupada,Regular,Bajo nivel,50,17
+-58.4477476475259,-34.625236410243694,60161,6,Alberdi Juan Bautista Av.,1370.0,1395.0,Ficus,5,Ocupada,Regular,Elevada,13,3
+-58.4441302314258,-34.6232265247951,60867,6,Alberdi Juan Bautista Av.,1100.0,1135.0,Ficus,4.4,Ocupada,Regular,Elevada,21,2
+-58.44668504459539,-34.6247057083939,60550,6,Alberdi Juan Bautista Av.,1300.0,1303.0,Tilia,5,Ocupada,Regular,A nivel,60,11
+-58.44699215402989,-34.6248570962607,60561,6,Alberdi Juan Bautista Av.,1300.0,1347.0,Lagerstroemia,5,Ocupada,Regular,A nivel,2,3
+-58.4473619827149,-34.6250393899424,60563,6,Alberdi Juan Bautista Av.,1300.0,1383.0,Ficus,5,Ocupada,Regular,A nivel,10,2
+-58.4500309473736,-34.626367159108,61903,6,Alberdi Juan Bautista Av.,1500.0,1549.0,Ficus,3.8,Ocupada,Regular,Elevada,15,7
+-58.4501369461253,-34.6264223994785,61904,6,Alberdi Juan Bautista Av.,1500.0,1553.0,Ficus,3.8,Ocupada,Regular,Elevada,16,7
+-58.4499178461478,-34.6263098168807,61908,6,Alberdi Juan Bautista Av.,1500.0,1545.0,Ficus,3.8,Ocupada,Regular,Elevada,10,3
+-58.44849823876229,-34.6256064126939,62023,6,Alberdi Juan Bautista Av.,1400.0,1461.0,Tilia,4.8,Ocupada,Regular,Elevada,26,15
+-58.4380100340865,-34.6232571298195,63052,6,Alberdi Juan Bautista Av.,700.0,714.0,Tilia,3.8,Ocupada,Regular,A nivel,29,9
+-58.438223220626895,-34.6232378944522,63384,6,Alberdi Juan Bautista Av.,700.0,736.0,Jacaranda,3.8,Sobreocupada,Regular,A nivel,25,8
+-58.4413170716625,-34.622946369699896,64669,6,Alberdi Juan Bautista Av.,900.0,926.0,Ficus,3.6,Sobreocupada,Regular,Elevada,24,9
+-58.4309497591628,-34.622488195943305,65322,6,Alberdi Juan Bautista Av.,200.0,207.0,Jacaranda,3.8,Ocupada,Regular,A nivel,12,6
+-58.452711742985,-34.6277435266323,69709,6,Alberdi Juan Bautista Av.,1600.0,1697.0,Jacaranda,4,Ocupada,Regular,A nivel,8,5
+-58.4513857324646,-34.6270523903537,69724,6,Alberdi Juan Bautista Av.,1600.0,1625.0,Melia,4,Ocupada,Regular,A nivel,41,11
+-58.45231199480121,-34.6275351747013,69727,6,Alberdi Juan Bautista Av.,1600.0,1679.0,Tilia,4,Ocupada,Regular,Bajo nivel,38,13
+-58.45231199480121,-34.6275351747013,70190,6,Alberdi Juan Bautista Av.,1600.0,1679.0,Platanus,4,Ocupada,Regular,Bajo nivel,34,16
+-58.4513067528472,-34.6270112241804,70192,6,Alberdi Juan Bautista Av.,1600.0,1617.0,Tilia,4,Ocupada,Regular,A nivel,36,10
+-58.45231199480121,-34.6275351747013,70194,6,Alberdi Juan Bautista Av.,1600.0,1679.0,Tilia,4,Ocupada,Regular,A nivel,32,12
+-58.4521062940798,-34.627427960927896,70198,6,Alberdi Juan Bautista Av.,1600.0,1667.0,Tilia,4,Ocupada,Regular,Bajo nivel,35,10
+-58.45114335535111,-34.626926057012895,70202,6,Alberdi Juan Bautista Av.,1600.0,1605.0,Tilia,4,Ocupada,Regular,A nivel,48,13
+-58.4517747816755,-34.6272551712411,70203,6,Alberdi Juan Bautista Av.,1600.0,1645.0,Tilia,4,Ocupada,Regular,A nivel,24,10
+-58.4517747816755,-34.6272551712411,70206,6,Alberdi Juan Bautista Av.,1600.0,1651.0,Ficus,4,Ocupada,Regular,Elevada,47,10
+-58.45231199480121,-34.6275351747013,70207,6,Alberdi Juan Bautista Av.,1600.0,1679.0,Platanus,4,Ocupada,Regular,A nivel,38,16
+-58.4517747816755,-34.6272551712411,70213,6,Alberdi Juan Bautista Av.,1600.0,1643.0,Tilia,4,Ocupada,Regular,Elevada,38,10
+-58.4517747816755,-34.6272551712411,70214,6,Alberdi Juan Bautista Av.,1600.0,1655.0,Tilia,4,Ocupada,Regular,Elevada,22,9
+-58.452711742985,-34.6277435266323,70218,6,Alberdi Juan Bautista Av.,1600.0,1695.0,Tilia,4,Ocupada,Regular,A nivel,12,6
+-58.4527308050242,-34.6279474562779,74569,6,Alberdi Juan Bautista Av.,1600.0,1696.0,Melia,3.5,Ocupada,Regular,A nivel,37,12
+-58.4510815793913,-34.6270878540574,74572,6,Alberdi Juan Bautista Av.,1600.0,1602.0,Platanus,3.5,Ocupada,Regular,A nivel,52,15
+-58.451230589252205,-34.6271655219731,74580,6,Alberdi Juan Bautista Av.,1600.0,1614.0,Lagerstroemia,3.5,Ocupada,Regular,A nivel,3,3
+-58.4513345208809,-34.6272196937346,74581,6,Alberdi Juan Bautista Av.,1600.0,1616.0,Ficus,3.5,Ocupada,Regular,Elevada,52,5
+-58.4519920492621,-34.6275624101715,74188,6,Alberdi Juan Bautista Av.,1600.0,1660.0,Ficus,3.5,Ocupada,Regular,Elevada,56,9
+-58.4521636098843,-34.6276518298245,74190,6,Alberdi Juan Bautista Av.,1600.0,1664.0,Jacaranda,3.5,Ocupada,Regular,Elevada,6,4
+-58.451868662110904,-34.6274980988986,74192,6,Alberdi Juan Bautista Av.,1600.0,1654.0,Lagerstroemia,3.5,Ocupada,Regular,A nivel,28,9
+-58.4519303556682,-34.6275302545507,74194,6,Alberdi Juan Bautista Av.,1600.0,1656.0,Tilia,3.5,Ocupada,Regular,A nivel,34,10
+-58.451514987963,-34.62731375727461,75243,6,Alberdi Juan Bautista Av.,1600.0,1634.0,Tilia,3.5,Ocupada,Regular,A nivel,33,9
+-58.446763092456706,-34.6249281988106,80517,6,Alberdi Juan Bautista Av.,1300.0,1320.0,Ficus,4.6,Ocupada,Regular,Elevada,40,11
+-58.44705589853661,-34.6250725353146,80518,6,Alberdi Juan Bautista Av.,1300.0,1342.0,Tilia,4.6,Ocupada,Regular,Elevada,23,8
+-58.44684683072639,-34.6249694770822,80522,6,Alberdi Juan Bautista Av.,1300.0,1334.0,Jacaranda,4.6,Ocupada,Regular,Elevada,35,11
+-58.4475495980944,-34.6253159088855,80527,6,Alberdi Juan Bautista Av.,1300.0,1374.0,Tilia,4.6,Ocupada,Regular,A nivel,31,12
+-58.450528597371395,-34.6267968511768,83570,6,Alberdi Juan Bautista Av.,1500.0,1576.0,Lagerstroemia,4.5,Ocupada,Regular,A nivel,3,3
+-58.450528597371395,-34.6267968511768,83452,6,Alberdi Juan Bautista Av.,1500.0,1576.0,Tilia,4.5,Ocupada,Regular,A nivel,8,5
+-58.44990908321999,-34.6264842157093,84223,6,Alberdi Juan Bautista Av.,1500.0,1550.0,Lagerstroemia,4.5,Ocupada,Regular,A nivel,3,4
+-58.450361643063005,-34.6267121935581,84211,6,Alberdi Juan Bautista Av.,1500.0,1566.0,Tilia,4.5,Ocupada,Regular,A nivel,19,9
+-58.45028144677279,-34.6266715282284,84216,6,Alberdi Juan Bautista Av.,1500.0,1560.0,Tilia,4.5,Ocupada,Regular,A nivel,33,9
+-58.440342113465995,-34.623032858394396,88239,6,Alberdi Juan Bautista Av.,800.0,880.0,Ficus,3.6,Ocupada,Regular,Elevada,46,14
+-58.4405408938212,-34.6230130994129,88243,6,Alberdi Juan Bautista Av.,800.0,892.0,Ficus,3.6,Ocupada,Regular,Elevada,15,3
+-58.453658759034795,-34.6284834181064,299506,7,Alberdi Juan Bautista Av.,1700.0,1778,Ficus,4.4,Ocupada,Regular,Elevada,35,8
+-58.4535847498651,-34.628439282968,299507,7,Alberdi Juan Bautista Av.,1700.0,1768,Ficus,4.4,Ocupada,Regular,Elevada,30,7
+-58.4534802946804,-34.628376825059,299509,7,Alberdi Juan Bautista Av.,1700.0,1754,Platanus,4.4,Ocupada,Regular,A nivel,30,9
+-58.4533290685223,-34.6282864006089,299510,7,Alberdi Juan Bautista Av.,1700.0,1740,Melia,4.4,Ocupada,Regular,Elevada,53,13
+-58.453171100854995,-34.6281919447139,299513,7,Alberdi Juan Bautista Av.,1700.0,1726,Ficus,4.4,Ocupada,Regular,Elevada,60,16
+-58.4560364945551,-34.629537742972005,309591,7,Alberdi Juan Bautista Av.,1900.0,1948,Platanus,2.2,Ocupada,Regular,Elevada,36,9
+-58.4557825293104,-34.6294573975903,309592,7,Alberdi Juan Bautista Av.,1900.0,1924,Platanus,2.2,Ocupada,Regular,A nivel,35,10
+-58.45713467165261,-34.6297800488799,309664,7,Alberdi Juan Bautista Av.,2000.0,2039,Platanus,2.4,Ocupada,Regular,A nivel,35,16
+-58.4676176496937,-34.6330969890777,329192,7,Alberdi Juan Bautista Av.,2800.0,2840,Platanus,3.2,Ocupada,Regular,Elevada,29,15
+-58.4678204141123,-34.6331531026161,329193,7,Alberdi Juan Bautista Av.,2800.0,2850,Ficus,3.2,Ocupada,Regular,Elevada,56,9
+-58.4595207991252,-34.6305325434589,328909,7,Alberdi Juan Bautista Av.,2200.0,2261,Platanus,3,Ocupada,Regular,A nivel,21,8
+-58.4595207991252,-34.6305325434589,328910,7,Alberdi Juan Bautista Av.,2200.0,2253,Platanus,3,Ocupada,Regular,A nivel,42,11
+-58.4596044909283,-34.6305590207486,328913,7,Alberdi Juan Bautista Av.,2200.0,2271,Ficus,3,Ocupada,Regular,A nivel,52,9
+-58.4590783119925,-34.6303925542355,328914,7,Alberdi Juan Bautista Av.,2200.0,2221,Ficus,3,Ocupada,Regular,Elevada,64,8
+-58.4637143519966,-34.6319168010438,329050,7,Alberdi Juan Bautista Av.,2500.0,2540,Platanus,3.2,Ocupada,Regular,A nivel,44,12
+-58.4668247103508,-34.6328682048791,329078,7,Alberdi Juan Bautista Av.,2700.0,2780,Platanus,3.6,Ocupada,Regular,A nivel,35,15
+-58.4682495900819,-34.6332718724734,329099,7,Alberdi Juan Bautista Av.,2800.0,2888,Ficus,3.2,Ocupada,Regular,Elevada,45,8
+-58.463959744708006,-34.6319930044131,329143,7,Alberdi Juan Bautista Av.,2500.0,2574,Platanus,3.2,Ocupada,Regular,A nivel,79,16
+-58.4635180945014,-34.6318558554785,329144,7,Alberdi Juan Bautista Av.,2500.0,2526,Platanus,3.2,Ocupada,Regular,A nivel,27,16
+-58.4633200610978,-34.631794358052694,329145,7,Alberdi Juan Bautista Av.,2500.0,2514,Platanus,3.2,Ocupada,Regular,A nivel,39,12
+-58.465500899061205,-34.6324598526643,329151,7,Alberdi Juan Bautista Av.,2600.0,2680,Melia,3.6,Ocupada,Regular,A nivel,42,7
+-58.4579662004228,-34.6300440547414,317421,7,Alberdi Juan Bautista Av.,2100.0,2129,Platanus,2.4,Ocupada,Regular,Elevada,37,11
+-58.4580280695605,-34.630063631427305,317422,7,Alberdi Juan Bautista Av.,2100.0,2133,Platanus,2.4,Ocupada,Regular,A nivel,45,13
+-58.4583285364565,-34.630158704776605,317426,7,Alberdi Juan Bautista Av.,2100.0,2153,Platanus,2.6,Ocupada,Regular,A nivel,35,8
+-58.4585136667383,-34.6302172829991,317427,7,Alberdi Juan Bautista Av.,2100.0,2183,Platanus,2.6,Ocupada,Regular,Elevada,20,7
+-58.46069714416621,-34.6309995297708,322900,7,Alberdi Juan Bautista Av.,2300.0,2340,Ficus,3.2,Sobreocupada,Regular,A nivel,4,2
+-58.4606213499755,-34.6309767293984,322901,7,Alberdi Juan Bautista Av.,2300.0,2338,Platanus,3.2,Ocupada,Regular,Elevada,58,22
+-58.4583576060215,-34.6302711918413,316507,7,Alberdi Juan Bautista Av.,2100.0,2162,Platanus,2.4,Ocupada,Regular,A nivel,72,18
+-58.45791659532821,-34.6301316477876,316511,7,Alberdi Juan Bautista Av.,2100.0,2128,Platanus,2.4,Ocupada,Regular,A nivel,68,18
+-58.4620941670151,-34.6314173670897,322920,7,Alberdi Juan Bautista Av.,2400.0,2428,Platanus,3.2,Ocupada,Regular,A nivel,64,19
+-58.4618748606633,-34.6313514100056,322921,7,Alberdi Juan Bautista Av.,2400.0,2414,Platanus,3.2,Ocupada,Regular,A nivel,28,14
+-58.460804683686106,-34.6310318796218,323540,7,Alberdi Juan Bautista Av.,2300.0,2350,Ficus,3,Ocupada,Regular,Elevada,11,6
+-58.4605134031903,-34.630944256806,323542,7,Alberdi Juan Bautista Av.,2300.0,2328,Platanus,2.5,Ocupada,Regular,Elevada,59,24
+-58.4604067840802,-34.6309121834973,323543,7,Alberdi Juan Bautista Av.,2300.0,2318,Ficus,2.8,Ocupada,Regular,A nivel,9,4
+-58.4601747794205,-34.6308423911228,323544,7,Alberdi Juan Bautista Av.,2300.0,2306,Ficus,2.8,Ocupada,Regular,A nivel,10,5
+-58.46251487638471,-34.6315438954249,323560,7,Alberdi Juan Bautista Av.,2400.0,2466,Platanus,2.8,Ocupada,Regular,A nivel,51,9
+-58.4624048127146,-34.6315107939681,323561,7,Alberdi Juan Bautista Av.,2400.0,2450,Jacaranda,2.8,Ocupada,Regular,Elevada,16,7
+-58.4574437080646,-34.629982896591,327729,7,Alberdi Juan Bautista Av.,2000.0,2092,Platanus,2.8,Ocupada,Regular,Elevada,69,23
+-58.469202944486,-34.6336002354957,338711,7,Alberdi Juan Bautista Av.,2900.0,2942,Platanus,3,Ocupada,Regular,A nivel,26,8
+-58.468640234338,-34.6334273288164,338715,7,Alberdi Juan Bautista Av.,2900.0,2902,Melia,4.4,Ocupada,Ochava,Elevada,5,2
+-58.470952446443206,-34.6341354853612,338609,7,Alberdi Juan Bautista Av.,3000.0,3088,Ficus,3.2,Sobreocupada,Regular,Elevada,34,5
+-58.4720116847433,-34.6344803787983,338629,7,Alberdi Juan Bautista Av.,3100.0,3190,Platanus,3.2,Ocupada,Regular,Elevada,34,9
+-58.453806750878705,-34.628394900042,366508,7,Alberdi Juan Bautista Av.,1700.0,1785,Platanus,4,Ocupada,Regular,A nivel,44,12
+-58.4537323200405,-34.628348797238004,366510,7,Alberdi Juan Bautista Av.,1700.0,1781,Tilia,4,Ocupada,Regular,A nivel,39,9
+-58.453340462266205,-34.6281152483916,366515,7,Alberdi Juan Bautista Av.,1700.0,1737,Ficus,4,Ocupada,Regular,A nivel,19,8
+-58.466162573019,-34.6325588323826,362334,7,Alberdi Juan Bautista Av.,2700.0,2715,Tilia,3,Ocupada,Regular,A nivel,29,7
+-58.46627890930039,-34.6325946437249,362335,7,Alberdi Juan Bautista Av.,2700.0,2725,Tilia,3,Ocupada,Regular,A nivel,29,7
+-58.4666649329339,-34.6327134707839,362337,7,Alberdi Juan Bautista Av.,2700.0,2755,Tilia,3,Ocupada,Regular,A nivel,29,9
+-58.4618847771016,-34.6312560783807,362370,7,Alberdi Juan Bautista Av.,2400.0,2407,Tilia,3,Ocupada,Regular,A nivel,19,7
+-58.4621738801836,-34.631343027045496,362371,7,Alberdi Juan Bautista Av.,2400.0,2433,Tilia,3,Ocupada,Regular,A nivel,22,8
+-58.462586025145995,-34.6314669794757,362374,7,Alberdi Juan Bautista Av.,2400.0,2463,Tilia,3,Ocupada,Regular,A nivel,18,8
+-58.4627913666548,-34.6315287351716,362375,7,Alberdi Juan Bautista Av.,2400.0,2477,Tilia,3,Ocupada,Regular,A nivel,15,7
+-58.4627913666548,-34.6315287351716,362376,7,Alberdi Juan Bautista Av.,2400.0,2483,Tilia,3,Ocupada,Regular,A nivel,14,6
+-58.467369683108394,-34.632926031119396,351867,7,Alberdi Juan Bautista Av.,2800.0,2819,Ficus,3,Ocupada,Regular,A nivel,46,9
+-58.467369683108394,-34.632926031119396,351868,7,Alberdi Juan Bautista Av.,2800.0,2819,Jacaranda,3,Ocupada,Regular,A nivel,5,4
+-58.4675093369954,-34.6329646797011,351869,7,Alberdi Juan Bautista Av.,2800.0,2821,Platanus,3,Ocupada,Regular,A nivel,44,12
+-58.467828436514,-34.633052988362195,351871,7,Alberdi Juan Bautista Av.,2800.0,2851,Ficus,3,Ocupada,Regular,A nivel,16,9
+-58.4680459599707,-34.633113185940005,351872,7,Alberdi Juan Bautista Av.,2800.0,2871,Ficus,3,Ocupada,Regular,A nivel,49,14
+-58.46109864573361,-34.6310172242651,379490,7,Alberdi Juan Bautista Av.,2300.0,2363,Platanus,3.2,Ocupada,Regular,A nivel,39,20
+-58.461024179306605,-34.6309948236086,379491,7,Alberdi Juan Bautista Av.,2300.0,2357,Platanus,3.2,Ocupada,Regular,A nivel,37,15
+-58.4608351840446,-34.6309379706516,379492,7,Alberdi Juan Bautista Av.,2300.0,2347,Platanus,3.2,Ocupada,Regular,Bajo nivel,24,15
+-58.4651580535119,-34.6322504676061,400370,7,Alberdi Juan Bautista Av.,2600.0,2651,Platanus,3.5,Sobreocupada,Regular,Elevada,35,16
+-58.464936934368495,-34.632182401025894,400372,7,Alberdi Juan Bautista Av.,2600.0,2633,Tilia,3.5,Ocupada,Regular,Elevada,20,8
+-58.46484843726439,-34.6321551590477,400373,7,Alberdi Juan Bautista Av.,2600.0,2627,Ficus,3.5,Ocupada,Regular,Bajo nivel,14,8
+-58.464658761146005,-34.6320958044245,400375,7,Alberdi Juan Bautista Av.,2600.0,2611,Tilia,3.5,Ocupada,Regular,A nivel,32,9
+-58.4690158040289,-34.6333551985109,388448,7,Alberdi Juan Bautista Av.,2900.0,2933,Ficus,3.2,Ocupada,Regular,A nivel,13,5
+-58.45926725101479,-34.6305623723846,521040,7,Alberdi Juan Bautista Av.,2200.0,2242,Platanus,2.6,Ocupada,Regular,A nivel,41,11
+-58.50868177648021,-34.6565237205231,244859,9,Alberdi Juan Bautista Av.,6500,6575,Ficus,5,Ocupada,Regular,Elevada,54,8
+-58.51048336901339,-34.6577719517649,244349,9,Alberdi Juan Bautista Av.,6700,6797,Platanus,3.5,Ocupada,Ochava,A nivel,48,8
+-58.510107132209995,-34.6575220392527,244353,9,Alberdi Juan Bautista Av.,6700,6745,Platanus,4.4,Ocupada,Regular,A nivel,27,7
+-58.507675801768706,-34.65580747207,245199,9,Alberdi Juan Bautista Av.,6400,6467,Tilia,5,Ocupada,Regular,A nivel,21,7
+-58.5098873405692,-34.6573760430487,244365,9,Alberdi Juan Bautista Av.,6700,6711,Platanus,3.5,Ocupada,Regular,A nivel,32,8
+-58.507675801768706,-34.65580747207,245221,9,Alberdi Juan Bautista Av.,6400,6463,Tilia,5,Ocupada,Regular,A nivel,16,7
+-58.5075108984091,-34.6556881067643,245257,9,Alberdi Juan Bautista Av.,6400,6429,Tilia,5,Ocupada,Regular,A nivel,18,6
+-58.50898128679071,-34.6567337578251,244458,9,Alberdi Juan Bautista Av.,6600,6605,Tilia,4.4,Ocupada,Regular,A nivel,102,9
+-58.5091167722913,-34.6568320167988,244481,9,Alberdi Juan Bautista Av.,6600,6665,Ficus,4.4,Ocupada,Ochava,A nivel,27,6
+-58.49543999829479,-34.6451837369611,244775,9,Alberdi Juan Bautista Av.,4900,4920,Platanus,6,Ocupada,Regular,Elevada,23,10
+-58.510929657960794,-34.6580591445102,244227,9,Alberdi Juan Bautista Av.,6800,6829,Platanus,4.4,Ocupada,Regular,A nivel,57,7
+-58.5107488214428,-34.657945603876904,244235,9,Alberdi Juan Bautista Av.,6800,6811,Platanus,4.4,Ocupada,Regular,A nivel,53,8
+-58.508638504458,-34.6564923494162,244818,9,Alberdi Juan Bautista Av.,6500,6557,Ficus,5,Ocupada,Regular,A nivel,30,4
+-58.5012475180503,-34.6503279336208,251949,9,Alberdi Juan Bautista Av.,5600,5693,Tilia,3.2,Ocupada,Ochava,A nivel,27,9
+-58.5015589852032,-34.6506139852565,251902,9,Alberdi Juan Bautista Av.,5700,5717,Platanus,7,Ocupada,Regular,Elevada,27,9
+-58.50550231842399,-34.6542003265962,249526,9,Alberdi Juan Bautista Av.,6100,6169,Tilia,5,Ocupada,Regular,A nivel,39,6
+-58.501874741188495,-34.6509049995802,251817,9,Alberdi Juan Bautista Av.,5700,5765,Jacaranda,7,Ocupada,Regular,A nivel,20,8
+-58.505223019779905,-34.6539906763946,249556,9,Alberdi Juan Bautista Av.,6100,6143,Lagerstroemia,5,Ocupada,Regular,A nivel,1,2
+-58.499443968480904,-34.648903763590106,250695,9,Alberdi Juan Bautista Av.,5450,5476,Ficus,6,Ocupada,Ochava,Elevada,31,3
+-58.5049405029416,-34.6537786087801,249591,9,Alberdi Juan Bautista Av.,6100,6119,Tilia,5,Ocupada,Regular,A nivel,20,7
+-58.499443968480904,-34.648903763590106,250711,9,Alberdi Juan Bautista Av.,5450,5476,Ficus,6,Ocupada,Ochava,Elevada,31,3
+-58.5034287963719,-34.6522243131769,250737,9,Alberdi Juan Bautista Av.,5900,5915,Tilia,5,Ocupada,Regular,A nivel,18,6
+-58.503626408147106,-34.6524110017518,250739,9,Alberdi Juan Bautista Av.,5900,5933,Platanus,5,Ocupada,Regular,A nivel,37,12
+-58.502616959209696,-34.6514757330542,251297,9,Alberdi Juan Bautista Av.,5800,5827,Tilia,5,Ocupada,Regular,A nivel,25,7
+-58.5049405029416,-34.6537786087801,249614,9,Alberdi Juan Bautista Av.,6100,6119,Lagerstroemia,5,Ocupada,Regular,A nivel,8,3
+-58.502553963776904,-34.6514162732902,251312,9,Alberdi Juan Bautista Av.,5800,5815,Platanus,5,Ocupada,Regular,A nivel,46,10
+-58.5049405029416,-34.6537786087801,249632,9,Alberdi Juan Bautista Av.,6100,6115,Tilia,5,Ocupada,Regular,A nivel,17,6
+-58.5064413112335,-34.654897504558804,249167,9,Alberdi Juan Bautista Av.,6200,6269,Platanus,7,Ocupada,Regular,A nivel,45,8
+-58.5064413112335,-34.654897504558804,249182,9,Alberdi Juan Bautista Av.,6200,6267,Platanus,7,Ocupada,Regular,A nivel,32,8
+-58.5055968250013,-34.6542712657741,249476,9,Alberdi Juan Bautista Av.,6100,6187,Ficus,5,Ocupada,Regular,A nivel,76,5
+-58.50310463396111,-34.6519360326698,251187,9,Alberdi Juan Bautista Av.,5800,5891,Platanus,5,Ocupada,Regular,A nivel,85,10
+-58.4973951057252,-34.6467773718226,237156,9,Alberdi Juan Bautista Av.,5100,5173,Platanus,6,Ocupada,Regular,Elevada,47,16
+-58.4976929844372,-34.6470501174704,235710,9,Alberdi Juan Bautista Av.,5200,5201,Tilia,6,Ocupada,Regular,A nivel,21,8
+-58.497037858313504,-34.6464481460292,236963,9,Alberdi Juan Bautista Av.,5100,5113,Ficus,6,Ocupada,Regular,Elevada,40,8
+-58.4974583770664,-34.6468356799336,237237,9,Alberdi Juan Bautista Av.,5100,5191,Tilia,6,Ocupada,Regular,A nivel,22,8
+-58.4971438558396,-34.646545829748,237018,9,Alberdi Juan Bautista Av.,5100,5127,Platanus,6,Ocupada,Regular,A nivel,34,15
+-58.4971641432405,-34.6468014313075,257043,9,Alberdi Juan Bautista Av.,5100,5184,Ficus,5.6,Ocupada,Regular,Elevada,100,10
+-58.4972570703972,-34.6468870692533,257057,9,Alberdi Juan Bautista Av.,5100,5192,Ficus,5.6,Ocupada,Regular,Elevada,45,7
+-58.5017622099382,-34.6510399242464,255100,9,Alberdi Juan Bautista Av.,5700,5764,Platanus,4.5,Ocupada,Regular,A nivel,63,14
+-58.501582894631994,-34.6508746597819,255157,9,Alberdi Juan Bautista Av.,5700,5734,Platanus,4.5,Ocupada,Regular,A nivel,46,14
+-58.501520566539405,-34.650817215402,255179,9,Alberdi Juan Bautista Av.,5700,5726,Ficus,4.5,Ocupada,Regular,A nivel,50,6
+-58.50058980821029,-34.649958484348105,263603,9,Alberdi Juan Bautista Av.,5600,5606,Ficus,6,Ocupada,Regular,A nivel,46,6
+-58.50095271986301,-34.6502929095516,263605,9,Alberdi Juan Bautista Av.,5600,5674,Ficus,6,Ocupada,Regular,A nivel,22,4
+-58.5100784695883,-34.6577255837242,264226,9,Alberdi Juan Bautista Av.,6700,6782,Platanus,2.8,Ocupada,Regular,A nivel,27,11
+-58.509719641619206,-34.6574872328593,264227,9,Alberdi Juan Bautista Av.,6700,6714,Platanus,2.8,Ocupada,Regular,A nivel,23,10
+-58.5022694711308,-34.6516673719895,264538,9,Alberdi Juan Bautista Av.,5800,5818,Platanus,4.8,Ocupada,Regular,A nivel,49,14
+-58.5140462185639,-34.660149616919306,264285,9,Alberdi Juan Bautista Av.,7200,7200,Ficus,3.2,Ocupada,Ochava,Elevada,10,2
+-58.5149578868361,-34.6606665072194,264302,9,Alberdi Juan Bautista Av.,7200,7274,Ficus,3.5,Ocupada,Regular,Elevada,14,4
+-58.5098578201064,-34.6575790179737,264026,9,Alberdi Juan Bautista Av.,6700,6752,Platanus,2.8,Ocupada,Regular,A nivel,27,9
+-58.5133557762014,-34.6597510831054,264350,9,Alberdi Juan Bautista Av.,7100,7112,Tilia,3.5,Ocupada,Regular,A nivel,23,4
+-58.5152102649155,-34.660809162469505,264410,9,Alberdi Juan Bautista Av.,7250,7288,Platanus,3.2,Ocupada,Regular,A nivel,25,7
+-58.499204560062,-34.6486844388827,277075,9,Alberdi Juan Bautista Av.,5400,5420,Platanus,4.5,Ocupada,Regular,Elevada,40,8
+-58.5165887899082,-34.6615891373998,275300,9,Alberdi Juan Bautista Av.,7400,7402,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,11,5
+-58.49975682496671,-34.6489529231791,274501,9,Alberdi Juan Bautista Av.,5450,5497,Platanus,7,Ocupada,Ochava,A nivel,27,10
+-58.49975682496671,-34.6489529231791,274502,9,Alberdi Juan Bautista Av.,545,5495,Ficus,7,Ocupada,Regular,A nivel,25,6
+-58.4995565275755,-34.6487683449146,274503,9,Alberdi Juan Bautista Av.,5450,5479,Platanus,7,Ocupada,Regular,A nivel,28,9
+-58.5165162872946,-34.6614424482861,275357,9,Alberdi Juan Bautista Av.,7300,7394,Jacaranda,3.6,Ocupada,Regular,A nivel,32,7
+-58.5163238276966,-34.6613336540561,275359,9,Alberdi Juan Bautista Av.,7300,7374,Platanus,3.6,Ocupada,Regular,A nivel,43,11
+-58.5163238276966,-34.6613336540561,275360,9,Alberdi Juan Bautista Av.,7300,7374,Platanus,3.6,Ocupada,Regular,A nivel,44,12
+-58.499641096400296,-34.648846277006996,275924,9,Alberdi Juan Bautista Av.,5400,5487,Tilia,4.4,Ocupada,Regular,A nivel,17,5
+-58.4994913141206,-34.6487082490981,275925,9,Alberdi Juan Bautista Av.,5400,5457,Tilia,4.4,Ocupada,Regular,A nivel,43,6
+-58.511777924895,-34.658807830784,275972,9,Alberdi Juan Bautista Av.,6900,6952,Platanus,3.5,Ocupada,Regular,A nivel,53,8
+-58.50352382816379,-34.6529131650759,291613,9,Alberdi Juan Bautista Av.,5900,5964,Platanus,4.4,Ocupada,Regular,Bajo nivel,50,10
+-58.5034630640811,-34.6528543445382,291614,9,Alberdi Juan Bautista Av.,5900,5952,Platanus,4.4,Ocupada,Regular,Elevada,51,10
+-58.5034630640811,-34.6528543445382,291511,9,Alberdi Juan Bautista Av.,5900,5956,Platanus,4.7,Ocupada,Regular,A nivel,49,15
+-58.5041649870081,-34.6535299128096,291526,9,Alberdi Juan Bautista Av.,6000,6038,Tilia,4.7,Ocupada,Regular,A nivel,22,7
+-58.511111270494006,-34.6583941717733,279085,9,Alberdi Juan Bautista Av.,6800.0,6886,Platanus,3.2,Ocupada,Regular,A nivel,38,8
+-58.5094112273579,-34.657282410804804,279086,9,Alberdi Juan Bautista Av.,6600.0,6690,Ficus,2.8,Ocupada,Regular,A nivel,23,6
+-58.5084603964287,-34.656595173154805,279110,9,Alberdi Juan Bautista Av.,6500.0,6590,Tilia,5.6,Ocupada,Regular,Elevada,17,6
+-58.5084603964287,-34.656595173154805,279111,9,Alberdi Juan Bautista Av.,6500.0,6586,Platanus,5.6,Ocupada,Regular,A nivel,37,9
+-58.5094112273579,-34.657282410804804,279156,9,Alberdi Juan Bautista Av.,6600.0,6690,Platanus,2.8,Ocupada,Regular,A nivel,33,10
+-58.5084603964287,-34.656595173154805,279181,9,Alberdi Juan Bautista Av.,6500.0,6592,Tilia,5.6,Ocupada,Regular,A nivel,21,6
+-58.5084603964287,-34.656595173154805,279182,9,Alberdi Juan Bautista Av.,6500.0,6586,Platanus,5.6,Ocupada,Regular,A nivel,39,12
+-58.5081650415956,-34.6563810469273,279183,9,Alberdi Juan Bautista Av.,6500.0,6502,Platanus,5.6,Ocupada,Regular,A nivel,26,10
+-58.488474945254296,-34.641715764482605,307429,9,Alberdi Juan Bautista Av.,4400.0,4450,Ficus,4.4,Ocupada,Regular,A nivel,35,3
+-58.488249270466994,-34.6416089002679,307431,9,Alberdi Juan Bautista Av.,4400.0,4428,Ficus,4.4,Ocupada,Regular,A nivel,24,8
+-58.51385194656179,-34.6598223340906,311917,9,Alberdi Juan Bautista Av.,7100.0,7139,Ficus,3.2,Ocupada,Regular,A nivel,58,8
+-58.493983802603594,-34.6443399528808,311199,9,Alberdi Juan Bautista Av.,4800.0,4832,Ficus,4.4,Ocupada,Regular,Elevada,29,7
+-58.494309056084205,-34.644495820831196,311203,9,Alberdi Juan Bautista Av.,4800.0,4860,Platanus,4.4,Ocupada,Regular,Elevada,36,12
+-58.494469977719,-34.6445729371456,311204,9,Alberdi Juan Bautista Av.,4800.0,4870,Platanus,4.4,Ocupada,Regular,Elevada,16,10
+-58.4857865024273,-34.6404409797254,307495,9,Alberdi Juan Bautista Av.,4250.0,4290,Ficus,3.1,Ocupada,Regular,Elevada,33,7
+-58.4857865024273,-34.6404409797254,307497,9,Alberdi Juan Bautista Av.,4250.0,4290,Platanus,3.1,Ocupada,Regular,Elevada,28,9
+-58.5148349194352,-34.6603870113829,311732,9,Alberdi Juan Bautista Av.,7200.0,7243,Platanus,3.2,Ocupada,Regular,A nivel,32,9
+-58.4840154528389,-34.6396117558727,307569,9,Alberdi Juan Bautista Av.,4150.0,4154,Platanus,3.8,Ocupada,Regular,Elevada,36,12
+-58.4840154528389,-34.6396117558727,307570,9,Alberdi Juan Bautista Av.,4150.0,4154,Platanus,3.8,Ocupada,Regular,A nivel,43,12
+-58.4875613757739,-34.641285514524895,310818,9,Alberdi Juan Bautista Av.,4300.0,4394,Ficus,4,Ocupada,Regular,Elevada,10,2
+-58.516498502621495,-34.661326626303705,302265,9,Alberdi Juan Bautista Av.,7300.0,7381,Jacaranda,3,Ocupada,Regular,Bajo nivel,10,7
+-58.5160120458119,-34.6610524141432,302268,9,Alberdi Juan Bautista Av.,7300.0,7323,Jacaranda,3,Ocupada,Regular,A nivel,10,6
+-58.5172064929498,-34.6617268167344,302308,9,Alberdi Juan Bautista Av.,7400.0,7449,Jacaranda,3.4,Ocupada,Ochava,Bajo nivel,10,7
+-58.5171770284499,-34.6617101587136,302309,9,Alberdi Juan Bautista Av.,7400.0,7443,Jacaranda,3.4,Ocupada,Regular,A nivel,9,7
+-58.516969890954705,-34.6615930512936,302311,9,Alberdi Juan Bautista Av.,7400.0,7415,Jacaranda,3.4,Ocupada,Regular,A nivel,11,8
+-58.4906705113994,-34.64273669121361,312590,9,Alberdi Juan Bautista Av.,4600.0,4600,Ficus,4.4,Ocupada,Regular,A nivel,67,9
+-58.4906705113994,-34.64273669121361,312591,9,Alberdi Juan Bautista Av.,4600.0,4594,Ficus,4.4,Ocupada,Regular,A nivel,54,10
+-58.4913443123635,-34.643074684638,312601,9,Alberdi Juan Bautista Av.,4600.0,4646,Platanus,4.2,Ocupada,Regular,A nivel,29,6
+-58.4909710265133,-34.642895767362496,312606,9,Alberdi Juan Bautista Av.,4600.0,4608,Ficus,4.2,Ocupada,Ochava,A nivel,13,2
+-58.506003371508896,-34.6547858349529,309747,9,Alberdi Juan Bautista Av.,6200.0,6224,Platanus,4.8,Ocupada,Regular,A nivel,37,9
+-58.5061491255944,-34.6548932993625,309748,9,Alberdi Juan Bautista Av.,6200.0,6258,Platanus,4.8,Ocupada,Regular,A nivel,54,10
+-58.4984761586697,-34.6480120234477,298100,9,Alberdi Juan Bautista Av.,5300.0,5316,Ficus,4.5,Ocupada,Regular,A nivel,61,8
+-58.4985385734768,-34.6480695472675,298102,9,Alberdi Juan Bautista Av.,5300.0,5344,Tilia,4.5,Ocupada,Regular,A nivel,13,6
+-58.504762520073605,-34.653860403561,309017,9,Alberdi Juan Bautista Av.,6100.0,6114,Platanus,4.4,Ocupada,Regular,A nivel,33,13
+-58.504958829646995,-34.6540077613635,309020,9,Alberdi Juan Bautista Av.,6100.0,6132,Platanus,4.4,Ocupada,Regular,A nivel,37,12
+-58.50502800155439,-34.6540596843596,309021,9,Alberdi Juan Bautista Av.,6100.0,6140,Platanus,4.4,Ocupada,Regular,A nivel,42,13
+-58.50513715857229,-34.654141621444204,309022,9,Alberdi Juan Bautista Av.,6100.0,6152,Platanus,4.4,Ocupada,Regular,Elevada,31,11
+-58.5053070559222,-34.6542691518382,309024,9,Alberdi Juan Bautista Av.,6100.0,6166,Lagerstroemia,4.4,Ocupada,Regular,A nivel,3,3
+-58.5153925372353,-34.6607022093795,309966,9,Alberdi Juan Bautista Av.,7200.0,7279,Ficus,3.2,Ocupada,Regular,A nivel,7,4
+-58.4933619691737,-34.6440442550379,331672,9,Alberdi Juan Bautista Av.,4700.0,4784,Ficus,4.2,Ocupada,Regular,Elevada,60,10
+-58.5128505160928,-34.6592477020479,330297,9,Alberdi Juan Bautista Av.,7000.0,7041,Ficus,3.2,Ocupada,Regular,Bajo nivel,15,3
+-58.5130305149217,-34.6593516107378,330300,9,Alberdi Juan Bautista Av.,7000.0,7061,Ficus,3.2,Ocupada,Regular,A nivel,23,3
+-58.5130305149217,-34.6593516107378,330301,9,Alberdi Juan Bautista Av.,7000.0,7061,Ficus,3.2,Ocupada,Regular,A nivel,36,4
+-58.479330878218,-34.637452333263504,320900,9,Alberdi Juan Bautista Av.,3800.0,3860,Platanus,3.2,Ocupada,Regular,A nivel,33,12
+-58.4893351148361,-34.6421262862571,318322,9,Alberdi Juan Bautista Av.,4450.0,4492,Platanus,4,Ocupada,Regular,A nivel,34,17
+-58.4892913431917,-34.642105562228195,318323,9,Alberdi Juan Bautista Av.,4450.0,4490,Platanus,4,Ocupada,Regular,A nivel,28,15
+-58.4891312759488,-34.6420297768956,318324,9,Alberdi Juan Bautista Av.,4450.0,4478,Platanus,4,Ocupada,Regular,A nivel,41,15
+-58.488967082630005,-34.641952037677896,318325,9,Alberdi Juan Bautista Av.,4450.0,4468,Platanus,4,Ocupada,Regular,A nivel,25,12
+-58.4888037166764,-34.64187468981,318326,9,Alberdi Juan Bautista Av.,4450.0,4456,Platanus,4,Ocupada,Regular,A nivel,38,15
+-58.492091772417,-34.6434306305038,318338,9,Alberdi Juan Bautista Av.,4650.0,4694,Platanus,4,Ocupada,Regular,Elevada,34,15
+-58.492091772417,-34.6434306305038,318339,9,Alberdi Juan Bautista Av.,4650.0,4694,Platanus,4,Ocupada,Regular,Elevada,36,15
+-58.4917779592002,-34.6432802677776,318340,9,Alberdi Juan Bautista Av.,4650.0,4660,Platanus,4,Ocupada,Regular,Elevada,34,16
+-58.491658980039304,-34.643223258892306,318342,9,Alberdi Juan Bautista Av.,4650.0,4652,Ficus,4,Ocupada,Regular,Elevada,75,11
+-58.4984934093239,-34.6477882360141,534218,9,Alberdi Juan Bautista Av.,5300.0,5301,Ficus,6,Ocupada,Ochava,Elevada,27,2
+-58.498575852874296,-34.647864219233796,534220,9,Alberdi Juan Bautista Av.,5300.0,5317,Ficus,6,Ocupada,Regular,A nivel,21,7
+-58.498637221462296,-34.6479207788173,534221,9,Alberdi Juan Bautista Av.,5300.0,5321,Platanus,6,Ocupada,Regular,A nivel,44,15
+-58.498762861907394,-34.6480365734009,534224,9,Alberdi Juan Bautista Av.,5300.0,5343,Tilia,6,Ocupada,Regular,Bajo Nivel,21,10
+-58.482508462063294,-34.6389107340974,535084,9,Alberdi Juan Bautista Av.,4100.0,4092,Tilia,3,Ocupada,Regular,A Nivel,5,3
+-58.4820445028672,-34.6386983187541,535086,9,Alberdi Juan Bautista Av.,4100.0,4050,Platanus,3,Ocupada,Regular,A Nivel,43,14
+-58.48157666444121,-34.6384841244724,535090,9,Alberdi Juan Bautista Av.,4100.0,4002,Platanus,3,Ocupada,Regular,A Nivel,47,15
+-58.48324986561979,-34.6392503468509,535120,9,Alberdi Juan Bautista Av.,4100.0,4102,Tilia,5.6,Ocupada,Regular,A Nivel,2,3
+-58.48324986561979,-34.6392503468509,535121,9,Alberdi Juan Bautista Av.,4100.0,4102,Tilia,5.6,Ocupada,Regular,A Nivel,3,3
+-58.4738785548224,-34.6351483735859,330226,10,Alberdi Juan Bautista Av.,3300.0,3350.0,Platanus,3.2,Ocupada,Regular,A nivel,54,9
+-58.4756491355023,-34.6358685288169,331854,10,Alberdi Juan Bautista Av.,3500.0,3514.0,Platanus,3.2,Ocupada,Regular,A nivel,34,7
+-58.4755380775345,-34.6358215547648,331855,10,Alberdi Juan Bautista Av.,3500.0,3506.0,Jacaranda,3.2,Ocupada,Regular,A nivel,5,2
+-58.477555783822794,-34.6366712513716,322804,10,Alberdi Juan Bautista Av.,3700.0,3712.0,Platanus,4.4,Ocupada,Regular,A nivel,38,8
+-58.477850139333704,-34.6366027150552,323113,10,Alberdi Juan Bautista Av.,3700.0,3743.0,Ficus,3.2,Ocupada,Regular,A nivel,40,4
+-58.4749556488301,-34.6355739146997,326854,10,Alberdi Juan Bautista Av.,3400.0,3458.0,Jacaranda,3.2,Ocupada,Regular,Elevada,7,5
+-58.47470208740211,-34.6354672692563,326856,10,Alberdi Juan Bautista Av.,3400.0,3420.0,Ficus,3.2,Ocupada,Regular,Elevada,19,3
+-58.47470208740211,-34.6354672692563,326857,10,Alberdi Juan Bautista Av.,3400.0,3420.0,Ficus,3.2,Ocupada,Regular,A nivel,6,2
+-58.4725385059581,-34.6344735304883,323425,10,Alberdi Juan Bautista Av.,3200.0,3223.0,Tilia,3,Ocupada,Regular,A nivel,29,10
+-58.4920258442389,-34.6432184772796,346607,10,Alberdi Juan Bautista Av.,4600.0,4685.0,Platanus,4.4,Ocupada,Regular,A nivel,37,13
+-58.49196479156771,-34.6431892240502,346608,10,Alberdi Juan Bautista Av.,4600.0,4679.0,Platanus,4.4,Ocupada,Regular,A nivel,35,12
+-58.479955790954705,-34.6375397354162,344051,10,Alberdi Juan Bautista Av.,3800.0,3891.0,Jacaranda,3.4,Ocupada,Regular,A nivel,11,7
+-58.4739169327555,-34.6349725203413,341083,10,Alberdi Juan Bautista Av.,3300.0,3349.0,Jacaranda,3.5,Ocupada,Regular,A nivel,0,7
+-58.4737489723211,-34.6349117141793,341084,10,Alberdi Juan Bautista Av.,3300.0,3327.0,Jacaranda,3.5,Ocupada,Regular,A nivel,0,5
+-58.4758544838437,-34.6357549680416,333634,10,Alberdi Juan Bautista Av.,3500.0,3541.0,Tilia,3.2,Ocupada,Regular,A nivel,10,6
+-58.4758544838437,-34.6357549680416,333635,10,Alberdi Juan Bautista Av.,3500.0,3541.0,Tilia,3.2,Ocupada,Regular,Elevada,17,7
+-58.4758544838437,-34.6357549680416,333636,10,Alberdi Juan Bautista Av.,3500.0,3541.0,Tilia,3.2,Ocupada,Regular,A nivel,10,7
+-58.49254076545171,-34.6434602306597,364396,10,Alberdi Juan Bautista Av.,4700.0,4719.0,Platanus,4.4,Ocupada,Regular,A nivel,32,12
+-58.4926627357382,-34.6435186772368,364398,10,Alberdi Juan Bautista Av.,4700.0,4727.0,Platanus,4.4,Ocupada,Regular,Bajo nivel,33,10
+-58.4928374380198,-34.6436023919338,364400,10,Alberdi Juan Bautista Av.,4700.0,4753.0,Platanus,4.4,Ocupada,Regular,A nivel,32,11
+-58.492946292534,-34.6436545531651,364401,10,Alberdi Juan Bautista Av.,4700.0,4755.0,Tilia,4.4,Ocupada,Regular,Bajo nivel,6,3
+-58.493388291829795,-34.6438663500313,364405,10,Alberdi Juan Bautista Av.,4700.0,4789.0,Platanus,4.4,Ocupada,Regular,Elevada,22,10
+-58.493388291829795,-34.6438663500313,364407,10,Alberdi Juan Bautista Av.,4700.0,4789.0,Platanus,4.4,Sobreocupada,Ochava,A nivel,18,9
+-58.4940881888821,-34.64420402857,350307,10,Alberdi Juan Bautista Av.,4800.0,4831.0,Platanus,4.4,Ocupada,Regular,A nivel,19,6
+-58.494174108779,-34.6442452032024,350308,10,Alberdi Juan Bautista Av.,4800.0,4837.0,Ficus,4.4,Ocupada,Regular,A nivel,18,3
+-58.494421042231906,-34.6443635383906,350309,10,Alberdi Juan Bautista Av.,4800.0,4847.0,Platanus,4.4,Ocupada,Regular,A nivel,24,6
+-58.4945313599823,-34.6444164044734,350310,10,Alberdi Juan Bautista Av.,4800.0,4855.0,Platanus,4.4,Ocupada,Regular,A nivel,18,7
+-58.4945313599823,-34.6444164044734,350311,10,Alberdi Juan Bautista Av.,4800.0,4861.0,Ficus,4.4,Ocupada,Regular,Elevada,16,4
+-58.4946903187194,-34.6444925798134,350312,10,Alberdi Juan Bautista Av.,4800.0,4869.0,Platanus,4.4,Ocupada,Regular,A nivel,27,6
+-58.4948678787348,-34.6445800985948,350314,10,Alberdi Juan Bautista Av.,4800.0,4877.0,Platanus,4.4,Ocupada,Regular,A nivel,24,5
+-58.489735158947894,-34.6421335124046,350359,10,Alberdi Juan Bautista Av.,4500.0,4509.0,Platanus,4,Ocupada,Regular,A nivel,39,7
+-58.484290023594895,-34.6395388161745,421025,10,Alberdi Juan Bautista Av.,4100.0,4171.0,Platanus,4,Ocupada,Regular,Bajo nivel,21,12
+-58.4835931245241,-34.6392129924724,421027,10,Alberdi Juan Bautista Av.,4100.0,4129.0,Ficus,4,Ocupada,Regular,A nivel,23,14
+-58.4835931245241,-34.6392129924724,421028,10,Alberdi Juan Bautista Av.,4100.0,4127.0,Lagerstroemia,4,Ocupada,Regular,A nivel,7,4
+-58.4833879577899,-34.6391168897006,421029,10,Alberdi Juan Bautista Av.,4100.0,4117.0,Platanus,4,Ocupada,Regular,A nivel,39,18
+-58.48146171250811,-34.6382292041433,415124,10,Alberdi Juan Bautista Av.,3910.0,3981.0,Platanus,3.6,Ocupada,Regular,A nivel,29,15

@@ -1,0 +1,66 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.4757595337495,-34.6544885703248,268308,9,San Juan B. de La Salle Av.,2150,2164,Tilia,4,Ocupada,Regular,A nivel,18,8
+-58.4755423841424,-34.6545061340201,268306,9,San Juan B. de La Salle Av.,2150,2176,Tilia,4,Ocupada,Regular,A nivel,26,8
+-58.4792991188107,-34.654185515829504,264794,9,San Juan B. de La Salle Av.,2000,2031,Tilia,3.6,Ocupada,Regular,A nivel,27,8
+-58.4790023696803,-34.6542471223943,264795,9,San Juan B. de La Salle Av.,2000,2051,Tilia,3.6,Ocupada,Regular,A nivel,28,5
+-58.479573497516405,-34.6538557455852,274816,9,San Juan B. de La Salle Av.,1900,1996,Lagerstroemia,3.8,Sobreocupada,Ochava,Elevada,44,7
+-58.479573497516405,-34.6538557455852,274817,9,San Juan B. de La Salle Av.,1900,1996,Lagerstroemia,3.8,Sobreocupada,Regular,Elevada,11,5
+-58.479573497516405,-34.6538557455852,274818,9,San Juan B. de La Salle Av.,1900,1996,Lagerstroemia,3.8,Sobreocupada,Regular,Elevada,8,5
+-58.480691654227506,-34.6536280441255,274830,9,San Juan B. de La Salle Av.,1900,1906,Tilia,3.8,Ocupada,Regular,A nivel,9,2
+-58.480691654227506,-34.6536280441255,274831,9,San Juan B. de La Salle Av.,1900,1906,Tilia,3.8,Ocupada,Ochava,A nivel,5,2
+-58.480256555102606,-34.6540453083109,272716,9,San Juan B. de La Salle Av.,1900,1959,Ficus,4.4,Ocupada,Regular,Elevada,0,2
+-58.480256555102606,-34.6540453083109,272717,9,San Juan B. de La Salle Av.,1900,1959,Ficus,4.4,Ocupada,Regular,Elevada,0,2
+-58.480165575685504,-34.6540637513467,272718,9,San Juan B. de La Salle Av.,1900,1975,Tilia,4.4,Ocupada,Regular,A nivel,24,7
+-58.4800734785317,-34.6540824208431,272721,9,San Juan B. de La Salle Av.,1900,1981,Jacaranda,4.4,Ocupada,Fuera de línea,A nivel,44,12
+-58.4800734785317,-34.6540824208431,272722,9,San Juan B. de La Salle Av.,1900,1981,Jacaranda,4.4,Ocupada,Fuera de línea,A nivel,41,9
+-58.48396315151529,-34.653293522134,293251,9,San Juan B. de La Salle Av.,1700,1757,Ficus,2,Ocupada,Regular,Elevada,22,3
+-58.48360686002621,-34.6533657633972,293255,9,San Juan B. de La Salle Av.,1700,1799,Lagerstroemia,2,Ocupada,Regular,A nivel,22,6
+-58.480339649681795,-34.654028463617,293279,9,San Juan B. de La Salle Av.,1900,1939,Ficus,4.5,Ocupada,Regular,Elevada,8,3
+-58.480298102393704,-34.654036885960195,293280,9,San Juan B. de La Salle Av.,1900,1949,Ficus,4.5,Ocupada,Regular,Elevada,6,2
+-58.480165575685504,-34.6540637513467,293281,9,San Juan B. de La Salle Av.,1900,1975,Tilia,4.5,Ocupada,Regular,A nivel,19,8
+-58.4800734785317,-34.6540824208431,293284,9,San Juan B. de La Salle Av.,1900,1981,Jacaranda,4.5,Ocupada,Fuera de línea,A nivel,42,10
+-58.4800734785317,-34.6540824208431,293285,9,San Juan B. de La Salle Av.,1900,1981,Jacaranda,4.5,Ocupada,Regular,A nivel,38,9
+-58.4880473370574,-34.6525812782845,290707,9,San Juan B. de La Salle Av.,1500,1549,Ficus,3.6,Ocupada,Regular,A nivel,10,3
+-58.4880473370574,-34.6525812782845,290708,9,San Juan B. de La Salle Av.,1500,1549,Ficus,3.6,Ocupada,Regular,A nivel,29,2
+-58.4887940446655,-34.652383956731704,290710,9,San Juan B. de La Salle Av.,1500,1503,Tilia,3.6,Ocupada,Regular,A nivel,67,8
+-58.4778696339368,-34.6542582144153,284093,9,San Juan B. de La Salle Av.,2000,2030,Tilia,4.2,Ocupada,Regular,A nivel,25,7
+-58.4778696339368,-34.6542582144153,284094,9,San Juan B. de La Salle Av.,2000,2030,Tilia,4.2,Ocupada,Regular,A nivel,20,7
+-58.4778696339368,-34.6542582144153,284095,9,San Juan B. de La Salle Av.,2000,2030,Tilia,4.2,Ocupada,Regular,A nivel,25,8
+-58.4778696339368,-34.6542582144153,284096,9,San Juan B. de La Salle Av.,2000,2030,Tilia,4.2,Ocupada,Regular,A nivel,25,7
+-58.4771887013326,-34.6546095690818,294116,9,San Juan B. de La Salle Av.,2100,2159,Tilia,4.4,Ocupada,Regular,Elevada,38,10
+-58.477003831289,-34.6546470409072,294118,9,San Juan B. de La Salle Av.,2100,2169,Tilia,4.4,Ocupada,Regular,A nivel,27,8
+-58.477003831289,-34.6546470409072,294119,9,San Juan B. de La Salle Av.,2100,2169,Tilia,4.4,Ocupada,Regular,A nivel,5,5
+-58.483375635845,-34.653090118631,281449,9,San Juan B. de La Salle Av.,1700,1796,Lagerstroemia,3.5,Ocupada,Regular,Elevada,15,5
+-58.483375635845,-34.653090118631,281450,9,San Juan B. de La Salle Av.,1700,1792,Lagerstroemia,3.5,Sobreocupada,Regular,Elevada,14,5
+-58.4835625402841,-34.6530523818077,281452,9,San Juan B. de La Salle Av.,1700,1768,Melia,3.5,Ocupada,Regular,A nivel,56,7
+-58.4835625402841,-34.6530523818077,281453,9,San Juan B. de La Salle Av.,1700,1768,Melia,3.5,Ocupada,Regular,A nivel,57,7
+-58.483698888551906,-34.6530248523122,281454,9,San Juan B. de La Salle Av.,1700,1760,Tilia,3.5,Ocupada,Regular,A nivel,16,6
+-58.483698888551906,-34.6530248523122,281455,9,San Juan B. de La Salle Av.,1700,1756,Tilia,3.5,Ocupada,Regular,A nivel,25,8
+-58.48383324786101,-34.6529977242106,281456,9,San Juan B. de La Salle Av.,1700,1754,Tilia,3.5,Ocupada,Regular,A nivel,21,8
+-58.483924647822896,-34.6529792698202,281457,9,San Juan B. de La Salle Av.,1700,1750,Tilia,3.5,Ocupada,Regular,A nivel,18,8
+-58.483924647822896,-34.6529792698202,281458,9,San Juan B. de La Salle Av.,1700,1750,Tilia,3.5,Ocupada,Regular,A nivel,20,8
+-58.4841087480868,-34.652942098256304,281459,9,San Juan B. de La Salle Av.,1700,1744,Tilia,3.5,Ocupada,Regular,A nivel,21,7
+-58.4844772822478,-34.6528676868187,281463,9,San Juan B. de La Salle Av.,1700,1726,Tilia,3.5,Ocupada,Regular,A nivel,19,6
+-58.4821393909583,-34.6533364656878,281506,9,San Juan B. de La Salle Av.,1800,1890,Tilia,3.5,Ocupada,Regular,A nivel,12,5
+-58.482449980991795,-34.6532739043315,281511,9,San Juan B. de La Salle Av.,1800,1850,Tilia,3.5,Ocupada,Regular,A nivel,35,7
+-58.4828385380293,-34.653195637041996,281514,9,San Juan B. de La Salle Av.,1800,1820,Tilia,3.5,Ocupada,Regular,A nivel,22,11
+-58.4828385380293,-34.653195637041996,281517,9,San Juan B. de La Salle Av.,1800,1820,Tilia,3.5,Ocupada,Regular,A nivel,22,7
+-58.4828879357781,-34.653514291307104,289038,9,San Juan B. de La Salle Av.,1800.0,1829,Tilia,2.9,Ocupada,Regular,Elevada,27,5
+-58.4828879357781,-34.653514291307104,289041,9,San Juan B. de La Salle Av.,1800.0,1833,Ficus,2.9,Ocupada,Regular,Elevada,49,6
+-58.4827046391592,-34.6535514535399,289042,9,San Juan B. de La Salle Av.,1800.0,1853,Tilia,2.9,Ocupada,Regular,A nivel,30,7
+-58.48261259684789,-34.6535701144438,289043,9,San Juan B. de La Salle Av.,1800.0,1857,Tilia,2.9,Ocupada,Regular,Elevada,19,8
+-58.48233680861279,-34.6536260279305,289047,9,San Juan B. de La Salle Av.,1800.0,1869,Tilia,2.9,Ocupada,Regular,A nivel,23,8
+-58.4820600773159,-34.653682131966704,289051,9,San Juan B. de La Salle Av.,1800.0,1881,Ficus,2.9,Ocupada,Regular,Elevada,43,9
+-58.4862711255599,-34.6525121624517,316669,9,San Juan B. de La Salle Av.,1600.0,1646,Ficus,2.5,Sobreocupada,Regular,A nivel,8,5
+-58.4862711255599,-34.6525121624517,316670,9,San Juan B. de La Salle Av.,1600.0,1646,Ficus,2.5,Sobreocupada,Regular,A nivel,14,5
+-58.4862711255599,-34.6525121624517,316671,9,San Juan B. de La Salle Av.,1600.0,1646,Ficus,2.5,Sobreocupada,Regular,A nivel,13,5
+-58.48662336111361,-34.6524410293299,316672,9,San Juan B. de La Salle Av.,1600.0,1610,Tilia,2.5,Ocupada,Regular,A nivel,23,7
+-58.4715213200449,-34.655254547761196,315308,9,San Juan B. de La Salle Av.,2350.0,2350,Jacaranda,4,Ocupada,Ochava,A nivel,29,8
+-58.48662336111361,-34.6524410293299,316673,9,San Juan B. de La Salle Av.,1600.0,1610,Tilia,2.5,Ocupada,Regular,A nivel,20,7
+-58.48662336111361,-34.6524410293299,316674,9,San Juan B. de La Salle Av.,1600.0,1610,Tilia,2.5,Ocupada,Regular,A nivel,18,7
+-58.48662336111361,-34.6524410293299,316675,9,San Juan B. de La Salle Av.,1600.0,1610,Tilia,3,Ocupada,Regular,A nivel,19,7
+-58.485571575385706,-34.6529606704093,316685,9,San Juan B. de La Salle Av.,1600.0,1681,Tilia,3,Ocupada,Regular,A nivel,17,10
+-58.4857133067187,-34.6529319275485,316688,9,San Juan B. de La Salle Av.,1600.0,1665,Ficus,3,Ocupada,Regular,A nivel,13,3
+-58.4734982372776,-34.6548643611553,535610,9,San Juan B. de La Salle Av.,2200.0,2270,Lagerstroemia,4.4,Ocupada,Regular,A nivel,8,4
+-58.4734982372776,-34.6548643611553,535611,9,San Juan B. de La Salle Av.,2200.0,2270,Tilia,4.4,Ocupada,Regular,A nivel,32,6
+-58.4739599630241,-34.6547713039155,535615,9,San Juan B. de La Salle Av.,2200.0,2258,Melia,4.4,Ocupada,Regular,A nivel,78,9

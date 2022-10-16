@@ -1,0 +1,99 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.482838380467605,-34.5568939349999,119307,12,Larralde Crisólogo Av.,4000.0,4033.0,Ficus,3.2,Ocupada,Regular,Bajo nivel,55,12
+-58.4819815388587,-34.5564845902401,126721,12,Larralde Crisólogo Av.,3900.0,3939.0,Ficus,3.2,Ocupada,Regular,A nivel,83,9
+-58.4819815388587,-34.5564845902401,126734,12,Larralde Crisólogo Av.,3900.0,3939.0,Ficus,3.2,Ocupada,Regular,A nivel,67,14
+-58.480083162687905,-34.555488104763,128552,12,Larralde Crisólogo Av.,3700.0,3733.0,Ficus,3.2,Ocupada,Regular,A nivel,31,11
+-58.4931250605011,-34.5619274225723,127817,12,Larralde Crisólogo Av.,5100.0,5124.0,Ficus,3.3,Ocupada,Regular,A nivel,13,4
+-58.49399402762299,-34.562342687695306,127836,12,Larralde Crisólogo Av.,5100.0,5186.0,Lagerstroemia,3.3,Ocupada,Regular,Elevada,3,3
+-58.4801011942019,-34.5554980884259,128539,12,Larralde Crisólogo Av.,3600.0,3735.0,Ficus,3.2,Ocupada,Regular,A nivel,38,12
+-58.4994119958459,-34.564956848129604,127939,12,Larralde Crisólogo Av.,5600.0,5630.0,Jacaranda,2.8,Ocupada,Regular,A nivel,47,10
+-58.488752452008,-34.5597258469925,129008,12,Larralde Crisólogo Av.,4600.0,4679.0,Tilia,3.3,Ocupada,Regular,Elevada,28,7
+-58.4885066194353,-34.5596082838152,129012,12,Larralde Crisólogo Av.,4600.0,4643.0,Platanus,3.3,Ocupada,Regular,A nivel,58,12
+-58.4884251622918,-34.5595693288167,129013,12,Larralde Crisólogo Av.,4600.0,4619.0,Ficus,3.3,Ocupada,Regular,A nivel,36,7
+-58.490705837599,-34.5607744441285,129108,12,Larralde Crisólogo Av.,4800.0,4888.0,Platanus,3.2,Ocupada,Regular,Bajo nivel,41,4
+-58.490276369075296,-34.560569256011895,129187,12,Larralde Crisólogo Av.,4800.0,4820.0,Ficus,3.2,Ocupada,Regular,Bajo nivel,31,7
+-58.4906014512629,-34.560724558227,129190,12,Larralde Crisólogo Av.,4800.0,4876.0,Ficus,3.2,Ocupada,Regular,A nivel,57,4
+-58.49052020844271,-34.5606857324465,129193,12,Larralde Crisólogo Av.,4800.0,4850.0,Lagerstroemia,3.2,Ocupada,Regular,A nivel,3,5
+-58.4895616116048,-34.560112810883396,128950,12,Larralde Crisólogo Av.,4700.0,4741.0,Tilia,3.3,Ocupada,Regular,Bajo nivel,31,8
+-58.489480614605704,-34.560074079059,128951,12,Larralde Crisólogo Av.,4700.0,4733.0,Tilia,3.3,Ocupada,Regular,A nivel,34,9
+-58.4893177424762,-34.5599961952474,128952,12,Larralde Crisólogo Av.,4700.0,4709.0,Lagerstroemia,3.3,Ocupada,Regular,A nivel,8,3
+-58.4761796205588,-34.5534464374809,129850,12,Larralde Crisólogo Av.,3300.0,3320.0,Tilia,3,Ocupada,Regular,Elevada,3,4
+-58.486889699711895,-34.5588344934996,132264,12,Larralde Crisólogo Av.,4400.0,4475.0,Ficus,3.3,Sobreocupada,Regular,Elevada,32,7
+-58.48989525851261,-34.5603875023261,133865,12,Larralde Crisólogo Av.,4700.0,4800.0,Lagerstroemia,3.4,Ocupada,Regular,Bajo nivel,8,4
+-58.476551564342095,-34.553532706604,132810,12,Larralde Crisólogo Av.,3300.0,3369.0,Tilia,3.2,Ocupada,Regular,Elevada,38,13
+-58.4904971399615,-34.5605606509705,132593,12,Larralde Crisólogo Av.,4800.0,4841.0,Platanus,3.2,Ocupada,Regular,Bajo nivel,61,23
+-58.4904971399615,-34.5605606509705,132594,12,Larralde Crisólogo Av.,4800.0,4841.0,Platanus,3.2,Ocupada,Regular,Bajo nivel,85,23
+-58.4904971399615,-34.5605606509705,132595,12,Larralde Crisólogo Av.,4800.0,4841.0,Platanus,3.2,Ocupada,Regular,Bajo nivel,51,19
+-58.4904971399615,-34.5605606509705,132602,12,Larralde Crisólogo Av.,4800.0,4841.0,Platanus,3.2,Ocupada,Regular,Bajo nivel,75,23
+-58.4828506730766,-34.5570183326501,132875,12,Larralde Crisólogo Av.,4000.0,4050.0,Lagerstroemia,3,Ocupada,Regular,Bajo nivel,3,3
+-58.486998400075706,-34.5588864815682,132242,12,Larralde Crisólogo Av.,4400.0,4489.0,Tilia,3.3,Ocupada,Ochava,A nivel,38,5
+-58.4891626393577,-34.5600371729902,133560,12,Larralde Crisólogo Av.,4700.0,4702.0,Ficus,3.4,Ocupada,Regular,Bajo nivel,39,5
+-58.4781867331333,-34.5544410799514,136297,12,Larralde Crisólogo Av.,3500.0,3531.0,Lagerstroemia,4.2,Ocupada,Regular,Elevada,11,7
+-58.485615418555,-34.5582266578417,138162,12,Larralde Crisólogo Av.,4300.0,4327.0,Ficus,3.5,Ocupada,Regular,Elevada,46,6
+-58.4854511420008,-34.5581479879774,138165,12,Larralde Crisólogo Av.,4300.0,4301.0,Tilia,3.5,Ocupada,Regular,A nivel,23,4
+-58.491399281936594,-34.560993308695195,137124,12,Larralde Crisólogo Av.,4900.0,4955.0,Lagerstroemia,3.2,Ocupada,Regular,Elevada,3,2
+-58.471319704333,-34.5506374444947,137212,12,Larralde Crisólogo Av.,2700.0,2763.0,Ficus,3.5,Ocupada,Regular,Bajo nivel,36,8
+-58.4842639521924,-34.5575843590614,136164,12,Larralde Crisólogo Av.,4100.0,4199.0,Melia,3.2,Ocupada,Ochava,A nivel,88,24
+-58.489665982253705,-34.5602778660684,134039,12,Larralde Crisólogo Av.,4700.0,4758.0,Lagerstroemia,3.4,Ocupada,Regular,A nivel,5,4
+-58.4970383875239,-34.5638109778887,135142,12,Larralde Crisólogo Av.,5400.0,5422.0,Jacaranda,3,Ocupada,Regular,Bajo nivel,42,5
+-58.4704506471657,-34.5501558649528,136520,12,Larralde Crisólogo Av.,2600.0,2625.0,Tilia,3.5,Ocupada,Regular,A nivel,37,11
+-58.47309319389811,-34.551618602519305,136779,12,Larralde Crisólogo Av.,2900.0,2925.0,Melia,3.2,Ocupada,Regular,A nivel,32,2
+-58.4803989241106,-34.5557828681106,138227,12,Larralde Crisólogo Av.,3700.0,3782.0,Lagerstroemia,3.2,Ocupada,Regular,Bajo nivel,3,3
+-58.4866091890339,-34.558816515185796,143076,12,Larralde Crisólogo Av.,4400.0,4438.0,Tilia,3.5,Ocupada,Regular,A nivel,23,9
+-58.4864244578897,-34.5587281629501,143077,12,Larralde Crisólogo Av.,4400.0,4416.0,Lagerstroemia,3.5,Ocupada,Regular,Bajo nivel,4,2
+-58.4738955330344,-34.5520622801509,144427,12,Larralde Crisólogo Av.,3000.0,3029.0,Lagerstroemia,3,Ocupada,Regular,Elevada,8,7
+-58.47370410089621,-34.5519564036687,144429,12,Larralde Crisólogo Av.,3000.0,3005.0,Melia,3,Ocupada,Regular,A nivel,60,11
+-58.5026313184234,-34.566508623804104,143918,12,Larralde Crisólogo Av.,5900.0,5902.0,Jacaranda,3.2,Ocupada,Ochava,Elevada,52,6
+-58.4813260549761,-34.5562780364159,143746,12,Larralde Crisólogo Av.,3800.0,3882.0,Lagerstroemia,2.8,Ocupada,Regular,Bajo nivel,3,2
+-58.50439955219171,-34.5673840276216,147450,12,Larralde Crisólogo Av.,6000.0,6040.0,Tilia,2,Ocupada,Regular,A nivel,30,7
+-58.5056198751612,-34.5679825828669,153363,12,Larralde Crisólogo Av.,6100.0,6144.0,Ficus,2.2,Sobreocupada,Regular,Elevada,7,2
+-58.4740469035492,-34.5521459991183,164819,12,Larralde Crisólogo Av.,3000.0,3059.0,Melia,3,Ocupada,Regular,A nivel,16,8
+-58.4740469035492,-34.5521459991183,164820,12,Larralde Crisólogo Av.,3000.0,3059.0,Melia,3,Ocupada,Regular,A nivel,12,7
+-58.473969267216994,-34.5521030605862,164821,12,Larralde Crisólogo Av.,3000.0,3035.0,Melia,3,Ocupada,Regular,A nivel,6,6
+-58.500520280240096,-34.5653735106592,177529,12,Larralde Crisólogo Av.,5700.0,5705.0,Lagerstroemia,3,Ocupada,Regular,A nivel,1,2
+-58.500520280240096,-34.5653735106592,177535,12,Larralde Crisólogo Av.,5700.0,5705.0,Lagerstroemia,3,Ocupada,Regular,A nivel,1,2
+-58.5035234201787,-34.5668293391522,176796,12,Larralde Crisólogo Av.,5900.0,6029.0,Ficus,3,Ocupada,Regular,A nivel,37,15
+-58.5028544718845,-34.566502568625005,176805,12,Larralde Crisólogo Av.,5900.0,5929.0,Lagerstroemia,3,Ocupada,Regular,A nivel,2,4
+-58.5035234201787,-34.5668293391522,176813,12,Larralde Crisólogo Av.,5900.0,6041.0,Tilia,3,Ocupada,Regular,Elevada,23,10
+-58.493928444929104,-34.5622012696905,180554,12,Larralde Crisólogo Av.,5000.0,5085.0,Jacaranda,3.2,Ocupada,Regular,A nivel,4,2
+-58.5012018866856,-34.5658135058647,180629,12,Larralde Crisólogo Av.,5750.0,5786.0,Jacaranda,3.2,Ocupada,Ochava,A nivel,91,16
+-58.493928444929104,-34.5622012696905,181711,12,Larralde Crisólogo Av.,5000,5085.0,Ficus,3.2,Ocupada,Regular,A nivel,46,8
+-58.494217257282,-34.5623958409557,181714,12,Larralde Crisólogo Av.,5100,5195.0,Ficus,3.2,Ocupada,Regular,A nivel,38,8
+-58.503905283022696,-34.5671344831659,226334,12,Larralde Crisólogo Av.,5900,5990.0,Jacaranda,3.1,Ocupada,Ochava,A nivel,47,10
+-58.503722259482,-34.567044778283,226387,12,Larralde Crisólogo Av.,5900,5974.0,Platanus,3.1,Ocupada,Regular,A nivel,73,18
+-58.50186843624039,-34.5661372073181,257041,12,Larralde Crisólogo Av.,5800,5850.0,Ficus,3,Ocupada,Regular,A nivel,52,8
+-58.5016255299059,-34.566019867315,257331,12,Larralde Crisólogo Av.,5800,5814.0,Tilia,3,Ocupada,Regular,A nivel,35,11
+-58.501704874635706,-34.566058173657105,257192,12,Larralde Crisólogo Av.,5800,5822.0,Tilia,3,Ocupada,Regular,A nivel,26,9
+-58.5016255299059,-34.566019867315,257283,12,Larralde Crisólogo Av.,5800,5814.0,Tilia,3,Ocupada,Regular,A nivel,22,9
+-58.4854511420008,-34.5581479879774,380328,12,Larralde Crisólogo Av.,4300,4305.0,Tilia,3.6,Sobreocupada,Regular,A nivel,25,4
+-58.485615418555,-34.5582266578417,380329,12,Larralde Crisólogo Av.,4300,4327.0,Ficus,3.6,Ocupada,Regular,Elevada,32,6
+-58.4985329822535,-34.5645274185319,392977,12,Larralde Crisólogo Av.,5400,5560.0,Lagerstroemia,3,Ocupada,Regular,A nivel,2,2
+-58.498368761186704,-34.5644482505018,392980,12,Larralde Crisólogo Av.,5400,5532.0,Lagerstroemia,3,Ocupada,Regular,A nivel,2,2
+-58.498288369681795,-34.5644094950859,392981,12,Larralde Crisólogo Av.,5400,5526.0,Lagerstroemia,3,Ocupada,Regular,A nivel,2,2
+-58.4982071957784,-34.564370362381,392983,12,Larralde Crisólogo Av.,5400,5512.0,Lagerstroemia,3,Ocupada,Regular,A nivel,3,3
+-58.4980986585679,-34.564318038085496,392984,12,Larralde Crisólogo Av.,5400,5506.0,Lagerstroemia,3,Ocupada,Regular,A nivel,4,2
+-58.4980986585679,-34.564318038085496,392986,12,Larralde Crisólogo Av.,5400,5506.0,Lagerstroemia,3,Ocupada,Regular,A nivel,1,2
+-58.4978030967758,-34.564179452583,392987,12,Larralde Crisólogo Av.,5400,5494.0,Lagerstroemia,3,Ocupada,Regular,A nivel,2,2
+-58.4976949914476,-34.5641273671012,392989,12,Larralde Crisólogo Av.,5400,5488.0,Lagerstroemia,3,Ocupada,Regular,A nivel,2,2
+-58.4976949914476,-34.5641273671012,392990,12,Larralde Crisólogo Av.,5400,5486.0,Lagerstroemia,3,Ocupada,Regular,A nivel,1,2
+-58.497448337341794,-34.564008515778696,392994,12,Larralde Crisólogo Av.,5400,5460.0,Lagerstroemia,3,Ocupada,Regular,A nivel,2,2
+-58.49736573584471,-34.5639687137277,392995,12,Larralde Crisólogo Av.,5400,5456.0,Lagerstroemia,3,Ocupada,Regular,A nivel,2,2
+-58.497284331658,-34.5639294884877,392998,12,Larralde Crisólogo Av.,5400,5450.0,Lagerstroemia,3,Ocupada,Regular,A nivel,1,2
+-58.4971216761561,-34.5638511114221,392999,12,Larralde Crisólogo Av.,5400,5434.0,Lagerstroemia,3,Ocupada,Regular,Elevada,2,2
+-58.4970383875239,-34.5638109778887,393002,12,Larralde Crisólogo Av.,5400,5422.0,Lagerstroemia,3,Ocupada,Regular,A nivel,2,2
+-58.4970383875239,-34.5638109778887,393003,12,Larralde Crisólogo Av.,5400,5422.0,Lagerstroemia,3,Ocupada,Regular,A nivel,2,2
+-58.4618990051546,-34.5458572576935,86472,13,Larralde Crisólogo Av.,1700,1752.0,Lagerstroemia,3.2,Ocupada,Regular,A nivel,19,7
+-58.4618173324816,-34.5458165778188,86477,13,Larralde Crisólogo Av.,1700,1740.0,Lagerstroemia,3.2,Ocupada,Regular,A nivel,14,5
+-58.467211595788,-34.5483960630113,87379,13,Larralde Crisólogo Av.,2300,2303.0,Tilia,3.2,Ocupada,Regular,A nivel,33,9
+-58.467211595788,-34.5483960630113,87380,13,Larralde Crisólogo Av.,2300,2303.0,Tilia,3.2,Ocupada,Regular,A nivel,50,13
+-58.462023121610606,-34.5458083999793,94168,13,Larralde Crisólogo Av.,1700,1757.0,Melia,3.2,Ocupada,Regular,Bajo nivel,44,8
+-58.4615706122595,-34.545583011542,94176,13,Larralde Crisólogo Av.,1700,1703.0,Lagerstroemia,3.2,Ocupada,Regular,A nivel,13,3
+-58.469823452571106,-34.5499293345123,108984,13,Larralde Crisólogo Av.,2500,2570.0,Platanus,3.2,Ocupada,Regular,Bajo nivel,69,21
+-58.46941221647221,-34.5497018456217,109107,13,Larralde Crisólogo Av.,2500,2510.0,Tilia,3.2,Ocupada,Regular,Bajo nivel,36,11
+-58.472103110030794,-34.5511908384534,111734,13,Larralde Crisólogo Av.,2800,2812.0,Ficus,3.1,Sobreocupada,Regular,Elevada,41,6
+-58.4731104254228,-34.551748673692195,116912,13,Larralde Crisólogo Av.,2900,2946.0,Ficus,3.2,Ocupada,Regular,Elevada,12,2
+-58.4728047798666,-34.551579595261394,118060,13,Larralde Crisólogo Av.,2900,2910.0,Tilia,3.2,Ocupada,Regular,NA,43,14
+-58.4786472130391,-34.5548098884445,125857,13,Larralde Crisólogo Av.,3500,3600.0,Tilia,3.2,Ocupada,Regular,Bajo nivel,30,11
+-58.468431358013405,-34.5491685146021,135453,13,Larralde Crisólogo Av.,2400,2424.0,Ficus,3,Ocupada,Regular,Elevada,24,3
+-58.468805980300395,-34.5493722905075,135460,13,Larralde Crisólogo Av.,2400,2450.0,Ficus,3,Ocupada,Regular,A nivel,65,11
+NA,NA,257166,12,Larralde Crisólogo Av.,5800,522.0,Tilia,3,Ocupada,Regular,A nivel,30,9

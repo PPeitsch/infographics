@@ -1,0 +1,98 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.445576385985404,-34.5709953718463,118982,13,Lacroze Federico Av.,2400,2467.0,Jacaranda,3.6,Sobreocupada,Regular,A nivel,15,5
+-58.44553378199161,-34.5709245978234,118983,13,Lacroze Federico Av.,2400,2461.0,Jacaranda,3.6,Ocupada,Regular,A nivel,15,4
+-58.445639014341005,-34.5714734769516,129512,13,Lacroze Federico Av.,2400,2494.0,Lagerstroemia,3.6,Ocupada,Regular,A nivel,3,3
+-58.4454750892466,-34.571201517225596,129531,13,Lacroze Federico Av.,2400,2466.0,Ficus,3.6,Ocupada,Regular,A nivel,16,2
+-58.44860275886129,-34.5766740272482,132738,13,Lacroze Federico Av.,300,3060.0,Ficus,3.6,Ocupada,Regular,A nivel,89,13
+-58.44981263645229,-34.5788325274408,133014,13,Lacroze Federico Av.,3200,3292.0,Ficus,3.2,Ocupada,Regular,Elevada,34,10
+-58.449221240780794,-34.577829723084605,133024,13,Lacroze Federico Av.,3100,3182.0,Platanus,3.6,Ocupada,Regular,A nivel,31,10
+-58.4483757014315,-34.5758335457324,146850,13,Lacroze Federico Av.,2900,2985.0,Jacaranda,3.6,Ocupada,Regular,A nivel,57,10
+-58.448813380326605,-34.5766589903582,146938,13,Lacroze Federico Av.,3000,3075.0,Jacaranda,3.2,Ocupada,Regular,Elevada,63,17
+-58.448771459187896,-34.5765807251366,146939,13,Lacroze Federico Av.,3000,3061.0,Jacaranda,3.2,Ocupada,Regular,A nivel,53,14
+-58.4452824056038,-34.5708811654141,245409,13,Lacroze Federico Av.,2400,2448.0,Jacaranda,3.6,Ocupada,Regular,A nivel,28,9
+-58.4449608190512,-34.5702479466107,245448,13,Lacroze Federico Av.,2400,2408.0,Platanus,3.6,Ocupada,Regular,A nivel,5,4
+-58.449600786518495,-34.5781051419725,257714,13,Lacroze Federico Av.,3200,3213.0,Ficus,3.6,Sobreocupada,Regular,A nivel,38,7
+-58.449600786518495,-34.5781051419725,257725,13,Lacroze Federico Av.,3200,3217.0,Ficus,3.6,Sobreocupada,Regular,A nivel,34,8
+-58.4501552670847,-34.5790222956052,259225,13,Lacroze Federico Av.,3300,3307.0,Jacaranda,3.6,Ocupada,Ochava,A nivel,62,19
+-58.450542447419394,-34.5796609338716,259247,13,Lacroze Federico Av.,3300,3383.0,Jacaranda,3.6,Ocupada,Regular,A nivel,63,17
+-58.4506527403677,-34.5802022813632,544351,13,Lacroze Federico Av.,3400.0,3460,Tilia,3.6,Ocupada,Regular,Elevada,25,10
+-58.45013816032989,-34.579370156437,544376,13,Lacroze Federico Av.,3300.0,3344,Ficus,3.6,Ocupada,Regular,Elevada,41,9
+-58.44469103825129,-34.569646483944396,73742,14,Lacroze Federico Av.,2300.0,2393,Ficus,5.8,Ocupada,Regular,A nivel,30,4
+-58.44469103825129,-34.569646483944396,73746,14,Lacroze Federico Av.,2300.0,2395,Ficus,5.8,Ocupada,Regular,A nivel,19,4
+-58.4435319735454,-34.568452429275396,73758,14,Lacroze Federico Av.,2200.0,2277,Jacaranda,5.8,Sobreocupada,Regular,Elevada,15,9
+-58.443669984356205,-34.5685939841174,73760,14,Lacroze Federico Av.,2200.0,2299,Ficus,5.8,Sobreocupada,Regular,Elevada,10,5
+-58.443669984356205,-34.5685939841174,73761,14,Lacroze Federico Av.,2200.0,2299,Ficus,5.8,Sobreocupada,Regular,Elevada,14,3
+-58.4413139102935,-34.566186653326696,76621,14,Lacroze Federico Av.,1900.0,1983,Ficus,5.6,Sobreocupada,Regular,Elevada,10,3
+-58.440607841621706,-34.5654624066257,77062,14,Lacroze Federico Av.,1900.0,1913,Ficus,5.6,Ocupada,Regular,Elevada,30,6
+-58.438458831536,-34.5633462011324,80155,14,Lacroze Federico Av.,1700.0,1620,Ficus,3.2,Ocupada,Regular,Elevada,38,14
+-58.439895839797,-34.5648117035015,80934,14,Lacroze Federico Av.,1800.0,1839,Ficus,3,Ocupada,Regular,A nivel,5,2
+-58.4399232208928,-34.5648427134911,80935,14,Lacroze Federico Av.,1800.0,1843,Ficus,3,Ocupada,Regular,A nivel,16,3
+-58.4400968102753,-34.5650393085222,80937,14,Lacroze Federico Av.,1800.0,1865,Ficus,3,Ocupada,Regular,A nivel,12,3
+-58.440757921845105,-34.565818364525,84100,14,Lacroze Federico Av.,1900.0,1938,Ficus,6,Sobreocupada,Regular,Elevada,18,5
+-58.441047016499006,-34.566114901877796,84113,14,Lacroze Federico Av.,1900.0,1964,Tilia,6,Ocupada,Regular,Elevada,25,20
+-58.441047016499006,-34.566114901877796,84135,14,Lacroze Federico Av.,1900.0,1966,Tilia,6,Ocupada,Regular,Elevada,27,21
+-58.441047016499006,-34.566114901877796,84138,14,Lacroze Federico Av.,1900.0,1966,Tilia,6,Ocupada,Regular,Elevada,27,20
+-58.44256521964461,-34.567675373693106,89601,14,Lacroze Federico Av.,2100.0,2154,Ficus,5.6,Ocupada,Regular,Elevada,66,7
+-58.4423698552098,-34.567475006702196,89609,14,Lacroze Federico Av.,2100.0,2122,Jacaranda,5.6,Ocupada,Regular,A nivel,32,8
+-58.44331914766721,-34.5684544825501,94618,14,Lacroze Federico Av.,2200.0,2254,Ficus,5.6,Sobreocupada,Regular,A nivel,67,16
+-58.43913870095489,-34.5641226810133,97692,14,Lacroze Federico Av.,1700.0,1760,Ficus,3.4,Ocupada,Regular,A nivel,48,11
+-58.4393068227798,-34.5643131149793,97694,14,Lacroze Federico Av.,1700.0,1776,Ficus,3.4,Sobreocupada,Regular,Elevada,58,10
+-58.4390555222229,-34.564028462871796,97695,14,Lacroze Federico Av.,1700.0,1736,Ficus,3.4,Sobreocupada,Regular,Elevada,50,8
+-58.43913870095489,-34.5641226810133,97704,14,Lacroze Federico Av.,1700.0,1752,Lagerstroemia,3.4,Sobreocupada,Regular,Elevada,8,4
+-58.4399816806759,-34.565071805280105,107242,14,Lacroze Federico Av.,1800.0,1868,Ficus,3.2,Sobreocupada,Regular,Elevada,16,9
+-58.4399816806759,-34.565071805280105,107252,14,Lacroze Federico Av.,1800.0,1868,Jacaranda,3.2,Sobreocupada,Regular,Elevada,9,4
+-58.44616489794829,-34.5719686968792,122169,14,Lacroze Federico Av.,2500.0,2547,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,36,9
+-58.446207828485,-34.572039473869,122188,14,Lacroze Federico Av.,2500.0,2555,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,36,9
+-58.4461222889863,-34.571898449913995,122191,14,Lacroze Federico Av.,2500.0,2537,Jacaranda,3.6,Ocupada,Regular,Bajo nivel,37,10
+-58.446071563613394,-34.571814821710504,122193,14,Lacroze Federico Av.,2500.0,2523,Ficus,3.6,Ocupada,Regular,A nivel,7,2
+-58.4438563993833,-34.569000175096,545203,14,Lacroze Federico Av.,2300.0,2312,Ficus,5.6,Ocupada,Regular,A nivel,18,2
+-58.4442877539015,-34.5694425567145,545216,14,Lacroze Federico Av.,2300.0,2356,Ficus,5.6,Sobreocupada,Regular,Elevada,11,2
+-58.4442877539015,-34.5694425567145,545217,14,Lacroze Federico Av.,2300.0,2358,Ficus,5.6,Ocupada,Regular,Elevada,60,30
+-58.4445738555074,-34.5697359687429,545223,14,Lacroze Federico Av.,2300.0,2380,Ficus,5.6,Cerrada,Ochava,A nivel,14,5
+-58.4523352864591,-34.5828394936023,230094,15,Lacroze Federico Av.,3700.0,3732.0,Jacaranda,5.6,Ocupada,Regular,A nivel,39,13
+-58.452243337604706,-34.5826975121669,230148,15,Lacroze Federico Av.,3700.0,3716.0,Jacaranda,5.6,Ocupada,Regular,Bajo nivel,45,12
+-58.452555215321105,-34.5831790911539,229889,15,Lacroze Federico Av.,3700.0,3782.0,Ficus,5.6,Ocupada,Regular,A nivel,89,16
+-58.4521267465521,-34.5821657510121,225336,15,Lacroze Federico Av.,3600.0,3669.0,Jacaranda,5.2,Ocupada,Regular,A nivel,66,12
+-58.45257231076,-34.582854615688504,247216,15,Lacroze Federico Av.,3700.0,3745.0,Jacaranda,5,Ocupada,Regular,A nivel,69,10
+-58.453005989525,-34.5838845917417,232053,15,Lacroze Federico Av.,3800.0,3852.0,Jacaranda,6,Ocupada,Regular,Elevada,57,13
+-58.453005989525,-34.5838845917417,232091,15,Lacroze Federico Av.,3800.0,3852.0,Ficus,6,Ocupada,Regular,Elevada,38,4
+-58.4532447926774,-34.5842533358598,231872,15,Lacroze Federico Av.,3800.0,3888.0,Jacaranda,6,Ocupada,Regular,A nivel,45,12
+-58.4532110477938,-34.584201229456504,231922,15,Lacroze Federico Av.,3800.0,3876.0,Melia,6,Ocupada,Regular,A nivel,89,17
+-58.4530941059394,-34.5840206557451,231974,15,Lacroze Federico Av.,3800.0,3862.0,Jacaranda,6,Ocupada,Regular,A nivel,45,13
+-58.4520128109178,-34.5819897833033,238255,15,Lacroze Federico Av.,3600.0,3635.0,Jacaranda,5.6,Ocupada,Regular,Bajo nivel,60,17
+-58.45222271326921,-34.5823139659836,238336,15,Lacroze Federico Av.,3600.0,3697.0,Jacaranda,5.6,Ocupada,Ochava,Bajo nivel,59,16
+-58.454378679266995,-34.5860083020297,236175,15,Lacroze Federico Av.,4100.0,4114.0,Platanus,5.4,Ocupada,Regular,Bajo nivel,22,16
+-58.453019339802296,-34.5835354446358,237399,15,Lacroze Federico Av.,3800.0,3819.0,Jacaranda,5.2,Sobreocupada,Regular,Bajo nivel,50,15
+-58.4530652336839,-34.5836063115156,237430,15,Lacroze Federico Av.,3800.0,3825.0,Jacaranda,5.2,Ocupada,Regular,A nivel,41,15
+-58.454529278276794,-34.586243343723694,235965,15,Lacroze Federico Av.,4100.0,4136.0,Ficus,5.4,Ocupada,Regular,A nivel,4,2
+-58.454378679266995,-34.5860083020297,236208,15,Lacroze Federico Av.,4100.0,4114.0,Platanus,5.4,Ocupada,Regular,A nivel,38,14
+-58.4541206978131,-34.5856056637133,236450,15,Lacroze Federico Av.,4000.0,4080.0,Jacaranda,5.4,Ocupada,Regular,Bajo nivel,4,3
+-58.4537629595304,-34.5846933121708,236942,15,Lacroze Federico Av.,3900.0,3953.0,Jacaranda,5,Ocupada,Regular,A nivel,17,5
+-58.4537629595304,-34.5846933121708,236946,15,Lacroze Federico Av.,3900.0,3957.0,Jacaranda,5,Ocupada,Regular,A nivel,12,6
+-58.45474772893821,-34.5865842796224,235762,15,Lacroze Federico Av.,4100.0,4168.0,Ficus,5.4,Ocupada,Regular,Elevada,49,8
+-58.4542979691105,-34.585882336089696,236242,15,Lacroze Federico Av.,4100.0,4106.0,Platanus,5.4,Ocupada,Regular,A nivel,27,12
+-58.453134991904605,-34.5837140281569,237476,15,Lacroze Federico Av.,3800.0,3839.0,Jacaranda,5.2,Ocupada,Regular,A nivel,53,10
+-58.4546936944184,-34.5864999482621,235809,15,Lacroze Federico Av.,4100.0,4164.0,Platanus,5.4,Ocupada,Regular,A nivel,26,10
+-58.4532514668076,-34.5838938813399,237521,15,Lacroze Federico Av.,3800.0,3867.0,Jacaranda,5.2,Ocupada,Regular,A nivel,0,16
+-58.4544806734471,-34.5861674857426,236062,15,Lacroze Federico Av.,4100.0,4126.0,Platanus,5.4,Ocupada,Regular,Bajo nivel,18,7
+-58.4542521652165,-34.5858108488356,236315,15,Lacroze Federico Av.,4000.0,4096.0,Platanus,5.4,Ocupada,Regular,A nivel,39,11
+-58.454624061332105,-34.5863912720161,235857,15,Lacroze Federico Av.,4100.0,4150.0,Platanus,5.4,Ocupada,Regular,A nivel,69,18
+-58.4544449705591,-34.5861117638416,236094,15,Lacroze Federico Av.,4100.0,4122.0,Platanus,5.4,Ocupada,Regular,Bajo nivel,25,8
+-58.4540520800705,-34.585498569485104,236361,15,Lacroze Federico Av.,4000.0,4092.0,Platanus,5.4,Ocupada,Regular,A nivel,26,12
+-58.454412362476,-34.5860608719563,236138,15,Lacroze Federico Av.,4100.0,4118.0,Platanus,5.4,Ocupada,Regular,A nivel,31,11
+-58.4538869673708,-34.584884794256304,236876,15,Lacroze Federico Av.,3900.0,3987.0,Jacaranda,5,Ocupada,Regular,Bajo nivel,60,16
+-58.4537629595304,-34.5846933121708,236899,15,Lacroze Federico Av.,3900.0,3961.0,Jacaranda,5,Ocupada,Regular,A nivel,61,17
+-58.45296280514971,-34.5834481466576,237377,15,Lacroze Federico Av.,3800.0,3813.0,Jacaranda,5.2,Ocupada,Ochava,Bajo nivel,84,15
+-58.453723556243894,-34.584982984087894,289979,15,Lacroze Federico Av.,3900.0,3978.0,Jacaranda,6.4,Ocupada,Regular,A nivel,24,13
+-58.45363039462271,-34.5848391317525,289981,15,Lacroze Federico Av.,3900.0,3960.0,Jacaranda,6.4,Ocupada,Regular,A nivel,48,10
+-58.4537629595304,-34.5846933121708,296948,15,Lacroze Federico Av.,3900.0,3953.0,Jacaranda,5.2,Ocupada,Regular,A nivel,20,7
+-58.4537629595304,-34.5846933121708,296949,15,Lacroze Federico Av.,3900.0,3961.0,Jacaranda,5.2,Ocupada,Regular,A nivel,68,13
+-58.453019339802296,-34.5835354446358,296955,15,Lacroze Federico Av.,3800.0,3819.0,Jacaranda,5.2,Sobreocupada,Regular,A nivel,46,13
+-58.4537629595304,-34.5846933121708,297064,15,Lacroze Federico Av.,3900.0,3957.0,Jacaranda,5.2,Ocupada,Regular,A nivel,9,3
+-58.4538869673708,-34.584884794256304,297065,15,Lacroze Federico Av.,3900.0,3987.0,Jacaranda,5.2,Ocupada,Regular,A nivel,61,12
+-58.4532514668076,-34.5838938813399,297067,15,Lacroze Federico Av.,3800.0,3867.0,Jacaranda,5.2,Ocupada,Regular,A nivel,54,14
+-58.45320548754379,-34.583822883168104,297068,15,Lacroze Federico Av.,3800.0,3851.0,Jacaranda,5.2,Ocupada,Regular,A nivel,48,10
+-58.4530652336839,-34.5836063115156,297069,15,Lacroze Federico Av.,3800.0,3825.0,Jacaranda,5.2,Ocupada,Regular,A nivel,38,13
+-58.45296280514971,-34.5834481466576,297070,15,Lacroze Federico Av.,3800.0,3813.0,Jacaranda,5.2,Ocupada,Ochava,A nivel,92,15
+-58.45222271326921,-34.5823139659836,297099,15,Lacroze Federico Av.,3600.0,3697.0,Jacaranda,5.2,Ocupada,Ochava,A nivel,70,16
+-58.4520128109178,-34.5819897833033,297101,15,Lacroze Federico Av.,3600.0,3635.0,Jacaranda,5.2,Ocupada,Regular,Bajo nivel,67,14

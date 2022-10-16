@@ -1,0 +1,71 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.480580728566,-34.547735935594204,119587,12,Ruíz Huidobro Av.,3200.0,3219.0,Tilia,3,Ocupada,Regular,A nivel,50,12
+-58.4818980724096,-34.5484345564433,119947,12,Ruíz Huidobro Av.,3300.0,3377.0,Platanus,2.8,Ocupada,Regular,A nivel,90,18
+-58.4820257968034,-34.5485025237366,119963,12,Ruíz Huidobro Av.,3300.0,3387.0,Ficus,2.8,Ocupada,Ochava,A nivel,70,18
+-58.4783417099227,-34.5468668514821,120245,12,Ruíz Huidobro Av.,3000.0,3038.0,Lagerstroemia,2.7,Ocupada,Regular,A nivel,2,2
+-58.4870166799222,-34.5511901304601,124552,12,Ruíz Huidobro Av.,3000.0,3922.0,Ficus,3.2,Ocupada,Regular,A nivel,28,2
+-58.4915354246954,-34.5533503318861,126412,12,Ruíz Huidobro Av.,4400.0,4427.0,Ficus,3.2,Ocupada,Regular,Bajo nivel,36,3
+-58.4792737642068,-34.5471596634454,127048,12,Ruíz Huidobro Av.,3100.0,3100.0,Jacaranda,2.8,Ocupada,Regular,A nivel,41,12
+-58.4803155266419,-34.5476426445126,127055,12,Ruíz Huidobro Av.,3200.0,3200.0,Jacaranda,2.8,Ocupada,Regular,A nivel,43,9
+-58.4803155266419,-34.5476426445126,127064,12,Ruíz Huidobro Av.,3200.0,3200.0,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,45,11
+-58.4803155266419,-34.5476426445126,127073,12,Ruíz Huidobro Av.,3200.0,3200.0,Jacaranda,2.8,Ocupada,Regular,A nivel,45,9
+-58.4803155266419,-34.5476426445126,127076,12,Ruíz Huidobro Av.,3200.0,3200.0,Jacaranda,2.8,Ocupada,Regular,A nivel,47,13
+-58.473235978831504,-34.5451774596647,127077,12,Ruíz Huidobro Av.,2500.0,2528.0,Melia,2.2,Ocupada,Regular,A nivel,67,8
+-58.4735958163959,-34.5452975095596,127097,12,Ruíz Huidobro Av.,2500.0,2582.0,Lagerstroemia,2,Ocupada,Regular,Elevada,10,5
+-58.4792737642068,-34.5471596634454,127123,12,Ruíz Huidobro Av.,3100.0,3100.0,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,46,11
+-58.48371342051129,-34.549492369529,129504,12,Ruíz Huidobro Av.,3500.0,3568.0,Melia,2.8,Ocupada,Regular,A nivel,67,12
+-58.4836342835177,-34.5494501754357,129553,12,Ruíz Huidobro Av.,3500.0,3564.0,Jacaranda,2.8,Ocupada,Regular,A nivel,53,10
+-58.4826924682,-34.548944534776,129090,12,Ruíz Huidobro Av.,3400.0,3450.0,Lagerstroemia,2,Ocupada,Regular,A nivel,6,4
+-58.4740568459663,-34.545452982513105,130299,12,Ruíz Huidobro Av.,2600.0,2606.0,Lagerstroemia,2.8,Ocupada,Regular,A nivel,8,4
+-58.475115831113605,-34.5457142484207,129863,12,Ruíz Huidobro Av.,2700.0,2713.0,Lagerstroemia,2.5,Ocupada,Regular,A nivel,9,3
+-58.47520451613861,-34.5457435853254,129864,12,Ruíz Huidobro Av.,2700.0,2727.0,Lagerstroemia,2.5,Ocupada,Regular,A nivel,13,4
+-58.4741655561504,-34.5454889464809,130392,12,Ruíz Huidobro Av.,2600.0,2616.0,Lagerstroemia,2.8,Ocupada,Regular,A nivel,10,4
+-58.4742529180036,-34.5455178478096,130393,12,Ruíz Huidobro Av.,2600.0,2630.0,Lagerstroemia,2.8,Ocupada,Regular,A nivel,8,4
+-58.4757713610773,-34.5459316464758,129869,12,Ruíz Huidobro Av.,2700.0,2793.0,Lagerstroemia,2.5,Ocupada,Regular,A nivel,3,2
+-58.4771433358317,-34.5464734685062,130262,12,Ruíz Huidobro Av.,2900.0,2916.0,Tilia,2.4,Ocupada,Regular,A nivel,17,11
+-58.4771433358317,-34.5464734685062,130265,12,Ruíz Huidobro Av.,2900.0,2916.0,Ficus,2.4,Ocupada,Regular,A nivel,30,6
+-58.4774944409868,-34.5465896950513,130268,12,Ruíz Huidobro Av.,2900.0,2974.0,Tilia,2.8,Ocupada,Regular,Bajo nivel,19,11
+-58.4880756202702,-34.551497145749195,130795,12,Ruíz Huidobro Av.,4000.0,4032.0,Platanus,20.8,Ocupada,Regular,A nivel,42,16
+-58.4881044348186,-34.5515056092962,130835,12,Ruíz Huidobro Av.,4000.0,4042.0,Melia,21,Ocupada,Regular,A nivel,38,14
+-58.4879957146222,-34.551668251265895,130841,12,Ruíz Huidobro Av.,4000.0,4070.0,Platanus,21.4,Ocupada,Regular,Bajo nivel,33,14
+-58.487966900029704,-34.5516597876934,130842,12,Ruíz Huidobro Av.,4000.0,4080.0,Platanus,21.5,Ocupada,Regular,Bajo nivel,38,17
+-58.4720653030495,-34.5447875722321,131229,12,Ruíz Huidobro Av.,2400.0,2426.0,Jacaranda,4.4,Ocupada,Regular,Elevada,5,4
+-58.4721831857804,-34.544827037122104,131231,12,Ruíz Huidobro Av.,2400.0,2432.0,Jacaranda,4.4,Ocupada,Regular,A nivel,73,17
+-58.4723021425597,-34.544866861375496,131232,12,Ruíz Huidobro Av.,2400.0,2472.0,Jacaranda,4.4,Ocupada,Regular,A nivel,48,14
+-58.4807279663546,-34.547905126782,133612,12,Ruíz Huidobro Av.,3200.0,3260.0,Platanus,2.7,Sobreocupada,Regular,A nivel,102,17
+-58.478459059440205,-34.5468184141851,132144,12,Ruíz Huidobro Av.,3000.0,3039.0,Jacaranda,3,Ocupada,Regular,Elevada,3,2
+-58.4772528990924,-34.5464304967095,132165,12,Ruíz Huidobro Av.,2900.0,2925.0,Tilia,2.5,Ocupada,Regular,A nivel,15,4
+-58.4819251354978,-34.5485383450469,131953,12,Ruíz Huidobro Av.,3300.0,3380.0,Ficus,2.8,Ocupada,Regular,A nivel,22,11
+-58.4819251354978,-34.5485383450469,131954,12,Ruíz Huidobro Av.,3300.0,3382.0,Ficus,2.8,Ocupada,Regular,A nivel,40,11
+-58.4813507375456,-34.5482326823168,131960,12,Ruíz Huidobro Av.,3300.0,3312.0,Lagerstroemia,2.8,Ocupada,Regular,A nivel,2,3
+-58.4941105869979,-34.5547230435031,136640,12,Ruíz Huidobro Av.,4700.0,4705.0,Ficus,3.2,Ocupada,Regular,A nivel,26,9
+-58.4800117248907,-34.5474399636579,135387,12,Ruíz Huidobro Av.,3100.0,3171.0,Ficus,3,Ocupada,Regular,Bajo nivel,4,2
+-58.4945849402681,-34.5549803226333,136755,12,Ruíz Huidobro Av.,4700.0,4771.0,Ficus,3.2,Ocupada,Regular,Bajo nivel,46,4
+-58.4945849402681,-34.5549803226333,136756,12,Ruíz Huidobro Av.,4700.0,4771.0,Ficus,3.2,Ocupada,Regular,A nivel,70,5
+-58.473492799537496,-34.545181418287,135434,12,Ruíz Huidobro Av.,2500.0,2561.0,Tilia,2.6,Ocupada,Regular,A nivel,38,12
+-58.4742849366405,-34.545440919971696,135449,12,Ruíz Huidobro Av.,2600.0,2643.0,Jacaranda,2.6,Ocupada,Regular,Elevada,3,2
+-58.47446149986301,-34.5454993308787,135451,12,Ruíz Huidobro Av.,2600.0,2663.0,Lagerstroemia,2.6,Ocupada,Regular,Elevada,8,4
+-58.49286568421259,-34.5540563783131,140608,12,Ruíz Huidobro Av.,4500.0,4585.0,Ficus,3.2,Ocupada,Regular,A nivel,30,5
+-58.4750209363203,-34.5457734640382,142503,12,Ruíz Huidobro Av.,2700.0,2702.0,Ficus,2,Ocupada,Ochava,A nivel,76,8
+-58.4750209363203,-34.5457734640382,142505,12,Ruíz Huidobro Av.,2700.0,2702.0,Lagerstroemia,2,Sobreocupada,Regular,A nivel,5,3
+-58.4751426537197,-34.5458137280412,142506,12,Ruíz Huidobro Av.,2700.0,2712.0,Lagerstroemia,2,Ocupada,Regular,Elevada,11,5
+-58.47524348349141,-34.5458470823205,142507,12,Ruíz Huidobro Av.,2700.0,2720.0,Jacaranda,2,Ocupada,Regular,A nivel,3,2
+-58.475344676296,-34.54588055657,142508,12,Ruíz Huidobro Av.,2700.0,2734.0,Lagerstroemia,2,Ocupada,Regular,A nivel,10,5
+-58.475445567193205,-34.5459139308502,142512,12,Ruíz Huidobro Av.,2700.0,2754.0,Lagerstroemia,2.2,Ocupada,Regular,A nivel,4,3
+-58.47555858713079,-34.5459514935432,142524,12,Ruíz Huidobro Av.,2700.0,2764.0,Lagerstroemia,2.2,Ocupada,Regular,A nivel,1,2
+-58.476542048351405,-34.5462753958064,139364,12,Ruíz Huidobro Av.,2800.0,2892.0,Platanus,2,Ocupada,Regular,A nivel,93,26
+-58.476542048351405,-34.5462753958064,139365,12,Ruíz Huidobro Av.,2800.0,2892.0,Lagerstroemia,2,Ocupada,Regular,A nivel,4,4
+-58.493410782768294,-34.5543515359475,141059,12,Ruíz Huidobro Av.,4600.0,4621.0,Tilia,3.2,Ocupada,Regular,A nivel,28,8
+-58.47564887329229,-34.5459815533697,142525,12,Ruíz Huidobro Av.,2700.0,2780.0,Tilia,2,Ocupada,Regular,A nivel,31,11
+-58.4936169064544,-34.5547461311017,151901,12,Ruíz Huidobro Av.,4600.0,4684.0,Ficus,3.2,Ocupada,Regular,Elevada,41,7
+-58.489163526899006,-34.5519768545307,152734,12,Ruíz Huidobro Av.,4100.0,4151.0,Jacaranda,5.2,Ocupada,Regular,A nivel,13,4
+-58.4891196200803,-34.5519039730914,152739,12,Ruíz Huidobro Av.,4100.0,4115.0,Ficus,6.4,Ocupada,Regular,Elevada,24,2
+-58.49305997181029,-34.554454089344894,151929,12,Ruíz Huidobro Av.,4600.0,4602.0,Ficus,3.2,Ocupada,Regular,A nivel,2,2
+-58.4913922302385,-34.553570714581106,151977,12,Ruíz Huidobro Av.,4400.0,4424.0,Ficus,3.2,Ocupada,Regular,Bajo nivel,13,2
+-58.4888626098353,-34.5521757665098,166930,12,Ruíz Huidobro Av.,4100.0,4130.0,Ficus,4.5,Ocupada,Regular,A nivel,62,9
+-58.4890290256823,-34.5522914642944,166931,12,Ruíz Huidobro Av.,4100.0,4166.0,Ficus,4.5,Ocupada,Regular,A nivel,50,8
+-58.4890290256823,-34.5522914642944,166934,12,Ruíz Huidobro Av.,4100.0,4166.0,Ficus,4.5,Ocupada,Regular,Elevada,0,2
+-58.490213220015,-34.5529489411658,166033,12,Ruíz Huidobro Av.,4300.0,4394.0,Melia,3.2,Ocupada,Ochava,A nivel,59,15
+-58.4882149175713,-34.5514210121237,541651,12,Ruíz Huidobro Av.,4000,4049.0,Ficus,6,Ocupada,Regular,A Nivel,14,2
+-58.487358406685104,-34.551067961765696,541660,12,Ruíz Huidobro Av.,3900,3923.0,Tilia,9.6,Ocupada,Regular,A Nivel,33,8
+-58.4915354246954,-34.5533503318861,541828,12,Ruíz Huidobro Av.,4400,4427.0,Ficus,3.2,Ocupada,Regular,A Nivel,51,5

@@ -1,0 +1,217 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.450780365500705,-34.6315931869911,308199,7,Bilbao Francisco Av.,1500.0,1582.0,Jacaranda,4.4,Ocupada,Regular,A nivel,38,6
+-58.450597427747205,-34.6315350125338,308201,7,Bilbao Francisco Av.,1500.0,1548.0,Jacaranda,4.4,Ocupada,Regular,A nivel,50,11
+-58.4503262651384,-34.6314487817935,308205,7,Bilbao Francisco Av.,1500.0,1510.0,Tilia,4.4,Sobreocupada,Regular,Elevada,30,9
+-58.4502284209665,-34.6314176668033,308206,7,Bilbao Francisco Av.,1500.0,1502.0,Jacaranda,4.4,Sobreocupada,Ochava,A nivel,26,7
+-58.4594963020847,-34.6345484111523,331893,7,Bilbao Francisco Av.,2300.0,2356,Ficus,3.2,Ocupada,Ochava,Elevada,0,6
+-58.460307153222296,-34.635172682021896,328210,7,Bilbao Francisco Av.,2400.0,2421,Jacaranda,3,Ocupada,Regular,Bajo nivel,28,8
+-58.4607635230844,-34.635591859353106,328216,7,Bilbao Francisco Av.,2400.0,2467,Lagerstroemia,3,Ocupada,Regular,Elevada,15,5
+-58.4607635230844,-34.635591859353106,328217,7,Bilbao Francisco Av.,2400.0,2467,Lagerstroemia,3,Ocupada,Regular,Elevada,13,6
+-58.4484049523273,-34.6307397468222,321607,7,Bilbao Francisco Av.,1300.0,1333,Ficus,3.2,Sobreocupada,Regular,A nivel,31,4
+-58.46859202789471,-34.640794033142804,324368,7,Bilbao Francisco Av.,3300.0,3307,Melia,4.4,Sobreocupada,Regular,A nivel,18,8
+-58.46554683158529,-34.6390596168328,348400,7,Bilbao Francisco Av.,3000.0,3086,Ficus,3.2,Ocupada,Regular,Bajo nivel,4,2
+-58.4667974030643,-34.639647481542,345015,7,Bilbao Francisco Av.,3100.0,3169,Ficus,3.2,Ocupada,Regular,Elevada,3,2
+-58.4665950818474,-34.6395168504682,345018,7,Bilbao Francisco Av.,3100.0,3147,Jacaranda,3.2,Ocupada,Regular,A nivel,14,7
+-58.46650079140329,-34.639458016526,345019,7,Bilbao Francisco Av.,3100.0,3137,Lagerstroemia,3.2,Ocupada,Regular,Elevada,15,8
+-58.466445399436104,-34.6394212382901,345020,7,Bilbao Francisco Av.,3100.0,3131,Melia,3.2,Ocupada,Regular,A nivel,46,10
+-58.466351258814,-34.6393624997962,345021,7,Bilbao Francisco Av.,3100.0,3123,Ficus,3.2,Ocupada,Regular,Elevada,14,7
+-58.4673816639155,-34.640027955638,345095,7,Bilbao Francisco Av.,3200.0,3203,Melia,3.6,Ocupada,Regular,A nivel,35,11
+-58.46694292265921,-34.6397404337103,345013,7,Bilbao Francisco Av.,3100.0,3177,Melia,3.2,Ocupada,Regular,A nivel,27,10
+-58.466869558621205,-34.639693571714304,345014,7,Bilbao Francisco Av.,3100.0,3175,Melia,3.2,Ocupada,Regular,A nivel,37,14
+-58.4581398421873,-34.6339160039514,341815,7,Bilbao Francisco Av.,2200.0,2276,Lagerstroemia,2.4,Ocupada,Regular,Elevada,6,3
+-58.4589989938233,-34.6341831483816,341825,7,Bilbao Francisco Av.,2300.0,2332,Tilia,2.4,Sobreocupada,Regular,Bajo nivel,41,7
+-58.4552658745745,-34.6330149879411,334957,7,Bilbao Francisco Av.,2000.0,2026,Jacaranda,3,Ocupada,Regular,Elevada,20,6
+-58.4628521466508,-34.6370711026338,339439,7,Bilbao Francisco Av.,2700.0,2729,Melia,3.4,Ocupada,Regular,A nivel,62,11
+-58.462946406940794,-34.6371325855548,339441,7,Bilbao Francisco Av.,2700.0,2737,Melia,3.4,Ocupada,Regular,A nivel,55,12
+-58.46300836649179,-34.637172999643504,339442,7,Bilbao Francisco Av.,2700.0,2757,Ficus,3.4,Ocupada,Regular,A nivel,28,9
+-58.4640627420942,-34.6378689918331,339459,7,Bilbao Francisco Av.,2800.0,2885,Ficus,3.4,Ocupada,Regular,Elevada,5,2
+-58.46414452995379,-34.637920467313,339460,7,Bilbao Francisco Av.,2800.0,2897,Jacaranda,3.4,Sobreocupada,Regular,A nivel,25,9
+-58.464293254763696,-34.638016682301995,339463,7,Bilbao Francisco Av.,2800.0,2925,Tilia,3.4,Ocupada,Regular,A nivel,26,9
+-58.4564063540493,-34.6333771018137,334997,7,Bilbao Francisco Av.,2100.0,2124,Lagerstroemia,2.5,Ocupada,Regular,Bajo nivel,3,2
+-58.4649593231988,-34.6384628488591,339490,7,Bilbao Francisco Av.,3000.0,3009,Melia,3.2,Ocupada,Regular,A nivel,32,10
+-58.4649593231988,-34.6384628488591,339491,7,Bilbao Francisco Av.,3000.0,3011,Melia,3.2,Ocupada,Regular,A nivel,40,11
+-58.46518806412,-34.6386072948065,339492,7,Bilbao Francisco Av.,3000.0,3037,Ficus,3.2,Ocupada,Regular,A nivel,14,3
+-58.4542434408197,-34.6326113847471,333079,7,Bilbao Francisco Av.,1900.0,1919,Ficus,2.8,Ocupada,Regular,Elevada,35,3
+-58.4540932834419,-34.6326436999489,333150,7,Bilbao Francisco Av.,1900.0,1910,Ficus,6,Ocupada,Ochava,Elevada,25,2
+-58.4516695585045,-34.6317939753626,332534,7,Bilbao Francisco Av.,1700.0,1705,Lagerstroemia,2.8,Ocupada,Regular,A nivel,10,4
+-58.4518475532024,-34.6318504640624,332536,7,Bilbao Francisco Av.,1700.0,1713,Ficus,2.8,Ocupada,Regular,A nivel,38,4
+-58.4521561734168,-34.631948407519005,332539,7,Bilbao Francisco Av.,1700.0,1755,Tilia,2.8,Sobreocupada,Regular,Elevada,32,9
+-58.45231416352549,-34.631998546657904,332542,7,Bilbao Francisco Av.,1700.0,1767,Ficus,2.8,Sobreocupada,Regular,Elevada,32,10
+-58.459952125037496,-34.634995204812896,364832,7,Bilbao Francisco Av.,2300.0,2384,Ficus,3.2,Ocupada,Ochava,Elevada,24,2
+-58.4662761146587,-34.6395316637151,366200,7,Bilbao Francisco Av.,3100.0,3130,Platanus,3.2,Ocupada,Regular,A nivel,83,18
+-58.4664240620757,-34.6396280695648,366201,7,Bilbao Francisco Av.,3100.0,3140,Platanus,3.2,Ocupada,Regular,A nivel,91,21
+-58.4664240620757,-34.6396280695648,366202,7,Bilbao Francisco Av.,3100.0,3142,Melia,3.2,Ocupada,Regular,Elevada,44,14
+-58.460316658801496,-34.6353269017696,364782,7,Bilbao Francisco Av.,2400.0,2418,Ficus,3.2,Ocupada,Regular,A nivel,23,4
+-58.463948494938606,-34.6380229238867,358614,7,Bilbao Francisco Av.,2900.0,2900,Ficus,2.4,Ocupada,Regular,A nivel,43,10
+-58.46418549025,-34.638176362512496,358615,7,Bilbao Francisco Av.,2900.0,2912,Ficus,2.4,Ocupada,Regular,Elevada,36,7
+-58.4636611766279,-34.6378340281812,358619,7,Bilbao Francisco Av.,2800.0,2842,Ficus,3,Ocupada,Regular,Elevada,8,2
+-58.4636611766279,-34.6378340281812,358620,7,Bilbao Francisco Av.,2800.0,2842,Ficus,3,Ocupada,Regular,Elevada,16,3
+-58.4635190017187,-34.6377416154518,358622,7,Bilbao Francisco Av.,2800.0,2802,Ficus,3,Ocupada,Regular,A nivel,60,12
+-58.4684831723413,-34.640948353442695,361439,7,Bilbao Francisco Av.,3300.0,3310,Melia,3,Ocupada,Regular,Elevada,42,9
+-58.4688567881657,-34.64118637127331,361440,7,Bilbao Francisco Av.,3300.0,3358,Melia,3,Ocupada,Regular,A nivel,79,15
+-58.46759057092811,-34.6403731112609,361547,7,Bilbao Francisco Av.,3200.0,3234,Jacaranda,3.4,Ocupada,Regular,Elevada,33,14
+-58.4679292211816,-34.640590942111395,361552,7,Bilbao Francisco Av.,3200.0,3274,Melia,3.4,Ocupada,Regular,A nivel,61,14
+-58.4681348151474,-34.640722507075,361558,7,Bilbao Francisco Av.,3200.0,3294,Jacaranda,3.4,Ocupada,Ochava,A nivel,8,7
+-58.462954414744,-34.6373718115113,361319,7,Bilbao Francisco Av.,2700.0,2754,Tilia,3.4,Ocupada,Regular,Elevada,25,9
+-58.4627307815303,-34.6372241223502,361322,7,Bilbao Francisco Av.,2700.0,2718,Ficus,3.4,Ocupada,Regular,Elevada,24,4
+-58.4627307815303,-34.6372241223502,361323,7,Bilbao Francisco Av.,2700.0,2718,Lagerstroemia,3.4,Ocupada,Regular,Bajo nivel,6,3
+-58.4624156052549,-34.6370089005233,361364,7,Bilbao Francisco Av.,2600.0,2694,Ficus,3.8,Ocupada,Regular,Elevada,31,5
+-58.4624156052549,-34.6370089005233,361365,7,Bilbao Francisco Av.,2600.0,2694,Lagerstroemia,3.8,Ocupada,Regular,Bajo nivel,3,3
+-58.4621157703639,-34.636797655405104,361367,7,Bilbao Francisco Av.,2600.0,2644,Melia,3.8,Ocupada,Regular,A nivel,52,11
+-58.4588921318414,-34.6337973930269,372196,7,Bilbao Francisco Av.,2300.0,2311,Tilia,3.2,Ocupada,Regular,Elevada,35,5
+-58.4596150012512,-34.634506089671504,372202,7,Bilbao Francisco Av.,2300.0,2377,Lagerstroemia,3.2,Sobreocupada,Regular,Elevada,15,5
+-58.459676119322395,-34.634566298315804,372203,7,Bilbao Francisco Av.,2300.0,2383,Ficus,3.2,Ocupada,Regular,Elevada,17,3
+-58.4582890182077,-34.633883663291805,372172,7,Bilbao Francisco Av.,2200.0,2285,Lagerstroemia,2.5,Ocupada,Regular,Bajo nivel,2,2
+-58.4582890182077,-34.633883663291805,372173,7,Bilbao Francisco Av.,2200.0,2285,Tilia,2.5,Ocupada,Regular,Bajo nivel,12,3
+-58.458421008238496,-34.6339248113605,372174,7,Bilbao Francisco Av.,2200.0,2295,Ficus,2.5,Sobreocupada,Regular,Elevada,20,2
+-58.4529515563954,-34.6322791473536,376970,7,Bilbao Francisco Av.,1800.0,1810,Tilia,3,Ocupada,Regular,Bajo nivel,5,8
+-58.4536249690483,-34.632493269710395,376976,7,Bilbao Francisco Av.,1800.0,1890,Ficus,2.8,Ocupada,Regular,Bajo nivel,18,3
+-58.4497739309688,-34.6311757660591,377238,7,Bilbao Francisco Av.,1400.0,1463,Ficus,3.2,Ocupada,Regular,Elevada,57,11
+-58.4512379673633,-34.6317373829864,368588,7,Bilbao Francisco Av.,1600.0,1610,Tilia,3,Ocupada,Regular,A nivel,29,7
+-58.4522189907964,-34.6320483137344,368626,7,Bilbao Francisco Av.,1700.0,1750,Lagerstroemia,3,Ocupada,Regular,A nivel,5,2
+-58.4523219863263,-34.6320809999481,368627,7,Bilbao Francisco Av.,1700.0,1764,Lagerstroemia,3,Ocupada,Regular,Bajo nivel,5,3
+-58.4557049985419,-34.6331542577742,398260,7,Bilbao Francisco Av.,2000.0,2070,Jacaranda,2.5,Ocupada,Regular,A nivel,14,7
+-58.4481400711825,-34.630766462309396,411463,7,Bilbao Francisco Av.,1300.0,1302,Lagerstroemia,3.2,Ocupada,Ochava,A nivel,11,4
+-58.4481400711825,-34.630766462309396,411464,7,Bilbao Francisco Av.,1300.0,1308,Lagerstroemia,3.2,Ocupada,Regular,A nivel,11,5
+-58.44871756853829,-34.630950128360404,411471,7,Bilbao Francisco Av.,1300.0,1376,Lagerstroemia,3.2,Ocupada,Regular,Elevada,11,3
+-58.44871756853829,-34.630950128360404,411472,7,Bilbao Francisco Av.,1300.0,1376,Lagerstroemia,3.2,Ocupada,Regular,Elevada,12,3
+-58.44871756853829,-34.630950128360404,411473,7,Bilbao Francisco Av.,1300.0,1376,Lagerstroemia,3.2,Ocupada,Regular,Elevada,13,4
+-58.46158312292889,-34.636298168928,429087,7,Bilbao Francisco Av.,2500.0,2561,Ficus,3.2,Ocupada,Regular,Elevada,42,6
+-58.4492465901608,-34.6311176615813,417009,7,Bilbao Francisco Av.,1400.0,1408,Ficus,3.2,Sobreocupada,Regular,Elevada,29,4
+-58.44915857666079,-34.6310896774215,417010,7,Bilbao Francisco Av.,1400.0,1402,Lagerstroemia,3.2,Ocupada,Regular,Elevada,4,2
+-58.484589869348795,-34.6543517298181,267784,9,Bilbao Francisco Av.,4900,4997,Lagerstroemia,4.4,Ocupada,Regular,Elevada,21,7
+-58.4807142211032,-34.651037288755695,268063,9,Bilbao Francisco Av.,4500,4507,Tilia,4.4,Sobreocupada,Ochava,A nivel,35,7
+-58.48088461769101,-34.6511837455586,268070,9,Bilbao Francisco Av.,4500,4527,Melia,4.4,Sobreocupada,Regular,Elevada,26,6
+-58.4814341653462,-34.6516560847317,268079,9,Bilbao Francisco Av.,4500,4589,Melia,4.4,Ocupada,Regular,A nivel,17,5
+-58.481794366882,-34.6520724390152,274739,9,Bilbao Francisco Av.,4600,4700,Melia,4.6,Ocupada,Ochava,A nivel,52,11
+-58.4937103123942,-34.661884833155,274174,9,Bilbao Francisco Av.,6000,6013,Tilia,4.4,Ocupada,Regular,A nivel,15,6
+-58.4812094347746,-34.6515680699616,275890,9,Bilbao Francisco Av.,4500,4562,Ficus,3.9,Ocupada,Regular,Elevada,24,5
+-58.4942553941778,-34.6623364423381,274182,9,Bilbao Francisco Av.,6000,6095,Lagerstroemia,4.4,Ocupada,Regular,A nivel,10,5
+-58.493618548879006,-34.6619100103647,275070,9,Bilbao Francisco Av.,6000,6014,Tilia,3.5,Ocupada,Regular,A nivel,53,9
+-58.493995913144104,-34.6622226641091,275071,9,Bilbao Francisco Av.,6000,6046,Platanus,3.5,Ocupada,Regular,A nivel,68,10
+-58.493995913144104,-34.6622226641091,275072,9,Bilbao Francisco Av.,6000,6046,Platanus,3.5,Ocupada,Regular,A nivel,65,10
+-58.493995913144104,-34.6622226641091,275073,9,Bilbao Francisco Av.,6000,6046,Platanus,3.5,Ocupada,Regular,A nivel,74,10
+-58.493995913144104,-34.6622226641091,275074,9,Bilbao Francisco Av.,6000,6046,Jacaranda,3.5,Ocupada,Regular,A nivel,17,6
+-58.493995913144104,-34.6622226641091,275075,9,Bilbao Francisco Av.,6000,6046,Tilia,3.5,Ocupada,Regular,A nivel,19,7
+-58.493995913144104,-34.6622226641091,275077,9,Bilbao Francisco Av.,6000,6046,Tilia,3.5,Ocupada,Regular,A nivel,15,8
+-58.493995913144104,-34.6622226641091,275078,9,Bilbao Francisco Av.,6000,6046,Tilia,3.5,Ocupada,Regular,A nivel,14,9
+-58.4892038220613,-34.658156431642,272386,9,Bilbao Francisco Av.,5500,5571,Ficus,4.5,Ocupada,Regular,A nivel,19,8
+-58.482355786243104,-34.652447896648304,272644,9,Bilbao Francisco Av.,4700,4751,Lagerstroemia,6,Ocupada,Regular,Elevada,7,4
+-58.481632835583106,-34.6518794124725,272666,9,Bilbao Francisco Av.,4600,4601,Melia,4.2,Ocupada,Ochava,A nivel,62,12
+-58.4824964241284,-34.6526745143267,272669,9,Bilbao Francisco Av.,4700,4796,Tilia,4.2,Ocupada,Ochava,A nivel,34,11
+-58.4822695504947,-34.6524795183067,272673,9,Bilbao Francisco Av.,4700,4734,Melia,4.4,Ocupada,Regular,A nivel,53,12
+-58.48219278454821,-34.6524145202757,272675,9,Bilbao Francisco Av.,4700,4726,Tilia,4.4,Ocupada,Regular,A nivel,29,6
+-58.48219278454821,-34.6524145202757,272676,9,Bilbao Francisco Av.,4700,4726,Melia,4.4,Ocupada,Ochava,A nivel,72,12
+-58.4836088983233,-34.6535206088011,293230,9,Bilbao Francisco Av.,4860,4865,Tilia,4.5,Ocupada,Regular,A nivel,41,14
+-58.4836088983233,-34.6535206088011,293231,9,Bilbao Francisco Av.,4800,4865,Tilia,4.5,Ocupada,Regular,A nivel,40,14
+-58.4836505506951,-34.6535564037828,293232,9,Bilbao Francisco Av.,4800,4873,Tilia,4.5,Ocupada,Regular,A nivel,34,14
+-58.4539749095407,-34.6326043834789,284595,9,Bilbao Francisco Av.,1900,1902,Platanus,4,Ocupada,Regular,A nivel,73,11
+-58.4867363121187,-34.656225150837194,284645,9,Bilbao Francisco Av.,5200,5250,Melia,4.4,Ocupada,Regular,Elevada,56,8
+-58.48768320742579,-34.657009832090004,295628,9,Bilbao Francisco Av.,5300,5380,Lagerstroemia,4.4,Ocupada,Regular,Elevada,13,3
+-58.4922114017186,-34.6607462438174,296442,9,Bilbao Francisco Av.,5900,5902,Jacaranda,4.4,Ocupada,Ochava,A nivel,10,5
+-58.4923678339964,-34.660875852649,296445,9,Bilbao Francisco Av.,5900,5920,Tilia,4.4,Ocupada,Regular,A nivel,8,4
+-58.492769790156,-34.6612088825893,296448,9,Bilbao Francisco Av.,5900,5942,Tilia,4.4,Ocupada,Regular,Elevada,24,10
+-58.492769790156,-34.6612088825893,296449,9,Bilbao Francisco Av.,5900,5942,Tilia,4.4,Ocupada,Regular,Elevada,23,10
+-58.492769790156,-34.6612088825893,296450,9,Bilbao Francisco Av.,5900,5942,Tilia,4.4,Ocupada,Regular,Elevada,24,10
+-58.492769790156,-34.6612088825893,296452,9,Bilbao Francisco Av.,5900,5942,Tilia,4.4,Ocupada,Regular,Elevada,27,10
+-58.4930867383871,-34.6614714786689,296453,9,Bilbao Francisco Av.,5900,5962,Tilia,4.4,Ocupada,Regular,Elevada,17,8
+-58.4930867383871,-34.6614714786689,296454,9,Bilbao Francisco Av.,5900,5962,Tilia,4.4,Ocupada,Regular,Elevada,23,10
+-58.4930867383871,-34.6614714786689,296455,9,Bilbao Francisco Av.,5900,5962,Tilia,4.4,Ocupada,Regular,Elevada,26,10
+-58.4930867383871,-34.6614714786689,296456,9,Bilbao Francisco Av.,5900,5968,Tilia,4.4,Ocupada,Regular,Elevada,26,10
+-58.4930867383871,-34.6614714786689,296457,9,Bilbao Francisco Av.,5900,5968,Tilia,4.4,Ocupada,Regular,Elevada,20,10
+-58.4930867383871,-34.6614714786689,296458,9,Bilbao Francisco Av.,5900,5968,Tilia,4.4,Ocupada,Ochava,Elevada,27,10
+-58.4922114017186,-34.6607462438174,296459,9,Bilbao Francisco Av.,5900,5902,Tilia,4.4,Ocupada,Ochava,A nivel,28,10
+-58.486178830834895,-34.655658812374504,295355,9,Bilbao Francisco Av.,5100,5199,Ficus,4.4,Sobreocupada,Ochava,A nivel,22,8
+-58.486178830834895,-34.655658812374504,295356,9,Bilbao Francisco Av.,5100,5199,Ficus,4.4,Ocupada,Ochava,A nivel,13,11
+-58.4856648436924,-34.6553472824984,295403,9,Bilbao Francisco Av.,5100,5120,Ficus,4.4,Ocupada,Regular,A nivel,1,2
+-58.4729367296495,-34.6439118622637,279816,9,Bilbao Francisco Av.,3700,3732,Tilia,3,Ocupada,Regular,A nivel,37,14
+-58.4730073277564,-34.643961731213004,279817,9,Bilbao Francisco Av.,3700,3740,Tilia,3,Ocupada,Regular,Elevada,43,14
+-58.4732217228844,-34.6441131745838,279819,9,Bilbao Francisco Av.,3700,3768,Lagerstroemia,3,Ocupada,Regular,Elevada,7,3
+-58.4734522417063,-34.6442661728269,279820,9,Bilbao Francisco Av.,3700,3782,Melia,3,Ocupada,Regular,A nivel,42,15
+-58.4735257749393,-34.6443279477962,279822,9,Bilbao Francisco Av.,3700,3786,Melia,3,Ocupada,Regular,A nivel,52,7
+-58.480290864740496,-34.6506734960077,280753,9,Bilbao Francisco Av.,4400,4467,Lagerstroemia,4.4,Ocupada,Regular,A nivel,18,3
+-58.480216044285896,-34.6506091837447,280755,9,Bilbao Francisco Av.,4400,4457,Ficus,4.4,Ocupada,Regular,Elevada,22,5
+-58.480160182649,-34.6505611675137,280757,9,Bilbao Francisco Av.,4400,4443,Ficus,4.4,Ocupada,Regular,A nivel,24,5
+-58.4845247954799,-34.654399991364606,282151,9,Bilbao Francisco Av.,4900.0,4994,Jacaranda,4.4,Ocupada,Ochava,A nivel,39,9
+-58.484316869707406,-34.654228079617,282155,9,Bilbao Francisco Av.,4900.0,4950,Ficus,4.4,Ocupada,Regular,Elevada,28,2
+-58.484316869707406,-34.654228079617,282156,9,Bilbao Francisco Av.,4900.0,4950,Tilia,4.4,Ocupada,Regular,Elevada,15,3
+-58.48425096328071,-34.654173588358304,282157,9,Bilbao Francisco Av.,4900.0,4940,Platanus,4.4,Sobreocupada,Regular,Elevada,113,12
+-58.4839892538593,-34.6539567553583,282160,9,Bilbao Francisco Av.,4900.0,4908,Platanus,4.4,Ocupada,Ochava,A nivel,113,18
+-58.480051127070404,-34.6504674278778,280760,9,Bilbao Francisco Av.,4400.0,4427,Lagerstroemia,4.4,Ocupada,Regular,Elevada,16,6
+-58.480051127070404,-34.6504674278778,280761,9,Bilbao Francisco Av.,4400.0,4427,Lagerstroemia,4.4,Ocupada,Regular,Elevada,26,8
+-58.4710018908513,-34.6423397121331,281930,9,Bilbao Francisco Av.,3500.0,3563,Ficus,3.3,Sobreocupada,Regular,Elevada,27,2
+-58.4710018908513,-34.6423397121331,281931,9,Bilbao Francisco Av.,3500.0,3563,Ficus,4.4,Sobreocupada,Ochava,Elevada,15,3
+-58.4903292405269,-34.6591907557383,283342,9,Bilbao Francisco Av.,5700.0,5704,Jacaranda,4.4,Ocupada,Regular,A nivel,39,8
+-58.49044551679941,-34.659286754258,283343,9,Bilbao Francisco Av.,5700.0,5718,Jacaranda,4.4,Ocupada,Regular,A nivel,28,7
+-58.49044551679941,-34.659286754258,283344,9,Bilbao Francisco Av.,5700.0,5722,Jacaranda,4.4,Ocupada,Regular,A nivel,32,8
+-58.4801278904328,-34.650638360709,280878,9,Bilbao Francisco Av.,4400.0,4454,Ficus,3.9,Ocupada,Regular,Elevada,0,4
+-58.4801278904328,-34.650638360709,280879,9,Bilbao Francisco Av.,4400.0,4454,Ficus,3.9,Ocupada,Regular,Elevada,26,4
+-58.4799967535624,-34.6505256409001,280882,9,Bilbao Francisco Av.,4400.0,4436,Lagerstroemia,3.9,Ocupada,Regular,Elevada,3,2
+-58.4799967535624,-34.6505256409001,280883,9,Bilbao Francisco Av.,4400.0,4434,Lagerstroemia,3.9,Ocupada,Regular,Elevada,20,3
+-58.470898248228295,-34.6425014095405,281993,9,Bilbao Francisco Av.,3500.0,3572,Melia,3.3,Ocupada,Regular,A nivel,50,7
+-58.4707491471162,-34.6424038053305,281995,9,Bilbao Francisco Av.,3500.0,3556,Melia,3.3,Ocupada,Regular,A nivel,30,8
+-58.4798664680859,-34.6504136524702,280886,9,Bilbao Francisco Av.,4400.0,4414,Lagerstroemia,3.9,Ocupada,Regular,A nivel,24,6
+-58.4797689156674,-34.6503297998357,280887,9,Bilbao Francisco Av.,4400.0,4402,Jacaranda,3.9,Ocupada,Regular,Elevada,14,6
+-58.492181231987104,-34.6607212472212,287234,9,Bilbao Francisco Av.,5900.0,5903,Tilia,4.4,Ocupada,Ochava,A nivel,14,7
+-58.492324771932495,-34.6608401744987,287236,9,Bilbao Francisco Av.,5900.0,5923,Tilia,4.4,Ocupada,Regular,A nivel,7,6
+-58.49254071437161,-34.6609137220112,287239,9,Bilbao Francisco Av.,5900.0,5935,Tilia,4.4,Ocupada,Regular,A nivel,15,11
+-58.492649835820004,-34.6610041316898,287241,9,Bilbao Francisco Av.,5900.0,5941,Melia,4.4,Ocupada,Regular,A nivel,32,8
+-58.4927225835806,-34.6610644047572,287242,9,Bilbao Francisco Av.,5900.0,5945,Melia,4.4,Ocupada,Regular,A nivel,25,7
+-58.4927953314531,-34.661124677774204,287243,9,Bilbao Francisco Av.,5900.0,5949,Melia,4.4,Ocupada,Regular,A nivel,23,7
+-58.4928190157238,-34.6611443006288,287244,9,Bilbao Francisco Av.,5900.0,5951,Melia,4.4,Ocupada,Regular,A nivel,24,6
+-58.4928427000078,-34.6611639234761,287245,9,Bilbao Francisco Av.,5900.0,5953,Jacaranda,4.4,Ocupada,Regular,A nivel,11,9
+-58.4928900686115,-34.6612031691557,287246,9,Bilbao Francisco Av.,5900.0,5957,Tilia,4.4,Ocupada,Regular,A nivel,24,10
+-58.4929374372588,-34.6612424148167,287247,9,Bilbao Francisco Av.,5900.0,5961,Melia,4.4,Ocupada,Regular,A nivel,30,8
+-58.4929137529301,-34.661222791989005,287248,9,Bilbao Francisco Av.,5900.0,5959,Tilia,4.4,Ocupada,Regular,A nivel,22,8
+-58.492961121603,-34.661262037637,287249,9,Bilbao Francisco Av.,5900.0,5963,Tilia,4.4,Ocupada,Regular,A nivel,10,6
+-58.493008490314,-34.6613012832736,287250,9,Bilbao Francisco Av.,5900.0,5967,Jacaranda,4.4,Ocupada,Regular,A nivel,9,6
+-58.48832777044971,-34.6575393839473,288088,9,Bilbao Francisco Av.,5400.0,5472,Lagerstroemia,4.4,Ocupada,Regular,Elevada,21,5
+-58.46961347173061,-34.6416705074745,288671,9,Bilbao Francisco Av.,3500.0,3434,Melia,3.3,Ocupada,Regular,A nivel,48,11
+-58.4694668353418,-34.6415759865669,288673,9,Bilbao Francisco Av.,3500.0,3414,Melia,3.3,Ocupada,Regular,A nivel,35,10
+-58.4694668353418,-34.6415759865669,288674,9,Bilbao Francisco Av.,3500.0,3414,Melia,3.3,Ocupada,Ochava,A nivel,42,11
+-58.473261376211504,-34.643942006124,286287,9,Bilbao Francisco Av.,3700.0,3755,Melia,3.2,Ocupada,Regular,A nivel,55,13
+-58.4731177573032,-34.6438400841158,286289,9,Bilbao Francisco Av.,3700.0,3741,Tilia,3.2,Ocupada,Regular,Elevada,22,7
+-58.4730462502184,-34.6437893375156,286290,9,Bilbao Francisco Av.,3700.0,3733,Lagerstroemia,3.2,Ocupada,Regular,A nivel,1,2
+-58.47289603004229,-34.6436821788051,286291,9,Bilbao Francisco Av.,3700.0,3711,Melia,3.2,Ocupada,Regular,A nivel,34,7
+-58.4837156878434,-34.6537268152309,289027,9,Bilbao Francisco Av.,4800.0,4898,Platanus,4.4,Ocupada,Ochava,A nivel,80,17
+-58.4837156878434,-34.6537268152309,289028,9,Bilbao Francisco Av.,4800.0,4898,Platanus,4.4,Ocupada,Regular,Bajo nivel,51,17
+-58.4837156878434,-34.6537268152309,289029,9,Bilbao Francisco Av.,4800.0,4898,Platanus,4.4,Ocupada,Regular,Bajo nivel,65,17
+-58.4837156878434,-34.6537268152309,289030,9,Bilbao Francisco Av.,4800.0,4894,Platanus,4.4,Ocupada,Regular,A nivel,60,17
+-58.4835643460341,-34.6535967561749,289032,9,Bilbao Francisco Av.,4800.0,4888,Platanus,4.4,Sobreocupada,Regular,Bajo nivel,52,17
+-58.4835643460341,-34.6535967561749,289033,9,Bilbao Francisco Av.,4800.0,4888,Platanus,4.4,Sobreocupada,Regular,Bajo nivel,84,18
+-58.4834942939648,-34.6535365551152,289034,9,Bilbao Francisco Av.,4800.0,4884,Tilia,4.4,Ocupada,Regular,Bajo nivel,43,8
+-58.483426388644,-34.6534781988018,289035,9,Bilbao Francisco Av.,4800.0,4872,Tilia,4.4,Ocupada,Regular,Bajo nivel,43,12
+-58.4912408720585,-34.6599428664495,302246,9,Bilbao Francisco Av.,5800.0,5816,Melia,4.4,Ocupada,Regular,A nivel,26,8
+-58.45577711236611,-34.633177128715204,306011,9,Bilbao Francisco Av.,2000.0,2080,Platanus,4.4,Ocupada,Regular,A nivel,39,11
+-58.4793493291816,-34.6499644967054,305190,9,Bilbao Francisco Av.,4300.0,4310,Lagerstroemia,4.4,Ocupada,Regular,Bajo nivel,7,3
+-58.4789328551756,-34.6496037507911,305192,9,Bilbao Francisco Av.,4300.0,4300,Lagerstroemia,4.4,Ocupada,Ochava,A nivel,16,3
+-58.472372717541,-34.6435122204171,301763,9,Bilbao Francisco Av.,3600.0,3690,Melia,3.3,Ocupada,Regular,A nivel,65,9
+-58.4716716994469,-34.6430210667419,301772,9,Bilbao Francisco Av.,3600.0,3630,Melia,3.3,Ocupada,Regular,A nivel,60,10
+-58.4715997114694,-34.6429706293188,301773,9,Bilbao Francisco Av.,3600.0,3624,Lagerstroemia,3.3,Sobreocupada,Regular,Elevada,16,6
+-58.4715210124524,-34.6429154897686,301774,9,Bilbao Francisco Av.,3600.0,3616,Melia,3.3,Ocupada,Regular,A nivel,65,6
+-58.4714276144014,-34.6428500513559,301775,9,Bilbao Francisco Av.,3600.0,3610,Melia,3.3,Ocupada,Regular,A nivel,70,9
+-58.4714276144014,-34.6428500513559,301776,9,Bilbao Francisco Av.,3600.0,3604,Tilia,3.3,Ocupada,Regular,A nivel,23,9
+-58.4789328551756,-34.6496037507911,300470,9,Bilbao Francisco Av.,4300.0,4300,Ficus,4.4,Sobreocupada,Ochava,Elevada,27,5
+-58.4794397197435,-34.649947607361696,300473,9,Bilbao Francisco Av.,4300.0,4369,Ficus,4.4,Ocupada,Regular,A nivel,19,4
+-58.480290864740496,-34.6506734960077,297787,9,Bilbao Francisco Av.,4400.0,4467,Lagerstroemia,4.4,Ocupada,Regular,A nivel,12,5
+-58.480051127070404,-34.6504674278778,297794,9,Bilbao Francisco Av.,4400.0,4427,Lagerstroemia,4.4,Ocupada,Regular,Elevada,16,6
+-58.480051127070404,-34.6504674278778,297795,9,Bilbao Francisco Av.,4400.0,4427,Lagerstroemia,4.4,Ocupada,Regular,Elevada,26,7
+-58.4724949058694,-34.643383530834306,330043,9,Bilbao Francisco Av.,3600.0,3691,Melia,3.2,Ocupada,Ochava,A nivel,62,6
+-58.4724079438081,-34.6433213138449,330044,9,Bilbao Francisco Av.,3600.0,3687,Melia,3.2,Ocupada,Regular,A nivel,58,8
+-58.4719649909197,-34.6430044009172,330052,9,Bilbao Francisco Av.,3600.0,3653,Ficus,3.2,Ocupada,Regular,Bajo nivel,18,2
+-58.490061876963395,-34.6589697565753,320126,9,Bilbao Francisco Av.,5600.0,5688,Platanus,4.4,Ocupada,Regular,A nivel,52,11
+-58.4897251338177,-34.6586919980209,320130,9,Bilbao Francisco Av.,5600.0,5640,Ficus,4.4,Sobreocupada,Regular,A nivel,42,5
+-58.4745629568381,-34.6450296449156,319902,9,Bilbao Francisco Av.,3800.0,3874,Ficus,5.6,Ocupada,Regular,A nivel,9,2
+-58.4744207252424,-34.6449285763586,319904,9,Bilbao Francisco Av.,3800.0,3860,Melia,5.6,Ocupada,Regular,A nivel,87,8
+-58.4741349394995,-34.6447254981943,319909,9,Bilbao Francisco Av.,3800.0,3832,Melia,5.6,Ocupada,Regular,A nivel,40,4
+-58.4740636994759,-34.644674875072305,319910,9,Bilbao Francisco Av.,3800.0,3824,Melia,5.6,Ocupada,Regular,A nivel,70,6
+-58.4739906246463,-34.644622948024995,319911,9,Bilbao Francisco Av.,3800.0,3812,Melia,5.6,Sobreocupada,Regular,A nivel,65,8
+-58.4739268935991,-34.6445776605917,319912,9,Bilbao Francisco Av.,3800.0,3808,Melia,5.6,Ocupada,Regular,A nivel,68,8
+-58.4741127184233,-34.6445445903295,319934,9,Bilbao Francisco Av.,3800.0,3815,Melia,5.6,Ocupada,Regular,A nivel,78,10
+-58.474175139184,-34.6445889465226,319935,9,Bilbao Francisco Av.,3800.0,3825,Melia,5.6,Ocupada,Regular,A nivel,58,5
+-58.4742473555433,-34.644640263363,319936,9,Bilbao Francisco Av.,3800.0,3837,Melia,5.6,Ocupada,Regular,A nivel,90,6
+-58.4743192749257,-34.6446913690757,319937,9,Bilbao Francisco Av.,3800.0,3839,Melia,5.6,Ocupada,Regular,A nivel,35,7
+-58.474390882110605,-34.6447422528329,319938,9,Bilbao Francisco Av.,3800.0,3847,Melia,5.6,Ocupada,Regular,A nivel,85,10
+-58.474606301171995,-34.644895328061104,319941,9,Bilbao Francisco Av.,3800.0,3871,Lagerstroemia,5.6,Ocupada,Regular,A nivel,12,3
+-58.4748192904321,-34.6450466757609,319943,9,Bilbao Francisco Av.,3800.0,3895,Melia,5.6,Ocupada,Regular,A nivel,75,12
+-58.4917976095777,-34.6603001180474,324465,9,Bilbao Francisco Av.,5800.0,5871,Melia,4.4,Sobreocupada,Regular,A nivel,54,10

@@ -1,0 +1,213 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.44818177740439,-34.6451602359792,423463,5,Rivera Indarte Av.,1600.0,1617.0,Ficus,4,Ocupada,Regular,A nivel,55,14
+-58.46102749584129,-34.6327987576435,328614,7,Rivera Indarte Av.,300.0,342,Ficus,2.8,Ocupada,Regular,A nivel,31,11
+-58.460796041554794,-34.633338361224496,328617,7,Rivera Indarte Av.,300.0,396,Platanus,2.8,Ocupada,Regular,A nivel,92,17
+-58.4610719594563,-34.632925815170005,329994,7,Rivera Indarte Av.,300.0,349,Platanus,2.6,Ocupada,Regular,A nivel,82,16
+-58.4610083743771,-34.633073884195106,329995,7,Rivera Indarte Av.,300.0,371,Platanus,5.2,Ocupada,Regular,A nivel,67,16
+-58.4610083743771,-34.633073884195106,329996,7,Rivera Indarte Av.,300.0,371,Platanus,2.6,Ocupada,Regular,A nivel,49,15
+-58.460942697417,-34.6332268239271,329997,7,Rivera Indarte Av.,300.0,383,Platanus,2.6,Ocupada,Regular,A nivel,57,16
+-58.460686342859894,-34.6337644309619,328192,7,Rivera Indarte Av.,400.0,409,Platanus,3.2,Ocupada,Ochava,A nivel,61,10
+-58.46065488853829,-34.6338194164351,328193,7,Rivera Indarte Av.,400.0,417,Platanus,3.2,Ocupada,Regular,Bajo nivel,74,10
+-58.460610337720205,-34.633903945205105,328194,7,Rivera Indarte Av.,400.0,421,Platanus,3.2,Ocupada,Regular,Bajo nivel,89,10
+-58.46051567328179,-34.6340835567661,328195,7,Rivera Indarte Av.,400.0,435,Platanus,3.2,Ocupada,Regular,A nivel,67,11
+-58.46049196337871,-34.6341285425931,328196,7,Rivera Indarte Av.,400.0,437,Platanus,3.2,Ocupada,Regular,Bajo nivel,57,10
+-58.4604449396223,-34.634217762694504,328197,7,Rivera Indarte Av.,400.0,449,Platanus,3.2,Ocupada,Regular,A nivel,68,10
+-58.4604023614361,-34.6342985478297,328198,7,Rivera Indarte Av.,400.0,453,Ficus,3.2,Ocupada,Regular,Bajo nivel,18,7
+-58.46034938858059,-34.634399054934605,328199,7,Rivera Indarte Av.,400.0,463,Platanus,3.2,Ocupada,Regular,Elevada,73,11
+-58.4603264273364,-34.634442619941,328200,7,Rivera Indarte Av.,400.0,467,Ficus,3.2,Ocupada,Regular,A nivel,6,3
+-58.4602809211377,-34.6345289599957,328201,7,Rivera Indarte Av.,400.0,471,Platanus,3.2,Ocupada,Regular,A nivel,89,14
+-58.4602600070471,-34.634568640759504,328202,7,Rivera Indarte Av.,400.0,475,Tilia,3.2,Ocupada,Regular,Bajo nivel,15,5
+-58.46022818776171,-34.6346290121013,328203,7,Rivera Indarte Av.,400.0,479,Platanus,3.2,Ocupada,Regular,A nivel,108,14
+-58.461350137142105,-34.632053377911504,322890,7,Rivera Indarte Av.,200.0,280,Platanus,2.8,Ocupada,Regular,A nivel,52,17
+-58.4613875924296,-34.6319661582944,322891,7,Rivera Indarte Av.,200.0,268,Platanus,2.8,Ocupada,Regular,A nivel,65,17
+-58.4614236122763,-34.6318822811115,322892,7,Rivera Indarte Av.,200.0,254,Platanus,2.8,Ocupada,Regular,A nivel,52,21
+-58.46166461923671,-34.631539769114106,322903,7,Rivera Indarte Av.,200.0,217,Platanus,2.8,Ocupada,Regular,A nivel,31,16
+-58.461626149932606,-34.631629351246296,322904,7,Rivera Indarte Av.,200.0,221,Platanus,2.8,Ocupada,Regular,A nivel,64,25
+-58.4615368079372,-34.6318373980546,322905,7,Rivera Indarte Av.,200.0,249,Platanus,2.8,Ocupada,Regular,A nivel,39,23
+-58.4614890118895,-34.6319486981818,322906,7,Rivera Indarte Av.,200.0,259,Platanus,2.8,Ocupada,Regular,A nivel,65,24
+-58.46166461923671,-34.631539769114106,323545,7,Rivera Indarte Av.,200.0,213,Platanus,2.8,Ocupada,Regular,A nivel,74,25
+-58.461626149932606,-34.631629351246296,323546,7,Rivera Indarte Av.,200.0,221,Platanus,2.8,Ocupada,Regular,A nivel,83,26
+-58.4615368079372,-34.6318373980546,323547,7,Rivera Indarte Av.,200.0,249,Platanus,2.8,Ocupada,Regular,Bajo nivel,68,25
+-58.4615368079372,-34.6318373980546,323548,7,Rivera Indarte Av.,200.0,249,Platanus,2.8,Ocupada,Regular,Bajo nivel,52,3
+-58.4614003680858,-34.6321551174602,323550,7,Rivera Indarte Av.,200.0,283,Tilia,2.8,Ocupada,Regular,Bajo nivel,32,16
+-58.461252668305995,-34.6322803461537,323531,7,Rivera Indarte Av.,200.0,298,Ficus,2.8,Ocupada,Regular,A nivel,34,8
+-58.4613186896438,-34.6321266074632,323532,7,Rivera Indarte Av.,200.0,286,Jacaranda,2.8,Ocupada,Regular,Elevada,36,16
+-58.461350137142105,-34.632053377911504,323533,7,Rivera Indarte Av.,200.0,278,Platanus,2.8,Ocupada,Regular,A nivel,62,25
+-58.4614236122763,-34.6318822811115,323535,7,Rivera Indarte Av.,200.0,254,Platanus,2.8,Ocupada,Regular,Bajo nivel,64,25
+-58.4578505842666,-34.6373175139587,347727,7,Rivera Indarte Av.,700.0,711,Platanus,4.4,Ocupada,Regular,A nivel,57,11
+-58.4578505842666,-34.6373175139587,347728,7,Rivera Indarte Av.,700.0,711,Platanus,4.4,Ocupada,Regular,A nivel,61,12
+-58.4576722819125,-34.6374802138738,347729,7,Rivera Indarte Av.,700.0,729,Platanus,4.4,Ocupada,Regular,A nivel,65,13
+-58.4576722819125,-34.6374802138738,347730,7,Rivera Indarte Av.,700.0,729,Platanus,4.4,Sobreocupada,Regular,Elevada,62,9
+-58.4576098285436,-34.6375387061519,347731,7,Rivera Indarte Av.,700.0,733,Platanus,4.4,Ocupada,Regular,A nivel,60,15
+-58.457547401634706,-34.6375971735361,347732,7,Rivera Indarte Av.,700.0,743,Platanus,4.4,Ocupada,Regular,Elevada,52,15
+-58.4574218135814,-34.6377147956049,347733,7,Rivera Indarte Av.,700.0,767,Platanus,4.4,Ocupada,Regular,A nivel,74,15
+-58.4573590449499,-34.637773582676395,347734,7,Rivera Indarte Av.,700.0,779,Platanus,4.4,Ocupada,Regular,A nivel,1,13
+-58.4573590449499,-34.637773582676395,347735,7,Rivera Indarte Av.,700.0,779,Platanus,4.4,Ocupada,Regular,A nivel,16,12
+-58.4572396871484,-34.6378853690348,347736,7,Rivera Indarte Av.,700.0,793,Platanus,4.4,Ocupada,Regular,A nivel,78,11
+-58.4572432060677,-34.637770238719895,342286,7,Rivera Indarte Av.,700.0,774,Platanus,4.4,Ocupada,Regular,A nivel,72,14
+-58.458137541403,-34.6369204691024,342295,7,Rivera Indarte Av.,600.0,686,Platanus,4.4,Ocupada,Regular,A nivel,47,9
+-58.458137541403,-34.6369204691024,342296,7,Rivera Indarte Av.,600.0,686,Platanus,4.4,Ocupada,Regular,Elevada,63,15
+-58.458200013966795,-34.6368618902848,342297,7,Rivera Indarte Av.,600.0,674,Platanus,4.4,Ocupada,Regular,A nivel,54,14
+-58.45826191025311,-34.6368038516893,342298,7,Rivera Indarte Av.,600.0,662,Platanus,4.4,Ocupada,Regular,A nivel,62,14
+-58.458324577809805,-34.6367450897995,342299,7,Rivera Indarte Av.,600.0,654,Platanus,4.4,Ocupada,Regular,A nivel,50,12
+-58.45838660956039,-34.6366869239644,342300,7,Rivera Indarte Av.,600.0,646,Platanus,4.4,Ocupada,Regular,A nivel,53,12
+-58.4586589839882,-34.6365436910163,341573,7,Rivera Indarte Av.,600.0,617,Platanus,4.4,Sobreocupada,Regular,A nivel,60,13
+-58.458527794384,-34.6366667054353,341575,7,Rivera Indarte Av.,600.0,633,Platanus,4.4,Ocupada,Regular,A nivel,58,13
+-58.45846543845321,-34.636725175429504,341579,7,Rivera Indarte Av.,600.0,641,Platanus,4.4,Ocupada,Regular,A nivel,69,11
+-58.458278914336006,-34.6369000749132,341581,7,Rivera Indarte Av.,600.0,665,Platanus,4.4,Ocupada,Regular,A nivel,69,11
+-58.4582171703707,-34.6369579706161,341583,7,Rivera Indarte Av.,600.0,683,Platanus,4.4,Sobreocupada,Regular,Elevada,58,11
+-58.4582171703707,-34.6369579706161,341584,7,Rivera Indarte Av.,600.0,683,Platanus,4.4,Ocupada,Regular,A nivel,59,11
+-58.4582171703707,-34.6369579706161,341585,7,Rivera Indarte Av.,600.0,683,Platanus,4.4,Ocupada,Regular,A nivel,62,10
+-58.45523152374061,-34.6397668523802,340124,7,Rivera Indarte Av.,900.0,985,Platanus,3.2,Ocupada,Regular,A nivel,85,18
+-58.4553562152217,-34.63965006874211,340126,7,Rivera Indarte Av.,900.0,973,Platanus,3.2,Ocupada,Regular,Elevada,102,18
+-58.4554188432565,-34.6395914123343,340127,7,Rivera Indarte Av.,900.0,967,Ficus,3.2,Ocupada,Regular,Elevada,47,9
+-58.4554808454452,-34.6395333420001,340128,7,Rivera Indarte Av.,900.0,961,Platanus,3.2,Ocupada,Regular,Bajo nivel,89,17
+-58.455668792698496,-34.6393573126493,340131,7,Rivera Indarte Av.,900.0,943,Platanus,3.2,Ocupada,Regular,A nivel,99,21
+-58.4557307125796,-34.639299318927605,340132,7,Rivera Indarte Av.,900.0,937,Platanus,3.2,Sobreocupada,Regular,A nivel,63,17
+-58.4557939675748,-34.639240074647695,340135,7,Rivera Indarte Av.,900.0,931,Platanus,3.2,Ocupada,Regular,A nivel,71,17
+-58.4557583128907,-34.639160336639,340143,7,Rivera Indarte Av.,900.0,924,Ficus,4.4,Ocupada,Regular,Elevada,17,6
+-58.45563357276061,-34.6392771674903,340145,7,Rivera Indarte Av.,900.0,936,Lagerstroemia,4.4,Ocupada,Regular,A nivel,9,4
+-58.455550068803994,-34.6393553765315,340147,7,Rivera Indarte Av.,900.0,944,Jacaranda,4.4,Ocupada,Regular,A nivel,39,13
+-58.4553831386716,-34.639511721161696,340149,7,Rivera Indarte Av.,900.0,960,Jacaranda,4.4,Ocupada,Regular,A nivel,65,13
+-58.455197567178,-34.639685524086,340153,7,Rivera Indarte Av.,900.0,978,Platanus,4.4,Ocupada,Regular,Elevada,69,19
+-58.4589796787747,-34.6361260779787,364851,7,Rivera Indarte Av.,500.0,592,Ficus,4.4,Ocupada,Regular,A nivel,44,7
+-58.4589796787747,-34.6361260779787,364854,7,Rivera Indarte Av.,500.0,592,Ficus,4.4,Sobreocupada,Regular,A nivel,33,8
+-58.459205900484896,-34.635917516911896,364858,7,Rivera Indarte Av.,500.0,578,Platanus,4.4,Ocupada,Regular,Elevada,16,7
+-58.4595261165319,-34.635620672736,364864,7,Rivera Indarte Av.,500.0,546,Tilia,4.4,Sobreocupada,Regular,Elevada,9,5
+-58.4596570729339,-34.6354992737076,364867,7,Rivera Indarte Av.,500.0,534,Tilia,4.4,Ocupada,Regular,Elevada,13,7
+-58.45973041567229,-34.6354312833969,364869,7,Rivera Indarte Av.,500.0,528,Ficus,4.4,Ocupada,Regular,Bajo nivel,34,7
+-58.459878505907,-34.6352940000641,364872,7,Rivera Indarte Av.,500.0,516,Ficus,4.4,Ocupada,Regular,Elevada,17,7
+-58.4599882451354,-34.6351922686446,364874,7,Rivera Indarte Av.,500.0,506,Platanus,4.4,Ocupada,Regular,Elevada,15,8
+-58.4600541230772,-34.635252049824,364784,7,Rivera Indarte Av.,500.0,505,Ficus,4.4,Ocupada,Regular,Elevada,34,5
+-58.4599680390131,-34.6353318523045,364785,7,Rivera Indarte Av.,500.0,515,Ficus,4.4,Ocupada,Regular,Elevada,20,4
+-58.4595992309548,-34.6356737458111,364789,7,Rivera Indarte Av.,500.0,545,Tilia,4.4,Ocupada,Regular,Bajo nivel,25,9
+-58.459528437356994,-34.635739372660304,364790,7,Rivera Indarte Av.,500.0,551,Tilia,4.4,Ocupada,Regular,Bajo nivel,26,10
+-58.45950483945179,-34.6357612482633,364791,7,Rivera Indarte Av.,500.0,553,Tilia,4.4,Ocupada,Regular,A nivel,29,12
+-58.4594417733407,-34.6358197114396,364793,7,Rivera Indarte Av.,500.0,559,Platanus,4.4,Ocupada,Regular,A nivel,48,16
+-58.459380870963,-34.6358761686759,364794,7,Rivera Indarte Av.,500.0,565,Jacaranda,4.4,Ocupada,Regular,Bajo nivel,8,3
+-58.459129548448296,-34.636109146559,364798,7,Rivera Indarte Av.,500.0,585,Ficus,4.4,Sobreocupada,Regular,Elevada,14,3
+-58.459065535806,-34.6361684864779,364799,7,Rivera Indarte Av.,500.0,587,Ficus,4.4,Ocupada,Regular,Elevada,34,3
+-58.4590051095162,-34.6362238613833,364801,7,Rivera Indarte Av.,500.0,591,Tilia,4.4,Ocupada,Regular,Elevada,9,5
+-58.450358586769994,-34.6435832188409,354780,7,Rivera Indarte Av.,1400.0,1406,Ficus,2.8,Ocupada,Regular,Elevada,40,7
+-58.4538929285449,-34.640843896133106,356623,7,Rivera Indarte Av.,1000.0,1084,Ficus,4.4,Ocupada,Regular,A nivel,12,3
+-58.4542907329141,-34.640494797520496,356628,7,Rivera Indarte Av.,1000.0,1048,Tilia,4.4,Ocupada,Regular,Elevada,37,7
+-58.4542907329141,-34.640494797520496,356630,7,Rivera Indarte Av.,1000.0,1048,Tilia,4.4,Ocupada,Regular,Elevada,27,7
+-58.4545497832186,-34.640267462160395,356635,7,Rivera Indarte Av.,1000.0,1024,Melia,4.4,Ocupada,Regular,Elevada,40,8
+-58.4546481981275,-34.6402864252834,356642,7,Rivera Indarte Av.,1000.0,1017,Melia,4.4,Sobreocupada,Regular,Elevada,49,8
+-58.45458343509,-34.6403432598075,356643,7,Rivera Indarte Av.,1000.0,1023,Tilia,4.4,Ocupada,Regular,Elevada,31,9
+-58.454518614153,-34.6404001450211,356644,7,Rivera Indarte Av.,1000.0,1029,Tilia,4.4,Ocupada,Regular,A nivel,29,8
+-58.4543248414388,-34.6405701943904,356648,7,Rivera Indarte Av.,1000.0,1047,Tilia,4.4,Sobreocupada,Regular,Elevada,33,8
+-58.4540010160062,-34.6408543720124,356655,7,Rivera Indarte Av.,1000.0,1077,Ficus,4.4,Ocupada,Regular,A nivel,28,6
+-58.450358586769994,-34.6435832188409,354779,7,Rivera Indarte Av.,1400.0,1414,Ficus,2.8,Ocupada,Regular,Elevada,10,4
+-58.462204219234295,-34.63028710219189,362358,7,Rivera Indarte Av.,100.0,107,Platanus,3,Ocupada,Regular,A nivel,80,18
+-58.462145939307696,-34.6304191116415,362359,7,Rivera Indarte Av.,100.0,129,Platanus,3,Ocupada,Regular,A nivel,63,15
+-58.4620516783094,-34.630638625634695,362361,7,Rivera Indarte Av.,100.0,157,Platanus,3,Ocupada,Regular,A nivel,86,18
+-58.46201720251471,-34.6307189121847,362362,7,Rivera Indarte Av.,100.0,167,Platanus,3,Ocupada,Regular,A nivel,48,16
+-58.46195412816979,-34.6308657980426,362364,7,Rivera Indarte Av.,100.0,175,Platanus,3,Ocupada,Regular,A nivel,63,17
+-58.461923440739206,-34.630937261925204,362365,7,Rivera Indarte Av.,100.0,177,Ficus,3,Ocupada,Regular,A nivel,5,4
+-58.4618930667117,-34.6310079958336,362366,7,Rivera Indarte Av.,100.0,181,Platanus,3,Ocupada,Regular,A nivel,48,16
+-58.461859698298,-34.6310857027826,362367,7,Rivera Indarte Av.,100.0,193,Platanus,3,Ocupada,Regular,A nivel,44,16
+-58.461859698298,-34.6310857027826,362368,7,Rivera Indarte Av.,100.0,193,Platanus,3,Ocupada,Regular,A nivel,54,16
+-58.461859698298,-34.6310857027826,362369,7,Rivera Indarte Av.,100.0,193,Platanus,3,Ocupada,Ochava,A nivel,70,18
+-58.4569428053378,-34.638163872891305,353730,7,Rivera Indarte Av.,800.0,815,Platanus,4.4,Ocupada,Ochava,A nivel,46,17
+-58.4569428053378,-34.638163872891305,353731,7,Rivera Indarte Av.,800.0,815,Platanus,4.4,Ocupada,Regular,A nivel,60,17
+-58.4569428053378,-34.638163872891305,353732,7,Rivera Indarte Av.,800.0,815,Platanus,4.4,Ocupada,Regular,A nivel,55,16
+-58.4534828521475,-34.6413090509521,351587,7,Rivera Indarte Av.,1100.0,1117,Lagerstroemia,4,Sobreocupada,Regular,Elevada,14,3
+-58.4534137161095,-34.641369726406396,351589,7,Rivera Indarte Av.,1100.0,1123,Tilia,4,Sobreocupada,Regular,Elevada,21,9
+-58.4528955128224,-34.6418245100571,351600,7,Rivera Indarte Av.,1100.0,1173,Jacaranda,4,Ocupada,Regular,A nivel,25,9
+-58.4603621145687,-34.634192493831804,384731,7,Rivera Indarte Av.,400.0,454,Platanus,2.8,Ocupada,Regular,A nivel,100,18
+-58.46049273390541,-34.6339446643944,384733,7,Rivera Indarte Av.,400.0,428,Platanus,2.8,Ocupada,Fuera de línea,Elevada,50,14
+-58.46049273390541,-34.6339446643944,384734,7,Rivera Indarte Av.,400.0,428,Platanus,2.8,Ocupada,Fuera de línea,Elevada,90,16
+-58.4605349951855,-34.6338644799744,384735,7,Rivera Indarte Av.,400.0,422,Platanus,2.8,Ocupada,Regular,Elevada,120,17
+-58.46057162517979,-34.6337949799537,384736,7,Rivera Indarte Av.,400.0,416,Platanus,2.8,Ocupada,Regular,Bajo nivel,40,15
+-58.4606316733714,-34.633681609986404,384737,7,Rivera Indarte Av.,400.0,408,Platanus,2.8,Ocupada,Regular,A nivel,50,17
+-58.4606316733714,-34.633681609986404,384738,7,Rivera Indarte Av.,400.0,404,Platanus,2.8,Ocupada,Regular,A nivel,60,17
+-58.4606316733714,-34.633681609986404,384739,7,Rivera Indarte Av.,400.0,404,Ficus,2.8,Sobreocupada,Ochava,Elevada,25,4
+-58.4600523148324,-34.6347802830718,372208,7,Rivera Indarte Av.,400.0,496,Platanus,2.5,Ocupada,Regular,A nivel,140,18
+-58.4602480149804,-34.634408978333695,372211,7,Rivera Indarte Av.,400.0,472,Melia,2.8,Ocupada,Fuera de línea,A nivel,35,10
+-58.460297625299795,-34.6343148513629,372212,7,Rivera Indarte Av.,400.0,462,Platanus,2.8,Ocupada,Regular,A nivel,85,17
+-58.462141138128395,-34.6302114373961,379479,7,Rivera Indarte Av.,100.0,110,Platanus,2.8,Ocupada,Ochava,A nivel,81,25
+-58.462141138128395,-34.6302114373961,379480,7,Rivera Indarte Av.,100.0,110,Platanus,2.8,Ocupada,Regular,A nivel,73,26
+-58.461930231124,-34.6307023001641,379482,7,Rivera Indarte Av.,100.0,166,Ficus,2.8,Ocupada,Regular,Elevada,21,6
+-58.4618307949683,-34.6309338635867,379483,7,Rivera Indarte Av.,100.0,180,Platanus,2.8,Ocupada,Regular,A nivel,70,28
+-58.46175732171349,-34.631104964643896,379484,7,Rivera Indarte Av.,100.0,196,Platanus,2.8,Ocupada,Regular,A nivel,41,23
+-58.46175732171349,-34.631104964643896,379485,7,Rivera Indarte Av.,100.0,196,Platanus,2.8,Ocupada,Regular,A nivel,47,25
+-58.4625895674209,-34.6292873996216,403361,7,Rivera Indarte Av.,NA,41,Platanus,2.6,Ocupada,Regular,A nivel,57,18
+-58.462474231105794,-34.6295902494609,403363,7,Rivera Indarte Av.,NA,59,Platanus,2.6,Ocupada,Regular,A nivel,49,18
+-58.46244608109671,-34.629664165349,403364,7,Rivera Indarte Av.,NA,65,Platanus,2.6,Ocupada,Regular,A nivel,68,18
+-58.46241496232419,-34.6297458763728,403365,7,Rivera Indarte Av.,NA,73,Platanus,2.6,Ocupada,Regular,A nivel,67,18
+-58.4498203051554,-34.6440275366863,408360,7,Rivera Indarte Av.,1400.0,1481,Lagerstroemia,3,Ocupada,Regular,Elevada,18,6
+-58.4501258149445,-34.6438279134113,408363,7,Rivera Indarte Av.,1400.0,1445,Tilia,3,Ocupada,Regular,Elevada,32,9
+-58.4502691459384,-34.6437342588402,408365,7,Rivera Indarte Av.,1400.0,1425,Ficus,3,Ocupada,Regular,A nivel,68,10
+-58.44957306829411,-34.6440964852482,419319,7,Rivera Indarte Av.,1500.0,1500,Tilia,3.6,Ocupada,Regular,A nivel,20,5
+-58.44957306829411,-34.6440964852482,419320,7,Rivera Indarte Av.,1500.0,1500,Tilia,3.6,Ocupada,Regular,A nivel,10,3
+-58.45277386386971,-34.6418260557296,430975,7,Rivera Indarte Av.,1100.0,1178,Tilia,4.4,Ocupada,Regular,A nivel,39,12
+-58.4531707092483,-34.641477779246806,430986,7,Rivera Indarte Av.,1100.0,1140,Ficus,4.4,Ocupada,Regular,A nivel,26,9
+-58.453235564756206,-34.641420860850396,430987,7,Rivera Indarte Av.,1100.0,1134,Jacaranda,4.4,Ocupada,Regular,Elevada,48,12
+-58.4535855918316,-34.6411136685862,430995,7,Rivera Indarte Av.,1100.0,1104,Tilia,4.4,Ocupada,Ochava,A nivel,32,8
+-58.44818177740439,-34.6451602359792,423986,7,Rivera Indarte Av.,1600.0,1617,Ficus,4.4,Sobreocupada,Regular,A nivel,40,6
+-58.4477750770334,-34.6454687368924,423464,7,Rivera Indarte Av.,1600.0,1681,Ficus,4,Ocupada,Regular,A nivel,34,6
+-58.4477750770334,-34.6454687368924,423989,7,Rivera Indarte Av.,1600.0,1681,Ficus,4.4,Ocupada,Regular,A nivel,40,6
+-58.4569428053378,-34.638163872891305,424414,7,Rivera Indarte Av.,800.0,815,Platanus,4.4,Ocupada,Regular,A nivel,53,12
+-58.4569428053378,-34.638163872891305,424415,7,Rivera Indarte Av.,800.0,815,Platanus,4.4,Ocupada,Regular,A nivel,54,15
+-58.4569428053378,-34.638163872891305,424416,7,Rivera Indarte Av.,800.0,815,Platanus,4.4,Ocupada,Regular,Bajo nivel,53,14
+-58.4567259063212,-34.6383670577402,424419,7,Rivera Indarte Av.,800.0,833,Platanus,4.4,Ocupada,Regular,A nivel,60,13
+-58.451292256842,-34.6429732877584,438683,7,Rivera Indarte Av.,1300.0,1320,Tilia,2.7,Ocupada,Regular,A nivel,35,12
+-58.45099582926821,-34.643167008198,438687,7,Rivera Indarte Av.,1300.0,1356,Lagerstroemia,2.8,Ocupada,Regular,A nivel,15,4
+-58.452281113730294,-34.6423514757721,522046,7,Rivera Indarte Av.,1200.0,1229,Ficus,4.4,Ocupada,Regular,A Nivel,11,2
+-58.4354122397962,-34.6549831363372,531550,8,Rivera Indarte Av.,2700,2760,Ficus,4.4,Ocupada,Regular,Elevada,31,3
+-58.4354122397962,-34.6549831363372,531551,8,Rivera Indarte Av.,2700,2760,Ficus,4.4,Ocupada,Regular,Elevada,22,6
+-58.4354122397962,-34.6549831363372,531552,8,Rivera Indarte Av.,2700,2760,Ficus,4.4,Ocupada,Regular,Elevada,35,5
+-58.4354122397962,-34.6549831363372,531555,8,Rivera Indarte Av.,2700,2760,Ficus,4.4,Ocupada,Regular,A Nivel,25,6
+-58.4348540173425,-34.6554878459149,531605,8,Rivera Indarte Av.,2800,2808,Melia,4,Sobreocupada,Ochava,A Nivel,13,5
+-58.434417773091795,-34.6559269322713,531611,8,Rivera Indarte Av.,2800,2874,Melia,4,Ocupada,Regular,A Nivel,23,6
+-58.434357696936104,-34.655987399324104,531612,8,Rivera Indarte Av.,2800,2886,Melia,4,Ocupada,Regular,A Nivel,29,9
+-58.4337748393481,-34.6565736298318,531661,8,Rivera Indarte Av.,2900,2964,Tilia,4.2,Sobreocupada,Regular,A Nivel,28,9
+-58.432852807424496,-34.6575007508229,531699,8,Rivera Indarte Av.,3000,3074,Ficus,4.4,Ocupada,Regular,Elevada,76,9
+-58.432852807424496,-34.6575007508229,531700,8,Rivera Indarte Av.,3000,3074,Tilia,4.4,Ocupada,Regular,Elevada,6,4
+-58.4329008223642,-34.657452426175,531702,8,Rivera Indarte Av.,3000,3064,Ficus,4.4,Ocupada,Regular,A Nivel,16,4
+-58.4329701245078,-34.6573826769178,531704,8,Rivera Indarte Av.,3000,3050,Lagerstroemia,4.4,Ocupada,Regular,Elevada,15,6
+-58.432260518029395,-34.6580898871839,531728,8,Rivera Indarte Av.,3150,3150,Melia,3.2,Ocupada,Regular,A Nivel,21,5
+-58.432260518029395,-34.6580898871839,531729,8,Rivera Indarte Av.,3150,3150,Melia,3.2,Ocupada,Regular,A Nivel,30,5
+-58.4322051364161,-34.6581563539673,531770,8,Rivera Indarte Av.,3200,3200,Melia,4.4,Ocupada,Regular,A Nivel,68,8
+-58.431992422356,-34.6583709994134,531771,8,Rivera Indarte Av.,3200,3206,Melia,4.4,Ocupada,Regular,A Nivel,51,12
+-58.431894276473294,-34.6584700445415,531772,8,Rivera Indarte Av.,3200,3246,Melia,4.4,Ocupada,Regular,A Nivel,50,6
+-58.4317319433564,-34.6586338642884,531775,8,Rivera Indarte Av.,3200,3266,Melia,4.4,Ocupada,Regular,A Nivel,72,10
+-58.4317253642703,-34.6587557852465,531777,8,Rivera Indarte Av.,3200,3281,Melia,4.4,Ocupada,Regular,A Nivel,55,4
+-58.4317253642703,-34.6587557852465,531778,8,Rivera Indarte Av.,3200,3281,Melia,4.4,Ocupada,Regular,A Nivel,66,9
+-58.4312770681432,-34.6590935591639,531819,8,Rivera Indarte Av.,3300,3312,Melia,4.4,Sobreocupada,Regular,Bajo Nivel,66,7
+-58.431201497098506,-34.6591698131293,531821,8,Rivera Indarte Av.,3300,3324,Lagerstroemia,4.4,Ocupada,Regular,A Nivel,17,6
+-58.431201497098506,-34.6591698131293,531822,8,Rivera Indarte Av.,3300,3324,Lagerstroemia,4.4,Ocupada,Regular,A Nivel,20,6
+-58.431083117637606,-34.659289262018596,531823,8,Rivera Indarte Av.,3300,3350,Melia,4.4,Ocupada,Regular,A Nivel,82,9
+-58.4310321598505,-34.6593406800031,531824,8,Rivera Indarte Av.,3300,3378,Melia,4.4,Ocupada,Regular,A Nivel,65,9
+-58.43096627266901,-34.6595211227923,531825,8,Rivera Indarte Av.,3300,3395,Melia,4.4,Ocupada,Regular,A Nivel,63,9
+-58.430614143987,-34.65975748422,531853,8,Rivera Indarte Av.,3400,3412,Melia,4,Sobreocupada,Regular,A Nivel,59,2
+-58.4304105445585,-34.6599624420385,531855,8,Rivera Indarte Av.,3400,3488,Melia,4,Sobreocupada,Regular,A Nivel,60,12
+-58.4303837863274,-34.6599893787098,531856,8,Rivera Indarte Av.,3400,3490,Melia,4,Ocupada,Regular,A Nivel,59,12
+-58.4303837863274,-34.6599893787098,531857,8,Rivera Indarte Av.,3400,3490,Melia,4,Ocupada,Regular,A Nivel,49,12
+-58.4290273380545,-34.6616169592156,531887,8,Rivera Indarte Av.,3600,3588,Ficus,4.4,Ocupada,Regular,A Nivel,63,9
+-58.4293962311458,-34.661163417786,531892,8,Rivera Indarte Av.,3600,3520,Melia,4.4,Sobreocupada,Regular,Elevada,54,12
+-58.4294896076653,-34.6610486135964,531894,8,Rivera Indarte Av.,3600,3508,Melia,4.4,Ocupada,Regular,A Nivel,58,12
+-58.4294896076653,-34.6610486135964,531895,8,Rivera Indarte Av.,3600,3508,Melia,4.4,Ocupada,Regular,A Nivel,31,9
+-58.4294896076653,-34.6610486135964,531896,8,Rivera Indarte Av.,3600,3508,Melia,4.4,Ocupada,Regular,A Nivel,36,9
+-58.428663447936,-34.662063098176105,531916,8,Rivera Indarte Av.,3600,3626,Tilia,4.2,Ocupada,Regular,A Nivel,27,7
+-58.4285800562769,-34.6621656430994,531917,8,Rivera Indarte Av.,3600,3648,Melia,4.2,Ocupada,Regular,A Nivel,45,8
+-58.4338124417814,-34.6566507922634,532096,8,Rivera Indarte Av.,3000,2955,Ficus,5,Ocupada,Fuera de línea,Elevada,58,10
+-58.4332476952215,-34.657219972753,532113,8,Rivera Indarte Av.,3000,3009,Melia,4.4,Ocupada,Ochava,A nivel,43,9
+-58.4327891918042,-34.657681434927696,532123,8,Rivera Indarte Av.,3000,3083,Ficus,4.4,Ocupada,Regular,A nivel,13,4
+-58.4327287268338,-34.6577422895674,532124,8,Rivera Indarte Av.,3000,3089,Melia,4.4,Ocupada,Ochava,Elevada,28,5
+-58.4327287268338,-34.6577422895674,532125,8,Rivera Indarte Av.,3000,3089,Melia,4.4,Ocupada,Ochava,Elevada,6,3
+-58.431989150792894,-34.6584895829622,532176,8,Rivera Indarte Av.,3200,3235,Jacaranda,4.4,Ocupada,Regular,Elevada,24,5
+-58.431989150792894,-34.6584895829622,532177,8,Rivera Indarte Av.,3200,3235,Melia,4.4,Ocupada,Regular,A Nivel,58,9
+-58.431932695129206,-34.658546555848105,532178,8,Rivera Indarte Av.,3200,3247,Melia,4.4,Ocupada,Regular,A Nivel,59,5
+-58.43096627266901,-34.6595211227923,532211,8,Rivera Indarte Av.,3300,3395,Melia,4.4,Ocupada,Ochava,A Nivel,61,10
+-58.43096627266901,-34.6595211227923,532212,8,Rivera Indarte Av.,3300,3395,Melia,4.4,Ocupada,Regular,A Nivel,60,9
+-58.4313860141276,-34.6590975508133,532217,8,Rivera Indarte Av.,3300,3309,Ficus,4.4,Ocupada,Regular,Elevada,45,3
+-58.4313860141276,-34.6590975508133,532218,8,Rivera Indarte Av.,3300,3305,Melia,4.4,Ocupada,Ochava,A Nivel,37,6
+-58.4304197059837,-34.660075635172895,532259,8,Rivera Indarte Av.,3400,3495,Melia,4.4,Ocupada,Regular,A Nivel,69,13
+-58.43048992259621,-34.6600049503228,532261,8,Rivera Indarte Av.,3400,3483,Melia,4.4,Sobreocupada,Regular,A Nivel,54,12
+-58.430549562105895,-34.6599449129704,532263,8,Rivera Indarte Av.,3400,3471,Melia,4.4,Sobreocupada,Regular,A Nivel,28,11
+-58.430608642796294,-34.659885438070305,532264,8,Rivera Indarte Av.,3400,3461,Melia,4.4,Ocupada,Regular,A Nivel,23,12
+-58.4294720312109,-34.6611993795759,532305,8,Rivera Indarte Av.,3500,3523,Tilia,4.4,Ocupada,Regular,Elevada,21,5
+-58.4294185125529,-34.6612651793875,532306,8,Rivera Indarte Av.,3500,3533,Melia,4.4,Ocupada,Regular,A Nivel,19,7
+-58.42920668245171,-34.661525617786396,532308,8,Rivera Indarte Av.,3500,3571,Melia,4.4,Ocupada,Regular,A Nivel,29,8

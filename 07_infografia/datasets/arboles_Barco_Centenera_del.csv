@@ -1,0 +1,85 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.4263069105934,-34.6494722178317,397958,4,Barco Centenera del Av.,2700,2785,Ficus,4,Ocupada,Regular,A nivel,60,13
+-58.4264697446173,-34.649353887347196,397959,4,Barco Centenera del Av.,2700,2773,Melia,4,Ocupada,Regular,A nivel,51,6
+-58.432258190237,-34.6421721613977,510398,4,Barco Centenera del Av.,2050,2040,Melia,3.2,Ocupada,Ochava,Bajo Nivel,45,10
+-58.437084693817,-34.632424519284704,510407,4,Barco Centenera del Av.,1200,1122,Ficus,5.6,Ocupada,Regular,Elevada,29,12
+-58.4321648384089,-34.643488792873,510980,4,Barco Centenera del Av.,2100,2146,Jacaranda,3,Ocupada,Regular,A Nivel,14,7
+-58.432183331845295,-34.6431767143426,510982,4,Barco Centenera del Av.,2100,2120,Ficus,3,Ocupada,Regular,A Nivel,32,10
+-58.4320085797466,-34.6443586292442,511042,4,Barco Centenera del Av.,2200,2206,Tilia,3,Ocupada,Regular,A Nivel,25,8
+-58.432123128063296,-34.6441054129944,511234,4,Barco Centenera del Av.,2200,2200,Ficus,4.4,Ocupada,Regular,A Nivel,157,11
+-58.432123128063296,-34.6441054129944,511236,4,Barco Centenera del Av.,2200,2200,Jacaranda,4.4,Ocupada,Regular,A Nivel,6,4
+-58.432123128063296,-34.6441054129944,511237,4,Barco Centenera del Av.,2200,2200,Jacaranda,4.4,Ocupada,Regular,A Nivel,5,2
+-58.43138201334929,-34.6455860669537,511375,4,Barco Centenera del Av.,2300,2364,Ficus,3.2,Ocupada,Regular,Elevada,30,8
+-58.4300115410705,-34.6468065576157,511501,4,Barco Centenera del Av.,2400,2495,Ficus,3.2,Ocupada,Regular,A Nivel,13,6
+-58.427768938925105,-34.6481807583378,511738,4,Barco Centenera del Av.,2500,2502,Jacaranda,32,Ocupada,Regular,A Nivel,3,2
+-58.42935982759499,-34.647043640785,511742,4,Barco Centenera del Av.,2500,2528,Ficus,32,Ocupada,Regular,A Nivel,6,3
+-58.42928837953871,-34.64709471073839,511743,4,Barco Centenera del Av.,2500,2532,Ficus,32,Ocupada,Regular,Elevada,16,6
+-58.42719256551021,-34.6486206464538,513592,4,Barco Centenera del Av.,2600,2650,Jacaranda,4.2,Ocupada,Regular,A Nivel,32,5
+-58.4273647048312,-34.648703718933895,513849,4,Barco Centenera del Av.,2600,2679,Melia,4.4,Ocupada,Regular,A nivel,54,10
+-58.4240992456359,-34.651086493262895,513940,4,Barco Centenera del Av.,2900,2987,Jacaranda,4,Ocupada,Ochava,A Nivel,3,2
+-58.4229446764713,-34.651919111313894,514332,4,Barco Centenera del Av.,3100,3111,Lagerstroemia,4.2,Ocupada,Regular,A Nivel,11,5
+-58.4220288495892,-34.6525803099358,514419,4,Barco Centenera del Av.,3100,3175,Tilia,4.2,Ocupada,Regular,A Nivel,21,8
+-58.4214598502202,-34.652779211398894,514488,4,Barco Centenera del Av.,3100,3198,Jacaranda,4,Ocupada,Ochava,A Nivel,17,5
+-58.4225626701653,-34.6519837177448,514498,4,Barco Centenera del Av.,3100,3132,Melia,4,Ocupada,Regular,A Nivel,45,8
+-58.42021186029,-34.6536799793901,514847,4,Barco Centenera del Av.,3300,3336,Lagerstroemia,4.4,Ocupada,Regular,A Nivel,11,6
+-58.4408540572989,-34.6268694360589,53038,6,Barco Centenera del Av.,600.0,633.0,Jacaranda,3.2,Ocupada,Regular,Bajo nivel,3,2
+-58.4408540572989,-34.6268694360589,53042,6,Barco Centenera del Av.,600.0,633.0,Melia,3.2,Ocupada,Ochava,Bajo nivel,36,16
+-58.4405920506284,-34.6258145490512,53901,6,Barco Centenera del Av.,550.0,559.0,Jacaranda,3.2,Ocupada,Ochava,Bajo nivel,32,10
+-58.4400369371246,-34.627962182641504,59358,6,Barco Centenera del Av.,700.0,722.0,Melia,3,Ocupada,Regular,Bajo nivel,15,5
+-58.44013034412461,-34.6278132798887,59384,6,Barco Centenera del Av.,700.0,710.0,Melia,3,Ocupada,Regular,Bajo nivel,2,3
+-58.43972012446589,-34.628467218179196,59386,6,Barco Centenera del Av.,700.0,764.0,Jacaranda,3,Ocupada,Regular,A nivel,3,2
+-58.440076417506,-34.627899245911195,59396,6,Barco Centenera del Av.,700.0,714.0,Melia,3,Ocupada,Regular,Bajo nivel,12,5
+-58.4408678501958,-34.6232678817443,60091,6,Barco Centenera del Av.,300.0,323.0,Tilia,3.2,Ocupada,Regular,A nivel,22,11
+-58.4405539668597,-34.62734914012211,61663,6,Barco Centenera del Av.,650.0,663.0,Lagerstroemia,3.2,Ocupada,Regular,A nivel,4,3
+-58.440080366444505,-34.6281009358703,69520,6,Barco Centenera del Av.,800.0,747.0,Melia,3.2,Ocupada,Regular,A nivel,34,13
+-58.440080366444505,-34.6281009358703,69521,6,Barco Centenera del Av.,800.0,747.0,Melia,3.2,Ocupada,Regular,A nivel,36,28
+-58.440080366444505,-34.6281009358703,69551,6,Barco Centenera del Av.,800.0,747.0,Melia,3.2,Ocupada,Regular,Elevada,65,15
+-58.44045127997721,-34.6260450409295,70044,6,Barco Centenera del Av.,500.0,590.0,Jacaranda,3.05,Ocupada,Regular,Elevada,12,8
+-58.4404744369384,-34.6258128931254,70045,6,Barco Centenera del Av.,500.0,562.0,Tilia,3.05,Ocupada,Fuera de línea,A nivel,17,8
+-58.4407316821776,-34.6234024743489,80797,6,Barco Centenera del Av.,300.0,350.0,Jacaranda,3.2,Sobreocupada,Regular,Elevada,19,11
+-58.4407316821776,-34.6234024743489,80798,6,Barco Centenera del Av.,300.0,350.0,Jacaranda,3.2,Ocupada,Regular,A nivel,30,11
+-58.4407670260153,-34.6230728926458,88253,6,Barco Centenera del Av.,300.0,314.0,Jacaranda,3.2,Ocupada,Regular,Elevada,35,15
+-58.4407316821776,-34.6234024743489,88257,6,Barco Centenera del Av.,300.0,350.0,Jacaranda,3.2,Sobreocupada,Regular,Elevada,15,9
+-58.4407316821776,-34.6234024743489,88258,6,Barco Centenera del Av.,300.0,350.0,Ficus,3.2,Sobreocupada,Regular,Elevada,6,2
+-58.433240584650896,-34.636892609345196,317415,7,Barco Centenera del Av.,1500.0,1562,Melia,3.2,Ocupada,Regular,A nivel,45,11
+-58.433428357983296,-34.6365379225885,317419,7,Barco Centenera del Av.,1500.0,1516,Melia,3.2,Ocupada,Regular,A nivel,83,16
+-58.432693258600295,-34.637930092228196,323317,7,Barco Centenera del Av.,1684.0,1684,Tilia,3.2,Ocupada,Regular,A nivel,26,9
+-58.4328428401927,-34.6376445002885,323321,7,Barco Centenera del Av.,1650.0,1650,Melia,3.2,Ocupada,Regular,A nivel,42,11
+-58.43315058384,-34.6373087324048,316785,7,Barco Centenera del Av.,1600.0,1611,Jacaranda,3.2,Ocupada,Regular,A nivel,18,6
+-58.43245840708649,-34.639263594199,342581,7,Barco Centenera del Av.,1700.0,1784,Ficus,3.2,Ocupada,Regular,A nivel,19,7
+-58.43245840708649,-34.639263594199,342582,7,Barco Centenera del Av.,1700.0,1782,Jacaranda,3.2,Ocupada,Regular,A nivel,15,7
+-58.4324692529602,-34.6391085203273,342584,7,Barco Centenera del Av.,1700.0,1776,Ficus,3.2,Sobreocupada,Regular,Elevada,70,6
+-58.4325034562942,-34.6386396684755,342591,7,Barco Centenera del Av.,1700.0,1736,Melia,3.2,Ocupada,Regular,A nivel,42,11
+-58.4323800442766,-34.6404193966434,342615,7,Barco Centenera del Av.,1800.0,1880,Jacaranda,3.2,Ocupada,Regular,A nivel,19,8
+-58.4323971410306,-34.640172836846396,342616,7,Barco Centenera del Av.,1800.0,1856,Melia,3.2,Ocupada,Regular,A nivel,40,9
+-58.432406947185605,-34.6400314173701,342618,7,Barco Centenera del Av.,1800.0,1834,Jacaranda,3.2,Ocupada,Regular,A nivel,15,5
+-58.432411797808506,-34.6399614638321,342619,7,Barco Centenera del Av.,1800.0,1828,Melia,3.2,Ocupada,Regular,A nivel,90,9
+-58.43258967703029,-34.6390949398966,334375,7,Barco Centenera del Av.,1750.0,1763,Jacaranda,3.4,Ocupada,Regular,A nivel,17,6
+-58.43496294319779,-34.6349630293223,332935,7,Barco Centenera del Av.,1300.0,1351,Melia,3,Sobreocupada,Regular,Elevada,5,5
+-58.4350192891875,-34.6347494119092,332983,7,Barco Centenera del Av.,1300.0,1324,Ficus,3,Ocupada,Regular,A nivel,33,6
+-58.4341034332261,-34.635718223407395,359222,7,Barco Centenera del Av.,1400.0,1434,Melia,3.2,Ocupada,Regular,A nivel,42,10
+-58.4323456813768,-34.640992130019896,361671,7,Barco Centenera del Av.,1900.0,1930,Jacaranda,3.2,Ocupada,Regular,A nivel,15,6
+-58.4323207168826,-34.641312881431,361695,7,Barco Centenera del Av.,1900.0,1960,Jacaranda,3.2,Ocupada,Regular,A nivel,14,6
+-58.4335580564009,-34.636539502988896,381630,7,Barco Centenera del Av.,1500.0,1521,Melia,3.2,Ocupada,Regular,A nivel,73,9
+-58.43788599513821,-34.631218889366004,382949,7,Barco Centenera del Av.,1000.0,1004,Ficus,4.4,Ocupada,Ochava,A nivel,27,5
+-58.43777373373611,-34.6313875487046,382952,7,Barco Centenera del Av.,1000.0,1020,Ficus,3.2,Ocupada,Regular,Elevada,17,3
+-58.4333678011825,-34.636898879024,381501,7,Barco Centenera del Av.,1500.0,1561,Jacaranda,3.2,Ocupada,Regular,Elevada,13,4
+-58.4342514011909,-34.6357143567735,381585,7,Barco Centenera del Av.,1400.0,1421,Melia,3.2,Ocupada,Regular,A nivel,48,8
+-58.4340425652498,-34.635934863665106,381457,7,Barco Centenera del Av.,1400.0,1453,Ficus,3.2,Ocupada,Regular,Elevada,51,9
+-58.4393092053164,-34.6290802981947,427029,7,Barco Centenera del Av.,800.0,816,Ficus,3.2,Ocupada,Regular,Elevada,29,8
+-58.4392745222248,-34.6293398322681,427033,7,Barco Centenera del Av.,800.0,825,Melia,3.2,Ocupada,Regular,A nivel,46,13
+-58.4392316994813,-34.6294041697024,427034,7,Barco Centenera del Av.,800.0,835,Jacaranda,3.2,Ocupada,Regular,A nivel,15,8
+-58.4390429750471,-34.6296877102828,427038,7,Barco Centenera del Av.,800.0,875,Jacaranda,3.2,Sobreocupada,Regular,A nivel,11,10
+-58.4389753610434,-34.629789293365,427040,7,Barco Centenera del Av.,800.0,879,Ficus,3.2,Ocupada,Regular,Elevada,50,14
+-58.438911508632096,-34.6298852248035,427042,7,Barco Centenera del Av.,800.0,887,Melia,3.2,Ocupada,Regular,A nivel,55,11
+-58.4388499998142,-34.6299776349757,427043,7,Barco Centenera del Av.,800.0,891,Ficus,3.2,Ocupada,Regular,A nivel,22,11
+-58.433788625054795,-34.6360506232801,418137,7,Barco Centenera del Av.,1400.0,1472,Melia,3.2,Ocupada,Regular,A nivel,67,8
+-58.4341034332261,-34.635718223407395,418140,7,Barco Centenera del Av.,1400.0,1434,Melia,3.2,Ocupada,Regular,A nivel,42,12
+-58.43428265380711,-34.635528986305,418144,7,Barco Centenera del Av.,1400.0,1406,Melia,3.2,Ocupada,Regular,A nivel,55,12
+-58.432905836848406,-34.637768235444,521311,7,Barco Centenera del Av.,1600.0,1659,Melia,3.2,Ocupada,Regular,A Nivel,64,12
+-58.4324251239568,-34.641437995587395,521441,7,Barco Centenera del Av.,1900.0,1975,Tilia,4.4,Ocupada,Regular,A Nivel,23,8
+-58.43242926632619,-34.6413823647876,521442,7,Barco Centenera del Av.,1900.0,1967,Tilia,4.4,Ocupada,Regular,A Nivel,29,9
+-58.432324377076704,-34.6428101914783,521802,7,Barco Centenera del Av.,2000.0,2093,Ficus,3.2,Ocupada,Regular,Elevada,55,8
+-58.432351767721606,-34.642455953231604,521805,7,Barco Centenera del Av.,2000.0,2067,Jacaranda,3.2,Ocupada,Regular,A Nivel,19,7
+-58.432378457667,-34.6421036433357,521808,7,Barco Centenera del Av.,2000.0,2021,Ficus,3.2,Ocupada,Regular,A Nivel,46,8
+NA,NA,334374,7,Barco Centenera del Av.,1750.0,4781,Jacaranda,3.4,Ocupada,Regular,Elevada,18,9

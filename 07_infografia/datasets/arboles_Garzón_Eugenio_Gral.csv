@@ -1,0 +1,166 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.4695732996525,-34.6398194271497,324349,7,Garzón Eugenio Gral. Av.,3400.0,3370,Tilia,4.4,Ocupada,Regular,A nivel,24,10
+-58.4694787946678,-34.639793856709105,324350,7,Garzón Eugenio Gral. Av.,3400.0,3360,Lagerstroemia,4.4,Ocupada,Regular,A nivel,22,8
+-58.4692675449635,-34.6397366979738,324351,7,Garzón Eugenio Gral. Av.,3400.0,3346,Ficus,4.4,Ocupada,Regular,A nivel,24,8
+-58.4693608633996,-34.639683543448804,332331,7,Garzón Eugenio Gral. Av.,3300.0,3343,Tilia,4.4,Ocupada,Regular,A nivel,45,10
+-58.4694526987556,-34.6397083917066,332332,7,Garzón Eugenio Gral. Av.,3300.0,3351,Ficus,4.4,Ocupada,Regular,Elevada,23,8
+-58.469707065581,-34.639777216365104,332335,7,Garzón Eugenio Gral. Av.,3300.0,3395,Melia,4.4,Ocupada,Regular,A nivel,64,12
+-58.46926619092879,-34.6396579274384,332330,7,Garzón Eugenio Gral. Av.,3300.0,3333,Ficus,4.4,Ocupada,Regular,A nivel,10,5
+-58.48459386984299,-34.650585903332704,261231,9,Garzón Eugenio Gral. Av.,4700,4762,Tilia,3.2,Ocupada,Regular,Elevada,17,6
+-58.49320752702471,-34.657903795998,268483,9,Garzón Eugenio Gral. Av.,5700,5796,Jacaranda,5.7,Ocupada,Regular,A nivel,31,8
+-58.485735181602,-34.6515695889687,266682,9,Garzón Eugenio Gral. Av.,4800,4862,Ficus,3.2,Ocupada,Regular,Elevada,36,8
+-58.5041970410213,-34.667589883637,266702,9,Garzón Eugenio Gral. Av.,7100,7124,Ficus,4.4,Ocupada,Regular,Bajo nivel,3,2
+-58.504137573025,-34.667539849864895,266703,9,Garzón Eugenio Gral. Av.,7100,7118,Melia,4.4,Ocupada,Regular,A nivel,38,12
+-58.504137573025,-34.667539849864895,266704,9,Garzón Eugenio Gral. Av.,7100,7116,Ficus,4.4,Ocupada,Regular,A nivel,43,8
+-58.5036703179953,-34.6670432375502,266749,9,Garzón Eugenio Gral. Av.,7000,7067,Melia,4.4,Ocupada,Regular,A nivel,82,13
+-58.503730397077504,-34.6670933197297,266750,9,Garzón Eugenio Gral. Av.,7000,7075,Melia,4.4,Ocupada,Regular,A nivel,54,9
+-58.4712075369264,-34.6402149090885,267125,9,Garzón Eugenio Gral. Av.,3500,3501,Melia,4.4,Ocupada,Ochava,A nivel,56,8
+-58.47178517023029,-34.6403863783201,267132,9,Garzón Eugenio Gral. Av.,3500,3581,Tilia,4.4,Ocupada,Regular,Elevada,0,9
+-58.4923841208549,-34.6569510272373,266894,9,Garzón Eugenio Gral. Av.,5600,5671,Ficus,5.2,Ocupada,Regular,Elevada,27,8
+-58.471827740445605,-34.6404835341982,267193,9,Garzón Eugenio Gral. Av.,3500,3592,Melia,4.4,Ocupada,Ochava,A nivel,98,8
+-58.48610871223371,-34.651891622239596,266675,9,Garzón Eugenio Gral. Av.,4800,4894,Ficus,3.2,Ocupada,Ochava,Bajo nivel,4,2
+-58.5061185448714,-34.669102156722396,277383,9,Garzón Eugenio Gral. Av.,7300,7371,Lagerstroemia,4.4,Ocupada,Regular,A nivel,4,4
+-58.50600482263761,-34.6690064665084,277386,9,Garzón Eugenio Gral. Av.,7300,7365,Tilia,4.4,Sobreocupada,Regular,A nivel,33,7
+-58.5059917287619,-34.668995448802,277387,9,Garzón Eugenio Gral. Av.,7300,7361,Tilia,4.4,Sobreocupada,Regular,A nivel,30,7
+-58.505939353293506,-34.6689513779627,277388,9,Garzón Eugenio Gral. Av.,7300,7353,Ficus,4.4,Ocupada,Regular,A nivel,73,8
+-58.50580538420421,-34.6688386506314,277389,9,Garzón Eugenio Gral. Av.,7300,7325,Ficus,4.4,Ocupada,Regular,A nivel,41,6
+-58.50580538420421,-34.6688386506314,277390,9,Garzón Eugenio Gral. Av.,7300,7323,Lagerstroemia,4.4,Ocupada,Regular,A nivel,19,6
+-58.50431131645289,-34.6675804296764,276668,9,Garzón Eugenio Gral. Av.,7100,7139,Melia,4.4,Ocupada,Regular,Elevada,1,13
+-58.504551868511896,-34.6677828182692,276670,9,Garzón Eugenio Gral. Av.,7100,7187,Ficus,4.4,Ocupada,Regular,Elevada,32,8
+-58.5046261620323,-34.667845324872104,276674,9,Garzón Eugenio Gral. Av.,7100,7199,Melia,4.4,Ocupada,Ochava,A nivel,58,17
+-58.5045800692948,-34.667912144673,276676,9,Garzón Eugenio Gral. Av.,7100,7196,Melia,4.4,Ocupada,Regular,A nivel,60,7
+-58.5044947159454,-34.667840332919305,276678,9,Garzón Eugenio Gral. Av.,7100,7192,Melia,4.4,Ocupada,Regular,A nivel,59,9
+-58.493295386906794,-34.657721548062504,275664,9,Garzón Eugenio Gral. Av.,5700,5797,Ficus,NA,Ocupada,Regular,A nivel,29,6
+-58.4931092580556,-34.657564990408304,275669,9,Garzón Eugenio Gral. Av.,5700,5759,Lagerstroemia,5.7,Ocupada,Regular,A nivel,16,4
+-58.4930395527269,-34.65750635927039,275671,9,Garzón Eugenio Gral. Av.,5700,5745,Ficus,5.7,Ocupada,Regular,A nivel,0,8
+-58.4737594381614,-34.6411175925153,293751,9,Garzón Eugenio Gral. Av.,3700,3716,Ficus,4.4,Ocupada,Regular,A nivel,53,10
+-58.4737594381614,-34.6411175925153,293752,9,Garzón Eugenio Gral. Av.,3700,3716,Ficus,4.4,Sobreocupada,Regular,A nivel,72,11
+-58.4736468698411,-34.6410379016857,293754,9,Garzón Eugenio Gral. Av.,3700,3704,Ficus,4.4,Ocupada,Ochava,A nivel,96,11
+-58.4738584370108,-34.6410910259558,293758,9,Garzón Eugenio Gral. Av.,3700,3719,Ficus,4.4,Ocupada,Regular,Bajo nivel,32,5
+-58.4740153381831,-34.6412021008665,293761,9,Garzón Eugenio Gral. Av.,3700,3733,Melia,4.4,Ocupada,Regular,A nivel,40,6
+-58.4823319583006,-34.6486352011642,294018,9,Garzón Eugenio Gral. Av.,4400,4426,Lagerstroemia,3.2,Ocupada,Regular,Bajo nivel,15,5
+-58.4824462687193,-34.6487337737954,294019,9,Garzón Eugenio Gral. Av.,4400,4446,Lagerstroemia,3.2,Ocupada,Regular,A nivel,17,7
+-58.48246260515229,-34.6487478610672,294020,9,Garzón Eugenio Gral. Av.,4400,4448,Ficus,3.2,Ocupada,Regular,Elevada,45,7
+-58.4742883420452,-34.6413953670676,293766,9,Garzón Eugenio Gral. Av.,3700,3757,Melia,4.4,Ocupada,Regular,A nivel,54,9
+-58.474432142285,-34.6414971662056,293768,9,Garzón Eugenio Gral. Av.,3700,3771,Ficus,4.4,Sobreocupada,Regular,Elevada,99,7
+-58.47464384243,-34.6416470323112,293772,9,Garzón Eugenio Gral. Av.,3700,3789,Melia,4.4,Sobreocupada,Regular,Elevada,39,6
+-58.474722820306,-34.6417029418575,293773,9,Garzón Eugenio Gral. Av.,3700,3795,Ficus,4.4,Sobreocupada,Regular,Elevada,49,4
+-58.489440899643,-34.654439044779004,293508,9,Garzón Eugenio Gral. Av.,5200,5297,Ficus,4.4,Ocupada,Regular,A nivel,28,2
+-58.50137402976221,-34.6652478155791,293923,9,Garzón Eugenio Gral. Av.,6700,6794,Jacaranda,3.4,Ocupada,Regular,A nivel,48,12
+-58.50137402976221,-34.6652478155791,293924,9,Garzón Eugenio Gral. Av.,6700,6794,Platanus,3.4,Ocupada,Regular,A nivel,77,10
+-58.5009492104106,-34.664893634813,293929,9,Garzón Eugenio Gral. Av.,6700,6722,Lagerstroemia,3.4,Ocupada,Regular,A nivel,11,6
+-58.5010165387691,-34.664949768169606,293928,9,Garzón Eugenio Gral. Av.,6700,6730,Platanus,3.4,Ocupada,Regular,A nivel,60,18
+-58.5009492104106,-34.664893634813,293930,9,Garzón Eugenio Gral. Av.,6700,6722,Lagerstroemia,3.4,Ocupada,Regular,A nivel,16,7
+-58.5008798610122,-34.6648358163415,293931,9,Garzón Eugenio Gral. Av.,6700,6712,Platanus,3.4,Sobreocupada,Regular,A nivel,49,8
+-58.5008798610122,-34.6648358163415,293932,9,Garzón Eugenio Gral. Av.,6700,6710,Platanus,3.4,Ocupada,Ochava,A nivel,52,8
+-58.5003644230284,-34.6642704600004,293947,9,Garzón Eugenio Gral. Av.,6600,6637,Platanus,3.4,Ocupada,Regular,A nivel,68,12
+-58.5004967466185,-34.664380787782,293948,9,Garzón Eugenio Gral. Av.,6600,6651,Platanus,3.4,Ocupada,Regular,A nivel,82,12
+-58.5005631705978,-34.6644361701114,293949,9,Garzón Eugenio Gral. Av.,6600,6675,Ficus,3.4,Sobreocupada,Regular,A nivel,14,3
+-58.5005631705978,-34.6644361701114,293950,9,Garzón Eugenio Gral. Av.,6600,6675,Platanus,3.4,Ocupada,Regular,Bajo nivel,52,9
+-58.500629579464295,-34.6644915397256,293951,9,Garzón Eugenio Gral. Av.,6600,6687,Platanus,3.4,Ocupada,Regular,Bajo nivel,55,9
+-58.500629579464295,-34.6644915397256,293952,9,Garzón Eugenio Gral. Av.,6600,6687,Platanus,3.4,Ocupada,Ochava,A nivel,44,12
+-58.5016265290359,-34.6654590255363,290133,9,Garzón Eugenio Gral. Av.,6800,6802,Melia,3.4,Ocupada,Regular,A nivel,12,7
+-58.50169266129151,-34.665514164532,290134,9,Garzón Eugenio Gral. Av.,6800,6810,Tilia,3.4,Sobreocupada,Regular,Elevada,36,8
+-58.5019460405991,-34.665725423218696,290137,9,Garzón Eugenio Gral. Av.,6800,6854,Platanus,3.4,Ocupada,Regular,A nivel,40,9
+-58.4874709587502,-34.6527623078968,290696,9,Garzón Eugenio Gral. Av.,5000,5027,Tilia,5,Ocupada,Regular,A nivel,39,8
+-58.500962475517206,-34.664770806992806,290152,9,Garzón Eugenio Gral. Av.,6700,6715,Platanus,3.4,Ocupada,Ochava,A nivel,54,12
+-58.500962475517206,-34.664770806992806,290153,9,Garzón Eugenio Gral. Av.,6700,6715,Platanus,3.4,Ocupada,Regular,A nivel,78,12
+-58.5010952952369,-34.664881542200696,290155,9,Garzón Eugenio Gral. Av.,6700,6729,Platanus,3.4,Ocupada,Regular,A nivel,52,10
+-58.50116209414461,-34.6649372339819,290156,9,Garzón Eugenio Gral. Av.,6700,6743,Platanus,3.4,Ocupada,Regular,A nivel,70,12
+-58.5010926468776,-34.6650132212985,290157,9,Garzón Eugenio Gral. Av.,6700,6742,Platanus,3.4,Ocupada,Regular,A nivel,71,12
+-58.501394948999994,-34.6651313695814,290159,9,Garzón Eugenio Gral. Av.,6700,6775,Platanus,3.4,Ocupada,Ochava,A nivel,38,12
+-58.47554906468661,-34.6422881890514,295484,9,Garzón Eugenio Gral. Av.,3800,3867,Melia,4.4,Ocupada,Regular,A nivel,37,12
+-58.47569210859879,-34.6423894598937,295486,9,Garzón Eugenio Gral. Av.,3800,3875,Lagerstroemia,4.4,Ocupada,Regular,A nivel,11,5
+-58.4830891779132,-34.649106262201,296033,9,Garzón Eugenio Gral. Av.,4500,4501,Melia,3,Sobreocupada,Ochava,A nivel,48,8
+-58.487505059450505,-34.6530524761306,284261,9,Garzón Eugenio Gral. Av.,5000,5074,Ficus,6,Ocupada,Regular,A nivel,25,3
+-58.4831918715704,-34.6493753778447,284366,9,Garzón Eugenio Gral. Av.,4500,4580,Lagerstroemia,3,Ocupada,Regular,A nivel,5,3
+-58.5027632806571,-34.6663958049486,294355,9,Garzón Eugenio Gral. Av.,6930,6940,Lagerstroemia,4.4,Sobreocupada,Regular,Elevada,39,5
+-58.48425325971189,-34.6502922331233,284995,9,Garzón Eugenio Gral. Av.,4700,4730,Melia,3.2,Ocupada,Regular,A nivel,78,12
+-58.502669327991704,-34.6663174688425,294386,9,Garzón Eugenio Gral. Av.,6930,6930,Melia,3,Ocupada,Ochava,A nivel,45,7
+-58.502828042866795,-34.6663364000769,282032,9,Garzón Eugenio Gral. Av.,6900,6975,Melia,4.5,Ocupada,Regular,A nivel,58,10
+-58.5022931287922,-34.6658795370249,282070,9,Garzón Eugenio Gral. Av.,6800,6893,Platanus,3.4,Ocupada,Ochava,A nivel,58,7
+-58.5022264526984,-34.6658239455041,282071,9,Garzón Eugenio Gral. Av.,6800,6887,Platanus,3.4,Ocupada,Regular,A nivel,59,7
+-58.502093923961894,-34.6657134486883,282074,9,Garzón Eugenio Gral. Av.,6800,6847,Platanus,3.4,Ocupada,Regular,A nivel,53,12
+-58.5018266038754,-34.6654905672446,282075,9,Garzón Eugenio Gral. Av.,6800,6815,Platanus,3.4,Ocupada,Regular,A nivel,26,12
+-58.499551161188705,-34.6635938891124,279347,9,Garzón Eugenio Gral. Av.,6500,6527,Platanus,3.2,Ocupada,Regular,A nivel,25,7
+-58.499551161188705,-34.6635938891124,279348,9,Garzón Eugenio Gral. Av.,6500,6527,Platanus,3.2,Ocupada,Regular,A nivel,35,6
+-58.47123204697429,-34.6403056683097,281913,9,Garzón Eugenio Gral. Av.,3500.0,3520,Melia,4.4,Ocupada,Regular,A nivel,75,8
+-58.4996814828508,-34.6637025588624,279470,9,Garzón Eugenio Gral. Av.,6500.0,6549,Platanus,3.2,Sobreocupada,Regular,Elevada,18,10
+-58.4997323384974,-34.6637449651228,279471,9,Garzón Eugenio Gral. Av.,6500.0,6559,Platanus,3.2,Ocupada,Regular,A nivel,51,12
+-58.499799669194005,-34.6638011090966,279472,9,Garzón Eugenio Gral. Av.,6500.0,6581,Platanus,3.2,Ocupada,Regular,A nivel,36,12
+-58.4828673620604,-34.6489137400734,288927,9,Garzón Eugenio Gral. Av.,4400.0,4495,Melia,3.2,Ocupada,Regular,A nivel,59,8
+-58.4827993555342,-34.648855097063,288928,9,Garzón Eugenio Gral. Av.,4400.0,4491,Melia,3.2,Ocupada,Regular,A nivel,54,8
+-58.4826039920552,-34.6486866316515,288932,9,Garzón Eugenio Gral. Av.,4400.0,4465,Ficus,3.2,Ocupada,Regular,Bajo nivel,24,5
+-58.4824745289763,-34.6485749927757,288934,9,Garzón Eugenio Gral. Av.,4400.0,4453,Ficus,3.2,Ocupada,Regular,Elevada,36,5
+-58.4824745289763,-34.6485749927757,288935,9,Garzón Eugenio Gral. Av.,4400.0,4451,Ficus,3.2,Ocupada,Regular,Elevada,38,5
+-58.4824094090862,-34.648518838286,288936,9,Garzón Eugenio Gral. Av.,4400.0,4425,Melia,3.2,Ocupada,Regular,Elevada,61,7
+-58.4822693903623,-34.6483980963199,288939,9,Garzón Eugenio Gral. Av.,4400.0,4409,Melia,3.2,Ocupada,Regular,A nivel,57,8
+-58.4733907209989,-34.640837565138895,287366,9,Garzón Eugenio Gral. Av.,3600.0,3695,Lagerstroemia,4.4,Ocupada,Ochava,A nivel,48,6
+-58.470690830974505,-34.6401438956827,288729,9,Garzón Eugenio Gral. Av.,3400.0,3480,Melia,4.4,Ocupada,Regular,A nivel,59,9
+-58.4705088981954,-34.6400898848569,288731,9,Garzón Eugenio Gral. Av.,3400.0,3460,Melia,4.4,Ocupada,Regular,A nivel,49,11
+-58.4702911087387,-34.6400252287038,288734,9,Garzón Eugenio Gral. Av.,3400.0,3432,Melia,4.4,Sobreocupada,Regular,A nivel,70,11
+-58.470067461721,-34.6399588330794,288737,9,Garzón Eugenio Gral. Av.,3400.0,3404,Melia,4.4,Ocupada,Ochava,A nivel,76,9
+-58.4750160886227,-34.6420069268203,286307,9,Garzón Eugenio Gral. Av.,3800.0,3814,Ficus,4.4,Ocupada,Regular,Elevada,80,7
+-58.4753630079846,-34.6422525381938,286311,9,Garzón Eugenio Gral. Av.,3800.0,3850,Tilia,4.4,Ocupada,Regular,A nivel,33,9
+-58.475791973219,-34.6425562328723,286315,9,Garzón Eugenio Gral. Av.,3800.0,3886,Ficus,4.4,Ocupada,Regular,A nivel,35,8
+-58.4745592889038,-34.6416838258784,287436,9,Garzón Eugenio Gral. Av.,3700.0,3784,Ficus,4.4,Ocupada,Regular,A nivel,107,6
+-58.49144453518579,-34.6564024920355,306917,9,Garzón Eugenio Gral. Av.,5500.0,5562,Tilia,5.6,Ocupada,Regular,A nivel,35,9
+-58.4916381960864,-34.6565674129261,306919,9,Garzón Eugenio Gral. Av.,5500.0,5596,Tilia,5.6,Sobreocupada,Ochava,Elevada,4,3
+-58.4916381960864,-34.6565674129261,306920,9,Garzón Eugenio Gral. Av.,5500.0,5596,Tilia,5.6,Sobreocupada,Ochava,Elevada,4,3
+-58.4816132627806,-34.6480150063735,305114,9,Garzón Eugenio Gral. Av.,4300.0,4336,Platanus,2.92,Ocupada,Regular,A nivel,65,7
+-58.481874819811296,-34.6482405471278,305117,9,Garzón Eugenio Gral. Av.,4300.0,4380,Ficus,2.92,Ocupada,Regular,Elevada,34,5
+-58.481949115353096,-34.6483050678639,305118,9,Garzón Eugenio Gral. Av.,4300.0,4396,Melia,2.92,Ocupada,Ochava,A nivel,59,8
+-58.5000662856683,-34.6641592028636,305934,9,Garzón Eugenio Gral. Av.,6600.0,6602,Platanus,3.4,Ocupada,Regular,A nivel,65,10
+-58.5002842054054,-34.664340899450394,305938,9,Garzón Eugenio Gral. Av.,6600.0,6660,Platanus,3.4,Ocupada,Regular,A nivel,67,12
+-58.500217539317106,-34.6642853148943,305936,9,Garzón Eugenio Gral. Av.,6600.0,6642,Platanus,3.4,Ocupada,Regular,A nivel,66,10
+-58.5002842054054,-34.664340899450394,305937,9,Garzón Eugenio Gral. Av.,6600.0,6660,Platanus,3.4,Ocupada,Regular,A nivel,68,10
+-58.5002842054054,-34.664340899450394,305939,9,Garzón Eugenio Gral. Av.,6600.0,6660,Platanus,3.4,Ocupada,Regular,A nivel,69,12
+-58.5004162183566,-34.664450968301395,305940,9,Garzón Eugenio Gral. Av.,6600.0,6670,Platanus,3.4,Ocupada,Regular,A nivel,75,12
+-58.489676513855294,-34.6548968263458,301675,9,Garzón Eugenio Gral. Av.,5300.0,5332,Ficus,4.4,Ocupada,Regular,A nivel,96,9
+-58.4897417052468,-34.6549522183575,301679,9,Garzón Eugenio Gral. Av.,5300.0,5344,Ficus,4.4,Ocupada,Regular,Elevada,109,5
+-58.4898066431294,-34.6550075694046,301680,9,Garzón Eugenio Gral. Av.,5300.0,5354,Ficus,4.4,Sobreocupada,Regular,Elevada,7,3
+-58.490067919709,-34.655230107789,301688,9,Garzón Eugenio Gral. Av.,5300.0,5392,Ficus,4.4,Ocupada,Ochava,A nivel,115,6
+-58.48437622376721,-34.6502142802372,298883,9,Garzón Eugenio Gral. Av.,4700.0,4729,Tilia,2.8,Ocupada,Regular,Bajo nivel,13,7
+-58.4819666138901,-34.6481374657866,297778,9,Garzón Eugenio Gral. Av.,4300.0,4385,Melia,3.2,Ocupada,Regular,A nivel,67,9
+-58.4819666138901,-34.6481374657866,297780,9,Garzón Eugenio Gral. Av.,4300.0,4385,Melia,3.2,Ocupada,Regular,A nivel,77,8
+-58.47017391483029,-34.6399091649715,297907,9,Garzón Eugenio Gral. Av.,3400.0,3425,Tilia,4.4,Ocupada,Ochava,Elevada,32,7
+-58.47019414328079,-34.6399151703194,297908,9,Garzón Eugenio Gral. Av.,3400.0,3429,Melia,4.4,Sobreocupada,Regular,Elevada,73,9
+-58.470283611651794,-34.6399417314115,297909,9,Garzón Eugenio Gral. Av.,3400.0,3439,Melia,4.4,Ocupada,Regular,A nivel,39,9
+-58.4704611258835,-34.6399944309773,297912,9,Garzón Eugenio Gral. Av.,3400.0,3453,Ficus,4.4,Ocupada,Regular,A nivel,19,5
+-58.470628747937695,-34.6400441934869,297914,9,Garzón Eugenio Gral. Av.,3400.0,3473,Melia,4.4,Ocupada,Regular,A nivel,67,10
+-58.4906893611057,-34.6555059590317,320405,9,Garzón Eugenio Gral. Av.,5400.0,5455,Melia,5.6,Ocupada,Regular,Elevada,57,12
+-58.499837409014305,-34.6639683642463,320662,9,Garzón Eugenio Gral. Av.,6500.0,6600,Platanus,3.4,Ocupada,Ochava,A nivel,84,15
+-58.499837409014305,-34.6639683642463,320664,9,Garzón Eugenio Gral. Av.,6500.0,6600,Platanus,3.4,Ocupada,Regular,A nivel,39,15
+-58.499837409014305,-34.6639683642463,320666,9,Garzón Eugenio Gral. Av.,6500.0,6600,Platanus,3.4,Ocupada,Regular,A nivel,70,15
+-58.499837409014305,-34.6639683642463,320667,9,Garzón Eugenio Gral. Av.,6500.0,6600,Platanus,3.4,Ocupada,Regular,A nivel,73,15
+-58.499837409014305,-34.6639683642463,320668,9,Garzón Eugenio Gral. Av.,6500.0,6600,Platanus,3.4,Ocupada,Regular,A nivel,60,15
+-58.502669327991704,-34.6663174688425,323924,9,Garzón Eugenio Gral. Av.,6930.0,6930,Melia,3.2,Ocupada,Ochava,A nivel,40,8
+-58.4936427698726,-34.658274416683504,324511,9,Garzón Eugenio Gral. Av.,5800.0,5842,Tilia,5.8,Ocupada,Regular,A nivel,59,14
+-58.47267873651939,-34.6406392496851,334824,9,Garzón Eugenio Gral. Av.,3600.0,3639,Melia,4.4,Ocupada,Regular,A nivel,48,8
+-58.472497603962495,-34.6405887174043,334826,9,Garzón Eugenio Gral. Av.,3600.0,3623,Melia,4.4,Ocupada,Regular,A nivel,49,7
+-58.505373153372,-34.6684742397214,336035,9,Garzón Eugenio Gral. Av.,7200.0,7291,Lagerstroemia,4.4,Ocupada,Regular,Elevada,12,3
+-58.5052520137184,-34.6683723085016,336037,9,Garzón Eugenio Gral. Av.,7200.0,7277,Melia,4.4,Ocupada,Regular,A nivel,44,8
+-58.5051908033197,-34.6684256505959,336094,9,Garzón Eugenio Gral. Av.,7200.0,7276,Ficus,4.4,Ocupada,Regular,Elevada,23,5
+-58.5052571102236,-34.6684814436702,336096,9,Garzón Eugenio Gral. Av.,7200.0,7280,Melia,4.4,Ocupada,Regular,Bajo nivel,61,8
+-58.47224405473859,-34.6405984138143,334784,9,Garzón Eugenio Gral. Av.,3600.0,3610,Melia,4.4,Sobreocupada,Ochava,Elevada,54,5
+-58.47224405473859,-34.6405984138143,334786,9,Garzón Eugenio Gral. Av.,3600.0,3610,Ficus,4.4,Sobreocupada,Regular,Elevada,15,2
+-58.47317242906011,-34.640857702643196,334796,9,Garzón Eugenio Gral. Av.,3600.0,3680,Jacaranda,4.4,Ocupada,Regular,A nivel,29,6
+-58.473289207613,-34.6408902723962,334800,9,Garzón Eugenio Gral. Av.,3600.0,3694,Ficus,4.4,Ocupada,Ochava,Elevada,82,6
+-58.47286026256821,-34.6406898913973,334820,9,Garzón Eugenio Gral. Av.,3600.0,3653,Tilia,4.4,Sobreocupada,Regular,Elevada,37,9
+-58.472768398033104,-34.6406642632512,334821,9,Garzón Eugenio Gral. Av.,3600.0,3645,Melia,4.4,Ocupada,Regular,A nivel,81,8
+-58.506065891341,-34.669161271206995,332615,9,Garzón Eugenio Gral. Av.,7300.0,7386,Tilia,4.4,Ocupada,Regular,A nivel,44,10
+-58.5059308228777,-34.6690476193764,332617,9,Garzón Eugenio Gral. Av.,7300.0,7372,Melia,4.4,Ocupada,Regular,A nivel,76,9
+-58.5058626462234,-34.6689902527395,332618,9,Garzón Eugenio Gral. Av.,7300.0,7370,Melia,4.4,Ocupada,Regular,Bajo nivel,63,7
+-58.505797053671294,-34.6689350603545,332619,9,Garzón Eugenio Gral. Av.,7300.0,7350,Melia,4.4,Sobreocupada,Regular,A nivel,46,7
+-58.506662898654696,-34.6695594663502,534345,9,Garzón Eugenio Gral. Av.,7400.0,7445,Melia,4.4,Ocupada,Regular,A nivel,73,5
+-58.5068617597843,-34.669726778839504,534347,9,Garzón Eugenio Gral. Av.,7400.0,7487,Melia,4.4,Ocupada,Regular,A nivel,56,12
+-58.5069592068839,-34.669808765934704,534348,9,Garzón Eugenio Gral. Av.,7400.0,7491,Melia,4.4,Ocupada,Regular,A nivel,66,12
+-58.5069592068839,-34.669808765934704,534349,9,Garzón Eugenio Gral. Av.,7400.0,7491,Melia,4.4,Ocupada,Regular,A nivel,89,13
+-58.5068841606927,-34.6698504422722,534395,9,Garzón Eugenio Gral. Av.,7400.0,7494,Melia,4.4,Ocupada,Regular,A nivel,52,9
+-58.5068841606927,-34.6698504422722,534396,9,Garzón Eugenio Gral. Av.,7400.0,7490,Melia,4.4,Sobreocupada,Regular,A nivel,70,10
+-58.50645226922689,-34.66948706835,534402,9,Garzón Eugenio Gral. Av.,7400.0,7420,Tilia,4.4,Ocupada,Regular,A nivel,35,8
+-58.495368269713296,-34.6597500501413,266357,15,Garzón Eugenio Gral. Av.,5900.0,5985.0,Melia,5.6,Ocupada,Ochava,Bajo nivel,65,12
+-58.5042528499932,-34.6675312386676,276667,15,Garzón Eugenio Gral. Av.,7100.0,7129.0,Lagerstroemia,4.4,Ocupada,Regular,Elevada,11,6
+NA,NA,282073,9,Garzón Eugenio Gral. Av.,6800,2847,Platanus,3.4,Ocupada,Regular,A nivel,90,12
+NA,NA,320663,9,Garzón Eugenio Gral. Av.,2500.0,2600,Platanus,3.4,Ocupada,Regular,A nivel,40,15
+NA,NA,336041,9,Garzón Eugenio Gral. Av.,2700.0,2727,Jacaranda,4.4,Sobreocupada,Regular,Elevada,25,10

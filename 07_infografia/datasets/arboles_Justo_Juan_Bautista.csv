@@ -1,0 +1,624 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+NA,NA,35967,6,Justo Juan Bautista Av.,4300.0,4358.0,Ficus,4.8,Ocupada,Ochava,A nivel,43,16
+NA,NA,35968,6,Justo Juan Bautista Av.,4300.0,4360.0,Platanus,2.8,Ocupada,Regular,A nivel,53,26
+NA,NA,48987,6,Justo Juan Bautista Av.,4200.0,4224.0,Ficus,3,Ocupada,Regular,Elevada,34,8
+NA,NA,48990,6,Justo Juan Bautista Av.,4200.0,4264.0,Ficus,3,Ocupada,Regular,A nivel,59,12
+NA,NA,48991,6,Justo Juan Bautista Av.,4200.0,4278.0,Ficus,3,Ocupada,Regular,Elevada,60,11
+NA,NA,48992,6,Justo Juan Bautista Av.,4200.0,4284.0,Ficus,3,Ocupada,Regular,Elevada,63,12
+NA,NA,48993,6,Justo Juan Bautista Av.,4200.0,4284.0,Ficus,3,Ocupada,Regular,A nivel,42,12
+NA,NA,50200,6,Justo Juan Bautista Av.,4300.0,4350.0,Platanus,3,Ocupada,Regular,A nivel,60,18
+NA,NA,50201,6,Justo Juan Bautista Av.,4300.0,4332.0,Platanus,3,Ocupada,Regular,A nivel,50,15
+NA,NA,50203,6,Justo Juan Bautista Av.,4300.0,4330.0,Ficus,3,Ocupada,Ochava,A nivel,58,13
+NA,NA,51036,6,Justo Juan Bautista Av.,4100.0,4150.0,Platanus,3,Ocupada,Regular,A nivel,66,20
+NA,NA,51032,6,Justo Juan Bautista Av.,4100.0,4190.0,Platanus,3,Ocupada,Regular,A nivel,92,20
+NA,NA,53712,6,Justo Juan Bautista Av.,4000.0,4032.0,Platanus,3,Ocupada,Regular,A nivel,69,20
+NA,NA,53713,6,Justo Juan Bautista Av.,4000.0,4040.0,Platanus,3,Ocupada,Regular,A nivel,63,22
+NA,NA,53714,6,Justo Juan Bautista Av.,4000.0,4044.0,Platanus,3,Ocupada,Regular,Bajo nivel,72,23
+NA,NA,519966,6,Justo Juan Bautista Av.,4100.0,4190.0,Platanus,3.2,Ocupada,Regular,A Nivel,82,12
+NA,NA,519969,6,Justo Juan Bautista Av.,4100.0,4150.0,Platanus,3.2,Ocupada,Regular,A Nivel,68,12
+NA,NA,325673,7,Justo Juan Bautista Av.,6600.0,6645,Jacaranda,2.8,Ocupada,Regular,A nivel,26,16
+NA,NA,325739,7,Justo Juan Bautista Av.,6500.0,6535,Platanus,2.8,Ocupada,Regular,A nivel,59,20
+NA,NA,325741,7,Justo Juan Bautista Av.,6500.0,6563,Platanus,2.8,Ocupada,Regular,A nivel,64,20
+NA,NA,248054,9,Justo Juan Bautista Av.,9400,9460,Jacaranda,5.2,Ocupada,Regular,A nivel,58,10
+NA,NA,248422,9,Justo Juan Bautista Av.,9200,9364,Jacaranda,5.4,Ocupada,Regular,A nivel,51,10
+NA,NA,248445,9,Justo Juan Bautista Av.,9200,964,Jacaranda,5.4,Ocupada,Regular,A nivel,43,11
+NA,NA,238726,9,Justo Juan Bautista Av.,9500,9592,Jacaranda,3,Ocupada,Ochava,Bajo nivel,53,14
+NA,NA,238760,9,Justo Juan Bautista Av.,9500,9592,Ficus,3,Ocupada,Regular,Elevada,53,10
+NA,NA,237069,9,Justo Juan Bautista Av.,9700,9752,Jacaranda,3.6,Ocupada,Regular,Elevada,40,6
+NA,NA,307124,10,Justo Juan Bautista Av.,6700.0,6716,Platanus,2.75,Ocupada,Ochava,A nivel,54,16
+NA,NA,307126,10,Justo Juan Bautista Av.,6700.0,6732,Platanus,2.75,Ocupada,Regular,Bajo nivel,53,20
+NA,NA,307127,10,Justo Juan Bautista Av.,6700.0,6742,Platanus,2.75,Ocupada,Regular,A nivel,59,20
+NA,NA,307128,10,Justo Juan Bautista Av.,6700.0,6764,Platanus,2.75,Ocupada,Regular,A nivel,55,16
+NA,NA,307158,10,Justo Juan Bautista Av.,6500.0,6542,Platanus,2.75,Ocupada,Regular,A nivel,57,20
+NA,NA,307161,10,Justo Juan Bautista Av.,6500.0,6596,Platanus,2.75,Ocupada,Ochava,A nivel,17,10
+NA,NA,307188,10,Justo Juan Bautista Av.,6800.0,6900,Ficus,2.75,Ocupada,Regular,Elevada,36,10
+NA,NA,307192,10,Justo Juan Bautista Av.,6800.0,6858,Platanus,2.75,Ocupada,Regular,A nivel,57,18
+NA,NA,307195,10,Justo Juan Bautista Av.,6800.0,6822,Platanus,2.75,Ocupada,Regular,A nivel,38,20
+NA,NA,307109,10,Justo Juan Bautista Av.,6600.0,6676.0,Platanus,2.75,Ocupada,Regular,A nivel,57,16
+NA,NA,307110,10,Justo Juan Bautista Av.,6600.0,6672.0,Jacaranda,2.75,Ocupada,Regular,A nivel,37,14
+NA,NA,307112,10,Justo Juan Bautista Av.,6600.0,6612.0,Ficus,2.75,Ocupada,Regular,A nivel,39,8
+NA,NA,315073,10,Justo Juan Bautista Av.,6900.0,6928.0,Platanus,2.75,Ocupada,Regular,A nivel,50,14
+NA,NA,315075,10,Justo Juan Bautista Av.,6900.0,6948.0,Melia,2.75,Sobreocupada,Regular,Bajo nivel,35,13
+NA,NA,315078,10,Justo Juan Bautista Av.,6900.0,6982.0,Ficus,2.75,Ocupada,Regular,A nivel,65,15
+NA,NA,315124,10,Justo Juan Bautista Av.,7000.0,7032.0,Platanus,2.75,Ocupada,Regular,A nivel,57,20
+NA,NA,346220,10,Justo Juan Bautista Av.,6800.0,6883.0,Ficus,28,Ocupada,Regular,Elevada,49,8
+NA,NA,335305,10,Justo Juan Bautista Av.,7600.0,7624.0,Ficus,2.8,Ocupada,Regular,Elevada,33,2
+NA,NA,335306,10,Justo Juan Bautista Av.,7600.0,7658.0,Ficus,2.8,Ocupada,Regular,Elevada,30,7
+NA,NA,335309,10,Justo Juan Bautista Av.,7600.0,7686.0,Ficus,2.8,Ocupada,Regular,Elevada,32,7
+NA,NA,340498,10,Justo Juan Bautista Av.,6700.0,6733.0,Jacaranda,2.8,Ocupada,Regular,A nivel,39,14
+NA,NA,340499,10,Justo Juan Bautista Av.,6700.0,6739.0,Jacaranda,28,Ocupada,Regular,A nivel,28,14
+NA,NA,340500,10,Justo Juan Bautista Av.,6700.0,6747.0,Platanus,2.8,Ocupada,Regular,A nivel,67,17
+NA,NA,335348,10,Justo Juan Bautista Av.,7700.0,7716.0,Ficus,2.8,Ocupada,Regular,A nivel,21,3
+NA,NA,335349,10,Justo Juan Bautista Av.,7700.0,7720.0,Jacaranda,2.8,Ocupada,Regular,A nivel,33,10
+NA,NA,335350,10,Justo Juan Bautista Av.,7700.0,7776.0,Jacaranda,2.8,Ocupada,Regular,A nivel,41,10
+NA,NA,365966,10,Justo Juan Bautista Av.,9600.0,9637.0,Ficus,3.2,Ocupada,Regular,A nivel,15,3
+NA,NA,364139,10,Justo Juan Bautista Av.,7100.0,7185.0,Jacaranda,3.2,Ocupada,Regular,A nivel,45,8
+NA,NA,367262,10,Justo Juan Bautista Av.,8900.0,8949.0,Melia,2.8,Ocupada,Regular,A nivel,50,16
+NA,NA,364524,10,Justo Juan Bautista Av.,7300.0,7300.0,Jacaranda,2.8,Ocupada,Regular,A nivel,72,11
+NA,NA,355632,10,Justo Juan Bautista Av.,8400.0,8355.0,Jacaranda,4,Ocupada,Regular,A nivel,70,15
+NA,NA,355635,10,Justo Juan Bautista Av.,8400.0,8355.0,Jacaranda,4,Ocupada,Regular,A nivel,75,13
+NA,NA,354521,10,Justo Juan Bautista Av.,8400.0,8420.0,Jacaranda,3.2,Ocupada,Regular,A nivel,36,8
+NA,NA,357188,10,Justo Juan Bautista Av.,7800.0,7830.0,Jacaranda,3.2,Ocupada,Regular,A nivel,25,7
+NA,NA,355625,10,Justo Juan Bautista Av.,8400.0,8355.0,Jacaranda,4,Ocupada,Ochava,A nivel,70,16
+NA,NA,355629,10,Justo Juan Bautista Av.,8400.0,8355.0,Jacaranda,4,Ocupada,Regular,A nivel,70,14
+NA,NA,355631,10,Justo Juan Bautista Av.,8400.0,8355.0,Jacaranda,4,Ocupada,Regular,A nivel,65,13
+NA,NA,352884,10,Justo Juan Bautista Av.,7600.0,7615.0,Platanus,3.2,Ocupada,Regular,Elevada,18,8
+NA,NA,350036,10,Justo Juan Bautista Av.,7200.0,7261.0,Jacaranda,3.2,Sobreocupada,Regular,A nivel,49,14
+NA,NA,352489,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Ochava,A nivel,42,12
+NA,NA,352491,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,41,13
+NA,NA,352492,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,42,15
+NA,NA,352493,10,Justo Juan Bautista Av.,3800.0,3855.0,Jacaranda,3.6,Ocupada,Regular,A nivel,43,14
+NA,NA,352494,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,44,13
+NA,NA,352495,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,45,14
+NA,NA,352499,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,35,8
+NA,NA,352500,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,52,8
+NA,NA,352501,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,55,13
+NA,NA,352502,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,43,12
+NA,NA,352503,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,39,3
+NA,NA,352504,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,30,8
+NA,NA,352505,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,54,18
+NA,NA,352506,10,Justo Juan Bautista Av.,8300.0,8355.0,Jacaranda,3.6,Ocupada,Regular,A nivel,46,15
+NA,NA,383598,10,Justo Juan Bautista Av.,7200.0,7306.0,Ficus,2.8,Ocupada,Regular,A nivel,53,3
+NA,NA,383599,10,Justo Juan Bautista Av.,7200.0,7236.0,Jacaranda,3,Ocupada,Regular,A nivel,46,10
+NA,NA,380853,10,Justo Juan Bautista Av.,7900.0,7900.0,Ficus,3.6,Ocupada,Regular,A nivel,4,2
+NA,NA,380854,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,3.6,Ocupada,Regular,A nivel,6,4
+NA,NA,380855,10,Justo Juan Bautista Av.,7900.0,7900.0,Melia,3.6,Ocupada,Regular,A nivel,63,11
+NA,NA,380856,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,3.6,Ocupada,Ochava,A nivel,1,2
+NA,NA,380858,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,3.6,Sobreocupada,Ochava,A nivel,1,2
+NA,NA,380859,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,4,Ocupada,Regular,A nivel,24,7
+NA,NA,380860,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,4,Ocupada,Regular,A nivel,44,9
+NA,NA,380861,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,4,Ocupada,Regular,A nivel,11,5
+NA,NA,380862,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,4,Ocupada,Regular,A nivel,5,4
+NA,NA,380863,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,4,Ocupada,Regular,A nivel,4,4
+NA,NA,380864,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,4,Ocupada,Regular,A nivel,4,4
+NA,NA,380865,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,4,Ocupada,Regular,A nivel,1,2
+NA,NA,380866,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,4,Ocupada,Regular,A nivel,5,4
+NA,NA,380867,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,4,Ocupada,Regular,A nivel,12,6
+NA,NA,380577,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,6,2
+NA,NA,380578,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,6,3
+NA,NA,380579,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,11,3
+NA,NA,380580,10,Justo Juan Bautista Av.,8000.0,8000.0,Melia,3.6,Ocupada,Regular,A nivel,52,12
+NA,NA,380581,10,Justo Juan Bautista Av.,8000.0,8000.0,Melia,3.6,Ocupada,Regular,A nivel,51,11
+NA,NA,380582,10,Justo Juan Bautista Av.,8000.0,8000.0,Ficus,3.6,Ocupada,Regular,A nivel,73,9
+NA,NA,380583,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,5,2
+NA,NA,380584,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,3,2
+NA,NA,380586,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,3,3
+NA,NA,380587,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,3,2
+NA,NA,380588,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,38,10
+NA,NA,380589,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,17,10
+NA,NA,380590,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,5,2
+NA,NA,380591,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,24,6
+NA,NA,380592,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,13,4
+NA,NA,380868,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,4,Ocupada,Regular,A nivel,1,2
+NA,NA,380869,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,5,4
+NA,NA,380870,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,4,4
+NA,NA,380871,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,4,4
+NA,NA,380872,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,5,4
+NA,NA,380873,10,Justo Juan Bautista Av.,8200.0,8200.0,Melia,4,Ocupada,Regular,A nivel,66,12
+NA,NA,380874,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,1,2
+NA,NA,380875,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,1,2
+NA,NA,380876,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,4,4
+NA,NA,380877,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,4,4
+NA,NA,380878,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,1,2
+NA,NA,380879,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,2,2
+NA,NA,380880,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,26,8
+NA,NA,380881,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,1,2
+NA,NA,380882,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,40,10
+NA,NA,380883,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,1,2
+NA,NA,380576,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,3,2
+NA,NA,380593,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,49,10
+NA,NA,380594,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,32,10
+NA,NA,380595,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,32,10
+NA,NA,380596,10,Justo Juan Bautista Av.,8000.0,800.0,Jacaranda,3.6,Ocupada,Regular,A nivel,17,6
+NA,NA,380597,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,14,4
+NA,NA,380598,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,48,11
+NA,NA,380599,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,18,5
+NA,NA,380600,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,19,2
+NA,NA,380601,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,21,5
+NA,NA,380602,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,1,2
+NA,NA,380603,10,Justo Juan Bautista Av.,8000.0,8000.0,Jacaranda,3.6,Ocupada,Regular,A nivel,24,6
+NA,NA,380849,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,3.6,Ocupada,Regular,A nivel,4,2
+NA,NA,380850,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,3.6,Ocupada,Regular,A nivel,4,2
+NA,NA,380851,10,Justo Juan Bautista Av.,7900.0,7900.0,Jacaranda,3.6,Ocupada,Regular,A nivel,1,2
+NA,NA,380884,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,4,4
+NA,NA,380885,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,40,12
+NA,NA,380886,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,45,11
+NA,NA,380887,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,4,4
+NA,NA,380888,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,4,4
+NA,NA,380889,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,37,8
+NA,NA,380890,10,Justo Juan Bautista Av.,8200.0,8200.0,Jacaranda,4,Ocupada,Regular,A nivel,42,10
+NA,NA,377996,10,Justo Juan Bautista Av.,7100.0,7108.0,Jacaranda,2.4,Ocupada,Regular,A nivel,59,19
+NA,NA,377998,10,Justo Juan Bautista Av.,7100.0,7134.0,Platanus,2.8,Ocupada,Regular,A nivel,44,16
+NA,NA,375424,10,Justo Juan Bautista Av.,8200.0,8285.0,Jacaranda,2.8,Ocupada,Regular,Elevada,32,12
+NA,NA,374784,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,6,3
+NA,NA,374785,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,6,3
+NA,NA,374786,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,46,8
+NA,NA,374787,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,3,2
+NA,NA,374788,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,39,10
+NA,NA,374789,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,32,9
+NA,NA,374790,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,8,2
+NA,NA,374791,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,45,10
+NA,NA,374792,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,6,2
+NA,NA,374794,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,25,4
+NA,NA,374795,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,6,2
+NA,NA,374796,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,5,2
+NA,NA,374797,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,6,3
+NA,NA,374798,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,7,2
+NA,NA,374799,10,Justo Juan Bautista Av.,8100.0,8100.0,Melia,3.6,Ocupada,Regular,A nivel,53,9
+NA,NA,374800,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,7,3
+NA,NA,374801,10,Justo Juan Bautista Av.,8100.0,8100.0,Melia,3.6,Ocupada,Regular,A nivel,49,9
+NA,NA,374802,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,5,3
+NA,NA,374803,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.6,Ocupada,Regular,A nivel,7,3
+NA,NA,395123,10,Justo Juan Bautista Av.,8100.0,8106.0,Jacaranda,5.6,Ocupada,Regular,A nivel,18,3
+NA,NA,395124,10,Justo Juan Bautista Av.,8100.0,8104.0,Jacaranda,5.6,Ocupada,Regular,A nivel,10,5
+NA,NA,391108,10,Justo Juan Bautista Av.,8200.0,8258.0,Melia,6.2,Ocupada,Regular,Elevada,50,12
+NA,NA,391110,10,Justo Juan Bautista Av.,8200.0,8278.0,Ficus,6.2,Ocupada,Regular,A nivel,18,2
+NA,NA,398089,10,Justo Juan Bautista Av.,8300.0,8360.0,Tilia,4.4,Ocupada,Regular,A nivel,31,8
+NA,NA,388260,10,Justo Juan Bautista Av.,9200.0,9201.0,Jacaranda,5,Ocupada,Regular,A nivel,27,12
+NA,NA,388261,10,Justo Juan Bautista Av.,9200.0,9201.0,Jacaranda,5,Ocupada,Regular,A nivel,35,10
+NA,NA,390197,10,Justo Juan Bautista Av.,9700.0,9739.0,Lagerstroemia,3.1,Ocupada,Regular,A nivel,12,3
+NA,NA,390199,10,Justo Juan Bautista Av.,9700.0,9763.0,Tilia,3.1,Ocupada,Regular,A nivel,30,9
+NA,NA,390201,10,Justo Juan Bautista Av.,9700.0,9781.0,Jacaranda,3.1,Ocupada,Regular,A nivel,11,4
+NA,NA,390274,10,Justo Juan Bautista Av.,9000.0,9047.0,Jacaranda,2.8,Ocupada,Regular,A nivel,41,9
+NA,NA,388018,10,Justo Juan Bautista Av.,8100.0,8100.0,Jacaranda,3.2,Ocupada,Regular,A nivel,33,13
+NA,NA,388019,10,Justo Juan Bautista Av.,8100.0,8131.0,Jacaranda,3.2,Ocupada,Regular,A nivel,60,17
+NA,NA,388020,10,Justo Juan Bautista Av.,8100.0,8147.0,Jacaranda,3.2,Ocupada,Regular,Elevada,33,9
+NA,NA,388021,10,Justo Juan Bautista Av.,8100.0,8153.0,Ficus,3.2,Ocupada,Regular,Elevada,47,9
+NA,NA,388022,10,Justo Juan Bautista Av.,8100.0,8159.0,Platanus,3.2,Ocupada,Regular,A nivel,34,18
+NA,NA,388023,10,Justo Juan Bautista Av.,8100.0,8169.0,Platanus,3.2,Ocupada,Regular,A nivel,32,13
+NA,NA,388024,10,Justo Juan Bautista Av.,8100.0,8177.0,Jacaranda,3.2,Ocupada,Regular,A nivel,53,18
+NA,NA,388025,10,Justo Juan Bautista Av.,8100.0,8177.0,Jacaranda,3.2,Ocupada,Regular,A nivel,11,4
+NA,NA,388262,10,Justo Juan Bautista Av.,9200.0,9201.0,Jacaranda,5,Ocupada,Regular,A nivel,36,10
+NA,NA,388263,10,Justo Juan Bautista Av.,9200.0,9201.0,Jacaranda,5,Ocupada,Regular,A nivel,39,12
+NA,NA,388046,10,Justo Juan Bautista Av.,8100.0,8110.0,Jacaranda,4.4,Ocupada,Regular,A nivel,10,4
+NA,NA,388047,10,Justo Juan Bautista Av.,8100.0,8110.0,Jacaranda,4.4,Ocupada,Regular,A nivel,9,4
+NA,NA,388049,10,Justo Juan Bautista Av.,8100.0,8110.0,Melia,4.4,Ocupada,Regular,A nivel,5,9
+NA,NA,388050,10,Justo Juan Bautista Av.,8100.0,8110.0,Jacaranda,4.4,Ocupada,Regular,A nivel,10,5
+NA,NA,389632,10,Justo Juan Bautista Av.,8100.0,8110.0,Melia,4.4,Ocupada,Regular,A nivel,53,10
+NA,NA,389633,10,Justo Juan Bautista Av.,8100.0,8110.0,Jacaranda,4.4,Ocupada,Regular,A nivel,6,5
+NA,NA,389634,10,Justo Juan Bautista Av.,8100.0,8110.0,Jacaranda,44,Ocupada,Regular,A nivel,6,4
+NA,NA,389635,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,5,4
+NA,NA,389636,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,6,5
+NA,NA,389637,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,54,9
+NA,NA,389638,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,3,2
+NA,NA,389639,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,55,7
+NA,NA,389640,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,53,8
+NA,NA,389641,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,46,8
+NA,NA,389642,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,7,5
+NA,NA,389643,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,53,11
+NA,NA,389644,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,7,5
+NA,NA,389646,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,22,6
+NA,NA,389647,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,6,4
+NA,NA,389648,10,Justo Juan Bautista Av.,8100.0,8169.0,Jacaranda,4.4,Ocupada,Regular,A nivel,6,3
+NA,NA,388234,10,Justo Juan Bautista Av.,9200.0,9201.0,Jacaranda,5.2,Ocupada,Regular,A nivel,57,13
+NA,NA,388236,10,Justo Juan Bautista Av.,9200.0,9201.0,Jacaranda,5.2,Ocupada,Regular,A nivel,44,13
+NA,NA,388237,10,Justo Juan Bautista Av.,9200.0,9201.0,Jacaranda,5.2,Ocupada,Regular,A nivel,44,13
+NA,NA,388238,10,Justo Juan Bautista Av.,9200.0,9201.0,Jacaranda,5.2,Ocupada,Regular,A nivel,44,12
+NA,NA,405186,10,Justo Juan Bautista Av.,6900.0,6999.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,25,5
+NA,NA,412033,10,Justo Juan Bautista Av.,7000.0,7009.0,Ficus,2.8,Ocupada,Ochava,Elevada,27,3
+NA,NA,412034,10,Justo Juan Bautista Av.,7000.0,7009.0,Ficus,2.8,Ocupada,Regular,Elevada,9,2
+NA,NA,412035,10,Justo Juan Bautista Av.,7000.0,7009.0,Ficus,2.8,Ocupada,Regular,Elevada,31,4
+NA,NA,425360,10,Justo Juan Bautista Av.,6900.0,6905.0,Platanus,2.8,Ocupada,Regular,Elevada,54,13
+NA,NA,539533,10,Justo Juan Bautista Av.,6500.0,6535.0,Platanus,3,Ocupada,Regular,A Nivel,54,9
+NA,NA,539534,10,Justo Juan Bautista Av.,6500.0,6551.0,Platanus,3,Ocupada,Regular,A Nivel,75,13
+NA,NA,539579,10,Justo Juan Bautista Av.,6700.0,6645.0,Jacaranda,2.8,Ocupada,Regular,A Nivel,27,8
+NA,NA,168529,11,Justo Juan Bautista Av.,5500.0,5512.0,Ficus,3,Ocupada,Regular,A nivel,50,10
+NA,NA,170714,11,Justo Juan Bautista Av.,4000.0,4029.0,Jacaranda,3.5,Sobreocupada,Regular,Bajo nivel,26,9
+NA,NA,170720,11,Justo Juan Bautista Av.,4000.0,4055.0,Platanus,3.5,Ocupada,Regular,Elevada,50,11
+NA,NA,169384,11,Justo Juan Bautista Av.,5500.0,5542.0,Platanus,2.8,Ocupada,Regular,A nivel,65,25
+NA,NA,169386,11,Justo Juan Bautista Av.,5500.0,5550.0,Platanus,2.8,Ocupada,Ochava,A nivel,74,26
+NA,NA,170729,11,Justo Juan Bautista Av.,4000.0,4037.0,Platanus,3.5,Ocupada,Regular,Bajo nivel,60,7
+NA,NA,171538,11,Justo Juan Bautista Av.,5600.0,5621.0,Platanus,2.8,Ocupada,Regular,A nivel,66,18
+NA,NA,168683,11,Justo Juan Bautista Av.,5000.0,5008.0,Platanus,3,Ocupada,Regular,A nivel,89,12
+NA,NA,169478,11,Justo Juan Bautista Av.,5900.0,5935.0,Platanus,2.8,Sobreocupada,Regular,Elevada,24,8
+NA,NA,169482,11,Justo Juan Bautista Av.,5900.0,5903.0,Platanus,2.8,Ocupada,Regular,Elevada,71,17
+NA,NA,168721,11,Justo Juan Bautista Av.,5000.0,5096.0,Platanus,3,Ocupada,Regular,A nivel,42,12
+NA,NA,168483,11,Justo Juan Bautista Av.,5500.0,5534.0,Platanus,3,Ocupada,Regular,A nivel,68,24
+NA,NA,170618,11,Justo Juan Bautista Av.,4500.0,4551.0,Platanus,2.5,Ocupada,Regular,A nivel,63,16
+NA,NA,170629,11,Justo Juan Bautista Av.,4500.0,4533.0,Platanus,2.5,Ocupada,Regular,A nivel,84,18
+NA,NA,170640,11,Justo Juan Bautista Av.,4500.0,4521.0,Platanus,2.5,Ocupada,Regular,A nivel,71,19
+NA,NA,173233,11,Justo Juan Bautista Av.,5300.0,5304.0,Platanus,2.8,Ocupada,Regular,A nivel,15,9
+NA,NA,174794,11,Justo Juan Bautista Av.,5700.0,5787.0,Ficus,2.8,Ocupada,Regular,A nivel,38,7
+NA,NA,174796,11,Justo Juan Bautista Av.,5700.0,5789.0,Ficus,2.8,Ocupada,Regular,A nivel,31,8
+NA,NA,173237,11,Justo Juan Bautista Av.,5300.0,5356.0,Ficus,2.8,Sobreocupada,Regular,Elevada,56,4
+NA,NA,173238,11,Justo Juan Bautista Av.,5300.0,5398.0,Jacaranda,2.8,Ocupada,Regular,A nivel,23,7
+NA,NA,173241,11,Justo Juan Bautista Av.,5300.0,5330.0,Platanus,2.8,Ocupada,Regular,A nivel,34,12
+NA,NA,173245,11,Justo Juan Bautista Av.,5300.0,5376.0,Lagerstroemia,2.8,Ocupada,Regular,A nivel,6,4
+NA,NA,174801,11,Justo Juan Bautista Av.,5700.0,5783.0,Ficus,2.8,Ocupada,Regular,A nivel,29,5
+NA,NA,174802,11,Justo Juan Bautista Av.,5700.0,5761.0,Ficus,2.8,Ocupada,Regular,A nivel,31,6
+NA,NA,172756,11,Justo Juan Bautista Av.,5000.0,5033.0,Ficus,2.8,Ocupada,Regular,Elevada,41,10
+NA,NA,173025,11,Justo Juan Bautista Av.,6200.0,6214.0,Platanus,2.8,Ocupada,Regular,A nivel,65,14
+NA,NA,173029,11,Justo Juan Bautista Av.,6200.0,6226.0,Ficus,2.8,Ocupada,Regular,Elevada,22,4
+NA,NA,173030,11,Justo Juan Bautista Av.,6200.0,6246.0,Ficus,2.8,Ocupada,Regular,A nivel,54,7
+NA,NA,173031,11,Justo Juan Bautista Av.,6200.0,6276.0,Platanus,2.8,Ocupada,Regular,A nivel,45,12
+NA,NA,173033,11,Justo Juan Bautista Av.,6200.0,6260.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,69,12
+NA,NA,173322,11,Justo Juan Bautista Av.,5500.0,5543.0,Platanus,2.8,Ocupada,Regular,A nivel,112,29
+NA,NA,173442,11,Justo Juan Bautista Av.,5600.0,5621.0,Platanus,2.8,Ocupada,Regular,A nivel,48,15
+NA,NA,175276,11,Justo Juan Bautista Av.,5900.0,5912.0,Ficus,3.6,Ocupada,Regular,A nivel,21,4
+NA,NA,175278,11,Justo Juan Bautista Av.,5900.0,5932.0,Platanus,3.6,Ocupada,Regular,A nivel,39,9
+NA,NA,175286,11,Justo Juan Bautista Av.,5900.0,5978.0,Platanus,3.6,Ocupada,Regular,A nivel,76,13
+NA,NA,176366,11,Justo Juan Bautista Av.,4600.0,4645.0,Platanus,3,Ocupada,Regular,A nivel,14,7
+NA,NA,176371,11,Justo Juan Bautista Av.,4600.0,4653.0,Platanus,3,Ocupada,Regular,A nivel,69,15
+NA,NA,172928,11,Justo Juan Bautista Av.,5200.0,5244.0,Platanus,2.8,Ocupada,Regular,A nivel,75,20
+NA,NA,172934,11,Justo Juan Bautista Av.,5200.0,5206.0,Platanus,2.8,Ocupada,Regular,A nivel,80,23
+NA,NA,178007,11,Justo Juan Bautista Av.,5500.0,5560.0,Platanus,2.8,Ocupada,Regular,A nivel,65,17
+NA,NA,180729,11,Justo Juan Bautista Av.,4800.0,4892.0,Ficus,2.8,Ocupada,Ochava,A nivel,35,6
+NA,NA,180731,11,Justo Juan Bautista Av.,4800.0,4852.0,Ficus,2.8,Ocupada,Regular,A nivel,70,10
+NA,NA,180734,11,Justo Juan Bautista Av.,4800.0,4840.0,Jacaranda,2.8,Ocupada,Regular,Elevada,5,3
+NA,NA,178063,11,Justo Juan Bautista Av.,5500.0,5580.0,Platanus,2.8,Ocupada,Regular,A nivel,70,17
+NA,NA,178065,11,Justo Juan Bautista Av.,5500.0,5572.0,Platanus,2.8,Ocupada,Regular,A nivel,67,17
+NA,NA,178068,11,Justo Juan Bautista Av.,5500,5554.0,Platanus,2.8,Ocupada,Regular,A nivel,77,18
+NA,NA,177824,11,Justo Juan Bautista Av.,5600,5682.0,Platanus,2.8,Ocupada,Regular,A nivel,62,25
+NA,NA,177825,11,Justo Juan Bautista Av.,5600,5644.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,61,22
+NA,NA,177826,11,Justo Juan Bautista Av.,5600,5664.0,Platanus,2.6,Ocupada,Fuera de línea,Bajo nivel,20,14
+NA,NA,177828,11,Justo Juan Bautista Av.,5600,5620.0,Platanus,2.7,Ocupada,Regular,Bajo nivel,71,24
+NA,NA,177829,11,Justo Juan Bautista Av.,5600,5670.0,Platanus,2.8,Ocupada,Regular,A nivel,55,25
+NA,NA,177830,11,Justo Juan Bautista Av.,5600,5606.0,Platanus,2.7,Ocupada,Regular,Bajo nivel,71,27
+NA,NA,177831,11,Justo Juan Bautista Av.,5600,5666.0,Platanus,2.6,Ocupada,Regular,A nivel,62,27
+NA,NA,177832,11,Justo Juan Bautista Av.,5600,5616.0,Platanus,2.7,Ocupada,Regular,Bajo nivel,69,22
+NA,NA,177833,11,Justo Juan Bautista Av.,5600,5682.0,Platanus,2.8,Ocupada,Ochava,Bajo nivel,40,16
+NA,NA,177852,11,Justo Juan Bautista Av.,5500,5596.0,Platanus,2.8,Ocupada,Regular,A nivel,87,18
+NA,NA,180816,11,Justo Juan Bautista Av.,4800,4812.0,Ficus,2.8,Ocupada,Regular,Elevada,18,2
+NA,NA,182038,11,Justo Juan Bautista Av.,4100,4151.0,Platanus,3,Ocupada,Regular,Bajo nivel,34,12
+NA,NA,182041,11,Justo Juan Bautista Av.,4100,4151.0,Platanus,3,Ocupada,Regular,Bajo nivel,32,14
+NA,NA,182042,11,Justo Juan Bautista Av.,4100,4151.0,Platanus,3,Ocupada,Regular,Bajo nivel,22,9
+NA,NA,183471,11,Justo Juan Bautista Av.,4400,4452.0,Platanus,2.2,Ocupada,Fuera de línea,A nivel,108,29
+NA,NA,183472,11,Justo Juan Bautista Av.,4400,4422.0,Platanus,2.2,Ocupada,Regular,A nivel,113,18
+NA,NA,183473,11,Justo Juan Bautista Av.,4400,4428.0,Platanus,2.2,Ocupada,Regular,A nivel,66,20
+NA,NA,183474,11,Justo Juan Bautista Av.,4400,4404.0,Platanus,2.2,Ocupada,Regular,A nivel,78,21
+NA,NA,183475,11,Justo Juan Bautista Av.,4400,4442.0,Platanus,2.2,Ocupada,Fuera de línea,A nivel,98,29
+NA,NA,183514,11,Justo Juan Bautista Av.,4400,4495.0,Platanus,3.6,Ocupada,Regular,A nivel,37,23
+NA,NA,183516,11,Justo Juan Bautista Av.,4400,4493.0,Platanus,3.6,Ocupada,Regular,A nivel,73,25
+NA,NA,183519,11,Justo Juan Bautista Av.,4400,4427.0,Ficus,3.6,Ocupada,Regular,Elevada,33,4
+NA,NA,183615,11,Justo Juan Bautista Av.,4750,4775.0,Platanus,2,Ocupada,Regular,A nivel,5,6
+NA,NA,186354,11,Justo Juan Bautista Av.,5400,5481.0,Ficus,3.6,Ocupada,Regular,Elevada,74,11
+NA,NA,186360,11,Justo Juan Bautista Av.,5400,5489.0,Ficus,3.6,Ocupada,Regular,A nivel,70,10
+NA,NA,186377,11,Justo Juan Bautista Av.,5400,5425.0,Platanus,3,Ocupada,Regular,A nivel,58,18
+NA,NA,185893,11,Justo Juan Bautista Av.,5700,5750.0,Platanus,2.8,Ocupada,Regular,A nivel,13,8
+NA,NA,185920,11,Justo Juan Bautista Av.,5800,5816.0,Platanus,3.2,Ocupada,Regular,A nivel,70,20
+NA,NA,185921,11,Justo Juan Bautista Av.,5800,5898.0,Platanus,3.2,Ocupada,Ochava,A nivel,70,13
+NA,NA,185922,11,Justo Juan Bautista Av.,5800,5824.0,Platanus,3.2,Ocupada,Regular,A nivel,5,4
+NA,NA,185924,11,Justo Juan Bautista Av.,5800,5872.0,Platanus,3.2,Ocupada,Regular,A nivel,74,13
+NA,NA,185928,11,Justo Juan Bautista Av.,5800,5816.0,Platanus,3.2,Ocupada,Regular,A nivel,60,20
+NA,NA,185929,11,Justo Juan Bautista Av.,5800,5888.0,Platanus,3.2,Ocupada,Regular,A nivel,68,13
+NA,NA,186223,11,Justo Juan Bautista Av.,5800,5811.0,Platanus,3,Ocupada,Regular,A nivel,34,10
+NA,NA,186224,11,Justo Juan Bautista Av.,5800,5831.0,Tilia,3,Ocupada,Regular,A nivel,29,8
+NA,NA,186226,11,Justo Juan Bautista Av.,5800,5841.0,Platanus,3,Ocupada,Regular,A nivel,64,13
+NA,NA,186232,11,Justo Juan Bautista Av.,5800,5883.0,Platanus,3,Ocupada,Regular,Bajo nivel,72,15
+NA,NA,186527,11,Justo Juan Bautista Av.,4300,4357.0,Platanus,3.1,Ocupada,Regular,A nivel,9,6
+NA,NA,186528,11,Justo Juan Bautista Av.,4300,4311.0,Ficus,3.1,Ocupada,Regular,A nivel,55,10
+NA,NA,186534,11,Justo Juan Bautista Av.,4300,4311.0,Ficus,3.1,Ocupada,Regular,Elevada,165,10
+NA,NA,193155,11,Justo Juan Bautista Av.,6300,6388.0,Ficus,4.5,Ocupada,Regular,A nivel,25,2
+NA,NA,204299,11,Justo Juan Bautista Av.,6200,6050.0,Platanus,2.96,Ocupada,Regular,A nivel,60,23
+NA,NA,204336,11,Justo Juan Bautista Av.,6200,6046.0,Platanus,2.96,Ocupada,Regular,A nivel,41,21
+NA,NA,204085,11,Justo Juan Bautista Av.,6200,6158.0,Platanus,2.96,Ocupada,Regular,A nivel,57,20
+NA,NA,204381,11,Justo Juan Bautista Av.,6200,6040.0,Platanus,2.96,Ocupada,Regular,Bajo nivel,73,23
+NA,NA,204136,11,Justo Juan Bautista Av.,6200,6130.0,Platanus,2.96,Ocupada,Regular,A nivel,51,19
+NA,NA,204414,11,Justo Juan Bautista Av.,6200,6036.0,Platanus,2.9,Ocupada,Regular,Bajo nivel,67,21
+NA,NA,204440,11,Justo Juan Bautista Av.,6200,6010.0,Platanus,2.9,Ocupada,Regular,Bajo nivel,62,23
+NA,NA,204194,11,Justo Juan Bautista Av.,6200,6102.0,Ficus,2.96,Ocupada,Regular,A nivel,52,17
+NA,NA,204227,11,Justo Juan Bautista Av.,6200,6076.0,Platanus,2.96,Ocupada,Regular,A nivel,80,22
+NA,NA,230936,11,Justo Juan Bautista Av.,4700,4749.0,Platanus,2.7,Ocupada,Regular,Elevada,60,21
+NA,NA,230937,11,Justo Juan Bautista Av.,6400,6489.0,Platanus,2.8,Sobreocupada,Regular,A nivel,64,18
+NA,NA,230992,11,Justo Juan Bautista Av.,4700,4749.0,Platanus,2.7,Ocupada,Regular,Elevada,40,21
+NA,NA,231015,11,Justo Juan Bautista Av.,4700,4749.0,Platanus,2.7,Ocupada,Regular,Elevada,74,20
+NA,NA,230829,11,Justo Juan Bautista Av.,6400,6459.0,Platanus,2.8,Ocupada,Regular,A nivel,76,16
+NA,NA,230846,11,Justo Juan Bautista Av.,4700,4749.0,Platanus,2.7,Ocupada,Regular,Elevada,67,22
+NA,NA,229187,11,Justo Juan Bautista Av.,4200,4219.0,Platanus,2.4,Ocupada,Regular,A nivel,5,5
+NA,NA,229214,11,Justo Juan Bautista Av.,4200,4227.0,Ficus,2.4,Ocupada,Regular,Elevada,11,5
+NA,NA,230895,11,Justo Juan Bautista Av.,6400,3471.0,Platanus,2.8,Ocupada,Regular,A nivel,67,16
+NA,NA,231178,11,Justo Juan Bautista Av.,6400,6464.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,76,20
+NA,NA,247675,11,Justo Juan Bautista Av.,1600,4935.0,Platanus,2.4499999999999997,Ocupada,Regular,A nivel,25,4
+NA,NA,247758,11,Justo Juan Bautista Av.,4800,4922.0,Platanus,1.5,Ocupada,Regular,A nivel,70,11
+NA,NA,245754,11,Justo Juan Bautista Av.,5100,5171.0,Platanus,2.8,Ocupada,Regular,A nivel,7,3
+NA,NA,244069,11,Justo Juan Bautista Av.,4500,4526.0,Ficus,1.8,Ocupada,Regular,Elevada,36,9
+NA,NA,244072,11,Justo Juan Bautista Av.,4500,4540.0,Platanus,2.2,Ocupada,Regular,A nivel,79,15
+NA,NA,244077,11,Justo Juan Bautista Av.,4500,4554.0,Platanus,2.2,Ocupada,Regular,A nivel,72,15
+NA,NA,244082,11,Justo Juan Bautista Av.,4500,4566.0,Platanus,2.2,Ocupada,Regular,A nivel,72,15
+NA,NA,244088,11,Justo Juan Bautista Av.,4500,4586.0,Platanus,2.2,Ocupada,Regular,A nivel,74,14
+NA,NA,244092,11,Justo Juan Bautista Av.,4600,4604.0,Platanus,2.2,Ocupada,Regular,A nivel,68,15
+NA,NA,244098,11,Justo Juan Bautista Av.,4600,4618.0,Platanus,2.2,Ocupada,Regular,A nivel,69,15
+NA,NA,244099,11,Justo Juan Bautista Av.,4600,4626.0,Platanus,2.2,Ocupada,Regular,A nivel,67,16
+NA,NA,244102,11,Justo Juan Bautista Av.,4600,4636.0,Platanus,2.2,Ocupada,Regular,A nivel,69,15
+NA,NA,244104,11,Justo Juan Bautista Av.,4600,4658.0,Platanus,2.2,Ocupada,Regular,A nivel,74,15
+NA,NA,244106,11,Justo Juan Bautista Av.,4600,4664.0,Platanus,2.2,Ocupada,Regular,A nivel,66,15
+NA,NA,244107,11,Justo Juan Bautista Av.,4600,4674.0,Platanus,2.2,Ocupada,Regular,A nivel,65,15
+NA,NA,244111,11,Justo Juan Bautista Av.,4600,4686.0,Platanus,2.2,Ocupada,Regular,A nivel,73,15
+NA,NA,245950,11,Justo Juan Bautista Av.,5100,5155.0,Ficus,2.8,Ocupada,Regular,Elevada,19,4
+NA,NA,245979,11,Justo Juan Bautista Av.,5100,5155.0,Ficus,2.8,Ocupada,Regular,Elevada,20,5
+NA,NA,246099,11,Justo Juan Bautista Av.,5100,5129.0,Ficus,2.8,Ocupada,Regular,Elevada,24,7
+NA,NA,246127,11,Justo Juan Bautista Av.,5100,5121.0,Platanus,2.8,Ocupada,Regular,A nivel,24,8
+NA,NA,246147,11,Justo Juan Bautista Av.,5100,5111.0,Ficus,2.8,Ocupada,Regular,Elevada,25,9
+NA,NA,232624,11,Justo Juan Bautista Av.,5100,5112.0,Ficus,2.8,Ocupada,Regular,Elevada,19,2
+NA,NA,232375,11,Justo Juan Bautista Av.,5100,5188.0,Platanus,2.8,Ocupada,Regular,A nivel,135,18
+NA,NA,232665,11,Justo Juan Bautista Av.,5100,5112.0,Ficus,2.8,Ocupada,Regular,Elevada,22,3
+NA,NA,232504,11,Justo Juan Bautista Av.,5100,5146.0,Platanus,2.8,Ocupada,Regular,A nivel,105,16
+NA,NA,232548,11,Justo Juan Bautista Av.,5100,5138.0,Platanus,2.8,Ocupada,Regular,A nivel,86,16
+NA,NA,232592,11,Justo Juan Bautista Av.,5100,5130.0,Platanus,2.8,Ocupada,Regular,Elevada,9,3
+NA,NA,248670,11,Justo Juan Bautista Av.,4200,4281.0,Platanus,2.4,Ocupada,Regular,A nivel,22,7
+NA,NA,248674,11,Justo Juan Bautista Av.,4200,4263.0,Platanus,2.4,Ocupada,Regular,A nivel,5,5
+NA,NA,248679,11,Justo Juan Bautista Av.,4200,4251.0,Ficus,2.4,Ocupada,Regular,A nivel,18,6
+NA,NA,248687,11,Justo Juan Bautista Av.,4200,4227.0,Tilia,2.4,Ocupada,Regular,Elevada,16,6
+NA,NA,301936,11,Justo Juan Bautista Av.,4700,4750.0,Ficus,3.6,Ocupada,Ochava,Elevada,25,3
+NA,NA,301937,11,Justo Juan Bautista Av.,4700,4744.0,Platanus,3.6,Ocupada,Regular,A nivel,79,20
+NA,NA,301938,11,Justo Juan Bautista Av.,4700,4702.0,Platanus,3.6,Ocupada,Regular,A nivel,70,17
+NA,NA,301939,11,Justo Juan Bautista Av.,4700,4702.0,Platanus,3.6,Ocupada,Ochava,A nivel,85,20
+NA,NA,301940,11,Justo Juan Bautista Av.,4750,4788.0,Platanus,3.8,Ocupada,Regular,A nivel,83,20
+NA,NA,301941,11,Justo Juan Bautista Av.,4750,4776.0,Platanus,3.8,Ocupada,Regular,A nivel,67,20
+NA,NA,301942,11,Justo Juan Bautista Av.,4750,4774.0,Platanus,3.8,Ocupada,Regular,A nivel,74,20
+NA,NA,301943,11,Justo Juan Bautista Av.,4750,4760.0,Platanus,3.8,Ocupada,Regular,A nivel,61,19
+NA,NA,301944,11,Justo Juan Bautista Av.,4750,4756.0,Platanus,3.8,Ocupada,Ochava,A nivel,79,19
+NA,NA,364716,11,Justo Juan Bautista Av.,4800,4800.0,Platanus,5,Ocupada,Regular,A nivel,11,5
+NA,NA,364717,11,Justo Juan Bautista Av.,4800,4800.0,Platanus,5,Ocupada,Ochava,A nivel,87,12
+NA,NA,358385,11,Justo Juan Bautista Av.,4800,4800.0,Platanus,5,Ocupada,Regular,A nivel,87,12
+NA,NA,358390,11,Justo Juan Bautista Av.,4800,4800.0,Platanus,5,Ocupada,Regular,A nivel,100,14
+NA,NA,539759,11,Justo Juan Bautista Av.,4800,4750.0,Ficus,3.5,Ocupada,Ochava,Elevada,25,4
+NA,NA,539760,11,Justo Juan Bautista Av.,4800,4744.0,Platanus,3.5,Ocupada,Regular,A Nivel,73,25
+NA,NA,539761,11,Justo Juan Bautista Av.,4800,4728.0,Platanus,3.5,Ocupada,Regular,A Nivel,64,25
+NA,NA,539762,11,Justo Juan Bautista Av.,4800,4728.0,Platanus,3.5,Ocupada,Regular,A Nivel,73,25
+NA,NA,539921,11,Justo Juan Bautista Av.,5200,5283.0,Platanus,3.2,Ocupada,Regular,A Nivel,33,9
+NA,NA,539922,11,Justo Juan Bautista Av.,5200,5273.0,Ficus,3.2,Ocupada,Regular,A Nivel,43,7
+NA,NA,539923,11,Justo Juan Bautista Av.,5200,5251.0,Platanus,3.2,Ocupada,Regular,A Nivel,58,12
+NA,NA,539956,11,Justo Juan Bautista Av.,5300,5330.0,Platanus,2.8,Ocupada,Regular,A Nivel,29,11
+NA,NA,539959,11,Justo Juan Bautista Av.,5300,5376.0,Lagerstroemia,2.8,Ocupada,Regular,A Nivel,5,5
+NA,NA,539960,11,Justo Juan Bautista Av.,5300,5394.0,Jacaranda,2.8,Ocupada,Regular,A Nivel,20,6
+NA,NA,540599,11,Justo Juan Bautista Av.,4800,4750.0,Ficus,3.5,Ocupada,Ochava,Elevada,25,4
+NA,NA,540600,11,Justo Juan Bautista Av.,4800,4744.0,Platanus,3.5,Ocupada,Regular,A Nivel,73,25
+NA,NA,540601,11,Justo Juan Bautista Av.,4800,4728.0,Platanus,3.5,Ocupada,Regular,A Nivel,64,25
+NA,NA,540602,11,Justo Juan Bautista Av.,4800,4728.0,Platanus,3.5,Ocupada,Regular,A Nivel,73,25
+NA,NA,540761,11,Justo Juan Bautista Av.,5200.0,5283.0,Platanus,3.2,Ocupada,Regular,A Nivel,33,9
+NA,NA,540762,11,Justo Juan Bautista Av.,5200.0,5273.0,Ficus,3.2,Ocupada,Regular,A Nivel,43,7
+NA,NA,540763,11,Justo Juan Bautista Av.,5200.0,5251.0,Platanus,3.2,Ocupada,Regular,A Nivel,58,12
+NA,NA,540796,11,Justo Juan Bautista Av.,5300.0,5330.0,Platanus,2.8,Ocupada,Regular,A Nivel,29,11
+NA,NA,540799,11,Justo Juan Bautista Av.,5300.0,5376.0,Lagerstroemia,2.8,Ocupada,Regular,A Nivel,5,5
+NA,NA,540800,11,Justo Juan Bautista Av.,5300.0,5394.0,Jacaranda,2.8,Ocupada,Regular,A Nivel,20,6
+NA,NA,67647,14,Justo Juan Bautista Av.,1500.0,1557,Platanus,3.2,Ocupada,Regular,A nivel,73,17
+NA,NA,67677,14,Justo Juan Bautista Av.,1500.0,1500,Platanus,2.4,Ocupada,Regular,Elevada,52,10
+NA,NA,67696,14,Justo Juan Bautista Av.,1500.0,1500,Platanus,2.4,Ocupada,Regular,Elevada,54,15
+NA,NA,67697,14,Justo Juan Bautista Av.,1500.0,1500,Platanus,2.4,Ocupada,Regular,Elevada,61,17
+NA,NA,67704,14,Justo Juan Bautista Av.,1500.0,1500,Platanus,3.2,Ocupada,Regular,A nivel,50,16
+NA,NA,69797,14,Justo Juan Bautista Av.,1600.0,1620,Platanus,2.8,Ocupada,Regular,A nivel,82,17
+NA,NA,69799,14,Justo Juan Bautista Av.,1600.0,1620,Platanus,2.8,Ocupada,Regular,A nivel,69,17
+NA,NA,69819,14,Justo Juan Bautista Av.,1600.0,1635,Platanus,3.2,Ocupada,Regular,A nivel,69,14
+NA,NA,69823,14,Justo Juan Bautista Av.,1600.0,1643,Platanus,3.2,Ocupada,Regular,A nivel,60,14
+NA,NA,77248,14,Justo Juan Bautista Av.,1000.0,1000,Platanus,NA,Ocupada,Regular,A nivel,24,7
+NA,NA,77255,14,Justo Juan Bautista Av.,1000.0,1000,Platanus,3.4,Ocupada,Regular,A nivel,98,31
+NA,NA,77256,14,Justo Juan Bautista Av.,1000.0,1000,Platanus,3.4,Ocupada,Regular,A nivel,86,31
+NA,NA,77259,14,Justo Juan Bautista Av.,1000.0,1000,Platanus,3.4,Ocupada,Regular,A nivel,89,32
+NA,NA,77260,14,Justo Juan Bautista Av.,1000.0,1000,Platanus,3.4,Ocupada,Regular,A nivel,89,31
+NA,NA,77264,14,Justo Juan Bautista Av.,1000.0,1000,Platanus,4,Ocupada,Regular,A nivel,85,34
+NA,NA,77265,14,Justo Juan Bautista Av.,1000.0,1000,Platanus,4,Ocupada,Regular,A nivel,85,32
+NA,NA,77266,14,Justo Juan Bautista Av.,1000.0,1000,Platanus,4,Ocupada,Regular,A nivel,89,31
+NA,NA,77268,14,Justo Juan Bautista Av.,1000.0,1000,Ficus,4,Ocupada,Regular,A nivel,24,4
+NA,NA,77272,14,Justo Juan Bautista Av.,1000.0,1000,Platanus,4,Ocupada,Regular,A nivel,84,32
+NA,NA,77406,14,Justo Juan Bautista Av.,1000.0,1000,Platanus,4,Ocupada,Regular,A nivel,102,33
+NA,NA,80617,14,Justo Juan Bautista Av.,1400.0,1477,Platanus,3.8,Ocupada,Regular,A nivel,85,21
+NA,NA,80621,14,Justo Juan Bautista Av.,1400.0,1421,Platanus,4,Ocupada,Regular,Elevada,50,18
+NA,NA,82368,14,Justo Juan Bautista Av.,1100.0,1101,Platanus,4.5,Ocupada,Regular,A nivel,38,13
+NA,NA,82369,14,Justo Juan Bautista Av.,1100.0,1101,Platanus,4.5,Ocupada,Regular,A nivel,40,12
+NA,NA,82374,14,Justo Juan Bautista Av.,1100.0,1101,Platanus,4.5,Ocupada,Regular,A nivel,48,16
+NA,NA,82375,14,Justo Juan Bautista Av.,1100.0,1101,Platanus,4.5,Ocupada,Regular,A nivel,52,14
+NA,NA,82378,14,Justo Juan Bautista Av.,1100.0,1101,Platanus,4.5,Ocupada,Regular,A nivel,54,14
+NA,NA,82379,14,Justo Juan Bautista Av.,1100.0,1101,Platanus,4.5,Ocupada,Regular,A nivel,50,14
+NA,NA,82380,14,Justo Juan Bautista Av.,1100.0,1101,Platanus,4.5,Ocupada,Regular,A nivel,48,13
+NA,NA,82381,14,Justo Juan Bautista Av.,1100.0,1101,Platanus,4.5,Ocupada,Regular,A nivel,50,14
+NA,NA,82382,14,Justo Juan Bautista Av.,1100.0,1101,Platanus,4.5,Ocupada,Regular,A nivel,52,14
+NA,NA,83669,14,Justo Juan Bautista Av.,1200.0,1200,Platanus,4.2,Ocupada,Regular,A nivel,76,25
+NA,NA,83872,14,Justo Juan Bautista Av.,1200.0,1200,Platanus,4.2,Ocupada,Regular,A nivel,81,24
+NA,NA,83999,14,Justo Juan Bautista Av.,1200.0,1200,Platanus,4.2,Ocupada,Regular,A nivel,49,16
+NA,NA,84003,14,Justo Juan Bautista Av.,1200.0,1200,Platanus,4.2,Ocupada,Regular,A nivel,56,16
+NA,NA,84048,14,Justo Juan Bautista Av.,1200.0,1200,Platanus,2,Ocupada,Regular,A nivel,61,17
+NA,NA,84088,14,Justo Juan Bautista Av.,1200.0,1200,Platanus,4.2,Ocupada,Regular,A nivel,45,18
+NA,NA,84115,14,Justo Juan Bautista Av.,1200.0,1200,Platanus,4.2,Ocupada,Regular,A nivel,35,14
+NA,NA,84118,14,Justo Juan Bautista Av.,1200.0,1200,Platanus,4.2,Ocupada,Regular,A nivel,50,12
+NA,NA,84120,14,Justo Juan Bautista Av.,1200.0,1200,Platanus,4.2,Ocupada,Regular,A nivel,45,15
+NA,NA,84196,14,Justo Juan Bautista Av.,1200.0,1270,Platanus,4.2,Ocupada,Regular,A nivel,71,25
+NA,NA,84197,14,Justo Juan Bautista Av.,1200.0,1200,Platanus,4.2,Ocupada,Regular,A nivel,51,25
+NA,NA,84200,14,Justo Juan Bautista Av.,1200.0,1270,Platanus,4.2,Ocupada,Regular,A nivel,76,24
+NA,NA,84202,14,Justo Juan Bautista Av.,1200.0,1270,Platanus,4.2,Ocupada,Regular,A nivel,80,25
+NA,NA,84219,14,Justo Juan Bautista Av.,1200.0,1270,Platanus,4,Ocupada,Regular,A nivel,48,19
+NA,NA,84229,14,Justo Juan Bautista Av.,1200.0,1270,Platanus,4,Ocupada,Regular,A nivel,61,20
+NA,NA,84244,14,Justo Juan Bautista Av.,1200.0,1270,Platanus,4.2,Ocupada,Regular,Elevada,70,24
+NA,NA,84500,14,Justo Juan Bautista Av.,1300.0,1300,Platanus,4,Ocupada,Regular,A nivel,51,19
+NA,NA,84522,14,Justo Juan Bautista Av.,1300.0,1300,Platanus,4.2,Ocupada,Regular,A nivel,58,23
+NA,NA,84531,14,Justo Juan Bautista Av.,1300.0,1300,Platanus,4.2,Ocupada,Regular,A nivel,50,18
+NA,NA,87354,14,Justo Juan Bautista Av.,900.0,909,Platanus,3.8,Ocupada,Regular,A nivel,84,14
+NA,NA,88876,14,Justo Juan Bautista Av.,900.0,909,Platanus,3.8,Ocupada,Regular,A nivel,68,13
+NA,NA,88878,14,Justo Juan Bautista Av.,900.0,909,Platanus,3.8,Ocupada,Regular,A nivel,63,13
+NA,NA,88880,14,Justo Juan Bautista Av.,900.0,909,Platanus,3.8,Ocupada,Regular,A nivel,58,14
+NA,NA,88881,14,Justo Juan Bautista Av.,900.0,909,Platanus,3.8,Ocupada,Regular,A nivel,58,15
+NA,NA,88882,14,Justo Juan Bautista Av.,900.0,909,Platanus,3.8,Ocupada,Regular,A nivel,61,16
+NA,NA,88883,14,Justo Juan Bautista Av.,900.0,909,Platanus,3.8,Ocupada,Regular,A nivel,59,16
+NA,NA,89190,14,Justo Juan Bautista Av.,1000.0,1045,Platanus,4.8,Ocupada,Regular,A nivel,83,22
+NA,NA,89191,14,Justo Juan Bautista Av.,1000.0,1045,Platanus,4.2,Ocupada,Regular,A nivel,68,19
+NA,NA,89192,14,Justo Juan Bautista Av.,1000.0,1045,Platanus,4.2,Ocupada,Regular,A nivel,53,18
+NA,NA,91076,14,Justo Juan Bautista Av.,800.0,889,Platanus,4,Ocupada,Ochava,Elevada,85,26
+NA,NA,91082,14,Justo Juan Bautista Av.,800.0,887,Platanus,4,Sobreocupada,Regular,Elevada,80,25
+NA,NA,91083,14,Justo Juan Bautista Av.,800.0,861,Platanus,4,Ocupada,Regular,A nivel,77,27
+NA,NA,91089,14,Justo Juan Bautista Av.,800.0,837,Platanus,4,Ocupada,Regular,A nivel,90,28
+NA,NA,91099,14,Justo Juan Bautista Av.,800.0,837,Platanus,4,Ocupada,Regular,A nivel,85,28
+NA,NA,91103,14,Justo Juan Bautista Av.,800.0,831,Platanus,4,Ocupada,Regular,A nivel,85,28
+NA,NA,91107,14,Justo Juan Bautista Av.,800.0,815,Platanus,4,Ocupada,Regular,A nivel,90,27
+NA,NA,91115,14,Justo Juan Bautista Av.,800.0,813,Platanus,4,Ocupada,Regular,Elevada,85,27
+NA,NA,91119,14,Justo Juan Bautista Av.,800.0,807,Platanus,4,Ocupada,Regular,Elevada,80,28
+NA,NA,91468,14,Justo Juan Bautista Av.,700.0,765,Platanus,4,Ocupada,Regular,A nivel,85,24
+NA,NA,91470,14,Justo Juan Bautista Av.,700.0,765,Platanus,4,Ocupada,Regular,A nivel,75,24
+NA,NA,91479,14,Justo Juan Bautista Av.,700.0,745,Platanus,4,Ocupada,Regular,Bajo nivel,85,21
+NA,NA,91481,14,Justo Juan Bautista Av.,700.0,739,Platanus,4,Ocupada,Regular,Elevada,90,24
+NA,NA,91483,14,Justo Juan Bautista Av.,700.0,723,Platanus,4,Ocupada,Regular,A nivel,85,24
+NA,NA,91486,14,Justo Juan Bautista Av.,700.0,705,Platanus,4,Ocupada,Regular,A nivel,85,24
+NA,NA,91504,14,Justo Juan Bautista Av.,600.0,695,Platanus,4,Ocupada,Regular,A nivel,75,24
+NA,NA,91508,14,Justo Juan Bautista Av.,600.0,677,Platanus,4,Ocupada,Regular,A nivel,80,24
+NA,NA,91563,14,Justo Juan Bautista Av.,600.0,677,Platanus,4,Ocupada,Regular,A nivel,75,24
+NA,NA,91572,14,Justo Juan Bautista Av.,600.0,665,Platanus,4,Ocupada,Regular,A nivel,85,22
+NA,NA,91578,14,Justo Juan Bautista Av.,600.0,657,Platanus,4,Ocupada,Regular,A nivel,85,21
+NA,NA,91583,14,Justo Juan Bautista Av.,600.0,647,Platanus,4,Ocupada,Regular,A nivel,90,24
+NA,NA,91587,14,Justo Juan Bautista Av.,600.0,637,Platanus,4,Ocupada,Regular,A nivel,80,20
+NA,NA,92664,14,Justo Juan Bautista Av.,1400.0,1380,Platanus,4,Ocupada,Regular,A nivel,82,18
+NA,NA,92669,14,Justo Juan Bautista Av.,1400.0,1474,Platanus,4,Ocupada,Regular,A nivel,79,17
+NA,NA,92672,14,Justo Juan Bautista Av.,1400.0,1462,Platanus,4,Ocupada,Regular,A nivel,83,19
+NA,NA,92676,14,Justo Juan Bautista Av.,1400.0,1468,Platanus,4,Ocupada,Regular,Elevada,70,18
+NA,NA,95541,14,Justo Juan Bautista Av.,600.0,634,Platanus,4.2,Ocupada,Regular,A nivel,66,22
+NA,NA,95543,14,Justo Juan Bautista Av.,600.0,634,Platanus,4.2,Ocupada,Regular,A nivel,59,21
+NA,NA,95544,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,A nivel,51,21
+NA,NA,95560,14,Justo Juan Bautista Av.,600.0,634,Platanus,4.2,Ocupada,Regular,Bajo nivel,41,19
+NA,NA,95561,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,A nivel,39,15
+NA,NA,95562,14,Justo Juan Bautista Av.,600.0,634,Platanus,4.2,Ocupada,Regular,A nivel,37,19
+NA,NA,95563,14,Justo Juan Bautista Av.,600.0,634,Platanus,4.2,Ocupada,Regular,Bajo nivel,53,20
+NA,NA,95564,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,A nivel,62,20
+NA,NA,95565,14,Justo Juan Bautista Av.,600.0,634,Platanus,4.2,Ocupada,Regular,Bajo nivel,35,19
+NA,NA,95567,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,A nivel,42,19
+NA,NA,95568,14,Justo Juan Bautista Av.,600.0,634,Platanus,4.2,Ocupada,Regular,Bajo nivel,56,20
+NA,NA,95569,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,A nivel,49,19
+NA,NA,95570,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,A nivel,61,20
+NA,NA,95571,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,Bajo nivel,32,18
+NA,NA,95572,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,A nivel,57,20
+NA,NA,95573,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,A nivel,43,19
+NA,NA,95574,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,Bajo nivel,43,19
+NA,NA,95599,14,Justo Juan Bautista Av.,700.0,798,Platanus,4.2,Ocupada,Regular,A nivel,53,21
+NA,NA,95600,14,Justo Juan Bautista Av.,800.0,896,Platanus,6.2,Ocupada,Regular,A nivel,57,20
+NA,NA,95601,14,Justo Juan Bautista Av.,800.0,896,Platanus,6.2,Ocupada,Regular,Bajo nivel,46,18
+NA,NA,95602,14,Justo Juan Bautista Av.,800.0,832,Platanus,6.2,Ocupada,Regular,Bajo nivel,51,21
+NA,NA,95603,14,Justo Juan Bautista Av.,800.0,832,Platanus,6.2,Ocupada,Regular,A nivel,62,20
+NA,NA,95604,14,Justo Juan Bautista Av.,800.0,832,Platanus,6.2,Ocupada,Regular,Bajo nivel,46,21
+NA,NA,95605,14,Justo Juan Bautista Av.,800.0,814,Platanus,4.2,Ocupada,Regular,A nivel,45,20
+NA,NA,95606,14,Justo Juan Bautista Av.,800.0,896,Platanus,6.2,Ocupada,Regular,A nivel,43,19
+NA,NA,95607,14,Justo Juan Bautista Av.,800.0,896,Platanus,6.2,Ocupada,Regular,A nivel,63,20
+NA,NA,95608,14,Justo Juan Bautista Av.,800.0,832,Platanus,6.2,Ocupada,Regular,A nivel,48,17
+NA,NA,95609,14,Justo Juan Bautista Av.,800.0,820,Platanus,4.2,Ocupada,Regular,Bajo nivel,61,21
+NA,NA,95610,14,Justo Juan Bautista Av.,800.0,832,Platanus,6.2,Ocupada,Regular,Bajo nivel,47,21
+NA,NA,95611,14,Justo Juan Bautista Av.,800.0,896,Platanus,6.2,Ocupada,Regular,A nivel,39,19
+NA,NA,95612,14,Justo Juan Bautista Av.,800.0,896,Platanus,6.2,Ocupada,Regular,Bajo nivel,43,17
+NA,NA,95613,14,Justo Juan Bautista Av.,800.0,896,Platanus,6.2,Ocupada,Regular,A nivel,69,21
+NA,NA,193660,15,Justo Juan Bautista Av.,3900.0,3940,Platanus,3,Ocupada,Regular,A nivel,71,26
+NA,NA,206756,15,Justo Juan Bautista Av.,3600.0,3692,Platanus,3,Ocupada,Regular,A nivel,5,3
+NA,NA,193698,15,Justo Juan Bautista Av.,3900.0,3930,Platanus,3,Ocupada,Regular,A nivel,62,26
+NA,NA,193732,15,Justo Juan Bautista Av.,3900.0,3912,Platanus,3,Ocupada,Regular,A nivel,55,18
+NA,NA,206830,15,Justo Juan Bautista Av.,3600.0,3666,Ficus,3,Ocupada,Regular,A nivel,21,7
+NA,NA,193607,15,Justo Juan Bautista Av.,3900.0,3974,Platanus,3,Ocupada,Regular,A nivel,19,13
+NA,NA,210350,15,Justo Juan Bautista Av.,3400.0,3447,Platanus,2.8,Ocupada,Regular,Bajo nivel,4,3
+NA,NA,210373,15,Justo Juan Bautista Av.,3400.0,3437,Lagerstroemia,2.8,Ocupada,Regular,A nivel,2,2
+NA,NA,203490,15,Justo Juan Bautista Av.,3700.0,3832,Platanus,3,Ocupada,Regular,A nivel,67,17
+NA,NA,203270,15,Justo Juan Bautista Av.,3700.0,3384,Platanus,3,Ocupada,Regular,A nivel,48,12
+NA,NA,203549,15,Justo Juan Bautista Av.,3700.0,3010,Ficus,3,Ocupada,Regular,A nivel,32,9
+NA,NA,208635,15,Justo Juan Bautista Av.,3500.0,3576,Platanus,2.8,Ocupada,Regular,A nivel,68,20
+NA,NA,203314,15,Justo Juan Bautista Av.,3700.0,3885,Platanus,3,Ocupada,Regular,A nivel,73,14
+NA,NA,203587,15,Justo Juan Bautista Av.,3700.0,3770,Platanus,3,Ocupada,Regular,A nivel,66,12
+NA,NA,208706,15,Justo Juan Bautista Av.,3500.0,3576,Platanus,2.8,Ocupada,Regular,A nivel,62,22
+NA,NA,203350,15,Justo Juan Bautista Av.,3700.0,3866,Platanus,3,Ocupada,Regular,A nivel,50,15
+NA,NA,203627,15,Justo Juan Bautista Av.,3700.0,3748,Platanus,3,Ocupada,Regular,A nivel,78,21
+NA,NA,208741,15,Justo Juan Bautista Av.,3500.0,3574,Platanus,2.8,Ocupada,Regular,A nivel,65,22
+NA,NA,208776,15,Justo Juan Bautista Av.,3500.0,3556,Platanus,2.8,Ocupada,Regular,A nivel,15,7
+NA,NA,214076,15,Justo Juan Bautista Av.,3300.0,3309.0,Platanus,2.8,Ocupada,Ochava,A nivel,20,12
+NA,NA,229242,15,Justo Juan Bautista Av.,3400.0,3408.0,Platanus,3,Ocupada,Regular,A nivel,74,19
+NA,NA,229048,15,Justo Juan Bautista Av.,3400.0,3494.0,Platanus,3,Sobreocupada,Regular,A nivel,65,15
+NA,NA,229356,15,Justo Juan Bautista Av.,1800.0,1866.0,Platanus,3.2,Ocupada,Regular,A nivel,104,18
+NA,NA,229092,15,Justo Juan Bautista Av.,3400.0,3486.0,Platanus,3,Ocupada,Regular,A nivel,101,17
+NA,NA,229158,15,Justo Juan Bautista Av.,3400.0,3452.0,Platanus,3,Ocupada,Regular,A nivel,69,14
+NA,NA,228028,15,Justo Juan Bautista Av.,3200.0,3294.0,Platanus,3,Ocupada,Regular,A nivel,69,17
+NA,NA,230309,15,Justo Juan Bautista Av.,3100.0,3115.0,Platanus,3,Ocupada,Regular,A nivel,71,20
+NA,NA,228333,15,Justo Juan Bautista Av.,3350.0,3370.0,Ficus,3,Ocupada,Regular,A nivel,45,5
+NA,NA,229206,15,Justo Juan Bautista Av.,3400.0,3436.0,Ficus,3,Ocupada,Regular,A nivel,34,3
+NA,NA,247148,15,Justo Juan Bautista Av.,2500.0,2525.0,Platanus,2.9,Ocupada,Regular,A nivel,55,20
+NA,NA,247173,15,Justo Juan Bautista Av.,2500.0,2539.0,Platanus,2.9,Ocupada,Regular,A nivel,54,18
+NA,NA,248289,15,Justo Juan Bautista Av.,3700.0,3767.0,Platanus,2.4,Ocupada,Regular,A nivel,5,6
+NA,NA,247215,15,Justo Juan Bautista Av.,2500.0,2551.0,Platanus,2.9,Sobreocupada,Regular,Elevada,43,18
+NA,NA,247261,15,Justo Juan Bautista Av.,2500.0,2561.0,Platanus,2.9,Ocupada,Regular,Bajo nivel,66,18
+NA,NA,248116,15,Justo Juan Bautista Av.,2400.0,2497.0,Platanus,2.8,Ocupada,Regular,A nivel,96,20
+NA,NA,248160,15,Justo Juan Bautista Av.,3700.0,3843.0,Platanus,2.4,Ocupada,Regular,A nivel,74,23
+NA,NA,247049,15,Justo Juan Bautista Av.,2500.0,2515.0,Platanus,2.9,Ocupada,Regular,Bajo nivel,76,20
+NA,NA,248201,15,Justo Juan Bautista Av.,3700.0,3817.0,Platanus,2.4,Ocupada,Regular,A nivel,56,23
+NA,NA,245151,15,Justo Juan Bautista Av.,2600.0,2631.0,Platanus,3,Ocupada,Regular,A nivel,16,10
+NA,NA,245168,15,Justo Juan Bautista Av.,2600.0,2641.0,Platanus,3,Ocupada,Regular,A nivel,35,15
+NA,NA,242470,15,Justo Juan Bautista Av.,3200.0,3211.0,Platanus,2.8,Ocupada,Regular,A nivel,19,6
+NA,NA,244165,15,Justo Juan Bautista Av.,3200.0,3285.0,Platanus,2.8,Ocupada,Regular,A nivel,68,18
+NA,NA,245285,15,Justo Juan Bautista Av.,260.0,2645.0,Platanus,3,Ocupada,Regular,A nivel,70,15
+NA,NA,245328,15,Justo Juan Bautista Av.,2600.0,2681.0,Platanus,3,Ocupada,Regular,A nivel,90,16
+NA,NA,245364,15,Justo Juan Bautista Av.,2600.0,2691.0,Platanus,3,Ocupada,Regular,Bajo nivel,78,16
+NA,NA,245397,15,Justo Juan Bautista Av.,2600.0,2691.0,Platanus,3,Ocupada,Regular,Bajo nivel,96,18
+NA,NA,245118,15,Justo Juan Bautista Av.,2600.0,2621.0,Platanus,3,Ocupada,Regular,A nivel,21,10
+NA,NA,252782,15,Justo Juan Bautista Av.,2241.0,2241.0,Platanus,2.8,Ocupada,Regular,A nivel,96,20
+NA,NA,252841,15,Justo Juan Bautista Av.,2200.0,2261.0,Platanus,2.8,Ocupada,Regular,Elevada,96,21
+NA,NA,231307,15,Justo Juan Bautista Av.,3000.0,325.0,Platanus,2.8,Ocupada,Regular,A nivel,98,18
+NA,NA,252885,15,Justo Juan Bautista Av.,220.0,2775.0,Platanus,2.8,Ocupada,Regular,Elevada,100,21
+NA,NA,252947,15,Justo Juan Bautista Av.,2200.0,2279.0,Platanus,2.8,Ocupada,Regular,A nivel,90,22
+NA,NA,252691,15,Justo Juan Bautista Av.,2200.0,2235.0,Platanus,2.8,Ocupada,Regular,A nivel,85,22
+NA,NA,252978,15,Justo Juan Bautista Av.,2200.0,2287.0,Platanus,2.8,Ocupada,Regular,A nivel,92,22
+NA,NA,233438,15,Justo Juan Bautista Av.,3900.0,3951.0,Ficus,2.7,Ocupada,Regular,Bajo nivel,14,4
+NA,NA,250368,15,Justo Juan Bautista Av.,2300.0,2333.0,Platanus,2.8,Ocupada,Regular,A nivel,83,19
+NA,NA,250409,15,Justo Juan Bautista Av.,2300.0,2331.0,Ficus,2.8,Ocupada,Regular,A nivel,17,6
+NA,NA,250431,15,Justo Juan Bautista Av.,2300.0,2343.0,Platanus,2.8,Ocupada,Regular,A nivel,96,17
+NA,NA,236663,15,Justo Juan Bautista Av.,2800.0,2819.0,Platanus,2.8,Ocupada,Regular,A nivel,80,18
+NA,NA,236912,15,Justo Juan Bautista Av.,2700.0,2717.0,Platanus,2.8,Ocupada,Regular,A nivel,58,18
+NA,NA,237743,15,Justo Juan Bautista Av.,3500.0,3537.0,Platanus,2.8,Ocupada,Regular,Elevada,79,19
+NA,NA,236945,15,Justo Juan Bautista Av.,2700.0,2717.0,Platanus,2.8,Ocupada,Regular,A nivel,81,19
+NA,NA,236808,15,Justo Juan Bautista Av.,2700.0,2787.0,Platanus,2.8,Ocupada,Regular,A nivel,91,17
+NA,NA,237568,15,Justo Juan Bautista Av.,3500.0,3599.0,Platanus,2.8,Ocupada,Ochava,A nivel,61,21
+NA,NA,236856,15,Justo Juan Bautista Av.,2700.0,2741.0,Platanus,2.8,Ocupada,Regular,A nivel,93,21
+NA,NA,236630,15,Justo Juan Bautista Av.,2800.0,2819.0,Platanus,2.8,Ocupada,Regular,A nivel,85,20
+NA,NA,236880,15,Justo Juan Bautista Av.,2700.0,2731.0,Platanus,2.8,Ocupada,Regular,A nivel,67,21
+NA,NA,237629,15,Justo Juan Bautista Av.,3500.0,3587.0,Platanus,2.8,Ocupada,Regular,A nivel,67,23
+NA,NA,257034,15,Justo Juan Bautista Av.,2000.0,2023.0,Platanus,2.4,Ocupada,Regular,A nivel,76,17
+NA,NA,257088,15,Justo Juan Bautista Av.,2000.0,2067.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,75,15
+NA,NA,257133,15,Justo Juan Bautista Av.,2000.0,2091.0,Platanus,3,Ocupada,Regular,Bajo nivel,90,17
+NA,NA,257401,15,Justo Juan Bautista Av.,2100.0,2129.0,Platanus,2.8,Ocupada,Regular,A nivel,98,16
+NA,NA,257430,15,Justo Juan Bautista Av.,2100.0,2129.0,Platanus,2.8,Ocupada,Regular,A nivel,99,17
+NA,NA,257475,15,Justo Juan Bautista Av.,2100.0,2129.0,Platanus,2.8,Ocupada,Regular,A nivel,84,15
+NA,NA,257008,15,Justo Juan Bautista Av.,2000.0,2023.0,Platanus,2.4,Ocupada,Regular,A nivel,69,16
+NA,NA,257299,15,Justo Juan Bautista Av.,2100.0,2195.0,Platanus,2.8,Ocupada,Regular,A nivel,76,11
+NA,NA,290972,15,Justo Juan Bautista Av.,2000.0,2088.0,Platanus,2.4,Ocupada,Regular,A nivel,83,20
+NA,NA,296331,15,Justo Juan Bautista Av.,2100.0,2122.0,Platanus,2.8,Ocupada,Regular,A nivel,69,23
+NA,NA,296332,15,Justo Juan Bautista Av.,2100.0,2144.0,Platanus,2.8,Ocupada,Regular,A nivel,69,25
+NA,NA,296333,15,Justo Juan Bautista Av.,2100.0,2156.0,Platanus,2.8,Ocupada,Regular,Elevada,89,25
+NA,NA,296102,15,Justo Juan Bautista Av.,3000.0,3082.0,Platanus,2.9,Ocupada,Regular,Bajo nivel,88,20
+NA,NA,296103,15,Justo Juan Bautista Av.,3000.0,3026.0,Platanus,2.9,Ocupada,Regular,A nivel,29,10
+NA,NA,296569,15,Justo Juan Bautista Av.,2900.0,2910.0,Platanus,2.9,Ocupada,Regular,A nivel,81,20
+NA,NA,296570,15,Justo Juan Bautista Av.,2900.0,2918.0,Platanus,2.9,Ocupada,Regular,A nivel,94,23
+NA,NA,296571,15,Justo Juan Bautista Av.,2900.0,2946.0,Platanus,2.9,Ocupada,Regular,A nivel,74,21
+NA,NA,296572,15,Justo Juan Bautista Av.,2900.0,2962.0,Platanus,2.9,Ocupada,Regular,A nivel,87,23
+NA,NA,296574,15,Justo Juan Bautista Av.,2900.0,2982.0,Platanus,2.9,Ocupada,Regular,A nivel,73,21
+NA,NA,308276,15,Justo Juan Bautista Av.,2400.0,2452.0,Platanus,2.8,Ocupada,Regular,A nivel,80,25
+NA,NA,308277,15,Justo Juan Bautista Av.,2400.0,2460.0,Platanus,2.8,Ocupada,Regular,A nivel,76,26
+NA,NA,308278,15,Justo Juan Bautista Av.,2400.0,2482.0,Platanus,2.8,Ocupada,Regular,A nivel,81,27
+NA,NA,308279,15,Justo Juan Bautista Av.,2400.0,2490.0,Platanus,2.8,Ocupada,Ochava,A nivel,89,26
+NA,NA,308310,15,Justo Juan Bautista Av.,2500.0,2512.0,Platanus,2.8,Ocupada,Regular,A nivel,74,20
+NA,NA,308311,15,Justo Juan Bautista Av.,2500.0,2528.0,Platanus,2.8,Ocupada,Regular,Elevada,58,20
+NA,NA,299790,15,Justo Juan Bautista Av.,2700.0,2706.0,Ficus,2.9,Ocupada,Regular,A nivel,12,2
+NA,NA,299791,15,Justo Juan Bautista Av.,2700.0,2706.0,Platanus,2.9,Ocupada,Regular,A nivel,65,22
+NA,NA,299792,15,Justo Juan Bautista Av.,2700.0,2726.0,Platanus,2.9,Ocupada,Regular,A nivel,67,22
+NA,NA,299793,15,Justo Juan Bautista Av.,2700.0,2744.0,Platanus,2.9,Ocupada,Regular,A nivel,63,23
+NA,NA,299794,15,Justo Juan Bautista Av.,2700.0,2750.0,Platanus,2.9,Ocupada,Regular,A nivel,61,23
+NA,NA,299795,15,Justo Juan Bautista Av.,2700.0,2760.0,Platanus,2.9,Ocupada,Regular,A nivel,59,22
+NA,NA,299796,15,Justo Juan Bautista Av.,2700.0,2770.0,Platanus,2.9,Ocupada,Regular,A nivel,46,19
+NA,NA,299797,15,Justo Juan Bautista Av.,2700.0,2776.0,Platanus,2.9,Ocupada,Regular,Bajo nivel,58,23
+NA,NA,299798,15,Justo Juan Bautista Av.,2700.0,2790.0,Platanus,2.9,Ocupada,Regular,A nivel,77,23
+NA,NA,299799,15,Justo Juan Bautista Av.,2700.0,2796.0,Platanus,2.9,Ocupada,Ochava,A nivel,58,22
+NA,NA,301709,15,Justo Juan Bautista Av.,2300.0,2304.0,Platanus,2.8,Ocupada,Regular,A nivel,95,22
+NA,NA,301710,15,Justo Juan Bautista Av.,2300.0,2344.0,Platanus,2.8,Ocupada,Regular,Elevada,91,18
+NA,NA,301711,15,Justo Juan Bautista Av.,2300.0,2344.0,Platanus,2.8,Ocupada,Regular,A nivel,88,18
+NA,NA,301713,15,Justo Juan Bautista Av.,2300.0,2400.0,Platanus,2.8,Ocupada,Regular,A nivel,99,17
+NA,NA,299437,15,Justo Juan Bautista Av.,2200.0,2220.0,Platanus,3.2,Ocupada,Regular,A nivel,88,20
+NA,NA,299438,15,Justo Juan Bautista Av.,2200.0,2220.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,66,18
+NA,NA,299439,15,Justo Juan Bautista Av.,2200.0,2232.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,60,16
+NA,NA,299440,15,Justo Juan Bautista Av.,2200.0,2254.0,Platanus,2.8,Ocupada,Regular,Elevada,88,19
+NA,NA,321444,15,Justo Juan Bautista Av.,2500.0,2556.0,Platanus,2.8,Ocupada,Regular,Bajo nivel,50,18

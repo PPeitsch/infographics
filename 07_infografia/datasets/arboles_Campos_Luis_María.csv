@@ -1,0 +1,179 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.4451235476031,-34.5616392429666,92505,13,Campos Luis María Av.,1600,1626.0,Jacaranda,2.8,Ocupada,Regular,A nivel,13,7
+-58.44495620613979,-34.561799506175696,92518,13,Campos Luis María Av.,1600,1616.0,Jacaranda,2.8,Ocupada,Regular,A nivel,10,6
+-58.44392017835171,-34.5624941564826,101369,13,Campos Luis María Av.,1500,1533.0,Jacaranda,2.4,Ocupada,Regular,A nivel,50,13
+-58.44381787743399,-34.5625764596584,101374,13,Campos Luis María Av.,1500,1521.0,Jacaranda,2.4,Sobreocupada,Regular,Elevada,15,8
+-58.444303221429394,-34.5622014725914,101392,13,Campos Luis María Av.,1500,1589.0,Jacaranda,2.4,Ocupada,Regular,Elevada,17,8
+-58.442892817700795,-34.5635312542927,103853,13,Campos Luis María Av.,1400,1402.0,Jacaranda,2.4,Ocupada,Regular,A nivel,46,8
+-58.443311829025895,-34.5631929080585,103855,13,Campos Luis María Av.,1400,1464.0,Tilia,2.4,Ocupada,Regular,A nivel,32,10
+-58.443428909375896,-34.563098709836694,103860,13,Campos Luis María Av.,1400,1472.0,Ficus,2.4,Ocupada,Regular,Elevada,43,9
+-58.443428909375896,-34.563098709836694,103861,13,Campos Luis María Av.,1400,1472.0,Ficus,2.4,Ocupada,Regular,Elevada,42,9
+-58.443525780832005,-34.5630207706484,103863,13,Campos Luis María Av.,1400,1480.0,Jacaranda,2.4,Ocupada,Regular,A nivel,17,7
+-58.444219352527504,-34.562461657248996,106706,13,Campos Luis María Av.,1500,1550.0,Jacaranda,2.8,Ocupada,Regular,Elevada,6,7
+-58.4445762743594,-34.5621683276033,106909,13,Campos Luis María Av.,1500,1586.0,Ficus,2.8,Ocupada,Regular,Elevada,35,8
+-58.4444365900279,-34.5622868833157,106910,13,Campos Luis María Av.,1500,1572.0,Jacaranda,2.8,Ocupada,Regular,Elevada,13,8
+-58.4443379062309,-34.5623662774601,106914,13,Campos Luis María Av.,1500,1562.0,Jacaranda,2.8,Ocupada,Regular,Elevada,14,7
+-58.44396373476071,-34.5626673077753,106916,13,Campos Luis María Av.,1500,1520.0,Jacaranda,2.8,Ocupada,Regular,A nivel,13,9
+-58.44396373476071,-34.5626673077753,106917,13,Campos Luis María Av.,1500,1520.0,Jacaranda,2.8,Ocupada,Regular,A nivel,42,20
+-58.444219352527504,-34.562461657248996,106918,13,Campos Luis María Av.,1500,1550.0,Jacaranda,2.8,Ocupada,Regular,Elevada,7,6
+-58.44342028548321,-34.5628952235021,122157,13,Campos Luis María Av.,1400,1495.0,Jacaranda,2.8,Ocupada,Regular,Elevada,44,10
+-58.4433269737879,-34.5629702985953,122159,13,Campos Luis María Av.,1400,1483.0,Jacaranda,2.8,Ocupada,Regular,Elevada,17,5
+-58.44342028548321,-34.5628952235021,122160,13,Campos Luis María Av.,1400,1495.0,Jacaranda,2.8,Ocupada,Regular,Elevada,15,5
+-58.4432066461182,-34.5630671094389,122162,13,Campos Luis María Av.,1400,1461.0,Jacaranda,2.8,Sobreocupada,Regular,Elevada,21,8
+-58.4427345336623,-34.563445469928006,122164,13,Campos Luis María Av.,1400,1411.0,Jacaranda,2.8,Sobreocupada,Regular,Elevada,16,8
+-58.4316389572857,-34.5743496260001,72949,14,Campos Luis María Av.,210.0,195,Jacaranda,3.4,Ocupada,Regular,A nivel,40,8
+-58.4316389572857,-34.5743496260001,72954,14,Campos Luis María Av.,210.0,195,Jacaranda,3.4,Ocupada,Regular,A nivel,30,10
+-58.431636317964,-34.5743443468709,72963,14,Campos Luis María Av.,210.0,155,Jacaranda,3.4,Ocupada,Ochava,A nivel,52,10
+-58.43555420626139,-34.5705483704831,74123,14,Campos Luis María Av.,800.0,800,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,33,11
+-58.43555420626139,-34.5705483704831,74161,14,Campos Luis María Av.,800.0,800,Jacaranda,2.8,Ocupada,Regular,A nivel,4,3
+-58.4409624818859,-34.5649580548238,76776,14,Campos Luis María Av.,1200.0,1248,Jacaranda,2.8,Ocupada,Regular,A nivel,30,20
+-58.44088890511341,-34.565019475528494,76785,14,Campos Luis María Av.,1200.0,1244,Jacaranda,2.8,Ocupada,Regular,Elevada,10,3
+-58.4407531683546,-34.5651327860328,76815,14,Campos Luis María Av.,1200.0,1226,Jacaranda,2.8,Ocupada,Regular,A nivel,22,6
+-58.4338535569531,-34.5721086374606,78748,14,Campos Luis María Av.,400.0,465,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,22,9
+-58.433546902879705,-34.572429751905105,78750,14,Campos Luis María Av.,400.0,409,Jacaranda,2.8,Ocupada,Regular,A nivel,25,7
+-58.441497433428104,-34.564543178699196,79275,14,Campos Luis María Av.,1300.0,1316,Jacaranda,2.8,Ocupada,Regular,A nivel,8,3
+-58.4419089715946,-34.564244390869604,79277,14,Campos Luis María Av.,1300.0,1336,Jacaranda,2.8,Ocupada,Regular,Elevada,12,3
+-58.4419089715946,-34.564244390869604,79278,14,Campos Luis María Av.,1300.0,1336,Jacaranda,2.8,Ocupada,Regular,Elevada,3,2
+-58.4419690572023,-34.56420076679,79279,14,Campos Luis María Av.,1300.0,1346,Ficus,2.8,Ocupada,Regular,Elevada,14,3
+-58.44205842058479,-34.564135885984605,79280,14,Campos Luis María Av.,1300.0,1350,Jacaranda,2.8,Ocupada,Regular,A nivel,23,12
+-58.442231795305794,-34.5640100096564,79281,14,Campos Luis María Av.,1300.0,1372,Jacaranda,2.8,Ocupada,Regular,A nivel,5,3
+-58.4423682948997,-34.563910905566104,79282,14,Campos Luis María Av.,1300.0,1386,Jacaranda,2.8,Ocupada,Regular,A nivel,4,6
+-58.4423682948997,-34.563910905566104,79283,14,Campos Luis María Av.,1300.0,1386,Jacaranda,2.8,Ocupada,Regular,A nivel,9,3
+-58.4425019737205,-34.5638138490898,79285,14,Campos Luis María Av.,1300.0,1394,Jacaranda,2.8,Ocupada,Regular,A nivel,44,16
+-58.4404983442311,-34.5651316377367,80879,14,Campos Luis María Av.,1200.0,1217,Jacaranda,2.8,Ocupada,Regular,A nivel,12,6
+-58.440575862368895,-34.5650669274267,80880,14,Campos Luis María Av.,1200.0,1231,Jacaranda,2.8,Ocupada,Regular,A nivel,40,14
+-58.4408005832648,-34.565093205009106,80882,14,Campos Luis María Av.,1200.0,1234,Jacaranda,2.8,Ocupada,Regular,A nivel,36,18
+-58.4407789548911,-34.564897389871895,80883,14,Campos Luis María Av.,1200.0,1257,Jacaranda,2.8,Ocupada,Regular,A nivel,12,8
+-58.4414565206066,-34.564374540925606,80959,14,Campos Luis María Av.,1300.0,1315,Ficus,2.8,Ocupada,Regular,A nivel,17,4
+-58.441527832116,-34.5643227670401,80962,14,Campos Luis María Av.,1300.0,1323,Jacaranda,2.8,Ocupada,Regular,A nivel,4,3
+-58.441636788704606,-34.5642436616979,80963,14,Campos Luis María Av.,1300.0,1329,Jacaranda,2.8,Ocupada,Regular,A nivel,38,16
+-58.4417453673656,-34.5641648304942,80966,14,Campos Luis María Av.,1300.0,1341,Jacaranda,2.8,Ocupada,Regular,Elevada,45,20
+-58.436067525926894,-34.569757109232604,82513,14,Campos Luis María Av.,700.0,747,Jacaranda,2.8,Ocupada,Regular,A nivel,19,5
+-58.436067525926894,-34.569757109232604,82519,14,Campos Luis María Av.,700.0,751,Jacaranda,2.8,Ocupada,Regular,A nivel,8,3
+-58.436067525926894,-34.569757109232604,82548,14,Campos Luis María Av.,700.0,751,Jacaranda,2.8,Ocupada,Regular,A nivel,19,6
+-58.43639301742721,-34.5694023251639,82550,14,Campos Luis María Av.,700.0,795,Jacaranda,2.8,Sobreocupada,Regular,Elevada,15,6
+-58.4361694641569,-34.5696459975073,82551,14,Campos Luis María Av.,700.0,761,Jacaranda,2.8,Ocupada,Regular,A nivel,24,7
+-58.4364189994588,-34.5693740047286,82552,14,Campos Luis María Av.,700.0,799,Jacaranda,2.8,Ocupada,Ochava,Elevada,34,7
+-58.4376359904443,-34.5677600741875,86786,14,Campos Luis María Av.,900.0,901,Jacaranda,2.8,Ocupada,Ochava,A nivel,31,8
+-58.4376359904443,-34.5677600741875,86789,14,Campos Luis María Av.,900.0,901,Jacaranda,2.8,Ocupada,Regular,A nivel,24,9
+-58.4376359904443,-34.5677600741875,86790,14,Campos Luis María Av.,900.0,901,Jacaranda,2.8,Ocupada,Regular,A nivel,25,7
+-58.4376359904443,-34.5677600741875,86793,14,Campos Luis María Av.,900.0,901,Jacaranda,2.8,Ocupada,Regular,A nivel,3,3
+-58.4376359904443,-34.5677600741875,86796,14,Campos Luis María Av.,900.0,901,Ficus,2.8,Ocupada,Regular,A nivel,70,9
+-58.431619071609795,-34.574587225686805,87158,14,Campos Luis María Av.,NA,196,Jacaranda,6,Ocupada,Regular,A nivel,35,10
+-58.4315123065488,-34.5744636804467,87160,14,Campos Luis María Av.,NA,197,Ficus,6,Ocupada,Regular,A nivel,45,6
+-58.4347613495732,-34.5711572102109,88105,14,Campos Luis María Av.,500.0,597,Jacaranda,2.8,Ocupada,Ochava,A nivel,0,5
+-58.434665752963,-34.571257403436,88106,14,Campos Luis María Av.,500.0,585,Jacaranda,2.8,Ocupada,Regular,A nivel,21,8
+-58.434665752963,-34.571257403436,88107,14,Campos Luis María Av.,500.0,585,Jacaranda,2.8,Ocupada,Regular,Elevada,19,4
+-58.43463074109199,-34.571294098706396,88116,14,Campos Luis María Av.,500.0,581,Jacaranda,2.8,Ocupada,Regular,A nivel,21,4
+-58.4343443956875,-34.5715942103515,88119,14,Campos Luis María Av.,500.0,535,Jacaranda,2.8,Ocupada,Regular,Elevada,25,7
+-58.434237183322104,-34.5717065762913,88126,14,Campos Luis María Av.,500.0,515,Jacaranda,2.8,Ocupada,Regular,A nivel,24,8
+-58.4367953327719,-34.5689563626443,89332,14,Campos Luis María Av.,800.0,825,Jacaranda,2.8,Ocupada,Regular,A nivel,4,3
+-58.4366491095253,-34.569115759785106,89353,14,Campos Luis María Av.,800.0,805,Jacaranda,2.8,Ocupada,Ochava,A nivel,37,9
+-58.4367953327719,-34.5689563626443,89358,14,Campos Luis María Av.,800.0,835,Jacaranda,2.8,Ocupada,Regular,A nivel,18,7
+-58.4371408613633,-34.5685101139933,89364,14,Campos Luis María Av.,800.0,881,Jacaranda,2.8,Ocupada,Regular,A nivel,45,8
+-58.437118282856105,-34.5685445052605,89367,14,Campos Luis María Av.,800.0,877,Jacaranda,2.8,Ocupada,Regular,A nivel,50,9
+-58.4372316060067,-34.5683718926986,89369,14,Campos Luis María Av.,800.0,895,Jacaranda,2.8,Ocupada,Regular,Elevada,30,7
+-58.4325798636504,-34.573684599588105,89722,14,Campos Luis María Av.,200.0,296,Jacaranda,2.7,Ocupada,Regular,A nivel,32,10
+-58.4328109910964,-34.5734383376992,89728,14,Campos Luis María Av.,200.0,324,Jacaranda,2.7,Ocupada,Regular,Bajo nivel,36,12
+-58.43452962690971,-34.571518478986,89729,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,A nivel,45,9
+-58.43452962690971,-34.571518478986,89730,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,A nivel,19,7
+-58.43452962690971,-34.571518478986,89731,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,A nivel,24,7
+-58.43263586455829,-34.5736218693744,89733,14,Campos Luis María Av.,200.0,304,Jacaranda,2.7,Ocupada,Regular,A nivel,11,7
+-58.4325211303828,-34.5737461815491,89734,14,Campos Luis María Av.,200.0,292,Jacaranda,2.7,Ocupada,Regular,Bajo nivel,44,12
+-58.43452962690971,-34.571518478986,89735,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,A nivel,11,7
+-58.43302064781879,-34.573218617188104,89736,14,Campos Luis María Av.,200.0,362,Ficus,2.7,Sobreocupada,Regular,A nivel,15,3
+-58.43452962690971,-34.571518478986,89741,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,A nivel,14,6
+-58.43452962690971,-34.571518478986,89745,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,A nivel,16,6
+-58.43452962690971,-34.571518478986,89750,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,Elevada,7,4
+-58.43452962690971,-34.571518478986,89752,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,10,6
+-58.43452962690971,-34.571518478986,89756,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,A nivel,43,10
+-58.43452962690971,-34.571518478986,89757,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,A nivel,16,7
+-58.43452962690971,-34.571518478986,89758,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,26,7
+-58.43452962690971,-34.571518478986,89759,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,20,7
+-58.43452962690971,-34.571518478986,89761,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,A nivel,9,6
+-58.43452962690971,-34.571518478986,89762,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,24,8
+-58.43452962690971,-34.571518478986,89765,14,Campos Luis María Av.,200.0,554,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,22,7
+-58.437491701479,-34.5682974910207,91531,14,Campos Luis María Av.,900.0,902,Jacaranda,2.6,Ocupada,Regular,A nivel,26,14
+-58.437491701479,-34.5682974910207,91532,14,Campos Luis María Av.,900.0,902,Jacaranda,2.6,Ocupada,Regular,A nivel,26,14
+-58.437491701479,-34.5682974910207,91534,14,Campos Luis María Av.,900.0,902,Jacaranda,2.6,Ocupada,Regular,A nivel,15,6
+-58.437491701479,-34.5682974910207,91536,14,Campos Luis María Av.,900.0,902,Jacaranda,2.6,Ocupada,Regular,A nivel,20,15
+-58.437491701479,-34.5682974910207,91538,14,Campos Luis María Av.,900.0,902,Jacaranda,2.6,Ocupada,Regular,A nivel,3,3
+-58.437491701479,-34.5682974910207,91540,14,Campos Luis María Av.,900.0,902,Jacaranda,2.6,Ocupada,Regular,A nivel,33,15
+-58.437491701479,-34.5682974910207,91541,14,Campos Luis María Av.,900.0,902,Jacaranda,2.6,Ocupada,Regular,A nivel,23,15
+-58.437491701479,-34.5682974910207,91543,14,Campos Luis María Av.,900.0,902,Jacaranda,2.6,Ocupada,Regular,A nivel,30,15
+-58.437491701479,-34.5682974910207,91545,14,Campos Luis María Av.,900.0,902,Jacaranda,2.6,Ocupada,Regular,A nivel,28,12
+-58.4382900909378,-34.5670368437705,91608,14,Campos Luis María Av.,1000.0,1023,Jacaranda,2.8,Ocupada,Regular,A nivel,6,10
+-58.438166569809106,-34.5671519329894,93515,14,Campos Luis María Av.,1000.0,1001,Jacaranda,2.8,Ocupada,Regular,A nivel,19,10
+-58.4382900909378,-34.5670368437705,93517,14,Campos Luis María Av.,1000.0,1019,Jacaranda,2.8,Ocupada,Regular,A nivel,16,8
+-58.43892526037249,-34.5664639127056,93523,14,Campos Luis María Av.,1000.0,1077,Jacaranda,2.8,Ocupada,Regular,A nivel,4,4
+-58.4386691406843,-34.5666949373396,93526,14,Campos Luis María Av.,1000.0,1049,Jacaranda,2.8,Ocupada,Regular,A nivel,5,5
+-58.43881615263929,-34.5665623300999,93527,14,Campos Luis María Av.,1000.0,1057,Jacaranda,2.8,Ocupada,Regular,A nivel,25,15
+-58.43881615263929,-34.5665623300999,93528,14,Campos Luis María Av.,1000.0,1059,Jacaranda,2.8,Ocupada,Regular,A nivel,33,15
+-58.438894086760705,-34.5664920319777,93529,14,Campos Luis María Av.,1000.0,1071,Jacaranda,2.8,Ocupada,Regular,A nivel,40,15
+-58.43870711836579,-34.5666606808915,93530,14,Campos Luis María Av.,1000.0,1053,Jacaranda,2.8,Ocupada,Regular,A nivel,30,15
+-58.4310773063839,-34.575075654577105,105393,14,Campos Luis María Av.,100.0,152,Tilia,4.5,Ocupada,Regular,A nivel,22,8
+-58.43083652082971,-34.5752953442317,105394,14,Campos Luis María Av.,100.0,134,Jacaranda,4.5,Ocupada,Regular,A nivel,45,15
+-58.4312057637564,-34.5749584510447,105397,14,Campos Luis María Av.,100.0,170,Jacaranda,4.5,Ocupada,Regular,A nivel,35,10
+-58.4308988250743,-34.5752384987953,105629,14,Campos Luis María Av.,100.0,144,Jacaranda,4.5,Ocupada,Regular,A nivel,35,15
+-58.4398208830612,-34.565697505963996,107239,14,Campos Luis María Av.,1100.0,1137,Jacaranda,2.8,Ocupada,Regular,A nivel,24,9
+-58.4398208830612,-34.565697505963996,107241,14,Campos Luis María Av.,1100.0,1157,Jacaranda,2.8,Ocupada,Regular,A nivel,2,2
+-58.4396692794399,-34.5658240566384,107243,14,Campos Luis María Av.,1100.0,1121,Jacaranda,2.8,Ocupada,Regular,Elevada,50,8
+-58.4300601827203,-34.5760036540203,107917,14,Campos Luis María Av.,NA,70,Jacaranda,6.4,Ocupada,Regular,Elevada,24,6
+-58.430468395604,-34.5756312138141,107965,14,Campos Luis María Av.,NA,96,Jacaranda,4.5,Ocupada,Regular,A nivel,45,16
+-58.430468395604,-34.5756312138141,107966,14,Campos Luis María Av.,NA,96,Jacaranda,4.5,Ocupada,Regular,A nivel,37,16
+-58.4300601827203,-34.5760036540203,107968,14,Campos Luis María Av.,NA,70,Jacaranda,4.5,Ocupada,Regular,Elevada,28,9
+-58.4294010805909,-34.5766049875122,107969,14,Campos Luis María Av.,NA,26,Tilia,4.5,Ocupada,Regular,A nivel,18,4
+-58.431143419014305,-34.5750153339769,107983,14,Campos Luis María Av.,100.0,156,Jacaranda,4.2,Ocupada,Regular,A nivel,46,13
+-58.4310410444458,-34.575108739609696,107988,14,Campos Luis María Av.,100.0,150,Jacaranda,4.2,Ocupada,Regular,A nivel,6,3
+-58.43083652082971,-34.5752953442317,107989,14,Campos Luis María Av.,100.0,134,Jacaranda,4.2,Ocupada,Regular,A nivel,39,17
+-58.430468395604,-34.5756312138141,107991,14,Campos Luis María Av.,NA,96,Jacaranda,4.2,Ocupada,Regular,A nivel,34,10
+-58.43040724189421,-34.5756870087675,107992,14,Campos Luis María Av.,NA,92,Jacaranda,4.2,Ocupada,Regular,A nivel,48,8
+-58.4300601827203,-34.5760036540203,108012,14,Campos Luis María Av.,NA,70,Jacaranda,4.5,Ocupada,Regular,Elevada,27,8
+-58.4303766650086,-34.5757149062415,108091,14,Campos Luis María Av.,NA,90,Jacaranda,4.2,Ocupada,Regular,A nivel,39,13
+-58.430592465342706,-34.5755180156549,108096,14,Campos Luis María Av.,100.0,102,Jacaranda,4,Ocupada,Regular,A nivel,51,12
+-58.4300601827203,-34.5760036540203,108110,14,Campos Luis María Av.,NA,70,Jacaranda,4.5,Ocupada,Regular,A nivel,40,9
+-58.431801311672494,-34.5742591246213,120907,14,Campos Luis María Av.,300.0,309,Jacaranda,2.4,Ocupada,Fuera de línea,A nivel,15,7
+-58.43092719357529,-34.575175157083805,120915,14,Campos Luis María Av.,300.0,307,Jacaranda,2.4,Ocupada,Regular,Bajo nivel,11,6
+-58.4351052065912,-34.5708024518282,133798,14,Campos Luis María Av.,600.0,635,Jacaranda,2.8,Ocupada,Regular,A nivel,9,5
+-58.4352254259755,-34.5706753214104,133799,14,Campos Luis María Av.,600.0,645,Jacaranda,2.8,Ocupada,Regular,A nivel,7,4
+-58.4353992631332,-34.5704858387016,133801,14,Campos Luis María Av.,600.0,665,Jacaranda,2.8,Ocupada,Regular,A nivel,15,7
+-58.4290575031217,-34.5766971863745,165015,14,Campos Luis María Av.,NA,1,Jacaranda,4,Ocupada,Regular,A nivel,38,9
+-58.444615,-34.562128,159525,13,Campos Luis María Av.,1600,NA,Platanus,4,Ocupada,Regular,A nivel,59,12
+-58.444615,-34.562128,159528,13,Campos Luis María Av.,1600,NA,Platanus,4,Ocupada,Regular,A nivel,21,11
+NA,NA,164981,14,Campos Luis María Av.,NA,NA,Jacaranda,4,Ocupada,Regular,A nivel,48,12
+NA,NA,164988,14,Campos Luis María Av.,NA,NA,Jacaranda,4,Ocupada,Regular,A nivel,5,3
+NA,NA,165006,14,Campos Luis María Av.,NA,NA,Jacaranda,4,Ocupada,Regular,A nivel,42,14
+NA,NA,165013,14,Campos Luis María Av.,NA,NA,Jacaranda,4,Ocupada,Regular,A nivel,4,2
+NA,NA,165355,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,14,4
+NA,NA,165358,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,8,3
+NA,NA,165362,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,4,2
+NA,NA,165379,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,53,14
+NA,NA,167476,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,44,13
+NA,NA,167478,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,38,11
+NA,NA,167479,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,13,5
+NA,NA,167480,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,39,12
+NA,NA,167481,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,2,2
+NA,NA,167482,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,5,3
+NA,NA,167483,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,12,5
+NA,NA,167484,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,34,13
+NA,NA,167486,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,7,4
+NA,NA,167487,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,5,3
+NA,NA,167488,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,25,8
+NA,NA,167489,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,3,2
+NA,NA,168282,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,43,10
+NA,NA,168287,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,26,7
+NA,NA,168292,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,44,11
+NA,NA,168295,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,41,12
+NA,NA,168296,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,18,9
+NA,NA,168300,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,45,10
+NA,NA,168301,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,41,11
+NA,NA,168305,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,35,9
+NA,NA,168332,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,29,12
+NA,NA,168336,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,31,14
+NA,NA,168339,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,48,15
+NA,NA,168342,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,37,11
+NA,NA,168345,14,Campos Luis María Av.,NA,NA,Jacaranda,3,Ocupada,Regular,A nivel,57,14
+NA,NA,168349,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,40,11
+NA,NA,168350,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,4,3
+NA,NA,168354,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,2,2
+NA,NA,168356,14,Campos Luis María Av.,NA,NA,Jacaranda,3.8,Ocupada,Regular,A nivel,7,2

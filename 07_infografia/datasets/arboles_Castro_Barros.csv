@@ -1,0 +1,163 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.4195777995973,-34.617771912208,1041,5,Castro Barros Av.,500.0,506.0,Platanus,2.86,Sobreocupada,Regular,Elevada,54,16
+-58.4195777995973,-34.617771912208,1157,5,Castro Barros Av.,500.0,506.0,Platanus,2.86,Sobreocupada,Regular,Elevada,54,16
+-58.4196819211256,-34.6198020385898,1230,5,Castro Barros Av.,600.0,691.0,Platanus,3.3,Ocupada,Regular,NA,68,16
+-58.419685453979604,-34.6195383767703,1233,5,Castro Barros Av.,600.0,675.0,Platanus,3.3,Ocupada,Regular,A nivel,61,15
+-58.4196902831285,-34.6191490541884,1312,5,Castro Barros Av.,600.0,635.0,Platanus,3.3,Ocupada,Regular,NA,70,24
+-58.4196869085681,-34.6194211090827,1396,5,Castro Barros Av.,600.0,661.0,Ficus,3.3,Ocupada,Regular,A nivel,24,9
+-58.4171647223076,-34.6386199589961,2244,5,Castro Barros Av.,2200.0,2220.0,Lagerstroemia,3.06,Ocupada,Regular,Elevada,5,2
+-58.4192585285673,-34.6223765871204,6616,5,Castro Barros Av.,800.0,874.0,Platanus,2.5,Ocupada,Regular,A nivel,120,17
+-58.417854157598704,-34.6358896839941,8449,5,Castro Barros Av.,1900.0,1924.0,Lagerstroemia,3,Ocupada,Regular,Bajo nivel,3,2
+-58.417854157598704,-34.6358896839941,8450,5,Castro Barros Av.,1900.0,1924.0,Jacaranda,3,Ocupada,Regular,A nivel,3,2
+-58.4192378808049,-34.623668802179395,8474,5,Castro Barros Av.,900.0,959.0,Ficus,2.7,Sobreocupada,Regular,Elevada,34,8
+-58.4178273799104,-34.6367203103709,7686,5,Castro Barros Av.,2000.0,2057.0,Melia,3.2,Ocupada,Regular,A nivel,43,9
+-58.4191673625816,-34.624465023068,8479,5,Castro Barros Av.,900.0,997.0,Platanus,2.7,Ocupada,Regular,Bajo nivel,52,21
+-58.41785163434,-34.6356590469427,8124,5,Castro Barros Av.,1900.0,1902.0,Tilia,3,Ocupada,Ochava,Bajo nivel,23,7
+-58.41785163434,-34.6356590469427,8125,5,Castro Barros Av.,1900.0,1906.0,Melia,3,Ocupada,Regular,Bajo nivel,77,12
+-58.41759472551539,-34.6370879715994,9495,5,Castro Barros Av.,2000.0,2096.0,Ficus,3.2,Sobreocupada,Regular,Elevada,5,2
+-58.4176671391595,-34.6368498325995,9501,5,Castro Barros Av.,2000.0,2080.0,Melia,3.2,Ocupada,Regular,A nivel,36,9
+-58.4177150048711,-34.6366924210245,9502,5,Castro Barros Av.,2000.0,2066.0,Melia,3.2,Ocupada,Regular,Elevada,43,8
+-58.417786130913,-34.6364585141289,9504,5,Castro Barros Av.,2000.0,2006.0,Tilia,3.2,Ocupada,Fuera de línea,Bajo nivel,25,8
+-58.4178686077069,-34.632456358982104,8817,5,Castro Barros Av.,1600.0,1663.0,Melia,3.2,Ocupada,Regular,A nivel,24,12
+-58.4178712162498,-34.6325343081527,8821,5,Castro Barros Av.,1600.0,1673.0,Melia,3.2,Ocupada,Regular,A nivel,52,13
+-58.417876545319395,-34.6326935531649,8827,5,Castro Barros Av.,1600.0,1685.0,Melia,3.2,Ocupada,Regular,A nivel,22,8
+-58.4178791775331,-34.6327722094389,8832,5,Castro Barros Av.,1600.0,1695.0,Melia,3.2,Ocupada,Regular,A nivel,69,14
+-58.4177462951709,-34.6320650917699,10450,5,Castro Barros Av.,1600.0,1628.0,Ficus,3.2,Ocupada,Regular,A nivel,40,9
+-58.41776955109,-34.6327600622369,10455,5,Castro Barros Av.,1600.0,1692.0,Melia,3.2,Ocupada,Regular,A nivel,22,5
+-58.417860963938,-34.6322279439685,9678,5,Castro Barros Av.,1600.0,1641.0,Ficus,3.2,Ocupada,Regular,Elevada,37,6
+-58.41776955109,-34.6327600622369,10595,5,Castro Barros Av.,1600.0,1692.0,Melia,3.2,Ocupada,Regular,A nivel,59,11
+-58.4179404031468,-34.634447549070394,9821,5,Castro Barros Av.,1800.0,1805.0,Ficus,3.2,Ocupada,Regular,A nivel,0,2
+-58.417738780338496,-34.6318405188376,10588,5,Castro Barros Av.,1600.0,1610.0,Melia,3,Ocupada,Regular,A nivel,57,10
+-58.4177462951709,-34.6320650917699,10592,5,Castro Barros Av.,1600.0,1628.0,Ficus,3,Ocupada,Regular,Elevada,64,10
+-58.4179519687045,-34.6347936542536,9833,5,Castro Barros Av.,1800.0,1845.0,Melia,3.2,Ocupada,Regular,A nivel,52,10
+-58.4179677792488,-34.6352597276753,9839,5,Castro Barros Av.,1800.0,1881.0,Lagerstroemia,3.2,Ocupada,Regular,A nivel,3,3
+-58.417968563285505,-34.635331676174104,9840,5,Castro Barros Av.,1800.0,1889.0,Melia,3.2,Ocupada,Regular,Elevada,57,8
+-58.417968563285505,-34.635331676174104,9841,5,Castro Barros Av.,1800.0,1889.0,Melia,3.2,Ocupada,Ochava,A nivel,33,8
+-58.4178584623378,-34.632153189745395,9677,5,Castro Barros Av.,1600.0,1637.0,Ficus,3.2,Ocupada,Regular,Elevada,13,3
+-58.419707422542,-34.6170820013374,10436,5,Castro Barros Av.,400.0,444.0,Ficus,3.8,Ocupada,Regular,A nivel,23,6
+-58.4197335954732,-34.6169624551128,10437,5,Castro Barros Av.,400.0,414.0,Ficus,3.8,Sobreocupada,Regular,Elevada,19,6
+-58.4197335954732,-34.6169624551128,10438,5,Castro Barros Av.,400.0,414.0,Ficus,3.8,Sobreocupada,Regular,Elevada,14,6
+-58.4197335954732,-34.6169624551128,10439,5,Castro Barros Av.,400.0,414.0,Ficus,3.8,Sobreocupada,Regular,Elevada,18,6
+-58.417810960542496,-34.6341246147205,11233,5,Castro Barros Av.,1700.0,1796.0,Melia,3.2,Ocupada,Ochava,A nivel,75,10
+-58.417808052432605,-34.6340378368166,11234,5,Castro Barros Av.,1700.0,1794.0,Melia,3.2,Ocupada,Regular,A nivel,56,11
+-58.4178044623812,-34.6339307094814,11240,5,Castro Barros Av.,1700.0,1790.0,Melia,3.2,Ocupada,Regular,A nivel,55,8
+-58.417792666272,-34.6335787114633,11247,5,Castro Barros Av.,1700.0,1756.0,Jacaranda,3.2,Sobreocupada,Regular,Elevada,28,6
+-58.417927477914,-34.6340851226327,11273,5,Castro Barros Av.,1700.0,1793.0,Melia,3.2,Ocupada,Regular,A nivel,49,12
+-58.4178044623812,-34.6339307094814,11275,5,Castro Barros Av.,1700.0,1790.0,Melia,3.2,Ocupada,Regular,A nivel,30,11
+-58.4177981053611,-34.6337410150981,11276,5,Castro Barros Av.,1700.0,1778.0,Ficus,3.2,Ocupada,Regular,A nivel,80,12
+-58.417792666272,-34.6335787114633,11278,5,Castro Barros Av.,1700.0,1756.0,Melia,3.2,Sobreocupada,Regular,Elevada,7,4
+-58.4177900452724,-34.6335004999976,11280,5,Castro Barros Av.,1700.0,1754.0,Melia,3.2,Ocupada,Regular,A nivel,40,10
+-58.4177848288329,-34.6333448391229,11282,5,Castro Barros Av.,1700.0,1728.0,Tilia,3.2,Sobreocupada,Regular,A nivel,12,6
+-58.4177760359782,-34.6330824553526,11286,5,Castro Barros Av.,1700.0,1706.0,Ficus,3.2,Ocupada,Ochava,Elevada,10,3
+-58.4177848288329,-34.6333448391229,11288,5,Castro Barros Av.,1700.0,1728.0,Melia,3.2,Sobreocupada,Regular,A nivel,57,9
+-58.4177794936493,-34.633185634391396,11292,5,Castro Barros Av.,1700.0,1712.0,Ficus,3.2,Ocupada,Regular,A nivel,53,15
+-58.4185075972342,-34.6274590102587,11532,5,Castro Barros Av.,1200.0,1215.0,Melia,3.2,Ocupada,Regular,A nivel,69,12
+-58.4185263492012,-34.627378624623496,11539,5,Castro Barros Av.,1200.0,1201.0,Melia,3.2,Ocupada,Regular,A nivel,52,11
+-58.418112296202096,-34.6286303480154,11606,5,Castro Barros Av.,1300.0,1332.0,Melia,3.2,Ocupada,Regular,Elevada,47,14
+-58.4178200403592,-34.6344197526974,11974,5,Castro Barros Av.,1800.0,1810.0,Tilia,3.2,Ocupada,Regular,A nivel,32,10
+-58.417824409194296,-34.6345504983765,11978,5,Castro Barros Av.,1800.0,1820.0,Melia,3.2,Sobreocupada,Regular,Elevada,57,12
+-58.4178348214145,-34.6348621023607,11992,5,Castro Barros Av.,1800.0,1850.0,Tilia,3.2,Ocupada,Regular,A nivel,28,13
+-58.4178421911563,-34.6350826530697,11998,5,Castro Barros Av.,1800.0,1870.0,Melia,3.2,Ocupada,Regular,A nivel,65,16
+-58.4178441348011,-34.635140819605496,12000,5,Castro Barros Av.,1800.0,1874.0,Melia,3.2,Ocupada,Regular,A nivel,65,16
+-58.4178488882368,-34.635305933538696,12004,5,Castro Barros Av.,1800.0,1894.0,Tilia,3.2,Ocupada,Regular,A nivel,29,16
+-58.4198419032113,-34.6164680218315,12562,5,Castro Barros Av.,3008.0,382.0,Ficus,3,Ocupada,Regular,Elevada,3,2
+-58.41992633184171,-34.6160825232904,12567,5,Castro Barros Av.,300.0,314.0,Jacaranda,3,Ocupada,Regular,Elevada,12,4
+-58.4182767221385,-34.6284577864559,12031,5,Castro Barros Av.,1300.0,1311.0,Melia,3.1,Ocupada,Regular,A nivel,68,15
+-58.4182767221385,-34.6284577864559,12032,5,Castro Barros Av.,1300.0,1311.0,Ficus,3.1,Ocupada,Regular,A nivel,8,2
+-58.418258806138496,-34.628534580686605,12033,5,Castro Barros Av.,1300.0,1315.0,Melia,3.1,Ocupada,Regular,A nivel,67,10
+-58.4179030092269,-34.633355002692,11811,5,Castro Barros Av.,1700.0,1725.0,Melia,3.2,Ocupada,Regular,Bajo nivel,75,15
+-58.417916120234295,-34.6337462227489,11847,5,Castro Barros Av.,1700.0,1767.0,Melia,3.2,Ocupada,Regular,A nivel,73,16
+-58.417918741338205,-34.6338244337409,11853,5,Castro Barros Av.,1700.0,1773.0,Lagerstroemia,3.2,Ocupada,Regular,Elevada,4,3
+-58.418133881252395,-34.6285378277562,11697,5,Castro Barros Av.,1300.0,1320.0,Melia,3.2,Ocupada,Regular,Bajo nivel,64,7
+-58.4178361388437,-34.6312250315292,13647,5,Castro Barros Av.,1500.0,1587.0,Jacaranda,3.1,Ocupada,Regular,A nivel,11,7
+-58.4178300858871,-34.6308547901982,13680,5,Castro Barros Av.,1500.0,1539.0,Ficus,3.1,Ocupada,Regular,Elevada,35,3
+-58.417831357319606,-34.6309325598184,13681,5,Castro Barros Av.,1500.0,1541.0,Ficus,3.1,Ocupada,Regular,Elevada,14,5
+-58.4192627999911,-34.622328363713194,13687,5,Castro Barros Av.,800.0,868.0,Platanus,2.8,Ocupada,Regular,A nivel,65,13
+-58.4192715319943,-34.6222297813097,13688,5,Castro Barros Av.,800.0,864.0,Platanus,2.5,Ocupada,Regular,A nivel,105,15
+-58.419315633172296,-34.6217318846793,13691,5,Castro Barros Av.,800.0,826.0,Platanus,2.5,Ocupada,Regular,A nivel,102,15
+-58.417839457988606,-34.6314280515366,13648,5,Castro Barros Av.,1500.0,1595.0,Ficus,3.1,Ocupada,Regular,A nivel,16,2
+-58.419273017733495,-34.623272065417396,12929,5,Castro Barros Av.,900.0,929.0,Tilia,2.7,Sobreocupada,Regular,A nivel,20,8
+-58.4193282198024,-34.6215897821588,13693,5,Castro Barros Av.,800.0,822.0,Platanus,2.5,Ocupada,Regular,A nivel,90,22
+-58.4193322926817,-34.6215216952312,13694,5,Castro Barros Av.,800.0,818.0,Platanus,2.5,Ocupada,Regular,Elevada,85,22
+-58.4193502954916,-34.62139659343,13695,5,Castro Barros Av.,800.0,806.0,Platanus,2.5,Ocupada,Regular,A nivel,32,12
+-58.4185028050703,-34.626971889710305,13461,5,Castro Barros Av.,1200.0,1186.0,Melia,NA,Ocupada,Regular,A nivel,65,14
+-58.418484583779495,-34.6270499960801,13462,5,Castro Barros Av.,1200.0,1192.0,Tilia,3.11,Ocupada,Regular,Elevada,5,3
+-58.4185028050703,-34.626971889710305,13464,5,Castro Barros Av.,1200.0,1186.0,Platanus,3.1,Ocupada,Regular,A nivel,70,16
+-58.418625087261496,-34.626447718032104,13475,5,Castro Barros Av.,1200.0,1142.0,Lagerstroemia,3.1,Ocupada,Regular,A nivel,4,3
+-58.4186462960774,-34.626356804201606,13479,5,Castro Barros Av.,1200.0,1136.0,Ficus,3.1,Ocupada,Regular,A nivel,18,7
+-58.418628032124005,-34.6264350946321,13488,5,Castro Barros Av.,1200.0,1140.0,Ficus,3.1,Ocupada,Regular,Elevada,12,3
+-58.4186462960774,-34.626356804201606,13490,5,Castro Barros Av.,1200.0,1132.0,Platanus,3.1,Ocupada,Regular,A nivel,80,19
+-58.4186644094394,-34.6262791591883,13491,5,Castro Barros Av.,1200.0,1126.0,Jacaranda,3.1,Ocupada,Regular,A nivel,15,8
+-58.4200454738619,-34.61648319172,14315,5,Castro Barros Av.,300.0,373.0,Jacaranda,4,Ocupada,Regular,Elevada,47,12
+-58.417758723377894,-34.6301605604967,14321,5,Castro Barros Av.,1400.0,1494.0,Jacaranda,3.4,Ocupada,Regular,Elevada,9,7
+-58.4177809980356,-34.630065076198,14721,5,Castro Barros Av.,1400.0,1486.0,Tilia,3.4,Ocupada,Regular,A nivel,34,14
+-58.4178301838468,-34.6298542316647,14722,5,Castro Barros Av.,1400.0,1466.0,Melia,3.4,Ocupada,Regular,Elevada,64,15
+-58.4178883300926,-34.6296049750748,14726,5,Castro Barros Av.,1400.0,1442.0,Ficus,3.4,Ocupada,Regular,Elevada,44,12
+-58.4179148471779,-34.629491303268,14728,5,Castro Barros Av.,1400.0,1428.0,Tilia,3.4,Ocupada,Regular,A nivel,14,6
+-58.41794187014379,-34.629375462537105,14729,5,Castro Barros Av.,1400.0,1418.0,Jacaranda,3.4,Ocupada,Regular,A nivel,10,7
+-58.41794187014379,-34.629375462537105,14731,5,Castro Barros Av.,1400.0,1414.0,Melia,3.4,Ocupada,Regular,Elevada,51,16
+-58.4206422276217,-34.6128124212428,13958,5,Castro Barros Av.,NA,88.0,Ficus,3.6,Sobreocupada,Regular,A nivel,37,9
+-58.4206422276217,-34.6128124212428,13962,5,Castro Barros Av.,NA,88.0,Ficus,3.6,Sobreocupada,Regular,A nivel,28,9
+-58.4207285824848,-34.6124249134446,13976,5,Castro Barros Av.,NA,66.0,Ficus,3.6,Ocupada,Regular,Bajo nivel,18,4
+-58.4179659100521,-34.6297755033524,14281,5,Castro Barros Av.,1400.0,1447.0,Jacaranda,3.4,Ocupada,Regular,A nivel,13,5
+-58.4182753818888,-34.6279403775227,14039,5,Castro Barros Av.,1300.0,1276.0,Ficus,3.2,Sobreocupada,Regular,A nivel,5,2
+-58.418366483544105,-34.627549850103804,14042,5,Castro Barros Av.,1300.0,1224.0,Melia,3.2,Ocupada,Regular,A nivel,72,14
+-58.418409011989496,-34.6273675411606,14044,5,Castro Barros Av.,1300.0,1212.0,Melia,3.2,Ocupada,Regular,A nivel,38,10
+-58.418409011989496,-34.6273675411606,14045,5,Castro Barros Av.,1300.0,1212.0,Ficus,3.2,Sobreocupada,Regular,A nivel,20,5
+-58.4180505849541,-34.6294125223736,15358,5,Castro Barros Av.,1400.0,1417.0,Lagerstroemia,3.2,Ocupada,Regular,A nivel,19,4
+-58.418037018766405,-34.6294706776012,15359,5,Castro Barros Av.,1400.0,1423.0,Tilia,3.2,Ocupada,Regular,A nivel,22,10
+-58.417986138835104,-34.6296887877251,15363,5,Castro Barros Av.,1400.0,1437.0,Melia,3.4,Ocupada,Regular,A nivel,62,14
+-58.417947751702,-34.6298533434393,15364,5,Castro Barros Av.,1400.0,1455.0,Tilia,3.4,Ocupada,Regular,A nivel,37,13
+-58.417944760367,-34.6298661664961,15365,5,Castro Barros Av.,1400.0,1457.0,Melia,3.4,Ocupada,Regular,A nivel,72,14
+-58.41956531498701,-34.6188968768778,15630,5,Castro Barros Av.,600.0,608.0,Platanus,3.61,Ocupada,Regular,A nivel,16,14
+-58.4195645697712,-34.6189569488098,15633,5,Castro Barros Av.,600.0,612.0,Platanus,3.6,Ocupada,Regular,A nivel,56,18
+-58.4195607683715,-34.619263378587306,15641,5,Castro Barros Av.,600.0,642.0,Platanus,3.6,Ocupada,Regular,A nivel,26,21
+-58.41955689217279,-34.6195758357836,15644,5,Castro Barros Av.,600.0,672.0,Platanus,3.6,Ocupada,Regular,A nivel,28,17
+-58.4195559226467,-34.6196539872441,15647,5,Castro Barros Av.,600.0,678.0,Platanus,3.6,Ocupada,Regular,A nivel,21,21
+-58.4195559226467,-34.6196539872441,15650,5,Castro Barros Av.,600.0,678.0,Platanus,3.6,Ocupada,Regular,A nivel,92,16
+-58.4195549489419,-34.6197324767511,15654,5,Castro Barros Av.,600.0,680.0,Lagerstroemia,3.6,Ocupada,Fuera de línea,Elevada,3,2
+-58.419150905854,-34.6236156767471,15429,5,Castro Barros Av.,900.0,966.0,Tilia,3,Ocupada,Regular,A nivel,17,10
+-58.419116384690895,-34.6240054525852,15562,5,Castro Barros Av.,900.0,978.0,Ficus,3,Ocupada,Regular,A nivel,47,15
+-58.4197335954732,-34.6169624551128,16143,5,Castro Barros Av.,400.0,414.0,Ficus,3.8,Sobreocupada,Regular,Elevada,18,6
+-58.4197335954732,-34.6169624551128,16149,5,Castro Barros Av.,500.0,414.0,Ficus,3.8,Sobreocupada,Regular,Elevada,14,6
+-58.419707422542,-34.6170820013374,16153,5,Castro Barros Av.,500.0,444.0,Ficus,3.8,Ocupada,Regular,A nivel,23,6
+-58.419089232487,-34.6243120235042,16390,5,Castro Barros Av.,900.0,994.0,Platanus,3,Ocupada,Regular,A nivel,62,35
+-58.4197335954732,-34.6169624551128,16169,5,Castro Barros Av.,500.0,414.0,Ficus,3.8,Sobreocupada,Regular,Elevada,19,6
+-58.419240221902704,-34.622607211532305,16424,5,Castro Barros Av.,900.0,900.0,Platanus,3,Ocupada,Regular,NA,78,32
+-58.4177189355299,-34.6310328335667,16425,5,Castro Barros Av.,1500.0,1560.0,Ficus,4,Ocupada,Regular,Elevada,12,3
+-58.4177202430924,-34.6311128205319,16427,5,Castro Barros Av.,1500.0,1568.0,Melia,4,Ocupada,Regular,A nivel,42,11
+-58.417721520908,-34.631190986895106,16429,5,Castro Barros Av.,1500.0,1578.0,Ficus,4,Ocupada,Regular,A nivel,28,10
+-58.4177227543332,-34.631266437709606,16430,5,Castro Barros Av.,1500.0,1584.0,Melia,4,Ocupada,Regular,Elevada,37,7
+-58.4177227543332,-34.631266437709606,16431,5,Castro Barros Av.,1500.0,1584.0,Melia,4,Ocupada,Regular,Elevada,35,7
+-58.417724666097,-34.6313833836656,16432,5,Castro Barros Av.,1500.0,1590.0,Melia,3.2,Ocupada,Regular,A nivel,34,8
+-58.418793757726,-34.6262259428924,16705,5,Castro Barros Av.,1100.0,1129.0,Platanus,3.2,Ocupada,Regular,A nivel,58,24
+-58.419095724021304,-34.624238728801,16255,5,Castro Barros Av.,900.0,990.0,Jacaranda,3,Ocupada,Regular,A nivel,11,3
+-58.41901341165689,-34.624745996874104,16528,5,Castro Barros Av.,1000.0,1006.0,Melia,3.2,Ocupada,Regular,A nivel,57,15
+-58.41899172464829,-34.6248408019364,16530,5,Castro Barros Av.,1000.0,1014.0,Platanus,3.2,Ocupada,Regular,A nivel,56,18
+-58.4189071496472,-34.625210520661604,16534,5,Castro Barros Av.,1100.0,1056.0,Ficus,3.2,Ocupada,Regular,Elevada,27,7
+-58.4188898751054,-34.625286035708896,16537,5,Castro Barros Av.,1100.0,1062.0,Ficus,3.2,Sobreocupada,Regular,A nivel,7,4
+-58.4187715582859,-34.6263211040287,17201,5,Castro Barros Av.,1100.0,1135.0,Platanus,3.2,Ocupada,Regular,A nivel,59,25
+-58.4188160038177,-34.6261305814766,17202,5,Castro Barros Av.,1100.0,1119.0,Platanus,3.2,Ocupada,Regular,A nivel,64,25
+-58.418599253069296,-34.6270597080755,17219,5,Castro Barros Av.,1100.0,1193.0,Platanus,3.2,Ocupada,Regular,A nivel,57,25
+-58.4186690672868,-34.6267604438577,17221,5,Castro Barros Av.,1100.0,1171.0,Platanus,3.2,Ocupada,Regular,Elevada,72,26
+-58.4186690672868,-34.6267604438577,17222,5,Castro Barros Av.,1100.0,1169.0,Tilia,3.2,Ocupada,Regular,A nivel,45,12
+-58.41868694452349,-34.6266838113295,17223,5,Castro Barros Av.,1100.0,1165.0,Ficus,3.2,Ocupada,Regular,A nivel,53,7
+-58.4177149242195,-34.6307874526817,17465,5,Castro Barros Av.,1500.0,1532.0,Melia,3,Ocupada,Regular,NA,76,14
+-58.4179736061704,-34.6356921964675,34734,5,Castro Barros Av.,1900.0,1907.0,Ficus,3,Ocupada,Regular,Elevada,27,3
+-58.4179756089684,-34.6358752363153,34745,5,Castro Barros Av.,1919.0,1919.0,Platanus,3,Ocupada,Regular,A nivel,38,10
+-58.4194470730484,-34.621393540784105,45833,5,Castro Barros Av.,800.0,809.0,Platanus,3,Ocupada,Regular,A nivel,55,15
+-58.4193629644064,-34.6222804549562,45847,5,Castro Barros Av.,800.0,885.0,Tilia,3,Ocupada,Regular,A nivel,24,9
+-58.419388315126106,-34.6219942459988,45850,5,Castro Barros Av.,800.0,857.0,Platanus,3,Ocupada,Regular,A nivel,58,15
+-58.4179736061704,-34.6356921964675,519813,5,Castro Barros Av.,1900.0,1907.0,Ficus,3.2,Ocupada,Regular,Elevada,18,4
+-58.417365485559905,-34.6378931335038,519873,5,Castro Barros Av.,2100.0,2188.0,Ficus,3.4,Ocupada,Regular,A nivel,47,9
+-58.4174084250909,-34.6377400216421,519876,5,Castro Barros Av.,2100.0,2172.0,Melia,3.4,Ocupada,Regular,A nivel,52,10
+-58.4174511498126,-34.6375876750911,519877,5,Castro Barros Av.,2100.0,2130.0,Melia,3.4,Ocupada,Regular,A nivel,41,16
+-58.41747334182529,-34.6375085432986,519878,5,Castro Barros Av.,2100.0,2114.0,Ficus,3.4,Ocupada,Regular,Elevada,19,5
+-58.41748991513021,-34.6374494464025,519879,5,Castro Barros Av.,2100.0,2108.0,Melia,3.4,Ocupada,Regular,A nivel,66,16
+-58.4175168702166,-34.6373533301745,519880,5,Castro Barros Av.,2100.0,2104.0,Melia,3.4,Ocupada,Ochava,A nivel,70,15
+-58.41760997766,-34.637455989756695,519928,5,Castro Barros Av.,2100.0,2113.0,Lagerstroemia,3.2,Ocupada,Regular,Bajo Nivel,3,2
+-58.417588559439494,-34.6375323629291,519929,5,Castro Barros Av.,2100.0,2123.0,Lagerstroemia,3.2,Ocupada,Regular,A nivel,8,5
+-58.417588559439494,-34.6375323629291,519930,5,Castro Barros Av.,2100.0,2123.0,Lagerstroemia,3.2,Ocupada,Regular,A nivel,10,5
+-58.4174821122375,-34.6379119306882,519936,5,Castro Barros Av.,2100.0,2175.0,Lagerstroemia,3.2,Sobreocupada,Regular,Elevada,10,3
+-58.4174821122375,-34.6379119306882,519937,5,Castro Barros Av.,2100.0,2175.0,Lagerstroemia,3.2,Sobreocupada,Regular,Elevada,8,3
+-58.4174604744967,-34.637989085726,519940,5,Castro Barros Av.,2100.0,2183.0,Melia,3.2,Ocupada,Regular,Elevada,3,9

@@ -1,0 +1,101 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.4342311174366,-34.6265699960353,49535,6,Moreno José María Av.,600.0,689.0,Lagerstroemia,5.3,Ocupada,Regular,A nivel,2,3
+-58.4356589637987,-34.6197755898308,50952,6,Moreno José María Av.,100.0,138.0,Tilia,5.6,Ocupada,Regular,Bajo nivel,23,7
+-58.435524829406994,-34.620131005815104,50976,6,Moreno José María Av.,100.0,176.0,Ficus,5.6,Ocupada,Regular,Elevada,8,2
+-58.4353126791478,-34.6211312476616,54073,6,Moreno José María Av.,200.0,293.0,Lagerstroemia,5.6,Ocupada,Regular,A nivel,2,3
+-58.4353652895661,-34.6209918493705,54075,6,Moreno José María Av.,200.0,277.0,Ficus,5.6,Ocupada,Fuera de línea,Elevada,5,2
+-58.4348158394329,-34.6227226041909,54877,6,Moreno José María Av.,300.0,385.0,Platanus,5.6,Ocupada,Regular,A nivel,49,16
+-58.4350157017034,-34.622044875019306,55041,6,Moreno José María Av.,300.0,345.0,Jacaranda,5.6,Ocupada,Regular,A nivel,47,12
+-58.4338874643742,-34.6273728449373,56661,6,Moreno José María Av.,700.0,750.0,Ficus,5,Ocupada,Regular,Elevada,18,4
+-58.43464107447821,-34.6237492304875,57672,6,Moreno José María Av.,400.0,443.0,Ficus,5.6,Sobreocupada,Regular,A nivel,42,16
+-58.43464107447821,-34.6237492304875,57675,6,Moreno José María Av.,400.0,443.0,Ficus,5.6,Sobreocupada,Regular,A nivel,37,15
+-58.434064824959705,-34.626612576869505,58365,6,Moreno José María Av.,600.0,688.0,Ficus,5.6,Sobreocupada,Ochava,Elevada,6,3
+-58.434064824959705,-34.626612576869505,58369,6,Moreno José María Av.,600.0,688.0,Ficus,5.6,Ocupada,Regular,Elevada,8,4
+-58.4346581520346,-34.6235938293764,57631,6,Moreno José María Av.,400.0,429.0,Lagerstroemia,5.6,Ocupada,Regular,Elevada,3,3
+-58.434064824959705,-34.626612576869505,58463,6,Moreno José María Av.,600.0,688.0,Ficus,5.6,Sobreocupada,Ochava,Elevada,5,3
+-58.434643919686096,-34.6226991480924,58590,6,Moreno José María Av.,300.0,392.0,Platanus,4.4,Ocupada,Regular,Bajo nivel,52,13
+-58.434660281311,-34.6226159908756,58596,6,Moreno José María Av.,300.0,388.0,Platanus,4.4,Ocupada,Regular,Bajo nivel,60,14
+-58.4347381417031,-34.6224116407866,58603,6,Moreno José María Av.,300.0,374.0,Jacaranda,4.4,Ocupada,Regular,Bajo nivel,30,8
+-58.4347381417031,-34.6224116407866,58604,6,Moreno José María Av.,300.0,372.0,Jacaranda,4.4,Ocupada,Regular,Bajo nivel,32,8
+-58.4349711739381,-34.62162143144911,58608,6,Moreno José María Av.,300.0,324.0,Ficus,4.4,Ocupada,Regular,Elevada,42,11
+-58.43411965660971,-34.6263646639155,58398,6,Moreno José María Av.,600.0,646.0,Ficus,5.6,Ocupada,Regular,Bajo nivel,20,4
+-58.4339514868167,-34.6278017593792,61826,6,Moreno José María Av.,700.0,795.0,Tilia,5.5,Ocupada,Regular,Bajo nivel,18,10
+-58.4340083871398,-34.627555584534896,61831,6,Moreno José María Av.,700.0,777.0,Ficus,5.5,Ocupada,Regular,Bajo nivel,76,17
+-58.434026217698296,-34.6274784416749,61835,6,Moreno José María Av.,700.0,769.0,Jacaranda,5.5,Ocupada,Regular,Elevada,29,16
+-58.434026217698296,-34.6274784416749,61836,6,Moreno José María Av.,700.0,767.0,Jacaranda,5.5,Ocupada,Regular,Elevada,15,9
+-58.434026217698296,-34.6274784416749,61837,6,Moreno José María Av.,700.0,767.0,Ficus,5.5,Ocupada,Regular,Elevada,25,16
+-58.434052380950696,-34.6273652476646,61840,6,Moreno José María Av.,700.0,757.0,Ficus,5.5,Ocupada,Regular,Elevada,86,17
+-58.434052380950696,-34.6273652476646,61841,6,Moreno José María Av.,700.0,757.0,Ficus,5.5,Ocupada,Regular,Elevada,49,18
+-58.43269286004949,-34.6346221534951,312336,7,Moreno José María Av.,1300.0,1359.0,Ficus,5.6,Ocupada,Regular,Elevada,40,3
+-58.4326571815646,-34.634795644161,312337,7,Moreno José María Av.,1300.0,1389.0,Melia,5.6,Ocupada,Regular,A nivel,58,12
+-58.4328762774005,-34.632116663145496,328324,7,Moreno José María Av.,1100.0,1178,Jacaranda,5.8,Sobreocupada,Regular,Elevada,4,4
+-58.4328679328938,-34.6321952359479,328325,7,Moreno José María Av.,1100.0,1184,Ficus,5.8,Sobreocupada,Regular,Elevada,23,6
+-58.43270057859779,-34.6336635206603,328346,7,Moreno José María Av.,1200.0,1282,Jacaranda,5.8,Ocupada,Regular,A nivel,10,5
+-58.4327176899385,-34.633513257656396,328347,7,Moreno José María Av.,1200.0,1278,Jacaranda,5.8,Ocupada,Regular,A nivel,23,8
+-58.432726541760594,-34.6334355252598,328348,7,Moreno José María Av.,1200.0,1274,Jacaranda,5.8,Ocupada,Regular,A nivel,16,8
+-58.43274037582621,-34.6332809057795,328351,7,Moreno José María Av.,1200.0,1264,Jacaranda,5.8,Ocupada,Regular,A nivel,22,8
+-58.4327492405469,-34.6332029930578,328352,7,Moreno José María Av.,1200.0,1254,Jacaranda,5.8,Ocupada,Regular,A nivel,8,8
+-58.432758175926104,-34.633124459217804,328353,7,Moreno José María Av.,1200.0,1250,Jacaranda,5.8,Ocupada,Regular,A nivel,12,8
+-58.432771753484296,-34.6330051244669,328354,7,Moreno José María Av.,1200.0,1232,Jacaranda,5.8,Ocupada,Regular,A nivel,12,7
+-58.4327933420528,-34.6328153794179,328355,7,Moreno José María Av.,1200.0,1222,Melia,5.8,Ocupada,Regular,Elevada,85,15
+-58.432802331645405,-34.632736368242504,328357,7,Moreno José María Av.,1200.0,1216,Tilia,5.8,Sobreocupada,Regular,Elevada,18,10
+-58.4335396599031,-34.6296417998852,330119,7,Moreno José María Av.,900.0,919,Melia,5.8,Ocupada,Regular,Bajo nivel,70,13
+-58.433399018841,-34.6302501972927,330123,7,Moreno José María Av.,900.0,991,Ficus,5.8,Sobreocupada,Regular,A nivel,48,3
+-58.4329750601142,-34.63132139986389,319453,7,Moreno José María Av.,1000.0,1094,Jacaranda,5.8,Ocupada,Regular,Bajo nivel,8,5
+-58.4329965246562,-34.631228554931,319454,7,Moreno José María Av.,1000.0,1088,Ficus,5.8,Sobreocupada,Regular,Elevada,2,2
+-58.4329965246562,-34.631228554931,319455,7,Moreno José María Av.,1000.0,1088,Ficus,5.8,Sobreocupada,Regular,Elevada,10,2
+-58.4330319825969,-34.6310751811057,319457,7,Moreno José María Av.,1000.0,1056,Jacaranda,5.8,Ocupada,Regular,Bajo nivel,13,7
+-58.43304960398721,-34.6309989592722,319458,7,Moreno José María Av.,1000.0,1050,Melia,5.8,Ocupada,Regular,Bajo nivel,40,9
+-58.4331213553518,-34.630688595291,319461,7,Moreno José María Av.,1000.0,1024,Melia,5.8,Ocupada,Regular,Bajo nivel,76,12
+-58.43290405428039,-34.633308794506895,316589,7,Moreno José María Av.,1260.0,1265,Ficus,5.8,Ocupada,Regular,Elevada,21,6
+-58.4322860650817,-34.6365807018173,317400,7,Moreno José María Av.,1500.0,1551,Ficus,5.6,Ocupada,Regular,Elevada,19,8
+-58.4322740259779,-34.636638329163496,317401,7,Moreno José María Av.,1500.0,1569,Ficus,5.6,Ocupada,Regular,A nivel,26,7
+-58.4321031662296,-34.6374644290888,323299,7,Moreno José María Av.,1600.0,1641,Melia,5.6,Ocupada,Regular,A nivel,54,14
+-58.4320551444095,-34.637694155336696,323302,7,Moreno José María Av.,1600.0,1673,Lagerstroemia,5.6,Ocupada,Regular,A nivel,18,6
+-58.4328711977664,-34.6335643660855,316590,7,Moreno José María Av.,1260.0,1273,Ficus,5.8,Ocupada,Fuera de línea,A nivel,31,9
+-58.4328381292643,-34.6338547606489,316594,7,Moreno José María Av.,1260.0,1293,Ficus,5.8,Ocupada,Regular,Elevada,32,2
+-58.4328381292643,-34.6338547606489,316595,7,Moreno José María Av.,1260.0,1293,Ficus,5.8,Sobreocupada,Regular,Elevada,35,8
+-58.4328381292643,-34.6338547606489,316597,7,Moreno José María Av.,1260.0,1295,Ficus,5.8,Ocupada,Regular,Elevada,25,6
+-58.43210419221021,-34.6366973962178,317377,7,Moreno José María Av.,1500.0,1584,Melia,5.6,Ocupada,Regular,A nivel,36,12
+-58.43210419221021,-34.6366973962178,317378,7,Moreno José María Av.,1500.0,1584,Melia,5.6,Ocupada,Regular,Elevada,59,12
+-58.43212040686971,-34.63661978259189,317379,7,Moreno José María Av.,1500.0,1574,Melia,5.6,Ocupada,Regular,A nivel,56,12
+-58.432137164463605,-34.6365395700082,317380,7,Moreno José María Av.,1500.0,1560,Ficus,5.6,Ocupada,Regular,A nivel,0,4
+-58.432158362685605,-34.636438101470496,317381,7,Moreno José María Av.,1500.0,1530,Ficus,5.6,Ocupada,Regular,A nivel,27,7
+-58.4329796023784,-34.6326447803278,327165,7,Moreno José María Av.,1200.0,1205,Ficus,5.8,Ocupada,Regular,Elevada,115,7
+-58.432945878657506,-34.6329411892079,327168,7,Moreno José María Av.,1200.0,1227,Tilia,5.8,Ocupada,Fuera de línea,A nivel,23,6
+-58.431603055467995,-34.639096834507,323355,7,Moreno José María Av.,1700.0,1784,Melia,5.6,Ocupada,Regular,A nivel,42,9
+-58.43258262954001,-34.634406948239395,323642,7,Moreno José María Av.,1300.0,1338,Jacaranda,5.6,Ocupada,Regular,A nivel,4,5
+-58.4325984437348,-34.6343300500245,323643,7,Moreno José María Av.,1300.0,1328,Jacaranda,5.6,Ocupada,Regular,A nivel,4,3
+-58.433682140604894,-34.6289584100242,344257,7,Moreno José María Av.,800.0,877,Jacaranda,5.7,Sobreocupada,Regular,Elevada,24,6
+-58.433682140604894,-34.6289584100242,344258,7,Moreno José María Av.,800.0,877,Ficus,5.7,Sobreocupada,Regular,Elevada,18,9
+-58.4318987760119,-34.638419651898104,342564,7,Moreno José María Av.,1700.0,1721,Melia,6,Ocupada,Regular,A nivel,49,10
+-58.4318825469139,-34.638497344056,342565,7,Moreno José María Av.,1700.0,1723,Lagerstroemia,6,Sobreocupada,Regular,Elevada,12,3
+-58.431812249396295,-34.6388464445791,342567,7,Moreno José María Av.,1700.0,1751,Ficus,6,Ocupada,Regular,A nivel,28,5
+-58.4315122811429,-34.640271640731605,342603,7,Moreno José María Av.,1800.0,1879,Tilia,6,Ocupada,Regular,A nivel,32,8
+-58.43149381556021,-34.640358492799,342604,7,Moreno José María Av.,1800.0,1895,Tilia,6,Ocupada,Ochava,A nivel,26,8
+-58.431501811209294,-34.6395794681909,333356,7,Moreno José María Av.,1800.0,1802,Melia,6,Ocupada,Regular,A nivel,44,9
+-58.4330766937194,-34.6316814562057,359182,7,Moreno José María Av.,1100.0,1109,Tilia,5.6,Ocupada,Regular,Elevada,18,7
+-58.4325919597711,-34.6351007464234,359234,7,Moreno José María Av.,1400.0,1407,Melia,5.6,Sobreocupada,Regular,A nivel,72,10
+-58.4330724347517,-34.6317215601985,359277,7,Moreno José María Av.,1100.0,1115,Tilia,5.6,Ocupada,Regular,Elevada,29,7
+-58.4330524268163,-34.6319099620621,359278,7,Moreno José María Av.,1100.0,1141,Jacaranda,5.6,Ocupada,Regular,A nivel,8,4
+-58.4330350935324,-34.6320731776285,359279,7,Moreno José María Av.,1100.0,1157,Jacaranda,5.6,Ocupada,Regular,Elevada,11,5
+-58.43302660693911,-34.6321530897576,359280,7,Moreno José María Av.,1100.0,1163,Lagerstroemia,5.6,Ocupada,Regular,A nivel,13,3
+-58.4312229532675,-34.6408580576008,361646,7,Moreno José María Av.,1900.0,1940,Platanus,6,Ocupada,Regular,A nivel,83,11
+-58.431238902180795,-34.640788294354,361647,7,Moreno José María Av.,1900.0,1932,Melia,6,Sobreocupada,Regular,Elevada,55,7
+-58.4314290698586,-34.6406732988802,361665,7,Moreno José María Av.,1900.0,1919,Tilia,6,Ocupada,Regular,Elevada,43,11
+-58.4313446805839,-34.6410720107558,361682,7,Moreno José María Av.,1900.0,1961,Melia,6,Ocupada,Ochava,A nivel,61,9
+-58.4313289776665,-34.64114070299,361683,7,Moreno José María Av.,1900.0,1973,Ficus,6,Ocupada,Regular,Elevada,40,9
+-58.4313115662487,-34.641216868921106,361684,7,Moreno José María Av.,1900.0,1977,Ficus,6,Ocupada,Regular,Elevada,33,5
+-58.431294293338496,-34.641292428835,361685,7,Moreno José María Av.,1900.0,1991,Ficus,3.2,Sobreocupada,Regular,A nivel,80,8
+-58.433652960075506,-34.628395978270305,351757,7,Moreno José María Av.,800.0,826,Tilia,5.7,Ocupada,Regular,A nivel,3,2
+-58.43351429271971,-34.6289958678082,351763,7,Moreno José María Av.,800.0,886,Ficus,5.7,Sobreocupada,Regular,Elevada,52,4
+-58.43195987441529,-34.6373793681184,350568,7,Moreno José María Av.,1600.0,1640,Melia,5.6,Ocupada,Regular,A nivel,60,9
+-58.43178269478229,-34.6382497886867,371728,7,Moreno José María Av.,1700.0,1704,Ficus,6,Ocupada,Regular,A nivel,61,10
+-58.4331423964785,-34.6313003011567,372042,7,Moreno José María Av.,1000.0,1089,Ficus,5.6,Ocupada,Ochava,A nivel,39,6
+-58.433158861234894,-34.6312290821417,372043,7,Moreno José María Av.,1000.0,1081,Ficus,5.6,Ocupada,Regular,Elevada,55,6
+-58.4332850457056,-34.6306832619067,372049,7,Moreno José María Av.,1000.0,1025,Ficus,5.6,Ocupada,Regular,A nivel,19,4
+-58.4325919597711,-34.6351007464234,418166,7,Moreno José María Av.,1400.0,1407,Melia,5.6,Sobreocupada,Regular,Elevada,53,11
+-58.4325757298563,-34.6351783979495,418167,7,Moreno José María Av.,1400.0,1417,Melia,5.6,Ocupada,Regular,A nivel,54,11
+-58.4322646074556,-34.6359458248486,436544,7,Moreno José María Av.,1400.0,1498,Platanus,5.6,Ocupada,Regular,A nivel,44,11
+-58.43337329244449,-34.6295388202861,521153,7,Moreno José María Av.,900.0,916,Melia,5.8,Ocupada,Regular,A nivel,26,4
+-58.43322240922421,-34.6301915187288,521159,7,Moreno José María Av.,900.0,994,Melia,5.8,Ocupada,Ochava,A nivel,68,12

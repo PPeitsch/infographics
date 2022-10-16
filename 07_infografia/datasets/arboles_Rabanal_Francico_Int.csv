@@ -1,0 +1,163 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+NA,NA,514793,4,Rabanal Francico Int. Av.,1300,1300,Ficus,6.5,Ocupada,Regular,A Nivel,54,10
+NA,NA,515104,4,Rabanal Francico Int. Av.,1400,1425,Platanus,7,Ocupada,Regular,A Nivel,52,12
+NA,NA,515105,4,Rabanal Francico Int. Av.,1400,1425,Platanus,7,Ocupada,Regular,A Nivel,43,12
+NA,NA,515106,4,Rabanal Francico Int. Av.,1400,1425,Platanus,7,Ocupada,Regular,A Nivel,109,11
+NA,NA,515144,4,Rabanal Francico Int. Av.,1500,1507,Platanus,6.8,Ocupada,Regular,A Nivel,43,10
+NA,NA,515145,4,Rabanal Francico Int. Av.,1500,1507,Platanus,6.8,Ocupada,Regular,A Nivel,46,11
+NA,NA,515146,4,Rabanal Francico Int. Av.,1500,1507,Platanus,6.8,Ocupada,Regular,A Nivel,59,11
+NA,NA,515147,4,Rabanal Francico Int. Av.,1500,1549,Platanus,6.8,Ocupada,Regular,A Nivel,32,9
+NA,NA,515149,4,Rabanal Francico Int. Av.,1500,1549,Platanus,6.8,Ocupada,Regular,A Nivel,57,14
+NA,NA,515150,4,Rabanal Francico Int. Av.,1500,1549,Platanus,6.8,Ocupada,Regular,A Nivel,59,14
+NA,NA,515151,4,Rabanal Francico Int. Av.,1500,1549,Platanus,6.8,Ocupada,Regular,A Nivel,63,14
+NA,NA,515152,4,Rabanal Francico Int. Av.,1500,1549,Platanus,6.8,Ocupada,Regular,A Nivel,67,14
+NA,NA,515153,4,Rabanal Francico Int. Av.,1500,1549,Platanus,6.8,Ocupada,Regular,A Nivel,70,14
+NA,NA,515154,4,Rabanal Francico Int. Av.,1500,1549,Platanus,6.8,Ocupada,Regular,A Nivel,65,14
+NA,NA,515155,4,Rabanal Francico Int. Av.,1500,1549,Platanus,6.8,Ocupada,Regular,A Nivel,61,14
+NA,NA,515156,4,Rabanal Francico Int. Av.,1500,1549,Platanus,6.8,Ocupada,Regular,A Nivel,68,14
+NA,NA,515355,4,Rabanal Francico Int. Av.,2000,2091,Platanus,9.6,Ocupada,Ochava,A Nivel,83,14
+NA,NA,515356,4,Rabanal Francico Int. Av.,2000,2085,Platanus,9.6,Ocupada,Regular,A Nivel,70,13
+NA,NA,515357,4,Rabanal Francico Int. Av.,2000,2073,Platanus,9.6,Ocupada,Regular,A Nivel,100,14
+NA,NA,515358,4,Rabanal Francico Int. Av.,2000,2055,Platanus,9.6,Ocupada,Regular,A Nivel,96,13
+NA,NA,515361,4,Rabanal Francico Int. Av.,2000,2037,Platanus,9.6,Ocupada,Regular,A Nivel,87,14
+NA,NA,515362,4,Rabanal Francico Int. Av.,2000,2013,Platanus,9.6,Ocupada,Regular,A Nivel,59,13
+NA,NA,515363,4,Rabanal Francico Int. Av.,2000,2013,Platanus,9.6,Ocupada,Ochava,A Nivel,80,13
+NA,NA,515382,4,Rabanal Francico Int. Av.,1900,1957,Ficus,4.4,Ocupada,Regular,A Nivel,28,5
+NA,NA,515383,4,Rabanal Francico Int. Av.,1900,1955,Ficus,4.4,Ocupada,Regular,Elevada,70,7
+NA,NA,515439,4,Rabanal Francico Int. Av.,1800,1841,Platanus,4.4,Ocupada,Regular,A Nivel,29,3
+NA,NA,515441,4,Rabanal Francico Int. Av.,1800,1841,Platanus,4.4,Ocupada,Regular,A Nivel,83,12
+NA,NA,515458,4,Rabanal Francico Int. Av.,1600,1671,Platanus,4.4,Ocupada,Regular,A Nivel,104,15
+NA,NA,515459,4,Rabanal Francico Int. Av.,1600,1671,Platanus,4.4,Ocupada,Regular,A Nivel,85,14
+NA,NA,515461,4,Rabanal Francico Int. Av.,1600,1615,Platanus,4.4,Ocupada,Regular,A Nivel,50,14
+NA,NA,518324,4,Rabanal Francico Int. Av.,1300,1322,Platanus,5.6,Ocupada,Regular,Bajo Nivel,96,15
+NA,NA,518344,4,Rabanal Francico Int. Av.,1400,1588,Platanus,6.4,Ocupada,Ochava,A Nivel,64,15
+NA,NA,518347,4,Rabanal Francico Int. Av.,1400,1576,Platanus,6.4,Ocupada,Regular,A Nivel,80,18
+NA,NA,518348,4,Rabanal Francico Int. Av.,1400,1570,Platanus,6.4,Ocupada,Regular,A Nivel,27,12
+NA,NA,518349,4,Rabanal Francico Int. Av.,1400,1566,Platanus,6.4,Ocupada,Regular,A Nivel,108,18
+NA,NA,518352,4,Rabanal Francico Int. Av.,1400,1450,Platanus,6.4,Ocupada,Regular,A Nivel,50,11
+NA,NA,518354,4,Rabanal Francico Int. Av.,1400,1426,Tilia,6.4,Sobreocupada,Regular,Elevada,13,4
+NA,NA,518401,4,Rabanal Francico Int. Av.,1700,1732,Platanus,4.4,Ocupada,Regular,A Nivel,43,11
+NA,NA,518402,4,Rabanal Francico Int. Av.,1700,1732,Platanus,4.4,Ocupada,Regular,A Nivel,33,12
+NA,NA,518403,4,Rabanal Francico Int. Av.,1700,1732,Platanus,4.4,Ocupada,Regular,A Nivel,26,10
+NA,NA,518404,4,Rabanal Francico Int. Av.,1700,1732,Platanus,4.4,Ocupada,Regular,A Nivel,94,18
+NA,NA,518405,4,Rabanal Francico Int. Av.,1700,1732,Platanus,4.4,Ocupada,Regular,A Nivel,76,17
+NA,NA,518406,4,Rabanal Francico Int. Av.,1700,1722,Platanus,4.4,Ocupada,Regular,A Nivel,94,18
+NA,NA,518407,4,Rabanal Francico Int. Av.,1700,1710,Platanus,4.4,Ocupada,Regular,A Nivel,70,17
+NA,NA,518408,4,Rabanal Francico Int. Av.,1600,1694,Platanus,4.4,Ocupada,Regular,A Nivel,92,17
+NA,NA,518409,4,Rabanal Francico Int. Av.,1600,1686,Platanus,4.4,Ocupada,Regular,A Nivel,64,16
+NA,NA,518410,4,Rabanal Francico Int. Av.,1600,1686,Platanus,4.4,Ocupada,Regular,A Nivel,92,17
+NA,NA,518411,4,Rabanal Francico Int. Av.,1600,1686,Platanus,4.4,Ocupada,Regular,A Nivel,83,16
+NA,NA,518412,4,Rabanal Francico Int. Av.,1600,1686,Platanus,4.4,Ocupada,Regular,A Nivel,93,17
+NA,NA,518413,4,Rabanal Francico Int. Av.,1600,1686,Platanus,4.4,Ocupada,Regular,A Nivel,99,17
+NA,NA,518461,4,Rabanal Francico Int. Av.,1900,1806,Platanus,8,Sobreocupada,Regular,A Nivel,90,15
+NA,NA,518462,4,Rabanal Francico Int. Av.,1900,1806,Platanus,8,Sobreocupada,Regular,A Nivel,94,15
+NA,NA,518463,4,Rabanal Francico Int. Av.,1900,1806,Platanus,8,Sobreocupada,Regular,A Nivel,80,15
+NA,NA,518464,4,Rabanal Francico Int. Av.,1900,1872,Platanus,8,Sobreocupada,Regular,A Nivel,82,15
+NA,NA,518485,4,Rabanal Francico Int. Av.,2000,1994,Platanus,8,Sobreocupada,Regular,A Nivel,76,15
+NA,NA,518486,4,Rabanal Francico Int. Av.,2000,1988,Platanus,8,Sobreocupada,Regular,A Nivel,61,15
+NA,NA,518487,4,Rabanal Francico Int. Av.,2000,1976,Platanus,8,Ocupada,Regular,A Nivel,65,15
+NA,NA,518512,4,Rabanal Francico Int. Av.,2100,2098,Melia,8,Ocupada,Regular,A Nivel,57,12
+NA,NA,518513,4,Rabanal Francico Int. Av.,2100,2080,Platanus,8,Parcialmente cerrada,Regular,A Nivel,115,15
+NA,NA,518514,4,Rabanal Francico Int. Av.,2100,2062,Platanus,8,Parcialmente cerrada,Regular,A Nivel,97,15
+NA,NA,518515,4,Rabanal Francico Int. Av.,2100,2056,Platanus,8,Parcialmente cerrada,Regular,A Nivel,91,15
+NA,NA,518516,4,Rabanal Francico Int. Av.,2100,2054,Platanus,8,Parcialmente cerrada,Regular,Elevada,88,15
+NA,NA,518517,4,Rabanal Francico Int. Av.,2100,2020,Platanus,8,Parcialmente cerrada,Regular,A Nivel,85,15
+NA,NA,424799,8,Rabanal Francico Int. Av.,2200,2294,Platanus,9.3,Ocupada,Ochava,A nivel,68,15
+NA,NA,424800,8,Rabanal Francico Int. Av.,2200,2286,Platanus,9.3,Ocupada,Regular,A nivel,57,14
+NA,NA,424809,8,Rabanal Francico Int. Av.,2200,2214,Platanus,9.3,Ocupada,Regular,Bajo nivel,89,16
+NA,NA,424810,8,Rabanal Francico Int. Av.,2200,2208,Platanus,9.3,Ocupada,Regular,A nivel,79,16
+NA,NA,435064,8,Rabanal Francico Int. Av.,2500,2588,Platanus,7.6,Ocupada,Regular,A nivel,117,25
+NA,NA,435067,8,Rabanal Francico Int. Av.,2500,2572,Platanus,7.6,Ocupada,Regular,A nivel,106,24
+NA,NA,435068,8,Rabanal Francico Int. Av.,2500,2572,Platanus,7.6,Ocupada,Regular,A nivel,130,22
+NA,NA,435070,8,Rabanal Francico Int. Av.,2500,2536,Lagerstroemia,7.6,Ocupada,Regular,A nivel,4,4
+NA,NA,434872,8,Rabanal Francico Int. Av.,2600,2614,Platanus,7.2,Ocupada,Regular,A nivel,63,24
+NA,NA,434873,8,Rabanal Francico Int. Av.,2600,2624,Platanus,7.2,Ocupada,Regular,A nivel,47,24
+NA,NA,434875,8,Rabanal Francico Int. Av.,2600,2660,Platanus,7.2,Ocupada,Regular,Elevada,69,24
+NA,NA,434876,8,Rabanal Francico Int. Av.,2600,2680,Platanus,7.2,Ocupada,Regular,A nivel,60,25
+NA,NA,434877,8,Rabanal Francico Int. Av.,2600,2690,Platanus,7.2,Ocupada,Regular,A nivel,65,25
+NA,NA,531289,8,Rabanal Francico Int. Av.,2100,2125,Platanus,8,Cantero ocupado,NA,NA,80,15
+NA,NA,531290,8,Rabanal Francico Int. Av.,2100,2125,Platanus,8,Ocupada,NA,NA,52,15
+NA,NA,531291,8,Rabanal Francico Int. Av.,2100,2125,Platanus,8,Ocupada,NA,NA,63,15
+NA,NA,531292,8,Rabanal Francico Int. Av.,2100,2125,Platanus,8,Ocupada,NA,NA,39,15
+NA,NA,531293,8,Rabanal Francico Int. Av.,2100,2125,Platanus,8,Ocupada,NA,NA,45,15
+NA,NA,531308,8,Rabanal Francico Int. Av.,2100,2198,Melia,8.8,Sobreocupada,Ochava,A Nivel,19,6
+NA,NA,531309,8,Rabanal Francico Int. Av.,2100,2188,Platanus,8.8,Ocupada,Regular,A Nivel,73,16
+NA,NA,531310,8,Rabanal Francico Int. Av.,2100,2186,Platanus,8.8,Ocupada,Regular,A Nivel,76,16
+NA,NA,531311,8,Rabanal Francico Int. Av.,2100,2172,Platanus,8.8,Ocupada,Regular,A Nivel,62,16
+NA,NA,531312,8,Rabanal Francico Int. Av.,2100,2168,Platanus,8.8,Ocupada,Regular,A Nivel,80,16
+NA,NA,531314,8,Rabanal Francico Int. Av.,2100,2134,Ficus,8.8,Ocupada,Regular,A Nivel,20,3
+NA,NA,531315,8,Rabanal Francico Int. Av.,2100,2124,Platanus,8.8,Ocupada,Regular,A Nivel,92,16
+NA,NA,531316,8,Rabanal Francico Int. Av.,2100,2114,Platanus,8.8,Ocupada,Regular,A Nivel,127,16
+NA,NA,531499,8,Rabanal Francico Int. Av.,2200,2275,Ficus,9.6,Ocupada,Ochava,A Nivel,64,3
+NA,NA,531501,8,Rabanal Francico Int. Av.,2200,2275,Platanus,9.6,Ocupada,Regular,A Nivel,83,11
+NA,NA,531502,8,Rabanal Francico Int. Av.,2200,2241,Platanus,9.6,Ocupada,Regular,A Nivel,67,12
+NA,NA,531503,8,Rabanal Francico Int. Av.,2200,2235,Platanus,9.6,Ocupada,Regular,A Nivel,48,10
+NA,NA,531504,8,Rabanal Francico Int. Av.,2200,2233,Platanus,9.6,Ocupada,Regular,A Nivel,55,13
+NA,NA,531505,8,Rabanal Francico Int. Av.,2200,2219,Platanus,9.6,Ocupada,Regular,A Nivel,51,12
+NA,NA,531506,8,Rabanal Francico Int. Av.,2200,2219,Platanus,9.6,Ocupada,Regular,A Nivel,47,10
+NA,NA,531858,8,Rabanal Francico Int. Av.,2400,2393,Melia,8,Ocupada,Regular,A Nivel,11,3
+NA,NA,531862,8,Rabanal Francico Int. Av.,2400,2353,Ficus,8,Ocupada,Regular,A Nivel,20,3
+NA,NA,531863,8,Rabanal Francico Int. Av.,2400,2331,Platanus,8,Ocupada,Regular,A Nivel,76,15
+NA,NA,531865,8,Rabanal Francico Int. Av.,2400,2311,Platanus,8,Ocupada,Regular,A Nivel,65,5
+NA,NA,531866,8,Rabanal Francico Int. Av.,2400,2305,Platanus,8,Ocupada,Regular,A Nivel,67,14
+NA,NA,531867,8,Rabanal Francico Int. Av.,2400,2305,Platanus,8,Ocupada,Regular,A Nivel,68,14
+NA,NA,531868,8,Rabanal Francico Int. Av.,2400,2305,Ficus,8,Ocupada,Regular,A Nivel,51,6
+NA,NA,531898,8,Rabanal Francico Int. Av.,2400,2396,Tilia,6,Ocupada,Regular,A Nivel,32,10
+NA,NA,531902,8,Rabanal Francico Int. Av.,2400,2328,Platanus,6,Ocupada,Regular,Elevada,74,16
+NA,NA,531903,8,Rabanal Francico Int. Av.,2400,2310,Platanus,6,Ocupada,Regular,A Nivel,73,16
+NA,NA,532266,8,Rabanal Francico Int. Av.,2400,2493,Platanus,6,Ocupada,Regular,A Nivel,83,14
+NA,NA,532267,8,Rabanal Francico Int. Av.,2400,2485,Platanus,6,Ocupada,Regular,A Nivel,87,15
+NA,NA,532268,8,Rabanal Francico Int. Av.,2400,2447,Platanus,6,Ocupada,Regular,A Nivel,84,14
+NA,NA,532269,8,Rabanal Francico Int. Av.,2400,2439,Platanus,6,Ocupada,Regular,A Nivel,74,14
+NA,NA,532271,8,Rabanal Francico Int. Av.,2400,2415,Platanus,6,Sobreocupada,Regular,A Nivel,66,13
+NA,NA,532272,8,Rabanal Francico Int. Av.,2400,2415,Ficus,6,Sobreocupada,Regular,A Nivel,7,4
+NA,NA,532274,8,Rabanal Francico Int. Av.,2400,2415,Platanus,6,Sobreocupada,Regular,A Nivel,76,13
+NA,NA,532275,8,Rabanal Francico Int. Av.,2400,2415,Ficus,6,Ocupada,Ochava,A Nivel,51,5
+NA,NA,532315,8,Rabanal Francico Int. Av.,2400,2496,Platanus,8.4,Ocupada,Regular,A Nivel,99,18
+NA,NA,532316,8,Rabanal Francico Int. Av.,2400,2492,Platanus,8.4,Ocupada,Regular,A Nivel,107,18
+NA,NA,532317,8,Rabanal Francico Int. Av.,2400,2470,Platanus,8.4,Ocupada,Regular,A Nivel,84,17
+NA,NA,532318,8,Rabanal Francico Int. Av.,2400,2440,Platanus,8.4,Ocupada,Regular,A Nivel,90,17
+NA,NA,532319,8,Rabanal Francico Int. Av.,2400,2440,Platanus,8.4,Ocupada,Regular,A Nivel,96,17
+NA,NA,532320,8,Rabanal Francico Int. Av.,2400,2428,Platanus,8.4,Ocupada,Regular,A Nivel,78,17
+NA,NA,532321,8,Rabanal Francico Int. Av.,2400,2422,Ficus,8.4,Sobreocupada,Regular,A Nivel,28,7
+NA,NA,532324,8,Rabanal Francico Int. Av.,2400,2414,Platanus,8.4,Ocupada,Regular,A Nivel,96,18
+NA,NA,532325,8,Rabanal Francico Int. Av.,2400,2414,Platanus,8.4,Ocupada,Ochava,A Nivel,91,18
+NA,NA,532517,8,Rabanal Francico Int. Av.,2500,2521,Platanus,8,Ocupada,Ochava,A Nivel,60,11
+NA,NA,532518,8,Rabanal Francico Int. Av.,2500,2521,Platanus,8,Ocupada,Regular,A Nivel,56,11
+NA,NA,532519,8,Rabanal Francico Int. Av.,2500,2521,Platanus,8,Ocupada,Regular,A Nivel,63,11
+NA,NA,532520,8,Rabanal Francico Int. Av.,2500,2531,Platanus,8,Ocupada,Regular,A Nivel,64,12
+NA,NA,532521,8,Rabanal Francico Int. Av.,2500,2547,Ficus,8,Ocupada,Regular,A Nivel,68,4
+NA,NA,532522,8,Rabanal Francico Int. Av.,2500,2563,Platanus,8,Ocupada,Regular,A Nivel,85,12
+NA,NA,532523,8,Rabanal Francico Int. Av.,2500,2583,Platanus,8,Ocupada,Regular,A Nivel,88,12
+NA,NA,532524,8,Rabanal Francico Int. Av.,2500,2595,Platanus,8,Ocupada,Ochava,A Nivel,90,12
+NA,NA,532950,8,Rabanal Francico Int. Av.,2600,2601,Platanus,6,Ocupada,Regular,A nivel,84,20
+NA,NA,532951,8,Rabanal Francico Int. Av.,2600,2617,Platanus,6,Ocupada,Regular,A nivel,57,18
+NA,NA,532952,8,Rabanal Francico Int. Av.,2600,2627,Platanus,6,Ocupada,Regular,A nivel,60,15
+NA,NA,532953,8,Rabanal Francico Int. Av.,2600,2635,Platanus,6,Ocupada,Regular,A nivel,79,18
+NA,NA,532954,8,Rabanal Francico Int. Av.,2600,2635,Platanus,6,Ocupada,Regular,A nivel,75,15
+NA,NA,532955,8,Rabanal Francico Int. Av.,2600,2667,Platanus,6,Ocupada,Regular,A nivel,71,16
+NA,NA,532956,8,Rabanal Francico Int. Av.,2600,2685,Platanus,6,Ocupada,Regular,A nivel,62,18
+NA,NA,532957,8,Rabanal Francico Int. Av.,2600,2689,Platanus,6,Ocupada,Regular,A nivel,86,16
+NA,NA,532958,8,Rabanal Francico Int. Av.,2600,2697,Platanus,6,Ocupada,Regular,A nivel,63,14
+NA,NA,533244,8,Rabanal Francico Int. Av.,2700,2720,Platanus,8.8,Ocupada,Ochava,Elevada,39,20
+NA,NA,533245,8,Rabanal Francico Int. Av.,2700,2720,Platanus,8.8,Ocupada,Regular,A nivel,92,30
+NA,NA,533246,8,Rabanal Francico Int. Av.,2700,2720,Platanus,8.8,Ocupada,Regular,Elevada,92,30
+NA,NA,533247,8,Rabanal Francico Int. Av.,2700,2740,Platanus,8.8,Ocupada,Regular,A nivel,111,30
+NA,NA,533248,8,Rabanal Francico Int. Av.,2700,2744,Platanus,8.8,Ocupada,Regular,A nivel,86,30
+NA,NA,533249,8,Rabanal Francico Int. Av.,2700,2750,Tilia,8.8,Sobreocupada,Regular,Elevada,22,5
+NA,NA,533250,8,Rabanal Francico Int. Av.,2700,2750,Lagerstroemia,8.8,Sobreocupada,Fuera de línea,Elevada,5,3
+NA,NA,533251,8,Rabanal Francico Int. Av.,2700,2782,Platanus,8.8,Ocupada,Regular,A nivel,120,28
+NA,NA,533252,8,Rabanal Francico Int. Av.,2700,2788,Platanus,8.8,Ocupada,Regular,A nivel,92,24
+NA,NA,533585,8,Rabanal Francico Int. Av.,NA,2821,Platanus,9.6,Ocupada,Regular,A nivel,84,13
+NA,NA,533586,8,Rabanal Francico Int. Av.,NA,2821,Platanus,9.6,Ocupada,Regular,A nivel,83,12
+NA,NA,533587,8,Rabanal Francico Int. Av.,NA,2821,Platanus,9.6,Ocupada,Regular,Bajo nivel,64,13
+NA,NA,533589,8,Rabanal Francico Int. Av.,NA,2835,Platanus,9.6,Ocupada,Fuera de línea,A nivel,30,9
+NA,NA,533590,8,Rabanal Francico Int. Av.,NA,2865,Platanus,9.6,Ocupada,Regular,A nivel,83,13
+NA,NA,533591,8,Rabanal Francico Int. Av.,NA,2881,Platanus,9.6,Ocupada,Regular,A nivel,82,11
+NA,NA,533592,8,Rabanal Francico Int. Av.,NA,2881,Platanus,9.6,Ocupada,Regular,A nivel,92,14
+NA,NA,533593,8,Rabanal Francico Int. Av.,NA,2895,Platanus,9.6,Ocupada,Regular,A nivel,96,12
+NA,NA,534135,8,Rabanal Francico Int. Av.,2900,2921,Ficus,9.6,Ocupada,Regular,Elevada,14,4
+NA,NA,534136,8,Rabanal Francico Int. Av.,2900,2941,Platanus,9.6,Ocupada,Regular,A nivel,97,27
+NA,NA,534137,8,Rabanal Francico Int. Av.,2900,2945,Platanus,9.6,Ocupada,Regular,A nivel,99,27
+NA,NA,534138,8,Rabanal Francico Int. Av.,2900,2947,Platanus,9.6,Ocupada,Regular,A nivel,95,27
+NA,NA,534139,8,Rabanal Francico Int. Av.,2900,2955,Platanus,9.6,Ocupada,Regular,A nivel,103,27

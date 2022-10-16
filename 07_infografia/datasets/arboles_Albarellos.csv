@@ -1,0 +1,152 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.50916439877629,-34.577086497761805,154746,12,Albarellos Av.,2800.0,2823.0,Jacaranda,5.8,Ocupada,Regular,A nivel,31,9
+-58.50916439877629,-34.577086497761805,154749,12,Albarellos Av.,2800.0,2823.0,Platanus,5.8,Ocupada,Regular,A nivel,61,15
+-58.5090114552294,-34.576995856975195,154750,12,Albarellos Av.,2800.0,2809.0,Platanus,5.8,Ocupada,Regular,A nivel,12,4
+-58.5090875343212,-34.577040944698304,154751,12,Albarellos Av.,2800.0,2811.0,Platanus,5.8,Ocupada,Regular,A nivel,70,16
+-58.5087027679511,-34.5768157474969,154517,12,Albarellos Av.,2700.0,2791.0,Lagerstroemia,6,Ocupada,Fuera de línea,Elevada,15,5
+-58.508549336051,-34.5767248111413,154522,12,Albarellos Av.,2700.0,2775.0,Platanus,6,Ocupada,Regular,A nivel,86,17
+-58.5097766335323,-34.577451996991,154795,12,Albarellos Av.,2800.0,2883.0,Ficus,5.8,Ocupada,Regular,A nivel,28,4
+-58.509700276114394,-34.5774067424184,154798,12,Albarellos Av.,2800.0,2879.0,Platanus,5.8,Ocupada,Regular,A nivel,80,16
+-58.509700276114394,-34.5774067424184,154799,12,Albarellos Av.,2800.0,2879.0,Ficus,5.8,Ocupada,Regular,A nivel,66,3
+-58.510696645012,-34.5779970731664,155555,12,Albarellos Av.,2900.0,2935.0,Platanus,6,Ocupada,Regular,A nivel,90,17
+-58.5110786706076,-34.5782234866251,155566,12,Albarellos Av.,2900.0,2985.0,Platanus,6,Ocupada,Regular,A nivel,85,17
+-58.5037816222056,-34.5739063055585,156666,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,52,17
+-58.5037816222056,-34.5739063055585,156667,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,58,18
+-58.5037816222056,-34.5739063055585,156668,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,39,17
+-58.5037816222056,-34.5739063055585,156670,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,41,17
+-58.5037816222056,-34.5739063055585,156671,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,36,16
+-58.5037816222056,-34.5739063055585,156672,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,35,15
+-58.5037816222056,-34.5739063055585,156673,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,45,15
+-58.5037816222056,-34.5739063055585,156674,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,30,15
+-58.5037816222056,-34.5739063055585,156675,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,35,17
+-58.5037816222056,-34.5739063055585,156676,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,35,17
+-58.5037816222056,-34.5739063055585,156677,12,Albarellos Av.,2300.0,2367.0,Platanus,6.2,Ocupada,Regular,A nivel,30,16
+-58.5073227083744,-34.5759973887276,156687,12,Albarellos Av.,2600.0,2661.0,Platanus,6,Ocupada,Regular,A nivel,60,12
+-58.50693954093389,-34.575771232638196,156689,12,Albarellos Av.,2600.0,2627.0,Platanus,6,Ocupada,Regular,A nivel,58,18
+-58.5076312888033,-34.5761797743085,156690,12,Albarellos Av.,2600.0,2695.0,Platanus,6,Ocupada,Regular,A nivel,60,17
+-58.507271299893894,-34.575967046153394,156692,12,Albarellos Av.,2600.0,2657.0,Platanus,6,Ocupada,Regular,A nivel,62,15
+-58.5070158367855,-34.575816264756796,156694,12,Albarellos Av.,2600.0,2641.0,Platanus,6,Ocupada,Regular,A nivel,80,18
+-58.5074765210318,-34.5760880655737,156695,12,Albarellos Av.,2600.0,2687.0,Platanus,6,Ocupada,Regular,Elevada,60,18
+-58.507399567311104,-34.5760427527168,156696,12,Albarellos Av.,2600.0,2673.0,Platanus,6,Ocupada,Regular,Elevada,55,17
+-58.5075791424313,-34.576148874655,156697,12,Albarellos Av.,2600.0,2691.0,Platanus,6,Ocupada,Regular,A nivel,40,17
+-58.506861189412,-34.5757249870841,156705,12,Albarellos Av.,2600.0,2617.0,Platanus,6,Ocupada,Regular,A nivel,60,17
+-58.506861189412,-34.5757249870841,156706,12,Albarellos Av.,2600.0,2621.0,Platanus,6,Ocupada,Regular,A nivel,45,17
+-58.512483342596795,-34.5790559254489,159413,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,67,18
+-58.512483342596795,-34.5790559254489,159414,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,58,18
+-58.512483342596795,-34.5790559254489,159415,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,62,18
+-58.512483342596795,-34.5790559254489,159416,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,79,18
+-58.512483342596795,-34.5790559254489,159420,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,63,18
+-58.512483342596795,-34.5790559254489,159422,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,80,18
+-58.512483342596795,-34.5790559254489,159423,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,61,19
+-58.512483342596795,-34.5790559254489,159424,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Sobreocupada,Regular,A nivel,74,17
+-58.512483342596795,-34.5790559254489,159425,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,56,18
+-58.512483342596795,-34.5790559254489,159431,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,90,16
+-58.512483342596795,-34.5790559254489,159432,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,59,16
+-58.512483342596795,-34.5790559254489,159433,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,82,18
+-58.512483342596795,-34.5790559254489,159434,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Sobreocupada,Regular,A nivel,81,17
+-58.512483342596795,-34.5790559254489,159435,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,77,18
+-58.512483342596795,-34.5790559254489,159436,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Sobreocupada,Regular,A nivel,63,19
+-58.512483342596795,-34.5790559254489,159439,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,70,16
+-58.512483342596795,-34.5790559254489,159441,12,Albarellos Av.,3100.0,3153.0,Platanus,6,Ocupada,Regular,A nivel,73,19
+-58.510112779191,-34.5778027177882,158697,12,Albarellos Av.,2900.0,2906.0,Platanus,6,Ocupada,Regular,A nivel,76,17
+-58.51094196271339,-34.5782941504498,158701,12,Albarellos Av.,2900.0,2978.0,Platanus,6,Ocupada,Regular,A nivel,78,19
+-58.510597303403905,-34.5780898824114,158703,12,Albarellos Av.,2900.0,2950.0,Platanus,6,Ocupada,Regular,Elevada,80,18
+-58.5109800403196,-34.5783167176467,158704,12,Albarellos Av.,2900.0,2980.0,Platanus,6,Ocupada,Regular,A nivel,70,18
+-58.5103669324692,-34.5779533481629,158705,12,Albarellos Av.,2900.0,2928.0,Ficus,6,Ocupada,Fuera de línea,A nivel,64,6
+-58.5108274566302,-34.5782262867517,158706,12,Albarellos Av.,2900.0,2972.0,Platanus,6,Ocupada,Regular,A nivel,40,19
+-58.5102895261271,-34.577907471455305,158707,12,Albarellos Av.,2900.0,2924.0,Platanus,6,Ocupada,Regular,Bajo nivel,64,15
+-58.510696645012,-34.5779970731664,155544,12,Albarellos Av.,2900.0,2935.0,Platanus,6,Ocupada,Regular,A nivel,80,16
+-58.5103139089063,-34.5777702361909,155548,12,Albarellos Av.,2900.0,2915.0,Platanus,6,Ocupada,Regular,A nivel,58,13
+-58.510696645012,-34.5779970731664,155549,12,Albarellos Av.,2900.0,2935.0,Platanus,6,Ocupada,Regular,A nivel,65,16
+-58.510696645012,-34.5779970731664,155550,12,Albarellos Av.,2900.0,2935.0,Platanus,6,Ocupada,Regular,A nivel,64,16
+-58.510696645012,-34.5779970731664,155551,12,Albarellos Av.,2900.0,2935.0,Platanus,6,Ocupada,Regular,A nivel,71,15
+-58.511155851826,-34.578269228973,155552,12,Albarellos Av.,2900.0,2991.0,Ficus,6,Ocupada,Regular,A nivel,52,7
+-58.508090487386,-34.5764526933212,155799,12,Albarellos Av.,2700.0,2725.0,Platanus,5.7,Ocupada,Regular,A nivel,60,20
+-58.508013672351105,-34.576407160904104,155809,12,Albarellos Av.,2700.0,2719.0,Platanus,5.7,Ocupada,Regular,A nivel,60,20
+-58.50793760199021,-34.5763620697899,155810,12,Albarellos Av.,2700.0,2711.0,Platanus,5.7,Ocupada,Regular,Elevada,56,16
+-58.5117464896537,-34.5787741363839,160704,12,Albarellos Av.,3000.0,3032.0,Platanus,5.8,Ocupada,Regular,A nivel,82,22
+-58.51141705757879,-34.578578919773506,160724,12,Albarellos Av.,3000.0,3008.0,Platanus,5.8,Ocupada,Regular,A nivel,80,19
+-58.5116701644654,-34.5787289073626,160726,12,Albarellos Av.,3000.0,3028.0,Platanus,5.8,Ocupada,Regular,Elevada,76,12
+-58.504379203803,-34.574261143282,160460,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,40,16
+-58.5115164746576,-34.5786378330652,160727,12,Albarellos Av.,3000.0,3014.0,Platanus,5.8,Ocupada,Regular,A nivel,96,20
+-58.5118235438937,-34.5788197973252,160730,12,Albarellos Av.,3000.0,3038.0,Platanus,5.8,Ocupada,Regular,A nivel,107,20
+-58.5115164746576,-34.5786378330652,160733,12,Albarellos Av.,3000.0,3016.0,Ficus,5.8,Ocupada,Regular,A nivel,11,4
+-58.504379203803,-34.574261143282,160293,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,38,13
+-58.504379203803,-34.574261143282,160294,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,45,15
+-58.504379203803,-34.574261143282,160295,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,38,16
+-58.504379203803,-34.574261143282,160296,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,70,17
+-58.504379203803,-34.574261143282,160297,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,70,15
+-58.504379203803,-34.574261143282,160298,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,35,14
+-58.504379203803,-34.574261143282,160299,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,45,15
+-58.504379203803,-34.574261143282,160300,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,48,15
+-58.504379203803,-34.574261143282,160301,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,50,15
+-58.504379203803,-34.574261143282,160302,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,42,15
+-58.513693513320206,-34.579909178851,161372,12,Albarellos Av.,3100.0,3186.0,Tilia,6,Ocupada,Ochava,A nivel,30,9
+-58.5131640766636,-34.5796053049444,161374,12,Albarellos Av.,3100.0,3142.0,Platanus,6,Ocupada,Regular,A nivel,77,18
+-58.509526853711606,-34.5774552688229,163842,12,Albarellos Av.,2800.0,2864.0,Platanus,6,Ocupada,Regular,Elevada,60,17
+-58.5097921233531,-34.5776124856566,163852,12,Albarellos Av.,2800.0,2888.0,Ficus,6,Sobreocupada,Regular,A nivel,29,3
+-58.504379203803,-34.574261143282,160320,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,50,15
+-58.504379203803,-34.574261143282,160321,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,70,17
+-58.504379203803,-34.574261143282,160322,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,60,15
+-58.504379203803,-34.574261143282,160328,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,65,17
+-58.504379203803,-34.574261143282,160329,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,60,16
+-58.504379203803,-34.574261143282,160330,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,42,16
+-58.512759891802304,-34.579373317149404,161376,12,Albarellos Av.,3100.0,3102.0,Platanus,6,Ocupada,Regular,A nivel,69,17
+-58.5133958264847,-34.5797383199504,161378,12,Albarellos Av.,3100.0,3166.0,Platanus,6,Ocupada,Regular,A nivel,88,17
+-58.5089741006036,-34.577130336976104,163853,12,Albarellos Av.,2800.0,2806.0,Platanus,6,Ocupada,Ochava,Elevada,72,20
+-58.509143450969994,-34.5772307010286,163855,12,Albarellos Av.,2800.0,2830.0,Platanus,6,Ocupada,Regular,A nivel,58,19
+-58.5089741006036,-34.577130336976104,163856,12,Albarellos Av.,2800.0,2806.0,Platanus,6,Ocupada,Regular,A nivel,61,20
+-58.5097921233531,-34.5776124856566,163864,12,Albarellos Av.,2800.0,2888.0,Platanus,6,Sobreocupada,Regular,A nivel,54,14
+-58.504379203803,-34.574261143282,160333,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,41,17
+-58.504379203803,-34.574261143282,160334,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,Elevada,52,17
+-58.504379203803,-34.574261143282,160335,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,75,17
+-58.5124977234011,-34.5792207988752,161408,12,Albarellos Av.,3000.0,3096.0,Ficus,6,Sobreocupada,Regular,A nivel,23,6
+-58.5096046750599,-34.5775013911691,163871,12,Albarellos Av.,2800.0,2874.0,Platanus,6,Ocupada,Regular,A nivel,45,14
+-58.5098154559033,-34.577626314059,163875,12,Albarellos Av.,2800.0,2892.0,Platanus,6,Ocupada,Ochava,A nivel,53,14
+-58.504379203803,-34.574261143282,160350,12,Albarellos Av.,2400.0,2401.0,Platanus,6,Ocupada,Regular,A nivel,40,14
+-58.5059273669204,-34.5753256794534,160628,12,Albarellos Av.,2500.0,2552.0,Platanus,6,Ocupada,Regular,Bajo nivel,62,14
+-58.5054900428328,-34.5750675521035,160630,12,Albarellos Av.,2500.0,2506.0,Platanus,6,Ocupada,Regular,A nivel,51,14
+-58.5059273669204,-34.5753256794534,160633,12,Albarellos Av.,2500.0,2552.0,Platanus,6,Ocupada,Regular,A nivel,42,14
+-58.5060641749171,-34.5754064287188,160634,12,Albarellos Av.,2500.0,2568.0,Platanus,6,Ocupada,Regular,A nivel,56,16
+-58.5059273669204,-34.5753256794534,160635,12,Albarellos Av.,2500.0,2552.0,Platanus,6,Ocupada,Regular,Bajo nivel,57,14
+-58.5059273669204,-34.5753256794534,160636,12,Albarellos Av.,2500.0,2552.0,Platanus,6,Ocupada,Regular,A nivel,57,14
+-58.5054900428328,-34.5750675521035,160637,12,Albarellos Av.,2500.0,2504.0,Platanus,6,Ocupada,Ochava,A nivel,58,18
+-58.5128587013285,-34.5794300305653,161410,12,Albarellos Av.,3100.0,3112.0,Platanus,6,Ocupada,Regular,A nivel,66,19
+-58.50616845964021,-34.5754679813209,160648,12,Albarellos Av.,2500.0,2578.0,Platanus,6,Ocupada,Regular,Elevada,57,19
+-58.506320594090205,-34.5755577762175,160654,12,Albarellos Av.,2500.0,2594.0,Platanus,6,Ocupada,Ochava,A nivel,78,20
+-58.504337807804,-34.574387084902504,160664,12,Albarellos Av.,2400.0,2408.0,Platanus,6,Ocupada,Ochava,A nivel,52,16
+-58.5086657679544,-34.576944761552504,163921,12,Albarellos Av.,2700.0,2796.0,Platanus,6,Ocupada,Ochava,Elevada,52,13
+-58.50788160055821,-34.5764801235175,163927,12,Albarellos Av.,2700.0,2712.0,Platanus,6,Ocupada,Regular,A nivel,62,20
+-58.5079497090017,-34.576520495156196,163931,12,Albarellos Av.,2700.0,2716.0,Platanus,6,Ocupada,Regular,A nivel,54,19
+-58.5050108681227,-34.574784324674,160676,12,Albarellos Av.,2400.0,2478.0,Platanus,6,Ocupada,Regular,A nivel,50,17
+-58.5051212637681,-34.574849479403,160679,12,Albarellos Av.,2400.0,2490.0,Platanus,6,Ocupada,Regular,A nivel,59,17
+-58.50446996801129,-34.574465086374396,160680,12,Albarellos Av.,2400.0,2428.0,Platanus,6,Ocupada,Regular,A nivel,64,17
+-58.504854402091595,-34.5746919792016,160681,12,Albarellos Av.,2400.0,2466.0,Platanus,6,Ocupada,Regular,A nivel,79,18
+-58.5043933567712,-34.5744198701642,160682,12,Albarellos Av.,2400.0,2424.0,Platanus,6,Ocupada,Regular,A nivel,55,16
+-58.504710714001,-34.5746071748426,160683,12,Albarellos Av.,2400.0,2448.0,Platanus,6,Ocupada,Regular,A nivel,72,17
+-58.505201298561,-34.5748967152386,160687,12,Albarellos Av.,2400.0,2496.0,Platanus,6,Ocupada,Ochava,A nivel,69,17
+-58.5081569498017,-34.5766433377582,163935,12,Albarellos Av.,2700.0,2734.0,Platanus,6,Ocupada,Regular,A nivel,60,20
+-58.5085748703607,-34.5768908882584,163936,12,Albarellos Av.,2700.0,2792.0,Platanus,6,Ocupada,Regular,A nivel,45,13
+-58.5080358127474,-34.5765715334878,163941,12,Albarellos Av.,2700.0,2724.0,Platanus,6,Ocupada,Regular,Bajo nivel,58,20
+-58.5074250747764,-34.5762103325176,176650,12,Albarellos Av.,2600.0,2680.0,Platanus,6,Ocupada,Regular,A nivel,47,16
+-58.50686741439589,-34.575881186588894,176651,12,Albarellos Av.,2600.0,2626.0,Platanus,6,Ocupada,Regular,A nivel,62,17
+-58.5070749330696,-34.576003670218704,176652,12,Albarellos Av.,2600.0,2644.0,Platanus,6,Ocupada,Regular,A nivel,66,16
+-58.507353802772705,-34.5761682661926,176653,12,Albarellos Av.,2600.0,2674.0,Platanus,6,Ocupada,Regular,A nivel,67,17
+-58.5067301650673,-34.5758001776104,176656,12,Albarellos Av.,2600.0,2612.0,Platanus,6,Ocupada,Regular,Elevada,58,15
+-58.5069818823488,-34.5759487490402,176657,12,Albarellos Av.,2600.0,2638.0,Platanus,6,Ocupada,Regular,A nivel,58,15
+-58.50721416066179,-34.5760858460352,176658,12,Albarellos Av.,2600.0,2662.0,Platanus,6,Ocupada,Regular,A nivel,54,16
+-58.507144715566795,-34.576044857736,176659,12,Albarellos Av.,2600.0,2654.0,Platanus,6,Ocupada,Regular,A nivel,67,15
+-58.5067301650673,-34.5758001776104,176660,12,Albarellos Av.,2600.0,2612.0,Platanus,6,Ocupada,Regular,A nivel,65,16
+-58.5067988272561,-34.5758407042856,176662,12,Albarellos Av.,2600.0,2620.0,Platanus,6,Ocupada,Regular,Elevada,65,17
+-58.5075156737426,-34.5762639944034,176649,12,Albarellos Av.,2600.0,2690.0,Platanus,6,Ocupada,Regular,A nivel,60,16
+-58.5040796794079,-34.5742368383108,278997,12,Albarellos Av.,2300,2398.0,Platanus,5.6,Ocupada,Ochava,A nivel,73,22
+-58.5040125641632,-34.5741972223667,278998,12,Albarellos Av.,2300,2390.0,Platanus,5.6,Ocupada,Regular,A nivel,62,22
+-58.503841119746,-34.5740960239578,278999,12,Albarellos Av.,2300,2374.0,Platanus,5.6,Ocupada,Regular,A nivel,36,21
+-58.5037650745487,-34.5740511366382,279000,12,Albarellos Av.,2300,2360.0,Platanus,5.6,Ocupada,Regular,A nivel,54,22
+-58.5036886403199,-34.5740060195958,279001,12,Albarellos Av.,2300,2358.0,Platanus,5.6,Ocupada,Regular,A nivel,54,19
+-58.5036497826206,-34.5739830829116,279002,12,Albarellos Av.,2300,2356.0,Platanus,5.6,Ocupada,Regular,A nivel,42,22
+-58.5035345594069,-34.573915069527196,279003,12,Albarellos Av.,2300,2348.0,Platanus,5.6,Ocupada,Regular,A nivel,56,21
+-58.5034211725806,-34.573848139906204,279004,12,Albarellos Av.,2300,2340.0,Platanus,5.6,Ocupada,Regular,A nivel,50,16
+-58.5034211725806,-34.573848139906204,279005,12,Albarellos Av.,2300,2338.0,Platanus,5.6,Ocupada,Regular,A nivel,49,18
+-58.503306956962795,-34.573780720843,279006,12,Albarellos Av.,2300,2324.0,Platanus,5.6,Ocupada,Regular,A nivel,50,14
+-58.5031178699113,-34.5736691062827,279008,12,Albarellos Av.,2300,2308.0,Ficus,5.6,Ocupada,Ochava,A nivel,29,8

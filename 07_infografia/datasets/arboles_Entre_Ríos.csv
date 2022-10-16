@@ -1,0 +1,68 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.3916912948333,-34.6116117418091,60420,1,Entre Ríos Av.,300.0,212.0,Tilia,3.2,Ocupada,Regular,A nivel,16,8
+-58.391764321443006,-34.6105399442987,60499,1,Entre Ríos Av.,200.0,114.0,Ficus,3.9,Sobreocupada,Regular,A nivel,6,2
+-58.391764321443006,-34.6105399442987,60502,1,Entre Ríos Av.,200.0,114.0,Ficus,3.9,Sobreocupada,Regular,A nivel,8,2
+-58.391764321443006,-34.6105399442987,60504,1,Entre Ríos Av.,200.0,114.0,Ficus,3.9,Sobreocupada,Regular,A nivel,13,2
+-58.391764321443006,-34.6105399442987,60505,1,Entre Ríos Av.,200.0,114.0,Ficus,3.9,Sobreocupada,Regular,A nivel,18,2
+-58.391764321443006,-34.6105399442987,60506,1,Entre Ríos Av.,200.0,114.0,Ficus,3.9,Sobreocupada,Regular,A nivel,19,2
+-58.391717652896205,-34.6111451692479,60509,1,Entre Ríos Av.,200.0,184.0,Jacaranda,3.9,Ocupada,Regular,Bajo nivel,4,2
+-58.391717652896205,-34.6111451692479,60510,1,Entre Ríos Av.,200.0,182.0,Jacaranda,3.9,Ocupada,Regular,A nivel,4,3
+-58.391742847417405,-34.61083398575,60513,1,Entre Ríos Av.,200.0,136.0,Jacaranda,3.9,Ocupada,Regular,A nivel,4,3
+-58.391686658717205,-34.6117378594207,60517,1,Entre Ríos Av.,300.0,220.0,Tilia,3.2,Ocupada,Regular,A nivel,24,8
+-58.391868014893895,-34.6125034120327,60522,1,Entre Ríos Av.,300.0,283.0,Tilia,3.2,Ocupada,Regular,A nivel,17,8
+-58.3916806009985,-34.6119866827496,60526,1,Entre Ríos Av.,300.0,244.0,Tilia,3.2,Ocupada,Regular,Bajo nivel,12,4
+-58.391686658717205,-34.6117378594207,60527,1,Entre Ríos Av.,300.0,218.0,Tilia,3.2,Ocupada,Regular,A nivel,21,7
+-58.391686658717205,-34.6117378594207,60541,1,Entre Ríos Av.,300.0,216.0,Tilia,3.2,Ocupada,Regular,A nivel,20,8
+-58.391742847417405,-34.61083398575,60511,1,Entre Ríos Av.,200.0,140.0,Jacaranda,3.9,Ocupada,Regular,A nivel,4,3
+-58.391764321443006,-34.6105399442987,63488,1,Entre Ríos Av.,200.0,114.0,Ficus,3.9,Sobreocupada,Regular,A nivel,28,2
+-58.391517740579005,-34.620461289949304,75692,1,Entre Ríos Av.,1000.0,1030.0,Tilia,3.6,Ocupada,Regular,A nivel,6,4
+-58.391558926415904,-34.6193877065283,80944,1,Entre Ríos Av.,900.0,910.0,Tilia,3.6,Ocupada,Regular,Bajo nivel,12,3
+-58.391647792940795,-34.6129634300221,81031,1,Entre Ríos Av.,300.0,322.0,Tilia,3.6,Ocupada,Regular,A nivel,18,6
+-58.39164248316071,-34.6130995202571,81032,1,Entre Ríos Av.,300.0,336.0,Tilia,3.6,Ocupada,Regular,A nivel,18,9
+-58.39164248316071,-34.6130995202571,81033,1,Entre Ríos Av.,300.0,336.0,Tilia,3.6,Ocupada,Regular,A nivel,15,7
+-58.3916270788398,-34.613494331620004,81045,1,Entre Ríos Av.,300.0,376.0,Tilia,3.6,Ocupada,Regular,A nivel,16,7
+-58.3916263404538,-34.613513256533295,81047,1,Entre Ríos Av.,300.0,378.0,Tilia,3.6,Ocupada,Regular,A nivel,19,7
+-58.390493252308595,-34.632077780166995,413578,1,Entre Ríos Av.,2000.0,2052.0,Melia,3,Ocupada,Regular,A nivel,13,5
+-58.39081085060979,-34.6294294474502,413752,1,Entre Ríos Av.,1800.0,1808.0,Tilia,3,Ocupada,Regular,A nivel,19,7
+-58.3907044894789,-34.6303194200062,413583,1,Entre Ríos Av.,1800.0,1890.0,Ficus,3,Ocupada,Regular,A nivel,28,4
+-58.39048417427961,-34.632153916743604,413748,1,Entre Ríos Av.,2000.0,2060.0,Tilia,3,Ocupada,Regular,Bajo nivel,12,4
+-58.390442385849106,-34.63250397375,413750,1,Entre Ríos Av.,2000.0,2090.0,Tilia,3,Ocupada,Regular,Bajo nivel,10,5
+-58.3911666399381,-34.6260076951855,420308,1,Entre Ríos Av.,1400.0,1492.0,Tilia,3.6,Ocupada,Regular,A nivel,8,6
+-58.39100431688949,-34.6277807832124,419767,1,Entre Ríos Av.,1600.0,1658.0,Tilia,3,Ocupada,Regular,A nivel,18,6
+-58.39125289261999,-34.6249985337231,420709,1,Entre Ríos Av.,1300.0,1380.0,Ficus,4,Ocupada,Regular,A nivel,11,2
+-58.39028686945851,-34.6338280502107,418367,1,Entre Ríos Av.,2100.0,2184.0,Ficus,3.6,Ocupada,Regular,Elevada,36,10
+-58.3906625004363,-34.630654487951396,415433,1,Entre Ríos Av.,1900.0,1914.0,Ficus,3.2,Ocupada,Regular,A nivel,18,2
+-58.39058096982429,-34.6313383923936,415437,1,Entre Ríos Av.,1900.0,1986.0,Ficus,3.2,Ocupada,Regular,A nivel,57,10
+-58.39159078658749,-34.6146009932638,500070,1,Entre Ríos Av.,400.0,472.0,Jacaranda,2.4,Ocupada,Regular,A nivel,42,8
+-58.3919398082898,-34.610861196174696,28155,3,Entre Ríos Av.,100.0,149.0,Tilia,3.4,Ocupada,Regular,A nivel,9,4
+-58.39177395884521,-34.6165459866558,30549,3,Entre Ríos Av.,600.0,669.0,Tilia,3.7,Ocupada,Regular,Elevada,17,2
+-58.391797175171206,-34.6142687018244,34763,3,Entre Ríos Av.,400.0,437.0,Ficus,3.8,Ocupada,Regular,Bajo nivel,24,5
+-58.391797175171206,-34.6142687018244,36041,3,Entre Ríos Av.,400.0,437.0,Ficus,3.8,Ocupada,Regular,Bajo nivel,24,5
+-58.391478439302595,-34.624605602224,36621,3,Entre Ríos Av.,1300.0,1349.0,Tilia,4.4,Ocupada,Regular,A nivel,21,6
+-58.3918361219769,-34.6132268818136,47978,3,Entre Ríos Av.,300.0,345.0,Tilia,3.6,Ocupada,Regular,A nivel,12,6
+-58.3907927622433,-34.6313624896169,341350,4,Entre Ríos Av.,1900,1987,Ficus,3.2,Ocupada,Regular,A nivel,7,2
+-58.390938453394,-34.630123229819,365329,4,Entre Ríos Av.,1800,1843,Tilia,3.2,Sobreocupada,Regular,Elevada,11,5
+-58.3906753361692,-34.6323437070254,360813,4,Entre Ríos Av.,2000,2075,Tilia,3,Ocupada,Regular,A nivel,8,3
+-58.3906847854712,-34.632264455270096,360814,4,Entre Ríos Av.,2000,2067,Ficus,3,Ocupada,Regular,Elevada,10,2
+-58.3907210661977,-34.631960165513604,360815,4,Entre Ríos Av.,2000,2033,Tilia,3,Ocupada,Regular,A nivel,15,7
+-58.39074744882421,-34.6317388906508,360818,4,Entre Ríos Av.,2000,2005,Lagerstroemia,3,Ocupada,Regular,A nivel,2,2
+-58.3905752236728,-34.6331584067985,430884,4,Entre Ríos Av.,2100,2139,Ficus,3.2,Ocupada,Regular,A nivel,17,6
+-58.3905752236728,-34.6331584067985,430885,4,Entre Ríos Av.,2100,2139,Ficus,3.2,Ocupada,Regular,A nivel,71,5
+-58.3905752236728,-34.6331584067985,430886,4,Entre Ríos Av.,2100,2139,Ficus,3.2,Ocupada,Regular,A nivel,25,2
+-58.3911219156111,-34.628628346038,503600,4,Entre Ríos Av.,1600,1755,Tilia,3.2,Ocupada,Regular,A Nivel,12,3
+-58.3912029165382,-34.6279353770795,503605,4,Entre Ríos Av.,1600,1655,Ficus,3.2,Ocupada,Regular,A Nivel,15,4
+-58.391210332205496,-34.6278705915784,503606,4,Entre Ríos Av.,1600,1649,Ficus,3.2,Ocupada,Regular,Elevada,10,3
+NA,NA,61112,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,NA,A nivel,43,11
+NA,NA,61114,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,NA,A nivel,41,12
+NA,NA,61037,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,Regular,A nivel,13,4
+NA,NA,61040,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,Regular,A nivel,41,10
+NA,NA,61041,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,Regular,A nivel,43,11
+NA,NA,61042,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,Regular,A nivel,40,11
+NA,NA,64544,1,Entre Ríos Av.,NA,NA,Jacaranda,4,Ocupada,Regular,A nivel,40,7
+NA,NA,64545,1,Entre Ríos Av.,NA,NA,Jacaranda,4,Ocupada,Regular,A nivel,10,3
+NA,NA,64546,1,Entre Ríos Av.,NA,NA,Jacaranda,4,Ocupada,Regular,A nivel,36,8
+NA,NA,64549,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,Regular,Elevada,11,3
+NA,NA,64552,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,Regular,Elevada,13,6
+NA,NA,65550,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,NA,A nivel,30,7
+NA,NA,65553,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,NA,A nivel,36,10
+NA,NA,65555,1,Entre Ríos Av.,NA,NA,Jacaranda,NA,Ocupada,NA,A nivel,36,10

@@ -1,0 +1,86 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.4696106929733,-34.5808403420868,191338,15,Chorroarín Av.,1300.0,1376,Ficus,5.8,Sobreocupada,Regular,Elevada,27,6
+-58.4696106929733,-34.5808403420868,191344,15,Chorroarín Av.,1300.0,1376,Melia,5.8,Sobreocupada,Regular,Elevada,66,3
+-58.4700977327662,-34.586163969092304,192485,15,Chorroarín Av.,900.0,957,Jacaranda,3.2,Ocupada,Regular,A nivel,21,6
+-58.4699823177265,-34.5859657276453,192491,15,Chorroarín Av.,900.0,967,Melia,3.2,Ocupada,Regular,A nivel,80,13
+-58.4694599067665,-34.5837025136733,191102,15,Chorroarín Av.,1100.0,1109,Tilia,3.2,Sobreocupada,Regular,Elevada,28,8
+-58.4696133674251,-34.5811570799623,191370,15,Chorroarín Av.,1300.0,1334,Lagerstroemia,5.8,Ocupada,Regular,Elevada,4,3
+-58.469820127187504,-34.5855299680777,192511,15,Chorroarín Av.,900.0,991,Tilia,3.2,Ocupada,Regular,Elevada,8,3
+-58.4696133674251,-34.5811570799623,191376,15,Chorroarín Av.,1300.0,1334,Lagerstroemia,5.8,Ocupada,Regular,Elevada,4,3
+-58.469500386694,-34.5847931917285,206791,15,Chorroarín Av.,1000.0,1029,Tilia,3.2,Ocupada,Regular,A nivel,14,6
+-58.4783718420187,-34.5985989665347,191936,15,Chorroarín Av.,800.0,87,Ficus,8,Ocupada,Regular,A nivel,25,7
+-58.4696265024199,-34.5823863491927,191720,15,Chorroarín Av.,1200.0,1240,Ficus,5.8,Ocupada,Regular,A nivel,7,5
+-58.4695061176408,-34.584932369364,206610,15,Chorroarín Av.,1000.0,1015,Ficus,3.2,Ocupada,Regular,A nivel,46,8
+-58.47177641720079,-34.5882847709278,191792,15,Chorroarín Av.,800.0,801,Platanus,8,Ocupada,Regular,A nivel,61,16
+-58.4715219878729,-34.5880858904227,191814,15,Chorroarín Av.,800.0,829,Jacaranda,8,Ocupada,Regular,A nivel,31,8
+-58.470832125538,-34.587317106129305,209951,15,Chorroarín Av.,900.0,900,Tilia,3,Ocupada,Regular,Elevada,19,8
+-58.470618122338706,-34.5866306599446,210001,15,Chorroarín Av.,900.0,914,Jacaranda,3,Ocupada,Regular,A nivel,2,3
+-58.4723918656528,-34.588652839255,209713,15,Chorroarín Av.,700.0,788,Ficus,8,Ocupada,Regular,A nivel,8,2
+-58.4705372173464,-34.5864962603931,210026,15,Chorroarín Av.,900.0,924,Jacaranda,3,Ocupada,Regular,Elevada,27,8
+-58.470453716321,-34.5863575477788,210087,15,Chorroarín Av.,900.0,932,Jacaranda,3,Ocupada,Regular,A nivel,3,3
+-58.47271978931789,-34.5889091319574,209576,15,Chorroarín Av.,700.0,738,Melia,8,Ocupada,Regular,A nivel,75,12
+-58.4782081404008,-34.5982259580756,211264,15,Chorroarín Av.,100.0,103,Ficus,3.2,Ocupada,Regular,A nivel,52,9
+-58.4694510096984,-34.5801515250213,202648,15,Chorroarín Av.,1400.0,1421,Ficus,5.8,Sobreocupada,Regular,A nivel,61,12
+-58.4694503092843,-34.5795254920439,202907,15,Chorroarín Av.,1400.0,1469,Melia,5.8,Ocupada,Ochava,A nivel,35,9
+-58.4694503732858,-34.580076071100194,202665,15,Chorroarín Av.,1400.0,1425,Ficus,5.8,Ocupada,Regular,A nivel,27,8
+-58.4694503732858,-34.580076071100194,202690,15,Chorroarín Av.,1400.0,1425,Melia,5.8,Ocupada,Regular,A nivel,52,9
+-58.473626916046705,-34.5897214833373,208885,15,Chorroarín Av.,600.0,651,Melia,8,Ocupada,Regular,A nivel,49,6
+-58.473626916046705,-34.5897214833373,208921,15,Chorroarín Av.,600.0,651,Melia,8,Ocupada,Regular,A nivel,49,10
+-58.473626916046705,-34.5897214833373,208946,15,Chorroarín Av.,600.0,651,Melia,8,Ocupada,Regular,A nivel,50,10
+-58.4694471051315,-34.5796885905902,202750,15,Chorroarín Av.,1400.0,1457,Ficus,5.8,Ocupada,Regular,A nivel,54,7
+-58.473626916046705,-34.5897214833373,208979,15,Chorroarín Av.,600.0,651,Melia,8,Ocupada,Regular,A nivel,16,6
+-58.473626916046705,-34.5897214833373,209034,15,Chorroarín Av.,600.0,651,Melia,8,Ocupada,Regular,A nivel,48,10
+-58.4696044620228,-34.5801453385847,241417,15,Chorroarín Av.,1500.0,1418,Ficus,6.2,Ocupada,Regular,A nivel,22,8
+-58.469428741776,-34.5790619354607,240588,15,Chorroarín Av.,1460.0,1477,Ficus,4.4,Ocupada,Regular,A nivel,9,3
+-58.4695986960752,-34.5794618613618,241149,15,Chorroarín Av.,1500.0,1456,Ficus,6.2,Sobreocupada,Regular,Elevada,14,2
+-58.4696058773541,-34.5803131057971,241503,15,Chorroarín Av.,1500.0,1406,Tilia,6.2,Ocupada,Ochava,A nivel,39,12
+-58.469428741776,-34.5790619354607,240626,15,Chorroarín Av.,1460.0,1477,Ficus,4.4,Ocupada,Regular,A nivel,32,8
+-58.469599354648,-34.5795399272193,241198,15,Chorroarín Av.,1500.0,1450,Tilia,6.2,Ocupada,Regular,Elevada,11,5
+-58.469428741776,-34.5790619354607,240688,15,Chorroarín Av.,1460.0,1477,Tilia,4.4,Ocupada,Ochava,A nivel,14,7
+-58.4696000152759,-34.579618236412,241254,15,Chorroarín Av.,1500.0,1448,Tilia,6.2,Ocupada,Regular,A nivel,57,14
+-58.4696457736881,-34.583218247122694,215554,15,Chorroarín Av.,1100.0,1162.0,Ficus,3.2,Ocupada,Regular,A nivel,2,2
+-58.47850039764529,-34.5989439151549,228674,15,Chorroarín Av.,0.0,53.0,Ficus,3.2,Ocupada,Regular,A nivel,31,5
+-58.4694547371455,-34.5806366203291,229808,15,Chorroarín Av.,1300.0,1395.0,Tilia,5.8,Sobreocupada,Regular,A nivel,25,9
+-58.47514490760299,-34.5908052946442,230135,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Regular,A nivel,15,4
+-58.4694547371455,-34.5806366203291,229859,15,Chorroarín Av.,1300.0,1395.0,Jacaranda,5.8,Ocupada,Ochava,A nivel,18,4
+-58.47514490760299,-34.5908052946442,230174,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Regular,A nivel,18,5
+-58.46945691789411,-34.5808949468815,229710,15,Chorroarín Av.,1300.0,1363.0,Melia,5.8,Ocupada,Regular,A nivel,61,6
+-58.47514490760299,-34.5908052946442,229993,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Fuera de línea,A nivel,15,2
+-58.4785837705954,-34.5991761622208,228582,15,Chorroarín Av.,0.0,27.0,Ficus,3.2,Ocupada,Regular,A nivel,25,4
+-58.4694547371455,-34.5806366203291,229744,15,Chorroarín Av.,1300.0,1395.0,Ficus,5.8,Sobreocupada,Regular,A nivel,132,11
+-58.478472601045,-34.5988693298006,228653,15,Chorroarín Av.,0.0,57.0,Ficus,3.2,Ocupada,Regular,A nivel,25,4
+-58.47514490760299,-34.5908052946442,230084,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Regular,A nivel,15,5
+-58.47514490760299,-34.5908052946442,243197,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Regular,A nivel,20,5
+-58.47514490760299,-34.5908052946442,243474,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Regular,A nivel,20,4
+-58.47514490760299,-34.5908052946442,243233,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Regular,A nivel,25,5
+-58.47514490760299,-34.5908052946442,243277,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Regular,A nivel,15,4
+-58.47514490760299,-34.5908052946442,243311,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Fuera de línea,A nivel,20,4
+-58.47514490760299,-34.5908052946442,243353,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Regular,A nivel,15,5
+-58.47514490760299,-34.5908052946442,243128,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Regular,A nivel,20,4
+-58.47514490760299,-34.5908052946442,243404,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Fuera de línea,A nivel,50,9
+-58.47514490760299,-34.5908052946442,243164,15,Chorroarín Av.,500.0,500.0,Melia,6,Ocupada,Regular,A nivel,20,4
+-58.474171751548994,-34.590046278359104,253391,15,Chorroarín Av.,500.0,600.0,Jacaranda,8,Ocupada,Regular,A nivel,5,3
+-58.4746429818711,-34.5904138757089,253131,15,Chorroarín Av.,500.0,542.0,Ficus,8,Ocupada,Regular,A nivel,30,4
+-58.474171751548994,-34.590046278359104,253430,15,Chorroarín Av.,500.0,600.0,Jacaranda,8,Ocupada,Ochava,A nivel,5,2
+-58.4746429818711,-34.5904138757089,253268,15,Chorroarín Av.,500.0,544.0,Ficus,8,Ocupada,Regular,Elevada,55,9
+-58.474747313583705,-34.5904952621084,253051,15,Chorroarín Av.,500.0,536.0,Ficus,8,Ocupada,Fuera de línea,A nivel,20,3
+-58.4745740706854,-34.590360119791605,253320,15,Chorroarín Av.,500.0,546.0,Melia,8,Ocupada,Regular,A nivel,80,15
+-58.4731977842215,-34.5892865288408,251486,15,Chorroarín Av.,600.0,690.0,Ficus,8,Sobreocupada,Regular,A nivel,20,3
+-58.4735682620815,-34.5895756359926,238190,15,Chorroarín Av.,600.0,658.0,Melia,8,Ocupada,Regular,A nivel,80,14
+-58.4730228735773,-34.5891998823385,251571,15,Chorroarín Av.,600.0,694.0,Ficus,8,Sobreocupada,Ochava,A nivel,40,4
+-58.4732688517195,-34.589342099812896,238246,15,Chorroarín Av.,600.0,688.0,Melia,8,Sobreocupada,Regular,A nivel,45,9
+-58.4730228735773,-34.5891998823385,251612,15,Chorroarín Av.,600.0,694.0,Ficus,8,Sobreocupada,Ochava,A nivel,30,6
+-58.4730228735773,-34.5891998823385,251647,15,Chorroarín Av.,600.0,694.0,Ficus,8,Sobreocupada,Regular,A nivel,35,6
+-58.4694745149664,-34.582587346659004,248659,15,Chorroarín Av.,1200.0,1205.0,Ficus,5.6,Ocupada,Ochava,A nivel,35,4
+-58.4736371493657,-34.589629374999106,238145,15,Chorroarín Av.,600.0,650.0,Melia,8,Ocupada,Regular,A nivel,70,12
+-58.473901727481206,-34.5898357715669,237857,15,Chorroarín Av.,600.0,624.0,Melia,8,Ocupada,Regular,A nivel,70,12
+-58.473901727481206,-34.5898357715669,237925,15,Chorroarín Av.,600.0,624.0,Melia,8,Ocupada,Regular,A nivel,50,9
+-58.47377471355821,-34.5897366885978,237990,15,Chorroarín Av.,600.0,634.0,Melia,8,Ocupada,Regular,A nivel,60,10
+-58.4737053441139,-34.5896825736668,238096,15,Chorroarín Av.,600.0,644.0,Melia,8,Sobreocupada,Regular,A nivel,55,12
+-58.4694699177847,-34.5822219077747,233970,15,Chorroarín Av.,1200.0,1261.0,Ficus,5.8,Ocupada,Regular,Bajo nivel,26,5
+-58.4694664768388,-34.5819483782237,234035,15,Chorroarín Av.,1200.0,1275.0,Tilia,5.8,Ocupada,Regular,A nivel,30,6
+-58.4694728437054,-34.5824544953139,233854,15,Chorroarín Av.,1200.0,1229.0,Ficus,5.8,Ocupada,Regular,Elevada,29,3
+NA,NA,248468,11,Chorroarín Av.,4500,4500.0,Ficus,5,Sobreocupada,Regular,A nivel,48,3
+NA,NA,248291,11,Chorroarín Av.,4400,4454.0,Tilia,4.4,Sobreocupada,Regular,A nivel,45,8
+NA,NA,248446,11,Chorroarín Av.,4500,4500.0,Ficus,5,Sobreocupada,Regular,A nivel,57,3
+-58.474172,-34.590046,209003,15,Chorroarín Av.,600.0,NA,Melia,8,Ocupada,Regular,A nivel,58,10

@@ -1,0 +1,73 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.452718988829496,-34.559618419485695,97276,13,Juramento Av.,1900,1981.0,Platanus,3.6,Ocupada,Regular,Bajo nivel,38,16
+-58.452718988829496,-34.559618419485695,97277,13,Juramento Av.,1900,1981.0,Platanus,3.6,Ocupada,Regular,A nivel,55,25
+-58.4510598258023,-34.5586276254909,105746,13,Juramento Av.,1700,1787.0,Platanus,3.6,Ocupada,Regular,A nivel,60,25
+-58.45030696138099,-34.5582134150277,105747,13,Juramento Av.,1700,1705.0,Platanus,3.6,Ocupada,Regular,Elevada,85,27
+-58.45030696138099,-34.5582134150277,105748,13,Juramento Av.,1700,1705.0,Platanus,3.6,Ocupada,Regular,A nivel,90,27
+-58.4505457720879,-34.5583695581067,105749,13,Juramento Av.,1700,1735.0,Platanus,3.6,Ocupada,Regular,A nivel,50,20
+-58.4505456837329,-34.558369472307,105751,13,Juramento Av.,1700,1719.0,Jacaranda,3.6,Ocupada,Regular,A nivel,2,2
+-58.4507994740664,-34.558472643654596,105753,13,Juramento Av.,1700,1775.0,Ficus,3.6,Ocupada,Regular,Elevada,12,4
+-58.4525641772999,-34.5597293437296,106795,13,Juramento Av.,1900,1970.0,Platanus,3.6,Ocupada,Regular,Elevada,57,23
+-58.452114826122894,-34.5594618999137,106796,13,Juramento Av.,1900,1902.0,Platanus,3.6,Ocupada,Regular,A nivel,19,21
+-58.452660515153106,-34.5597866814459,106799,13,Juramento Av.,1900,1974.0,Platanus,3.6,Ocupada,Regular,Bajo nivel,54,22
+-58.452386937828706,-34.5596238551464,106802,13,Juramento Av.,1900,1948.0,Platanus,3.6,Ocupada,Regular,Elevada,55,25
+-58.4527672994436,-34.5598502364001,106803,13,Juramento Av.,1900,1992.0,Platanus,3.6,Ocupada,Regular,A nivel,54,21
+-58.45138495460379,-34.558821168344004,107200,13,Juramento Av.,1800,1805.0,Platanus,3.6,Ocupada,Regular,Bajo nivel,47,17
+-58.4516164163756,-34.5589589533622,107201,13,Juramento Av.,1800,1823.0,Platanus,3.6,Ocupada,Regular,Bajo nivel,35,15
+-58.4517071182526,-34.559012946300996,107207,13,Juramento Av.,1800,1865.0,Platanus,3.6,Ocupada,Regular,Elevada,40,17
+-58.4516164163756,-34.5589589533622,107212,13,Juramento Av.,1800,1823.0,Platanus,3.6,Ocupada,Regular,Bajo nivel,40,16
+-58.45138495460379,-34.558821168344004,107300,13,Juramento Av.,1800,1805.0,Platanus,3.6,Ocupada,Regular,Bajo nivel,50,17
+-58.4672600196181,-34.568249725563305,109020,13,Juramento Av.,3400,3461.0,Melia,4.5,Ocupada,Regular,A nivel,72,12
+-58.4652784060971,-34.567029521187,109024,13,Juramento Av.,3200,3285.0,Jacaranda,4.5,Ocupada,Regular,A nivel,27,9
+-58.4672600196181,-34.568249725563305,109025,13,Juramento Av.,3400,3461.0,Melia,4.5,Ocupada,Regular,A nivel,68,14
+-58.4581433557056,-34.5629377690695,110389,13,Juramento Av.,2500,2558.0,Ficus,4.4,Ocupada,Regular,Elevada,26,4
+-58.4584265932061,-34.5631048768069,112368,13,Juramento Av.,2500,2596.0,Ficus,4.4,Sobreocupada,Fuera de línea,Elevada,73,11
+-58.4609052450942,-34.564481602867495,113355,13,Juramento Av.,2800,2857.0,Ficus,3.7,Ocupada,Regular,A nivel,45,15
+-58.4609052450942,-34.564481602867495,113361,13,Juramento Av.,2800,2857.0,Ficus,3.7,Ocupada,Regular,A nivel,29,8
+-58.4620554365319,-34.5651641848747,113391,13,Juramento Av.,2900,2981.0,Ficus,4.4,Ocupada,Regular,A nivel,50,9
+-58.4619015714147,-34.565072925615894,113392,13,Juramento Av.,2900,2965.0,Jacaranda,4.4,Ocupada,Regular,A nivel,33,16
+-58.46195285975339,-34.5651033453815,113398,13,Juramento Av.,2900,2973.0,Jacaranda,4.4,Ocupada,Regular,A nivel,32,18
+-58.462153404221,-34.5652222904928,113419,13,Juramento Av.,2900,2989.0,Ficus,4.4,Ocupada,Regular,A nivel,14,3
+-58.4593747984496,-34.5635738600221,115127,13,Juramento Av.,2600,2693.0,Ficus,3.8,Sobreocupada,Ochava,Elevada,29,13
+-58.4593035459088,-34.5636240041386,115154,13,Juramento Av.,2600,2694.0,Ficus,3.8,Sobreocupada,Ochava,Elevada,22,10
+-58.4593747984496,-34.5635738600221,115157,13,Juramento Av.,2600,2693.0,Ficus,3.8,Sobreocupada,Ochava,Elevada,30,13
+-58.459705400043,-34.563769516269396,115175,13,Juramento Av.,2700,2715.0,Ficus,3.8,Sobreocupada,Regular,A nivel,7,2
+-58.4639347543035,-34.566369682792605,116236,13,Juramento Av.,3100,3156.0,Tilia,4.4,Ocupada,Regular,A nivel,22,9
+-58.46820562579921,-34.5689003412068,116264,13,Juramento Av.,3500,3544.0,Platanus,4.3,Sobreocupada,Regular,A nivel,71,21
+-58.46820562579921,-34.5689003412068,116266,13,Juramento Av.,3500,3544.0,Platanus,4.3,Ocupada,Regular,Bajo nivel,82,22
+-58.46820562579921,-34.5689003412068,116268,13,Juramento Av.,3500,3544.0,Platanus,4.3,Sobreocupada,Ochava,A nivel,67,21
+-58.46820562579921,-34.5689003412068,116272,13,Juramento Av.,3500,3544.0,Platanus,4.3,Ocupada,Regular,Elevada,67,19
+-58.46718159958379,-34.5682941668557,116316,13,Juramento Av.,3400,3456.0,Melia,4.4,Ocupada,Regular,Elevada,76,15
+-58.4672747545792,-34.568349348847605,116317,13,Juramento Av.,3400,3474.0,Melia,4.4,Ocupada,Ochava,Elevada,57,9
+-58.467089652016895,-34.5682396999484,116319,13,Juramento Av.,3400,3444.0,Ficus,4.4,Ocupada,Regular,Bajo nivel,72,9
+-58.46696093832521,-34.5681634536967,116325,13,Juramento Av.,3400,3436.0,Ficus,4.4,Ocupada,Regular,Bajo nivel,45,5
+-58.4667110044839,-34.5680153993381,116327,13,Juramento Av.,3400,3402.0,Tilia,4.4,Ocupada,Regular,Elevada,40,13
+-58.467089652016895,-34.5682396999484,116328,13,Juramento Av.,3400,3450.0,Ficus,4.4,Ocupada,Regular,Bajo nivel,52,10
+-58.4683096635713,-34.568961287607,118858,13,Juramento Av.,3500,3566.0,Platanus,4.3,Sobreocupada,Regular,Elevada,72,20
+-58.4685030200398,-34.569074590486395,118861,13,Juramento Av.,3500,3576.0,Platanus,4.3,Sobreocupada,Ochava,Elevada,74,19
+-58.46820562579921,-34.5689003412068,118863,13,Juramento Av.,3500,3544.0,Platanus,4.3,Sobreocupada,Regular,Bajo nivel,70,22
+-58.4683096635713,-34.568961287607,118866,13,Juramento Av.,3500,3566.0,Platanus,4.3,Ocupada,Regular,Elevada,65,18
+-58.4685030200398,-34.569074590486395,118867,13,Juramento Av.,3500,3576.0,Platanus,4.3,Sobreocupada,Regular,Elevada,76,19
+-58.4683096425751,-34.5689612864541,118869,13,Juramento Av.,3500,3552.0,Platanus,4.3,Sobreocupada,Regular,Elevada,73,21
+-58.46820562579921,-34.5689003412068,118870,13,Juramento Av.,3500,3544.0,Platanus,4.3,Sobreocupada,Regular,Bajo nivel,57,22
+-58.4440507574203,-34.554472385121,121628,13,Juramento Av.,1100,1167.0,Ficus,4.4,Ocupada,Regular,A nivel,30,5
+-58.4440507574203,-34.554472385121,121636,13,Juramento Av.,1100,1167.0,Ficus,4.4,Ocupada,Regular,A nivel,35,6
+-58.4620823550337,-34.5652718593008,143381,13,Juramento Av.,2900,2984.0,Ficus,4.8,Ocupada,Regular,Elevada,50,12
+-58.4657798770267,-34.5674625233715,152909,13,Juramento Av.,3300,3340.0,Melia,4.4,Ocupada,Ochava,Bajo nivel,63,12
+-58.4662498744907,-34.5677409682876,152930,13,Juramento Av.,3300,3370.0,Melia,4.4,Ocupada,Regular,Elevada,75,11
+-58.4663991218962,-34.5678293875362,152934,13,Juramento Av.,3300,3390.0,Lagerstroemia,4.4,Ocupada,Ochava,Elevada,11,5
+-58.4657798770267,-34.5674625233715,152945,13,Juramento Av.,3300,3340.0,Melia,4.4,Ocupada,Regular,Bajo nivel,47,9
+-58.4657798770267,-34.5674625233715,152952,13,Juramento Av.,3300,3340.0,Melia,4.4,Ocupada,Regular,Bajo nivel,53,9
+-58.4657798770267,-34.5674625233715,152956,13,Juramento Av.,3300,3340.0,Melia,4.4,Ocupada,Regular,Bajo nivel,65,12
+-58.46097375448689,-34.5646147404166,159103,13,Juramento Av.,2800,2892.0,Ficus,13.6,Ocupada,Fuera de línea,A nivel,68,4
+-58.46097375448689,-34.5646147404166,159104,13,Juramento Av.,2800,2890.0,Ficus,13.6,Sobreocupada,Fuera de línea,A nivel,62,4
+-58.46097375448689,-34.5646147404166,159106,13,Juramento Av.,2800,2892.0,Ficus,13.6,Sobreocupada,Fuera de línea,A nivel,68,5
+-58.460467257428,-34.5643143436778,159108,13,Juramento Av.,2800,2806.0,Ficus,13.6,Sobreocupada,Fuera de línea,Elevada,40,5
+-58.46309526575911,-34.565874193750894,161092,13,Juramento Av.,3000,3100.0,Melia,4.8,Ocupada,Ochava,A nivel,72,17
+-58.4628881408294,-34.565751350338104,161096,13,Juramento Av.,3000,3060.0,Tilia,4.8,Sobreocupada,Regular,Elevada,21,10
+-58.4653266764897,-34.5671877536573,407208,13,Juramento Av.,3200.0,3298,Jacaranda,4,Ocupada,Regular,A nivel,19,5
+-58.4653266764897,-34.5671877536573,407284,13,Juramento Av.,3200.0,3298,Jacaranda,4,Ocupada,Regular,A nivel,16,5
+-58.464557349183906,-34.5667282179477,407286,13,Juramento Av.,3200.0,3216,Jacaranda,4.4,Ocupada,Regular,A nivel,5,2
+-58.449933,-34.558065,164443,13,Juramento Av.,1700,NA,Platanus,3.2,Ocupada,Regular,A nivel,46,14
+-58.449933,-34.558065,164446,13,Juramento Av.,1700,NA,Platanus,3.2,Ocupada,Regular,A nivel,44,18
+-58.449933,-34.558065,164462,13,Juramento Av.,1700,NA,Platanus,3.2,Ocupada,Regular,A nivel,5,4

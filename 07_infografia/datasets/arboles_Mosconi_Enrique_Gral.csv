@@ -1,0 +1,170 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+NA,NA,229524,11,Mosconi Enrique Gral. Av.,4500,4482.0,Lagerstroemia,4.8,Ocupada,Regular,A nivel,11,6
+NA,NA,230651,11,Mosconi Enrique Gral. Av.,4650,4424.0,Tilia,4.8,Ocupada,Regular,A nivel,33,9
+NA,NA,229551,11,Mosconi Enrique Gral. Av.,4500,4480.0,Lagerstroemia,4.8,Ocupada,Regular,A nivel,14,3
+NA,NA,230691,11,Mosconi Enrique Gral. Av.,4650,4412.0,Tilia,4.8,Ocupada,Regular,A nivel,41,13
+NA,NA,230750,11,Mosconi Enrique Gral. Av.,4450,4412.0,Tilia,4.8,Ocupada,Ochava,A nivel,36,14
+NA,NA,230565,11,Mosconi Enrique Gral. Av.,4450,4442.0,Melia,4.8,Ocupada,Ochava,A nivel,72,15
+NA,NA,229463,11,Mosconi Enrique Gral. Av.,4500,4492.0,Melia,4.8,Sobreocupada,Regular,Elevada,84,16
+NA,NA,230617,11,Mosconi Enrique Gral. Av.,4450,4432.0,Tilia,4.8,Sobreocupada,Regular,Elevada,35,12
+NA,NA,229505,11,Mosconi Enrique Gral. Av.,4500,4488.0,Tilia,4.8,Ocupada,Regular,A nivel,28,12
+NA,NA,246897,11,Mosconi Enrique Gral. Av.,4400,4348.0,Tilia,4.8,Ocupada,Regular,A nivel,38,12
+NA,NA,246926,11,Mosconi Enrique Gral. Av.,4400,4346.0,Lagerstroemia,4.8,Ocupada,Regular,A nivel,25,9
+NA,NA,225768,11,Mosconi Enrique Gral. Av.,4200,4288.0,Jacaranda,2.8,Ocupada,Regular,A nivel,39,7
+NA,NA,225807,11,Mosconi Enrique Gral. Av.,4200,4240.0,Lagerstroemia,2.8,Sobreocupada,Regular,A nivel,7,5
+NA,NA,225823,11,Mosconi Enrique Gral. Av.,4200,4236.0,Tilia,2.8,Ocupada,Regular,A nivel,14,7
+NA,NA,243464,11,Mosconi Enrique Gral. Av.,4500,4526.0,Platanus,4.4,Ocupada,Regular,A nivel,87,10
+NA,NA,243908,11,Mosconi Enrique Gral. Av.,4200,4219.0,Lagerstroemia,2.2,Ocupada,Regular,Bajo nivel,4,3
+NA,NA,243923,11,Mosconi Enrique Gral. Av.,4200,4223.0,Tilia,2.2,Ocupada,Regular,A nivel,16,7
+NA,NA,254189,11,Mosconi Enrique Gral. Av.,4000,4008.0,Ficus,4.4,Ocupada,Regular,A nivel,22,2
+NA,NA,254269,11,Mosconi Enrique Gral. Av.,4000,4054.0,Jacaranda,4.4,Ocupada,Regular,A nivel,3,2
+NA,NA,271961,11,Mosconi Enrique Gral. Av.,4000,4051.0,Melia,4.4,Ocupada,Regular,A nivel,38,8
+NA,NA,271964,11,Mosconi Enrique Gral. Av.,4000,4065.0,Melia,4.4,Ocupada,Regular,A nivel,70,8
+NA,NA,265486,11,Mosconi Enrique Gral. Av.,3800,3800.0,Melia,4.4,Ocupada,Regular,A nivel,20,5
+NA,NA,277715,11,Mosconi Enrique Gral. Av.,4100,4144.0,Melia,4.4,Ocupada,Regular,Bajo nivel,19,11
+NA,NA,277717,11,Mosconi Enrique Gral. Av.,4100,4150.0,Platanus,4.4,Ocupada,Regular,A nivel,7,5
+NA,NA,277720,11,Mosconi Enrique Gral. Av.,4100,4176.0,Jacaranda,4.4,Ocupada,Regular,Elevada,17,6
+NA,NA,277723,11,Mosconi Enrique Gral. Av.,4100,4190.0,Melia,4.4,Sobreocupada,Regular,Elevada,91,12
+NA,NA,277724,11,Mosconi Enrique Gral. Av.,4100,4194.0,Melia,4.4,Sobreocupada,Regular,Elevada,51,9
+NA,NA,277725,11,Mosconi Enrique Gral. Av.,4100,4198.0,Ficus,4.4,Sobreocupada,Ochava,Elevada,43,5
+NA,NA,277775,11,Mosconi Enrique Gral. Av.,4100,4197.0,Ficus,4.2,Ocupada,Ochava,A nivel,102,6
+NA,NA,277778,11,Mosconi Enrique Gral. Av.,4100,4185.0,Jacaranda,4.2,Ocupada,Regular,A nivel,10,6
+NA,NA,277783,11,Mosconi Enrique Gral. Av.,4100,4133.0,Jacaranda,4.2,Ocupada,Regular,A nivel,12,7
+NA,NA,289830,11,Mosconi Enrique Gral. Av.,3800,3800.0,Melia,4.4,Ocupada,Regular,A nivel,19,7
+NA,NA,291469,11,Mosconi Enrique Gral. Av.,3900,3984.0,Melia,4.6,Sobreocupada,Regular,Elevada,54,8
+NA,NA,291470,11,Mosconi Enrique Gral. Av.,3900,3980.0,Melia,4.6,Ocupada,Regular,A nivel,66,9
+NA,NA,291471,11,Mosconi Enrique Gral. Av.,3900,3950.0,Melia,4.6,Sobreocupada,Regular,A nivel,52,7
+NA,NA,291472,11,Mosconi Enrique Gral. Av.,3900,3950.0,Melia,4.6,Sobreocupada,Regular,A nivel,21,6
+NA,NA,294269,11,Mosconi Enrique Gral. Av.,3800,3887.0,Platanus,44,Ocupada,Regular,A nivel,86,9
+NA,NA,294271,11,Mosconi Enrique Gral. Av.,3800,3879.0,Platanus,4.4,Ocupada,Regular,A nivel,54,11
+NA,NA,294272,11,Mosconi Enrique Gral. Av.,3800,3871.0,Platanus,4.4,Ocupada,Regular,A nivel,56,14
+NA,NA,294273,11,Mosconi Enrique Gral. Av.,3800,3871.0,Platanus,4.4,Ocupada,Regular,A nivel,52,15
+NA,NA,294274,11,Mosconi Enrique Gral. Av.,3800,3871.0,Platanus,4.4,Ocupada,Regular,A nivel,57,14
+NA,NA,294275,11,Mosconi Enrique Gral. Av.,3800,3871.0,Platanus,4.4,Ocupada,Regular,A nivel,51,15
+NA,NA,294276,11,Mosconi Enrique Gral. Av.,3800,3871.0,Platanus,4.4,Ocupada,Regular,A nivel,57,14
+NA,NA,294277,11,Mosconi Enrique Gral. Av.,3800,3871.0,Platanus,4.4,Ocupada,Regular,A nivel,59,14
+NA,NA,294279,11,Mosconi Enrique Gral. Av.,3800,3845.0,Platanus,4.4,Ocupada,Regular,Elevada,63,15
+NA,NA,294280,11,Mosconi Enrique Gral. Av.,3800,3845.0,Platanus,4.4,Ocupada,Regular,A nivel,57,16
+NA,NA,294281,11,Mosconi Enrique Gral. Av.,3800,3845.0,Platanus,4.4,Ocupada,Regular,A nivel,62,15
+NA,NA,294282,11,Mosconi Enrique Gral. Av.,3800,3845.0,Platanus,4.4,Ocupada,Regular,A nivel,57,16
+NA,NA,294283,11,Mosconi Enrique Gral. Av.,3800,3845.0,Platanus,4.4,Ocupada,Regular,A nivel,64,16
+NA,NA,294887,11,Mosconi Enrique Gral. Av.,3700,3700.0,Jacaranda,4.2,Ocupada,Regular,A nivel,17,6
+NA,NA,294889,11,Mosconi Enrique Gral. Av.,4700,4700.0,Melia,4.2,Ocupada,Regular,A nivel,76,10
+NA,NA,294890,11,Mosconi Enrique Gral. Av.,3700,3700.0,Melia,4.2,Ocupada,Regular,A nivel,74,9
+NA,NA,294891,11,Mosconi Enrique Gral. Av.,3700,3700.0,Melia,4.2,Ocupada,Regular,A nivel,31,8
+NA,NA,294892,11,Mosconi Enrique Gral. Av.,3700,3700.0,Jacaranda,4.2,Ocupada,Regular,A nivel,12,6
+NA,NA,294893,11,Mosconi Enrique Gral. Av.,3700,3700.0,Melia,4.2,Ocupada,Regular,A nivel,72,9
+NA,NA,294894,11,Mosconi Enrique Gral. Av.,3700,3700.0,Jacaranda,4.2,Ocupada,Regular,A nivel,1,2
+NA,NA,294895,11,Mosconi Enrique Gral. Av.,3700,3700.0,Jacaranda,4.2,Ocupada,Regular,A nivel,12,6
+NA,NA,294896,11,Mosconi Enrique Gral. Av.,3700,3700.0,Jacaranda,4.2,Ocupada,Regular,A nivel,13,5
+NA,NA,294897,11,Mosconi Enrique Gral. Av.,3700,3700.0,Jacaranda,4.2,Ocupada,Regular,A nivel,16,6
+NA,NA,294899,11,Mosconi Enrique Gral. Av.,3700,3700.0,Melia,4.2,Ocupada,Regular,A nivel,51,9
+NA,NA,294900,11,Mosconi Enrique Gral. Av.,3700,3700.0,Melia,4.2,Ocupada,Regular,A nivel,15,6
+NA,NA,294901,11,Mosconi Enrique Gral. Av.,3700,3700.0,Melia,4.2,Ocupada,Regular,A nivel,80,9
+NA,NA,279894,11,Mosconi Enrique Gral. Av.,3450,3496.0,Melia,4,Ocupada,Ochava,A nivel,100,15
+NA,NA,279895,11,Mosconi Enrique Gral. Av.,3450,3496.0,Melia,4,Ocupada,Regular,A nivel,68,15
+NA,NA,279897,11,Mosconi Enrique Gral. Av.,3450,3482.0,Melia,4,Ocupada,Regular,Elevada,104,16
+NA,NA,279899,11,Mosconi Enrique Gral. Av.,3450,3472.0,Melia,4,Ocupada,Regular,A nivel,69,13
+NA,NA,279901,11,Mosconi Enrique Gral. Av.,3400,3446.0,Ficus,4,Ocupada,Regular,Elevada,8,3
+NA,NA,279905,11,Mosconi Enrique Gral. Av.,3400,3420.0,Melia,4,Ocupada,Regular,A nivel,90,13
+NA,NA,279906,11,Mosconi Enrique Gral. Av.,3400,3416.0,Melia,4,Ocupada,Regular,A nivel,100,14
+NA,NA,279907,11,Mosconi Enrique Gral. Av.,3400,3402.0,Melia,4,Ocupada,Ochava,A nivel,110,17
+NA,NA,305649,11,Mosconi Enrique Gral. Av.,3700,3719.0,Melia,4.4,Ocupada,Regular,A nivel,64,9
+NA,NA,305651,11,Mosconi Enrique Gral. Av.,3700,3725.0,Melia,4.4,Ocupada,Regular,A nivel,59,11
+NA,NA,305656,11,Mosconi Enrique Gral. Av.,3700,3767.0,Jacaranda,4.4,Ocupada,Regular,A nivel,33,8
+NA,NA,305658,11,Mosconi Enrique Gral. Av.,3700,3785.0,Jacaranda,4.4,Ocupada,Regular,A nivel,36,9
+NA,NA,305660,11,Mosconi Enrique Gral. Av.,3700,3793.0,Lagerstroemia,4.4,Ocupada,Ochava,A nivel,20,6
+NA,NA,304962,11,Mosconi Enrique Gral. Av.,3600,3619.0,Lagerstroemia,4.4,Ocupada,Regular,A nivel,7,3
+NA,NA,304966,11,Mosconi Enrique Gral. Av.,3600,3655.0,Ficus,4.4,Ocupada,Regular,A nivel,8,2
+NA,NA,304969,11,Mosconi Enrique Gral. Av.,3600,3681.0,Ficus,4.4,Ocupada,Regular,A nivel,37,13
+NA,NA,312753,11,Mosconi Enrique Gral. Av.,3300,3388.0,Melia,4,Ocupada,Regular,A nivel,44,8
+NA,NA,312758,11,Mosconi Enrique Gral. Av.,3300,3350.0,Melia,4,Ocupada,Regular,A nivel,95,12
+NA,NA,312759,11,Mosconi Enrique Gral. Av.,3300,3346.0,Melia,4,Ocupada,Regular,A nivel,56,10
+NA,NA,312760,11,Mosconi Enrique Gral. Av.,3300,3346.0,Melia,4,Ocupada,Regular,A nivel,70,11
+NA,NA,312763,11,Mosconi Enrique Gral. Av.,3300,3308.0,Melia,4,Ocupada,Ochava,A nivel,34,6
+NA,NA,297726,11,Mosconi Enrique Gral. Av.,3900,3991.0,Ficus,4.8,Ocupada,Regular,Elevada,15,2
+NA,NA,297727,11,Mosconi Enrique Gral. Av.,3900,3991.0,Ficus,4.8,Sobreocupada,Regular,Elevada,18,6
+NA,NA,297731,11,Mosconi Enrique Gral. Av.,3900,3913.0,Melia,4.8,Sobreocupada,Regular,A nivel,3,2
+NA,NA,297733,11,Mosconi Enrique Gral. Av.,3900,3913.0,Melia,4.8,Ocupada,Regular,A nivel,67,10
+NA,NA,297734,11,Mosconi Enrique Gral. Av.,3900,3913.0,Melia,4.8,Sobreocupada,Regular,Elevada,27,10
+NA,NA,297735,11,Mosconi Enrique Gral. Av.,3900,3913.0,Melia,4.8,Sobreocupada,Ochava,Elevada,76,9
+NA,NA,326613,11,Mosconi Enrique Gral. Av.,3300,3321.0,Ficus,4,Ocupada,Regular,A nivel,25,7
+NA,NA,326620,11,Mosconi Enrique Gral. Av.,3300,3393.0,Melia,4,Ocupada,Ochava,A nivel,80,10
+NA,NA,335991,11,Mosconi Enrique Gral. Av.,3500,3514.0,Melia,4.4,Ocupada,Regular,A nivel,68,18
+NA,NA,332461,11,Mosconi Enrique Gral. Av.,3500,3511.0,Melia,4.2,Ocupada,Regular,A nivel,54,22
+NA,NA,332462,11,Mosconi Enrique Gral. Av.,3500,3519.0,Melia,4.5,Ocupada,Regular,A nivel,92,12
+NA,NA,416757,11,Mosconi Enrique Gral. Av.,3600,3688.0,Platanus,4.4,Ocupada,Regular,A nivel,75,20
+NA,NA,416758,11,Mosconi Enrique Gral. Av.,3600,3686.0,Platanus,4.4,Ocupada,Regular,A nivel,100,21
+NA,NA,416760,11,Mosconi Enrique Gral. Av.,3600,3672.0,Tilia,4.4,Ocupada,Regular,A nivel,27,13
+NA,NA,416761,11,Mosconi Enrique Gral. Av.,3600,3662.0,Melia,4.4,Ocupada,Regular,A nivel,70,16
+NA,NA,416765,11,Mosconi Enrique Gral. Av.,3600,3644.0,Jacaranda,4.4,Ocupada,Regular,A nivel,17,8
+NA,NA,416766,11,Mosconi Enrique Gral. Av.,3600,3644.0,Jacaranda,4.4,Sobreocupada,Regular,A nivel,42,14
+NA,NA,416769,11,Mosconi Enrique Gral. Av.,3600,3620.0,Platanus,4.4,Ocupada,Regular,A nivel,95,16
+NA,NA,158591,12,Mosconi Enrique Gral. Av.,3200.0,3207.0,Melia,4,Ocupada,Ochava,Bajo nivel,90,11
+NA,NA,156200,12,Mosconi Enrique Gral. Av.,3200.0,3285.0,Ficus,4.2,Ocupada,Fuera de línea,Elevada,17,6
+NA,NA,158678,12,Mosconi Enrique Gral. Av.,3100.0,3189.0,Ficus,4,Ocupada,Regular,Elevada,24,5
+NA,NA,160909,12,Mosconi Enrique Gral. Av.,3200.0,3243.0,Melia,4,Ocupada,Regular,A nivel,90,17
+NA,NA,168871,12,Mosconi Enrique Gral. Av.,2800.0,2900.0,Melia,4,Ocupada,Regular,A nivel,30,9
+NA,NA,171275,12,Mosconi Enrique Gral. Av.,2400.0,2446.0,Tilia,4.4,Ocupada,Regular,A nivel,10,3
+NA,NA,168896,12,Mosconi Enrique Gral. Av.,2800.0,2886.0,Ficus,4,Ocupada,Regular,Bajo nivel,48,9
+NA,NA,168898,12,Mosconi Enrique Gral. Av.,2800.0,2826.0,Ficus,4,Sobreocupada,Regular,Elevada,14,4
+NA,NA,168899,12,Mosconi Enrique Gral. Av.,2800.0,2884.0,Ficus,4,Ocupada,Regular,A nivel,26,4
+NA,NA,168902,12,Mosconi Enrique Gral. Av.,2800.0,2882.0,Ficus,4,Ocupada,Fuera de línea,A nivel,38,8
+NA,NA,168908,12,Mosconi Enrique Gral. Av.,2800.0,2816.0,Melia,4.4,Ocupada,Regular,A nivel,73,12
+NA,NA,168909,12,Mosconi Enrique Gral. Av.,2800.0,2874.0,Melia,4,Ocupada,Regular,A nivel,24,6
+NA,NA,174000,12,Mosconi Enrique Gral. Av.,3100.0,3180.0,Melia,4,Ocupada,Regular,Elevada,61,12
+NA,NA,174001,12,Mosconi Enrique Gral. Av.,3100.0,3190.0,Melia,4,Ocupada,Regular,A nivel,86,16
+NA,NA,174002,12,Mosconi Enrique Gral. Av.,3100.0,3106.0,Melia,4,Ocupada,Regular,A nivel,59,7
+NA,NA,172712,12,Mosconi Enrique Gral. Av.,3000.0,3022.0,Platanus,4,Ocupada,Regular,A nivel,44,16
+NA,NA,172713,12,Mosconi Enrique Gral. Av.,3000.0,3022.0,Platanus,4,Ocupada,Regular,A nivel,46,16
+NA,NA,172714,12,Mosconi Enrique Gral. Av.,3000.0,3022.0,Platanus,4,Ocupada,Regular,A nivel,72,16
+NA,NA,172715,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,46,16
+NA,NA,172716,12,Mosconi Enrique Gral. Av.,3000.0,3022.0,Platanus,4,Ocupada,Regular,Bajo nivel,50,16
+NA,NA,172718,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,58,16
+NA,NA,174018,12,Mosconi Enrique Gral. Av.,3100.0,3166.0,Melia,4,Ocupada,Regular,A nivel,51,10
+NA,NA,172719,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,77,16
+NA,NA,172720,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,50,16
+NA,NA,172721,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,59,16
+NA,NA,172722,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,54,16
+NA,NA,172723,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,52,16
+NA,NA,172724,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,49,16
+NA,NA,172725,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,52,16
+NA,NA,172726,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,53,16
+NA,NA,172728,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,55,16
+NA,NA,172729,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,51,16
+NA,NA,172730,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,54,16
+NA,NA,172731,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,37,15
+NA,NA,172732,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,Elevada,34,16
+NA,NA,172739,12,Mosconi Enrique Gral. Av.,3000.0,3054.0,Platanus,4,Ocupada,Regular,A nivel,74,16
+NA,NA,173530,12,Mosconi Enrique Gral. Av.,2300.0,2396.0,Ficus,4.3,Ocupada,Regular,A nivel,35,6
+NA,NA,176921,12,Mosconi Enrique Gral. Av.,2900.0,2996.0,Platanus,4,Ocupada,Regular,Elevada,71,15
+NA,NA,176922,12,Mosconi Enrique Gral. Av.,2900.0,2952.0,Melia,4,Ocupada,Ochava,A nivel,91,12
+NA,NA,176926,12,Mosconi Enrique Gral. Av.,2900.0,2924.0,Melia,4,Ocupada,Regular,Elevada,34,3
+NA,NA,179847,12,Mosconi Enrique Gral. Av.,4600.0,2156.0,Ficus,5,Ocupada,Regular,A nivel,11,4
+NA,NA,176700,12,Mosconi Enrique Gral. Av.,3200.0,3280.0,Melia,4,Ocupada,Regular,Elevada,57,8
+NA,NA,178011,12,Mosconi Enrique Gral. Av.,2200.0,2268.0,Ficus,4,Ocupada,Regular,A nivel,32,6
+NA,NA,178013,12,Mosconi Enrique Gral. Av.,2600.0,2620.0,Ficus,4,Ocupada,Regular,A nivel,26,8
+NA,NA,178021,12,Mosconi Enrique Gral. Av.,2200.0,2254.0,Tilia,4,Ocupada,Regular,Elevada,12,5
+NA,NA,178026,12,Mosconi Enrique Gral. Av.,2200.0,2244.0,Ficus,4,Ocupada,Regular,Elevada,34,5
+NA,NA,176721,12,Mosconi Enrique Gral. Av.,3200.0,3242.0,Melia,4,Ocupada,Regular,A nivel,78,14
+NA,NA,178027,12,Mosconi Enrique Gral. Av.,2200.0,2236.0,Ficus,4,Ocupada,Regular,A nivel,65,7
+NA,NA,178028,12,Mosconi Enrique Gral. Av.,2200.0,2228.0,Ficus,4,Ocupada,Regular,A nivel,39,4
+NA,NA,178030,12,Mosconi Enrique Gral. Av.,2200.0,2226.0,Ficus,4,Ocupada,Regular,Elevada,35,4
+NA,NA,179352,12,Mosconi Enrique Gral. Av.,2500.0,2582.0,Ficus,4.4,Ocupada,Regular,A nivel,26,7
+NA,NA,179355,12,Mosconi Enrique Gral. Av.,2500.0,2530.0,Jacaranda,4.4,Ocupada,Regular,A nivel,24,9
+NA,NA,178851,12,Mosconi Enrique Gral. Av.,2600.0,2623.0,Melia,4,Ocupada,Regular,Bajo nivel,44,12
+NA,NA,179218,12,Mosconi Enrique Gral. Av.,2700.0,2731.0,Melia,4,Ocupada,Regular,A nivel,40,11
+NA,NA,180588,12,Mosconi Enrique Gral. Av.,2300.0,2321.0,Platanus,5,Ocupada,Regular,A nivel,135,18
+NA,NA,180590,12,Mosconi Enrique Gral. Av.,2300.0,2373.0,Ficus,5,Sobreocupada,Regular,Elevada,40,4
+NA,NA,185695,12,Mosconi Enrique Gral. Av.,2200,2293.0,Ficus,5,Ocupada,Regular,A nivel,15,3
+NA,NA,186014,12,Mosconi Enrique Gral. Av.,2100,2125.0,Ficus,5,Sobreocupada,Regular,A nivel,4,2
+NA,NA,186015,12,Mosconi Enrique Gral. Av.,2100,2179.0,Ficus,5,Ocupada,Regular,A nivel,8,2
+NA,NA,263750,12,Mosconi Enrique Gral. Av.,3050,3093.0,Ficus,4.6,Ocupada,Regular,A nivel,14,7
+NA,NA,263778,12,Mosconi Enrique Gral. Av.,3000,3037.0,Ficus,4,Ocupada,Regular,Elevada,11,3
+NA,NA,263779,12,Mosconi Enrique Gral. Av.,3000,3055.0,Ficus,4,Ocupada,Regular,Elevada,12,3
+NA,NA,273881,12,Mosconi Enrique Gral. Av.,3100,3143.0,Melia,4,Ocupada,Regular,A nivel,65,10
+NA,NA,430910,12,Mosconi Enrique Gral. Av.,2400,2415.0,Melia,4,Ocupada,Regular,A nivel,73,14
+NA,NA,430913,12,Mosconi Enrique Gral. Av.,2400,2455.0,Lagerstroemia,4,Sobreocupada,Regular,A nivel,8,5
+NA,NA,430915,12,Mosconi Enrique Gral. Av.,2400,2475.0,Ficus,4,Sobreocupada,Regular,Elevada,6,2
+NA,NA,430916,12,Mosconi Enrique Gral. Av.,2400,2481.0,Ficus,4,Sobreocupada,Regular,Elevada,6,2
+NA,NA,243484,15,Mosconi Enrique Gral. Av.,4500.0,4526.0,Platanus,4.4,Ocupada,Regular,A nivel,63,10

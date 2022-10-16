@@ -1,0 +1,138 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.433628224957104,-34.6348424169603,312350,7,Castañares Av.,1000.0,1038.0,Melia,5.6,Ocupada,Regular,Elevada,34,10
+-58.433628224957104,-34.6348424169603,312351,7,Castañares Av.,1000.0,1038.0,Tilia,5.6,Ocupada,Regular,Elevada,15,6
+-58.4331587819902,-34.6344522788829,312357,7,Castañares Av.,1000.0,1014.0,Ficus,5.6,Ocupada,Regular,A nivel,55,9
+-58.435776520815494,-34.636232624703695,306162,7,Castañares Av.,1200.0,1247.0,Melia,5.6,Sobreocupada,Regular,A nivel,66,9
+-58.4358724343985,-34.6362977634578,306165,7,Castañares Av.,1200.0,1261.0,Melia,5.6,Ocupada,Regular,Elevada,80,10
+-58.4359666156731,-34.6363617255539,306166,7,Castañares Av.,1200.0,1269.0,Melia,5.6,Ocupada,Regular,A nivel,78,11
+-58.4368206394652,-34.636946434840105,313843,7,Castañares Av.,1300.0,1305.0,Melia,6,Sobreocupada,Regular,A nivel,22,5
+-58.4369137130719,-34.6370096371162,313845,7,Castañares Av.,1300.0,1307.0,Ficus,6,Sobreocupada,Regular,A nivel,19,4
+-58.437152178290994,-34.6371715678234,313847,7,Castañares Av.,1300.0,1323.0,Ficus,6,Sobreocupada,Regular,Elevada,51,8
+-58.4388310294829,-34.6383237131918,313878,7,Castañares Av.,1400.0,1469.0,Ficus,6,Ocupada,Regular,A nivel,38,5
+-58.4386152286797,-34.6381726239177,313879,7,Castañares Av.,1400.0,1453.0,Melia,6,Ocupada,Regular,Bajo nivel,16,2
+-58.4368206394652,-34.636946434840105,313790,7,Castañares Av.,1300.0,1305,Melia,6,Sobreocupada,Ochava,A nivel,19,5
+-58.4368206394652,-34.636946434840105,313791,7,Castañares Av.,1300.0,1305,Melia,6,Ocupada,Regular,A nivel,48,8
+-58.437307888460296,-34.637277302810695,313795,7,Castañares Av.,1300.0,1351,Melia,6,Ocupada,Regular,A nivel,76,10
+-58.4377775392855,-34.6375967138043,313799,7,Castañares Av.,1300.0,1395,Melia,6,Ocupada,Ochava,A nivel,61,7
+-58.43898177881721,-34.6384253586366,313824,7,Castañares Av.,1400.0,1491,Melia,6,Ocupada,Ochava,A nivel,57,9
+-58.437138562374294,-34.6373254433314,318531,7,Castañares Av.,1300.0,1348,Ficus,6,Ocupada,Regular,A nivel,19,6
+-58.4367980352009,-34.6370942070988,318536,7,Castañares Av.,1300.0,1310,Jacaranda,6,Sobreocupada,Regular,Elevada,29,8
+-58.4422270420408,-34.641170134765204,321011,7,Castañares Av.,1700.0,1768,Melia,6,Ocupada,Regular,A nivel,30,7
+-58.4420494029646,-34.6410254676022,321014,7,Castañares Av.,1700.0,1738,Tilia,6,Ocupada,Regular,A nivel,48,9
+-58.43721194593821,-34.637375274415,318584,7,Castañares Av.,1300.0,1352,Tilia,6,Sobreocupada,Regular,Elevada,13,4
+-58.4410813495265,-34.6402371341434,317153,7,Castañares Av.,1600.0,1634,Melia,6,Ocupada,Regular,Bajo nivel,28,7
+-58.433210715736294,-34.6343227899404,332969,7,Castañares Av.,1000.0,1015,Ficus,5.6,Ocupada,Regular,A nivel,22,4
+-58.43375236516971,-34.6347729361023,332975,7,Castañares Av.,1000.0,1043,Ficus,5.6,Sobreocupada,Regular,A nivel,18,4
+-58.4340151734663,-34.634991344383394,332979,7,Castañares Av.,1000.0,1069,Melia,5.6,Ocupada,Regular,A nivel,31,7
+-58.4396285481068,-34.6390557885702,332750,7,Castañares Av.,1500.0,1532,Ficus,6,Sobreocupada,Regular,A nivel,5,2
+-58.4398552997496,-34.6392403765959,332754,7,Castañares Av.,1500.0,1552,Ficus,6,Sobreocupada,Regular,A nivel,31,4
+-58.440147657554206,-34.6394783697261,332757,7,Castañares Av.,1500.0,1580,Jacaranda,6,Sobreocupada,Regular,Elevada,12,3
+-58.440147657554206,-34.6394783697261,332758,7,Castañares Av.,1500.0,1584,Melia,6,Sobreocupada,Regular,Elevada,45,12
+-58.4403365951612,-34.639632146496396,332761,7,Castañares Av.,1500.0,1596,Ficus,6,Ocupada,Regular,A nivel,29,10
+-58.4403490153312,-34.6396422396435,332762,7,Castañares Av.,1500.0,1598,Ficus,6,Ocupada,Regular,A nivel,14,8
+-58.4403490153312,-34.6396422396435,332763,7,Castañares Av.,1500.0,1598,Ficus,6,Ocupada,Regular,A nivel,18,4
+-58.4403490153312,-34.6396422396435,332764,7,Castañares Av.,1500.0,1598,Ficus,6,Ocupada,Ochava,Elevada,11,3
+-58.4403490153312,-34.6396422396435,332765,7,Castañares Av.,1500.0,1598,Ficus,3,Ocupada,Regular,Elevada,38,4
+-58.4341419955628,-34.635263051387,359219,7,Castañares Av.,1000.0,1084,Ficus,6,Ocupada,Regular,Elevada,22,6
+-58.4349567776076,-34.6358467775098,381461,7,Castañares Av.,1100.0,1180,Melia,6,Ocupada,Regular,A nivel,25,2
+-58.435030144148506,-34.6358966021442,381462,7,Castañares Av.,1100.0,1188,Melia,6,Ocupada,Regular,A nivel,45,7
+-58.438139806868,-34.6379952155588,378662,7,Castañares Av.,1400.0,1420,Melia,6,Sobreocupada,Regular,A nivel,54,7
+-58.4382757218845,-34.6380903839887,378663,7,Castañares Av.,1400.0,1450,Melia,6,Ocupada,Ochava,A nivel,43,7
+-58.438208789557,-34.6380435176546,378618,7,Castañares Av.,1400.0,1440,Melia,6,Ocupada,Regular,A nivel,45,7
+-58.43988110677521,-34.6390865259865,378638,7,Castañares Av.,1500.0,1531,Melia,6,Ocupada,Regular,A nivel,45,4
+-58.44089454681341,-34.6399107265329,378642,7,Castañares Av.,1600.0,1637,Tilia,6,Ocupada,Regular,A nivel,27,7
+-58.4401072920504,-34.6392706519695,374903,7,Castañares Av.,1500.0,1565,Melia,6,Ocupada,Regular,A nivel,54,6
+-58.4399581174875,-34.6391492166501,374905,7,Castañares Av.,1500.0,1539,Melia,6,Sobreocupada,Regular,A nivel,56,9
+-58.4396818630682,-34.6389155516363,374909,7,Castañares Av.,1500.0,1507,Melia,6,Ocupada,Ochava,A nivel,54,9
+-58.44070249138989,-34.6397547233829,374910,7,Castañares Av.,1600.0,1615,Ficus,6,Sobreocupada,Regular,A nivel,25,4
+-58.44070249138989,-34.6397547233829,374911,7,Castañares Av.,1600.0,1615,Ficus,6,Sobreocupada,Regular,A nivel,25,3
+-58.4487387002316,-34.646708372298896,419621,7,Castañares Av.,2500.0,2535,Ficus,3.2,Ocupada,Regular,Elevada,23,6
+-58.44883416684901,-34.6467939674017,419622,7,Castañares Av.,2500.0,2547,Ficus,3.2,Ocupada,Regular,Elevada,24,5
+-58.4454500919077,-34.6437928055302,424011,7,Castañares Av.,2200.0,2215,Ficus,5.5,Ocupada,Regular,A nivel,0,7
+-58.4341419955628,-34.635263051387,418148,7,Castañares Av.,1000.0,1084,Ficus,6,Ocupada,Regular,Elevada,28,6
+-58.4341419955628,-34.635263051387,418149,7,Castañares Av.,1000.0,1082,Tilia,6,Sobreocupada,Regular,Elevada,5,3
+-58.43500273270121,-34.635708874425305,521198,7,Castañares Av.,1100.0,1179,Tilia,6,Ocupada,Regular,Elevada,13,5
+-58.4348535909693,-34.6356075889935,521201,7,Castañares Av.,1100.0,1163,Melia,6,Sobreocupada,Regular,Elevada,55,11
+-58.443913396716205,-34.6424173404561,521275,7,Castañares Av.,2000.0,2061,Ficus,6,Ocupada,Regular,Elevada,4,2
+-58.443913396716205,-34.6424173404561,521276,7,Castañares Av.,2000.0,2065,Ficus,6,Ocupada,Regular,A nivel,53,12
+-58.4446697706976,-34.643115542337,522256,7,Castañares Av.,2100.0,2137,Jacaranda,6.6,Ocupada,Regular,A Nivel,61,9
+-58.444861048456794,-34.6432870629777,522259,7,Castañares Av.,2100.0,2163,Ficus,6.6,Ocupada,Regular,A Nivel,5,2
+-58.4768323448857,-34.6704139178756,400313,8,Castañares Av.,5300.0,5390,Lagerstroemia,2.8,Ocupada,Regular,A nivel,16,5
+-58.4768323448857,-34.6704139178756,400315,8,Castañares Av.,5300.0,5390,Lagerstroemia,2.8,Ocupada,Regular,A nivel,13,5
+-58.4768323448857,-34.6704139178756,400316,8,Castañares Av.,5300.0,5390,Lagerstroemia,2.8,Ocupada,Regular,Elevada,16,4
+-58.4768323448857,-34.6704139178756,400317,8,Castañares Av.,5300.0,5390,Lagerstroemia,2.8,Ocupada,Regular,A nivel,17,4
+-58.4768323448857,-34.6704139178756,400318,8,Castañares Av.,5300.0,5390,Lagerstroemia,2.8,Ocupada,Regular,Elevada,11,5
+-58.4768323448857,-34.6704139178756,400320,8,Castañares Av.,5300.0,5390,Lagerstroemia,2.8,Ocupada,Regular,A nivel,21,4
+-58.4768323448857,-34.6704139178756,400321,8,Castañares Av.,5300.0,5390,Tilia,2.8,Ocupada,Ochava,A nivel,9,4
+-58.477395005115994,-34.6706999851505,397831,8,Castañares Av.,5400.0,5405,Lagerstroemia,3.2,Ocupada,Regular,A nivel,4,4
+-58.477395005115994,-34.6706999851505,397832,8,Castañares Av.,5400.0,5405,Lagerstroemia,3.2,Ocupada,Regular,A nivel,4,4
+-58.4776259966154,-34.6708946252428,397835,8,Castañares Av.,5400.0,5429,Jacaranda,3.2,Ocupada,Regular,A nivel,15,6
+-58.4776259966154,-34.6708946252428,397836,8,Castañares Av.,5400.0,5429,Jacaranda,3.2,Ocupada,Regular,A nivel,13,5
+-58.4766190159108,-34.6700540010717,391516,8,Castañares Av.,5300.0,5317,Tilia,3,Ocupada,Regular,A nivel,42,6
+-58.4705326504126,-34.6650776314516,407006,8,Castañares Av.,4400.0,4568,Melia,2.8,Ocupada,Regular,Elevada,37,10
+-58.4692985475724,-34.666623028143604,407007,8,Castañares Av.,4400.0,4400,Melia,2.8,Ocupada,Regular,Elevada,32,9
+-58.480883999460296,-34.673835245197,404906,8,Castañares Av.,5700.0,5786,Lagerstroemia,3.2,Ocupada,Regular,Elevada,23,6
+-58.4810080676835,-34.6737566397077,411242,8,Castañares Av.,5700.0,5771,Tilia,3.2,Ocupada,Regular,A nivel,38,6
+-58.47344526825379,-34.667553846025804,409651,8,Castañares Av.,4900.0,4934,Ficus,2.8,Ocupada,Regular,A nivel,16,9
+-58.474257012003704,-34.6682429991208,414340,8,Castañares Av.,5000.0,5040,Ficus,2.8,Ocupada,Regular,A nivel,35,6
+-58.479625307006,-34.6725851408505,412642,8,Castañares Av.,5600.0,5603,Lagerstroemia,2.4,Ocupada,Regular,A nivel,42,3
+-58.4802539889929,-34.6733039093142,412660,8,Castañares Av.,5600.0,5696,Tilia,3.2,Ocupada,Ochava,A nivel,35,8
+-58.4802539889929,-34.6733039093142,412661,8,Castañares Av.,5600.0,5696,Tilia,3.2,Ocupada,Regular,A nivel,32,8
+-58.4802539889929,-34.6733039093142,412662,8,Castañares Av.,5600.0,5694,Tilia,3.2,Ocupada,Regular,A nivel,33,8
+-58.4802539889929,-34.6733039093142,412663,8,Castañares Av.,5600.0,5694,Tilia,3.2,Ocupada,Regular,A nivel,32,8
+-58.479340875451896,-34.6723440638046,522566,8,Castañares Av.,5300,5595,Ficus,3.2,Ocupada,Regular,Elevada,23,5
+-58.4789677864186,-34.672027842070605,522572,8,Castañares Av.,5300,5555,Jacaranda,3.2,Ocupada,Regular,A nivel,3,3
+-58.4789007499788,-34.6719710231329,522573,8,Castañares Av.,5300,5547,Tilia,3.2,Ocupada,Regular,Elevada,18,3
+-58.4788338699315,-34.671914336642196,522574,8,Castañares Av.,5300,5541,Tilia,3.2,Ocupada,Regular,A nivel,37,6
+-58.478768400246295,-34.671858845448604,522575,8,Castañares Av.,5300,5535,Ficus,3.2,Ocupada,Regular,Elevada,17,6
+-58.478768400246295,-34.671858845448604,522576,8,Castañares Av.,5300,5533,Ficus,3.2,Ocupada,Regular,Elevada,24,5
+-58.4787286305064,-34.6718251371141,522577,8,Castañares Av.,5300,5527,Lagerstroemia,3.2,Ocupada,Regular,A nivel,19,6
+-58.4786245121404,-34.6717368874905,522578,8,Castañares Av.,5300,5515,Lagerstroemia,3.2,Ocupada,Regular,A nivel,9,5
+-58.4786245121404,-34.6717368874905,522580,8,Castañares Av.,5300,5515,Ficus,3.2,Ocupada,Ochava,A nivel,9,2
+-58.47923720213671,-34.6724389703893,522606,8,Castañares Av.,5500,5590,Tilia,3.2,Ocupada,Regular,A nivel,25,6
+-58.482234345349795,-34.6747944661195,523421,8,Castañares Av.,5800,5889,Ficus,3.2,Ocupada,Regular,AN,20,3
+-58.482234345349795,-34.6747944661195,523422,8,Castañares Av.,5800,5889,Ficus,3.2,Ocupada,Regular,BN,37,3
+-58.4820827405194,-34.6746659657501,523424,8,Castañares Av.,5800,5873,Ficus,3.2,Ocupada,Regular,AN,25,2
+-58.4819290297846,-34.674535679823606,523426,8,Castañares Av.,5800,5857,Ficus,3.2,Ocupada,Regular,EL,26,2
+-58.4817573665487,-34.6743901765529,523428,8,Castañares Av.,5800,5841,Ficus,3.2,Ocupada,Regular,AN,19,3
+-58.481470841493,-34.674147313716695,523434,8,Castañares Av.,5800,5815,Melia,3.2,Sobreocupada,Regular,BN,43,9
+-58.481470841493,-34.674147313716695,523436,8,Castañares Av.,5800,5815,Melia,3.2,Sobreocupada,Regular,BN,51,9
+-58.4815931754117,-34.674437832360894,523484,8,Castañares Av.,5800,5838,Melia,3.2,Ocupada,Regular,A nivel,46,7
+-58.4816682961966,-34.6745015056685,523485,8,Castañares Av.,5800,5842,Melia,3.2,Ocupada,Regular,A nivel,35,2
+-58.481897748897,-34.674695991701604,523490,8,Castañares Av.,5800,5870,Lagerstroemia,3.2,Ocupada,Regular,A nivel,21,3
+-58.481897748897,-34.674695991701604,523491,8,Castañares Av.,5800,5870,Lagerstroemia,3.2,Ocupada,Regular,A nivel,15,2
+-58.48204926203171,-34.6748244147684,523494,8,Castañares Av.,5800,5876,Tilia,3.2,Ocupada,Regular,Bajo Nivel,25,4
+-58.4821253325835,-34.674888892214305,523495,8,Castañares Av.,5800,5890,Tilia,3.2,Ocupada,Regular,A nivel,14,7
+-58.4822016125789,-34.6749535470354,523496,8,Castañares Av.,5800,5894,Melia,3.2,Ocupada,Ochava,Bajo Nivel,67,7
+-58.4825084878454,-34.675214893829,523722,8,Castañares Av.,5900,5916,Tilia,3.4,Ocupada,Regular,A Nivel,12,5
+-58.4824203044127,-34.6751401552223,523723,8,Castañares Av.,5900,5910,Melia,3.4,Ocupada,Regular,A Nivel,60,7
+-58.4845780725814,-34.6769613877824,523997,8,Castañares Av.,6100,6124,Tilia,2.52,Ocupada,Regular,A nivel,11,6
+-58.485743656859896,-34.6779480001008,524015,8,Castañares Av.,6200,6300,Lagerstroemia,3.2,Ocupada,Regular,A Nivel,16,7
+-58.4852856831425,-34.6775605289322,524018,8,Castañares Av.,6200,6216,Lagerstroemia,3.2,Ocupada,Regular,A Nivel,54,7
+-58.4656462933119,-34.661193232687395,525880,8,Castañares Av.,4100,4125,Tilia,4.4,Ocupada,Regular,A nivel,14,6
+-58.4656462933119,-34.661193232687395,525883,8,Castañares Av.,4100,4125,Tilia,4.4,Ocupada,Regular,A nivel,12,5
+-58.4656462933119,-34.661193232687395,525884,8,Castañares Av.,4100,4125,Tilia,4.4,Ocupada,Regular,A nivel,13,5
+-58.4656462933119,-34.661193232687395,525885,8,Castañares Av.,4100,4125,Tilia,4.4,Ocupada,Regular,A nivel,13,6
+-58.4656462933119,-34.661193232687395,525887,8,Castañares Av.,4100,4125,Tilia,4.4,Ocupada,Regular,A nivel,11,6
+-58.4656462933119,-34.661193232687395,525889,8,Castañares Av.,4100,4125,Platanus,4.4,Ocupada,Regular,A nivel,80,11
+-58.4656462933119,-34.661193232687395,525890,8,Castañares Av.,4100,4125,Tilia,4.4,Ocupada,Regular,A nivel,8,5
+-58.4656462933119,-34.661193232687395,525891,8,Castañares Av.,4100,4125,Tilia,4.4,Ocupada,Regular,A nivel,12,6
+-58.4656462933119,-34.661193232687395,525896,8,Castañares Av.,4100,4125,Tilia,4.4,Ocupada,Regular,A nivel,16,6
+-58.4657387276748,-34.6612721723141,525899,8,Castañares Av.,4100,4213,Lagerstroemia,4.4,Ocupada,Regular,A nivel,6,4
+-58.4657387276748,-34.6612721723141,525900,8,Castañares Av.,4100,4213,Ficus,4.4,Ocupada,Regular,A nivel,8,2
+-58.466172548249205,-34.6616528102675,525903,8,Castañares Av.,4100,4243,Lagerstroemia,4.4,Ocupada,Regular,A nivel,4,4
+-58.472576756112296,-34.666809585649,527954,8,Castañares Av.,4700,4802,Tilia,2.8,Ocupada,Regular,A Nivel,29,6
+-58.472672702471705,-34.666891037694,527969,8,Castañares Av.,4800,4834,Jacaranda,2.8,Ocupada,Regular,A Nivel,25,8
+-58.4876922218439,-34.679593376452395,529654,8,Castañares Av.,6500,6500,Melia,2.8,Ocupada,Regular,A nivel,64,9
+-58.4876922218439,-34.679593376452395,529656,8,Castañares Av.,6500,6500,Melia,2.8,Ocupada,Regular,A nivel,55,10
+-58.4891641645408,-34.6806563498746,529666,8,Castañares Av.,6500,6679,Melia,2.8,Ocupada,Regular,A nivel,38,8
+-58.4538051624383,-34.6507735145616,532719,8,Castañares Av.,2900,2934,Ficus,4.8,Ocupada,Regular,A nivel,58,7
+-58.46017533450341,-34.6568753238347,535780,9,Castañares Av.,3700.0,3700,Platanus,3.3,Ocupada,Regular,A nivel,45,8
+-58.46017533450341,-34.6568753238347,535781,9,Castañares Av.,3700.0,3700,Platanus,3.3,Ocupada,Regular,A nivel,44,8
+-58.46017533450341,-34.6568753238347,535782,9,Castañares Av.,3700.0,3700,Platanus,3.3,Ocupada,Regular,A nivel,46,8
+-58.46017533450341,-34.6568753238347,535783,9,Castañares Av.,3700.0,3700,Platanus,3.3,Ocupada,Regular,A nivel,40,8
+-58.46017533450341,-34.6568753238347,535784,9,Castañares Av.,3700.0,3700,Platanus,3.3,Ocupada,Regular,A nivel,56,8
+-58.46017533450341,-34.6568753238347,535785,9,Castañares Av.,3700.0,3700,Platanus,3.3,Ocupada,Regular,A nivel,41,8
+-58.46017533450341,-34.6568753238347,535786,9,Castañares Av.,3700.0,3700,Platanus,3.3,Ocupada,Regular,A nivel,42,8
+-58.46017533450341,-34.6568753238347,535787,9,Castañares Av.,3700.0,3700,Platanus,3.3,Ocupada,Regular,A nivel,38,8
+-58.46017533450341,-34.6568753238347,535790,9,Castañares Av.,3700.0,3700,Platanus,3.3,Ocupada,Regular,A nivel,39,8

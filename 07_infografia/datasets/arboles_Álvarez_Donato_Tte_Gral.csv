@@ -1,0 +1,98 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.462000881330496,-34.6086473205495,45553,6,Álvarez Donato Tte. Gral. Av.,1500.0,1575.0,Ficus,3.2,Ocupada,Regular,Elevada,20,5
+-58.461959755928,-34.608730417207106,45566,6,Álvarez Donato Tte. Gral. Av.,1500.0,1567.0,Ficus,3.2,Ocupada,Regular,A nivel,20,8
+-58.461432527585,-34.6097958779282,48488,6,Álvarez Donato Tte. Gral. Av.,1400.0,1481.0,Ficus,2.8,Ocupada,Regular,Bajo nivel,36,9
+-58.4556094933429,-34.6220884074654,52617,6,Álvarez Donato Tte. Gral. Av.,300.0,313.0,Melia,3,Ocupada,Regular,A nivel,39,10
+-58.4571038978471,-34.618795886951,53698,6,Álvarez Donato Tte. Gral. Av.,500.0,587.0,Tilia,2.4,Ocupada,Regular,A nivel,8,7
+-58.4563965821932,-34.6203424998129,55238,6,Álvarez Donato Tte. Gral. Av.,400.0,467.0,Ficus,2.2,Ocupada,Regular,Bajo nivel,65,15
+-58.456333289016,-34.6204810340345,55241,6,Álvarez Donato Tte. Gral. Av.,400.0,459.0,Ficus,2.2,Ocupada,Regular,Elevada,21,8
+-58.456333289016,-34.6204810340345,55242,6,Álvarez Donato Tte. Gral. Av.,400.0,457.0,Ficus,2.2,Ocupada,Regular,Elevada,31,8
+-58.4552270280247,-34.6229250001442,59941,6,Álvarez Donato Tte. Gral. Av.,200.0,245.0,Melia,3.2,Ocupada,Regular,Bajo nivel,44,15
+-58.4579303030931,-34.6169923120637,59468,6,Álvarez Donato Tte. Gral. Av.,700.0,741.0,Tilia,2.7,Ocupada,Regular,A nivel,30,12
+-58.458282819166,-34.616219438249395,59471,6,Álvarez Donato Tte. Gral. Av.,700.0,863.0,Ficus,2.7,Ocupada,Regular,Bajo nivel,38,13
+-58.4583527393921,-34.6160658677746,59472,6,Álvarez Donato Tte. Gral. Av.,700.0,895.0,Ficus,2.7,Ocupada,Regular,A nivel,34,10
+-58.4583136259581,-34.616151775289694,59476,6,Álvarez Donato Tte. Gral. Av.,700.0,877.0,Ficus,2.7,Ocupada,Regular,A nivel,9,3
+-58.4582218831972,-34.616353275493104,59478,6,Álvarez Donato Tte. Gral. Av.,700.0,835.0,Ficus,2.7,Ocupada,Regular,Bajo nivel,27,5
+-58.4579303030931,-34.6169923120637,59479,6,Álvarez Donato Tte. Gral. Av.,700.0,741.0,Tilia,2.7,Ocupada,Regular,A nivel,26,10
+-58.457032141291,-34.619270831729395,312488,7,Álvarez Donato Tte. Gral. Av.,500.0,564.0,Ficus,2.6,Ocupada,Regular,Elevada,25,4
+-58.457032141291,-34.619270831729395,312489,7,Álvarez Donato Tte. Gral. Av.,500.0,560.0,Ficus,2.6,Ocupada,Regular,Elevada,36,6
+-58.4568138947686,-34.619748524907195,312494,7,Álvarez Donato Tte. Gral. Av.,500.0,520.0,Ficus,2.6,Ocupada,Regular,Elevada,26,6
+-58.457599884851895,-34.618017721809004,312433,7,Álvarez Donato Tte. Gral. Av.,600.0,664.0,Tilia,2.8,Ocupada,Regular,A nivel,3,3
+-58.4574446233879,-34.618357531125305,312436,7,Álvarez Donato Tte. Gral. Av.,600.0,632.0,Jacaranda,2.4,Ocupada,Regular,Elevada,31,12
+-58.45734836692779,-34.6185681990343,312437,7,Álvarez Donato Tte. Gral. Av.,600.0,616.0,Tilia,2.4,Ocupada,Regular,A nivel,31,10
+-58.45734836692779,-34.6185681990343,312438,7,Álvarez Donato Tte. Gral. Av.,600.0,616.0,Platanus,2.4,Ocupada,Regular,A nivel,62,15
+-58.45843032775989,-34.616208431953304,304734,7,Álvarez Donato Tte. Gral. Av.,800.0,866.0,Ficus,2.8,Ocupada,Regular,A nivel,52,12
+-58.45843032775989,-34.616208431953304,304735,7,Álvarez Donato Tte. Gral. Av.,800.0,866.0,Ficus,2.8,Ocupada,Regular,A nivel,65,13
+-58.45843032775989,-34.616208431953304,304736,7,Álvarez Donato Tte. Gral. Av.,800.0,866.0,Ficus,2.8,Ocupada,Regular,Elevada,28,7
+-58.45843032775989,-34.616208431953304,304737,7,Álvarez Donato Tte. Gral. Av.,800.0,866.0,Ficus,2.8,Ocupada,Regular,Elevada,26,6
+-58.457907913024705,-34.617350339527896,310435,7,Álvarez Donato Tte. Gral. Av.,700.0,710,Jacaranda,2.5,Ocupada,Regular,Bajo nivel,36,13
+-58.4580555735335,-34.6170278405129,310437,7,Álvarez Donato Tte. Gral. Av.,700.0,750,Ficus,2.5,Ocupada,Regular,Elevada,24,8
+-58.458176169431,-34.6167644501646,310440,7,Álvarez Donato Tte. Gral. Av.,700.0,790,Jacaranda,2.5,Ocupada,Regular,Elevada,0,2
+-58.4565379895338,-34.6203539631322,332773,7,Álvarez Donato Tte. Gral. Av.,400.0,478,Ficus,2.6,Ocupada,Regular,A nivel,34,8
+-58.4592293450481,-34.6144803263721,337342,7,Álvarez Donato Tte. Gral. Av.,1000.0,1044,Ficus,2.8,Sobreocupada,Regular,Elevada,30,5
+-58.4592293450481,-34.6144803263721,337343,7,Álvarez Donato Tte. Gral. Av.,1000.0,1040,Ficus,2.8,Sobreocupada,Regular,Elevada,32,5
+-58.459188448476,-34.6145639134068,337344,7,Álvarez Donato Tte. Gral. Av.,1000.0,1026,Ficus,2.8,Ocupada,Regular,Elevada,48,5
+-58.4588141477418,-34.6153667110145,368315,7,Álvarez Donato Tte. Gral. Av.,900.0,936,Ficus,3.2,Sobreocupada,Regular,Elevada,8,2
+-58.4588141477418,-34.6153667110145,368316,7,Álvarez Donato Tte. Gral. Av.,900.0,936,Ficus,3.2,Sobreocupada,Regular,Elevada,10,2
+-58.4588141477418,-34.6153667110145,368318,7,Álvarez Donato Tte. Gral. Av.,900.0,934,Ficus,3.2,Sobreocupada,Regular,Elevada,7,2
+-58.4586612150291,-34.615700705934,368320,7,Álvarez Donato Tte. Gral. Av.,900.0,916,Ficus,3.2,Ocupada,Regular,A nivel,41,5
+-58.4555738408119,-34.622441662821394,407494,7,Álvarez Donato Tte. Gral. Av.,300.0,300,Tilia,2.8,Ocupada,Regular,Bajo nivel,16,8
+-58.4555738408119,-34.622441662821394,407498,7,Álvarez Donato Tte. Gral. Av.,300.0,300,Jacaranda,2.8,Ocupada,Regular,Bajo nivel,2,3
+-58.4555738408119,-34.622441662821394,407502,7,Álvarez Donato Tte. Gral. Av.,300.0,300,Melia,2.8,Ocupada,Regular,A nivel,22,8
+-58.4555738408119,-34.622441662821394,407503,7,Álvarez Donato Tte. Gral. Av.,300.0,300,Melia,2.8,Ocupada,Regular,Bajo nivel,22,10
+-58.4555738408119,-34.622441662821394,407504,7,Álvarez Donato Tte. Gral. Av.,300.0,300,Tilia,2.8,Ocupada,Regular,Elevada,32,11
+-58.4555738408119,-34.622441662821394,407508,7,Álvarez Donato Tte. Gral. Av.,300.0,300,Tilia,7,Ocupada,Ochava,A nivel,29,10
+-58.4618245168575,-34.6090036756368,168410,11,Álvarez Donato Tte. Gral. Av.,1500.0,1545.0,Tilia,3,Sobreocupada,Regular,Elevada,35,13
+-58.4619411695605,-34.6090635761091,168412,11,Álvarez Donato Tte. Gral. Av.,1500.0,1542.0,Tilia,3,Ocupada,Regular,A nivel,38,14
+-58.4637886599893,-34.6053373571345,168734,11,Álvarez Donato Tte. Gral. Av.,1900.0,1918.0,Ficus,3.6,Sobreocupada,Regular,Elevada,12,2
+-58.4637886599893,-34.6053373571345,168737,11,Álvarez Donato Tte. Gral. Av.,1900.0,1918.0,Ficus,3.6,Ocupada,Regular,Elevada,8,2
+-58.460539592343295,-34.611885546559805,173785,11,Álvarez Donato Tte. Gral. Av.,1200.0,1300.0,Ficus,3.2,Ocupada,Regular,A nivel,27,6
+-58.4603345107019,-34.6122961126827,173788,11,Álvarez Donato Tte. Gral. Av.,1200.0,1236.0,Melia,3.2,Ocupada,Regular,A nivel,54,10
+-58.464615018988,-34.6036756553914,173539,11,Álvarez Donato Tte. Gral. Av.,2000.0,2060.0,Ficus,3.5,Ocupada,Regular,Elevada,42,11
+-58.4615449423301,-34.609863986037396,179291,11,Álvarez Donato Tte. Gral. Av.,1400.0,1474.0,Tilia,3.2,Ocupada,Regular,Elevada,39,12
+-58.463466609725295,-34.6059855490562,184807,11,Álvarez Donato Tte. Gral. Av.,1800,1870.0,Ficus,3.2,Ocupada,Regular,A nivel,98,16
+-58.4618245168575,-34.6090036756368,184894,11,Álvarez Donato Tte. Gral. Av.,1500,1545.0,Tilia,3,Sobreocupada,Regular,Elevada,35,13
+-58.4619411695605,-34.6090635761091,184897,11,Álvarez Donato Tte. Gral. Av.,1500,1542.0,Tilia,3,Ocupada,Regular,A nivel,38,14
+-58.463883084575,-34.6048156032468,186595,11,Álvarez Donato Tte. Gral. Av.,1900,1961.0,Jacaranda,3.6,Ocupada,Regular,Elevada,31,9
+-58.46829319402739,-34.5958819037784,192523,15,Álvarez Donato Tte. Gral. Av.,2500.0,2506,Ficus,5.5,Ocupada,Regular,A nivel,96,17
+-58.4683254652174,-34.5952319985997,192563,15,Álvarez Donato Tte. Gral. Av.,2500.0,2549,Tilia,5,Ocupada,Regular,Elevada,0,6
+-58.4684190088591,-34.5949264448913,192576,15,Álvarez Donato Tte. Gral. Av.,2500.0,2567,Tilia,5,Ocupada,Regular,A nivel,46,12
+-58.4684882187177,-34.5947003742838,192610,15,Álvarez Donato Tte. Gral. Av.,2500.0,2579,Ficus,5,Ocupada,Regular,Elevada,20,3
+-58.468511307003205,-34.5946249572348,192663,15,Álvarez Donato Tte. Gral. Av.,2500.0,2583,Ficus,6,Ocupada,Regular,A nivel,41,7
+-58.46562816197021,-34.6012862391485,202458,15,Álvarez Donato Tte. Gral. Av.,2200.0,2203,Melia,5,Ocupada,Ochava,Elevada,8,2
+-58.4681582892215,-34.5958135630802,202001,15,Álvarez Donato Tte. Gral. Av.,2500.0,2527,Jacaranda,4.2,Ocupada,Regular,Elevada,67,8
+-58.455569304115706,-34.6224515919957,240811,15,Álvarez Donato Tte. Gral. Av.,2500.0,296,Ficus,5.7,Ocupada,Ochava,A nivel,5,3
+-58.465786635958096,-34.5995115480289,240575,15,Álvarez Donato Tte. Gral. Av.,2300.0,2319,Ficus,5.4,Ocupada,Regular,Elevada,101,7
+-58.46655175711229,-34.5984044312304,241473,15,Álvarez Donato Tte. Gral. Av.,2300.0,2352,Platanus,3.6,Ocupada,Ochava,A nivel,61,18
+-58.46655175711229,-34.5984044312304,241565,15,Álvarez Donato Tte. Gral. Av.,2300.0,2352,Platanus,3.6,Ocupada,Regular,A nivel,80,25
+-58.46664594650189,-34.598268138482105,241604,15,Álvarez Donato Tte. Gral. Av.,2300.0,2388,Ficus,3.2,Ocupada,Regular,A nivel,19,8
+-58.4684605131695,-34.5953259923349,240957,15,Álvarez Donato Tte. Gral. Av.,2500.0,2530,Jacaranda,5.7,Ocupada,Regular,A nivel,58,8
+-58.4684060967445,-34.5954936526918,241001,15,Álvarez Donato Tte. Gral. Av.,2500.0,2510.0,Jacaranda,5.7,Ocupada,Ochava,A nivel,45,8
+-58.4692904133416,-34.5925902092368,231222,15,Álvarez Donato Tte. Gral. Av.,2700.0,2760.0,Jacaranda,5.5,Sobreocupada,Regular,Elevada,18,5
+-58.4693379754002,-34.5924309460106,231115,15,Álvarez Donato Tte. Gral. Av.,2700.0,2798.0,Ficus,5.5,Ocupada,Regular,A nivel,10,2
+-58.4693379754002,-34.5924309460106,231167,15,Álvarez Donato Tte. Gral. Av.,2700.0,2792.0,Ficus,5.5,Ocupada,Regular,A nivel,67,6
+-58.4686766571688,-34.5941066428691,244589,15,Álvarez Donato Tte. Gral. Av.,2600.0,2611.0,Ficus,4.4,Ocupada,Regular,A nivel,78,9
+-58.4689499947028,-34.5937094654258,242141,15,Álvarez Donato Tte. Gral. Av.,2600.0,2658.0,Jacaranda,7,Ocupada,Regular,A nivel,49,7
+-58.4689499947028,-34.5937094654258,242154,15,Álvarez Donato Tte. Gral. Av.,2600.0,2658.0,Ficus,6,Ocupada,Regular,A nivel,45,8
+-58.4686766571688,-34.5941066428691,244629,15,Álvarez Donato Tte. Gral. Av.,2600.0,2611.0,Tilia,4.4,Ocupada,Regular,A nivel,27,8
+-58.4686766571688,-34.5941066428691,244637,15,Álvarez Donato Tte. Gral. Av.,2600.0,2611.0,Tilia,4.4,Ocupada,Regular,A nivel,28,7
+-58.4687360862091,-34.593910015278205,244667,15,Álvarez Donato Tte. Gral. Av.,2600.0,2629.0,Ficus,4.4,Sobreocupada,Regular,A nivel,6,2
+-58.4688666118419,-34.5939851679544,242228,15,Álvarez Donato Tte. Gral. Av.,2600.0,2638.0,Ficus,7,Ocupada,Regular,A nivel,58,8
+-58.468770633614,-34.594300708288,242295,15,Álvarez Donato Tte. Gral. Av.,2600.0,2608.0,Jacaranda,6,Ocupada,Regular,A nivel,9,2
+-58.468849246641504,-34.5935358555114,244759,15,Álvarez Donato Tte. Gral. Av.,2600.0,2659.0,Jacaranda,4.4,Sobreocupada,Regular,A nivel,51,2
+-58.4690250774798,-34.5934612052325,242060,15,Álvarez Donato Tte. Gral. Av.,2600.0,2680.0,Ficus,6,Ocupada,Regular,A nivel,45,3
+-58.46894091528499,-34.5932327548098,244810,15,Álvarez Donato Tte. Gral. Av.,2600.0,2691.0,Ficus,4.4,Sobreocupada,Regular,Elevada,83,9
+-58.4689796297051,-34.5936114778751,242102,15,Álvarez Donato Tte. Gral. Av.,2600.0,2668.0,Ficus,6,Ocupada,Regular,A nivel,40,8
+-58.4689709161839,-34.5931335568839,244845,15,Álvarez Donato Tte. Gral. Av.,2600.0,2695.0,Ficus,4.4,Ocupada,Regular,A nivel,54,7
+-58.4692450544069,-34.5927420946333,231299,15,Álvarez Donato Tte. Gral. Av.,2700.0,2738.0,Ficus,5.5,Ocupada,Regular,A nivel,85,4
+-58.4691763543581,-34.5929721371805,231316,15,Álvarez Donato Tte. Gral. Av.,2700.0,2712.0,Jacaranda,5.5,Ocupada,Regular,A nivel,55,8
+-58.4691989210773,-34.592896572513496,231348,15,Álvarez Donato Tte. Gral. Av.,2700.0,2716.0,Jacaranda,5.5,Ocupada,Regular,A nivel,44,9
+-58.4694478301299,-34.5914165985687,239200,15,Álvarez Donato Tte. Gral. Av.,2800.0,2839.0,Ficus,4,Ocupada,Regular,A nivel,48,10
+-58.4694478301299,-34.5914165985687,239211,15,Álvarez Donato Tte. Gral. Av.,2800.0,2839.0,Tilia,4,Ocupada,Regular,A nivel,10,5
+-58.4694478301299,-34.5914165985687,239219,15,Álvarez Donato Tte. Gral. Av.,2800.0,2839.0,Platanus,4,Ocupada,Regular,A nivel,28,7
+-58.4694344407585,-34.5914825216221,239240,15,Álvarez Donato Tte. Gral. Av.,2800.0,2823.0,Platanus,4,Ocupada,Regular,A nivel,19,8
+-58.4691288300133,-34.592592878892,233995,15,Álvarez Donato Tte. Gral. Av.,2700.0,2769.0,Ficus,5.6,Ocupada,Regular,A nivel,79,6
+-58.4664903570963,-34.5983801250596,545969,15,Álvarez Donato Tte. Gral. Av.,2300.0,2355.0,Platanus,1.6,Ocupada,Regular,A Nivel,58,13
+-58.4664903570963,-34.5983801250596,545970,15,Álvarez Donato Tte. Gral. Av.,2300.0,2355.0,Platanus,1.6,Ocupada,Regular,A Nivel,56,13
+-58.4666056823674,-34.5982132486336,545972,15,Álvarez Donato Tte. Gral. Av.,2300.0,2385.0,Platanus,1.6,Ocupada,Regular,A Nivel,64,14
+-58.4666056823674,-34.5982132486336,545973,15,Álvarez Donato Tte. Gral. Av.,2300.0,2385.0,Platanus,1.6,Ocupada,Regular,A Nivel,75,13

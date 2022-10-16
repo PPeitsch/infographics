@@ -1,0 +1,187 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.36747639817389,-34.5999669672932,54862,1,Moreau  de Justo Alicia Av.,100.0,158.0,Platanus,4,Ocupada,Regular,A nivel,79,19
+-58.36747639817389,-34.5999669672932,54864,1,Moreau  de Justo Alicia Av.,100.0,158.0,Platanus,4,Ocupada,Regular,A nivel,68,20
+-58.36747639817389,-34.5999669672932,54865,1,Moreau  de Justo Alicia Av.,100.0,158.0,Platanus,4,Ocupada,Regular,A nivel,59,19
+-58.36747639817389,-34.5999669672932,54866,1,Moreau  de Justo Alicia Av.,100.0,158.0,Platanus,4,Ocupada,Regular,Bajo nivel,74,17
+-58.36747639817389,-34.5999669672932,54870,1,Moreau  de Justo Alicia Av.,100.0,158.0,Platanus,4,Ocupada,Regular,A nivel,68,19
+-58.36747639817389,-34.5999669672932,54873,1,Moreau  de Justo Alicia Av.,100.0,158.0,Platanus,4,Ocupada,Regular,A nivel,94,18
+-58.36747639817389,-34.5999669672932,62439,1,Moreau  de Justo Alicia Av.,100.0,158.0,Platanus,4,Ocupada,Regular,A nivel,62,19
+-58.365641999406,-34.6179622964421,64048,1,Moreau  de Justo Alicia Av.,1700.0,1700.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,70,19
+-58.365641999406,-34.6179622964421,64049,1,Moreau  de Justo Alicia Av.,1700.0,1700.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,61,21
+-58.365641999406,-34.6179622964421,64051,1,Moreau  de Justo Alicia Av.,1700.0,1700.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,54,19
+-58.365641999406,-34.6179622964421,64052,1,Moreau  de Justo Alicia Av.,1700.0,1700.0,Platanus,2.9,Ocupada,Regular,A nivel,27,12
+-58.365641999406,-34.6179622964421,64055,1,Moreau  de Justo Alicia Av.,1700.0,1700.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,42,14
+-58.365641999406,-34.6179622964421,64058,1,Moreau  de Justo Alicia Av.,1700.0,1700.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,45,17
+-58.365641999406,-34.6179622964421,64060,1,Moreau  de Justo Alicia Av.,1700.0,1700.0,Platanus,2.9,Ocupada,Regular,A nivel,39,15
+-58.3654480035402,-34.6203187519606,64178,1,Moreau  de Justo Alicia Av.,1850.0,1850.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,50,16
+-58.3654480035402,-34.6203187519606,64177,1,Moreau  de Justo Alicia Av.,1850.0,1850.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,38,14
+-58.3654480035402,-34.6203187519606,64179,1,Moreau  de Justo Alicia Av.,1850.0,1850.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,44,12
+-58.3654480035402,-34.6203187519606,64180,1,Moreau  de Justo Alicia Av.,1850.0,1850.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,43,18
+-58.3654480035402,-34.6203187519606,64181,1,Moreau  de Justo Alicia Av.,1850.0,1850.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,29,13
+-58.3654480035402,-34.6203187519606,64182,1,Moreau  de Justo Alicia Av.,1850.0,1850.0,Platanus,2.9,Ocupada,Ochava,A nivel,63,18
+-58.3654480035402,-34.6203187519606,64183,1,Moreau  de Justo Alicia Av.,1850.0,1850.0,Platanus,2.9,Ocupada,Regular,A nivel,39,15
+-58.3654480035402,-34.6203187519606,64185,1,Moreau  de Justo Alicia Av.,1850.0,1850.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,42,17
+-58.3661369892669,-34.611597279484,64842,1,Moreau  de Justo Alicia Av.,700.0,1178.0,Lagerstroemia,10.5,Ocupada,Regular,Elevada,10,4
+-58.366234289263296,-34.6108933638729,64866,1,Moreau  de Justo Alicia Av.,700.0,1140.0,Ficus,10.5,Ocupada,Regular,Elevada,39,4
+-58.366234289263296,-34.6108933638729,64879,1,Moreau  de Justo Alicia Av.,700.0,1140.0,Lagerstroemia,10.5,Sobreocupada,Regular,Elevada,6,3
+-58.366234289263296,-34.6108933638729,64880,1,Moreau  de Justo Alicia Av.,700.0,1140.0,Lagerstroemia,10.5,Sobreocupada,Regular,Elevada,7,3
+-58.3661625139677,-34.611211199432205,64883,1,Moreau  de Justo Alicia Av.,700.0,1160.0,Ficus,10.5,Ocupada,Regular,Elevada,63,4
+-58.3665447230604,-34.608032611761395,66811,1,Moreau  de Justo Alicia Av.,700.0,840.0,Ficus,10.5,Ocupada,Regular,Elevada,10,2
+-58.3665447230604,-34.608032611761395,66816,1,Moreau  de Justo Alicia Av.,700.0,840.0,Ficus,10.5,Ocupada,Regular,Elevada,10,2
+-58.3665447230604,-34.608032611761395,66822,1,Moreau  de Justo Alicia Av.,700.0,840.0,Ficus,10.5,Ocupada,Regular,Elevada,12,2
+-58.366345657420304,-34.6098344422828,67465,1,Moreau  de Justo Alicia Av.,700.0,1020.0,Ficus,10.5,Ocupada,Regular,A nivel,20,2
+-58.366345657420304,-34.6098344422828,67475,1,Moreau  de Justo Alicia Av.,700.0,1020.0,Ficus,10.5,Ocupada,Regular,A nivel,20,2
+-58.366048314577895,-34.6144593677596,69767,1,Moreau  de Justo Alicia Av.,1200.0,1400.0,Tilia,NA,Ocupada,Regular,A nivel,15,6
+-58.3659005817134,-34.6157200453931,69768,1,Moreau  de Justo Alicia Av.,1200.0,1500.0,Tilia,NA,Ocupada,Regular,A nivel,19,7
+-58.366048314577895,-34.6144593677596,69769,1,Moreau  de Justo Alicia Av.,1200.0,1400.0,Tilia,NA,Ocupada,Regular,A nivel,19,7
+-58.365925542502005,-34.615472096714,69770,1,Moreau  de Justo Alicia Av.,1200.0,1480.0,Tilia,NA,Ocupada,Regular,A nivel,14,5
+-58.365925542502005,-34.615472096714,69771,1,Moreau  de Justo Alicia Av.,1200.0,1480.0,Tilia,NA,Ocupada,Regular,A nivel,11,5
+-58.3659005817134,-34.6157200453931,69772,1,Moreau  de Justo Alicia Av.,1200.0,1500.0,Tilia,NA,Ocupada,Regular,A nivel,20,7
+-58.365925542502005,-34.615472096714,69773,1,Moreau  de Justo Alicia Av.,1200.0,1480.0,Tilia,NA,Ocupada,Regular,A nivel,16,6
+-58.366048314577895,-34.6144593677596,69774,1,Moreau  de Justo Alicia Av.,1200.0,1400.0,Tilia,NA,Ocupada,Regular,A nivel,20,6
+-58.365925542502005,-34.615472096714,69775,1,Moreau  de Justo Alicia Av.,1200.0,1480.0,Tilia,NA,Ocupada,Regular,A nivel,9,4
+-58.36606413219699,-34.6143288886925,69776,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,19,6
+-58.36606413219699,-34.6143288886925,69777,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,20,6
+-58.366048314577895,-34.6144593677596,69778,1,Moreau  de Justo Alicia Av.,1200.0,1400.0,Tilia,NA,Ocupada,Regular,Bajo nivel,12,5
+-58.36606413219699,-34.6143288886925,69779,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,18,5
+-58.366048314577895,-34.6144593677596,69780,1,Moreau  de Justo Alicia Av.,1200.0,1400.0,Tilia,NA,Ocupada,Regular,Bajo nivel,4,2
+-58.366048314577895,-34.6144593677596,69781,1,Moreau  de Justo Alicia Av.,1200.0,1400.0,Tilia,NA,Ocupada,Regular,A nivel,14,6
+-58.366048314577895,-34.6144593677596,69782,1,Moreau  de Justo Alicia Av.,1200.0,1400.0,Tilia,NA,Ocupada,Regular,A nivel,11,5
+-58.366048314577895,-34.6144593677596,69783,1,Moreau  de Justo Alicia Av.,1200.0,1400.0,Tilia,NA,Ocupada,Regular,A nivel,22,7
+-58.36606413219699,-34.6143288886925,69784,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,18,6
+-58.36606413219699,-34.6143288886925,69785,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,17,6
+-58.36606413219699,-34.6143288886925,69786,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,22,6
+-58.36606413219699,-34.6143288886925,69787,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,22,6
+-58.36606413219699,-34.6143288886925,69788,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,13,5
+-58.3659076577392,-34.6157229950932,69751,1,Moreau  de Justo Alicia Av.,1200.0,1580.0,Tilia,NA,Ocupada,Regular,A nivel,20,7
+-58.36576976013679,-34.6169985900147,69753,1,Moreau  de Justo Alicia Av.,1200.0,1600.0,Tilia,8.4,Ocupada,Regular,Elevada,16,5
+-58.3659076577392,-34.6157229950932,69754,1,Moreau  de Justo Alicia Av.,1200.0,1580.0,Tilia,NA,Ocupada,Regular,Elevada,22,7
+-58.3659076577392,-34.6157229950932,69755,1,Moreau  de Justo Alicia Av.,1200.0,1580.0,Tilia,NA,Ocupada,Regular,A nivel,22,6
+-58.3659076577392,-34.6157229950932,69756,1,Moreau  de Justo Alicia Av.,1200.0,1580.0,Tilia,NA,Ocupada,Regular,A nivel,26,7
+-58.3659076577392,-34.6157229950932,69757,1,Moreau  de Justo Alicia Av.,1200.0,1580.0,Tilia,NA,Ocupada,Regular,A nivel,18,6
+-58.3659005817134,-34.6157200453931,69758,1,Moreau  de Justo Alicia Av.,1200.0,1500.0,Tilia,NA,Ocupada,Regular,A nivel,22,7
+-58.3659005817134,-34.6157200453931,69759,1,Moreau  de Justo Alicia Av.,1200.0,1500.0,Tilia,NA,Ocupada,Regular,A nivel,18,7
+-58.3659101957726,-34.6155986878124,69760,1,Moreau  de Justo Alicia Av.,1200.0,1490.0,Platanus,NA,Ocupada,Fuera de línea,A nivel,87,17
+-58.3659005817134,-34.6157200453931,69762,1,Moreau  de Justo Alicia Av.,1200.0,1500.0,Tilia,NA,Ocupada,Regular,A nivel,25,7
+-58.3659101957726,-34.6155986878124,69763,1,Moreau  de Justo Alicia Av.,1200.0,1490.0,Platanus,NA,Ocupada,Fuera de línea,Bajo nivel,56,12
+-58.365925542502005,-34.615472096714,69764,1,Moreau  de Justo Alicia Av.,1200.0,1480.0,Tilia,NA,Ocupada,Regular,A nivel,16,5
+-58.3659005817134,-34.6157200453931,69765,1,Moreau  de Justo Alicia Av.,1200.0,1500.0,Tilia,NA,Ocupada,Regular,A nivel,20,7
+-58.3659005817134,-34.6157200453931,69766,1,Moreau  de Justo Alicia Av.,1200.0,1500.0,Tilia,NA,Ocupada,Regular,A nivel,18,7
+-58.3654480035402,-34.6203187519606,71366,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,39,19
+-58.3654480035402,-34.6203187519606,71369,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,51,13
+-58.3654480035402,-34.6203187519606,71371,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,50,24
+-58.3654480035402,-34.6203187519606,71372,1,Moreau  de Justo Alicia Av.,1999.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,38,19
+-58.3654480035402,-34.6203187519606,71390,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,20,8
+-58.3651889402767,-34.6225064772652,71411,1,Moreau  de Justo Alicia Av.,2000.0,2000.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,13,8
+-58.36576976013679,-34.6169985900147,71518,1,Moreau  de Justo Alicia Av.,1200.0,1600.0,Tilia,8.4,Ocupada,Regular,Elevada,24,8
+-58.36576976013679,-34.6169985900147,71521,1,Moreau  de Justo Alicia Av.,1200.0,1600.0,Tilia,8.4,Ocupada,Regular,Elevada,23,8
+-58.36576976013679,-34.6169985900147,71530,1,Moreau  de Justo Alicia Av.,1200.0,1600.0,Tilia,8.4,Ocupada,Regular,Elevada,15,5
+-58.3654480035402,-34.6203187519606,71353,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,36,15
+-58.3654480035402,-34.6203187519606,71355,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,41,14
+-58.3654480035402,-34.6203187519606,71356,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,50,17
+-58.3654480035402,-34.6203187519606,71359,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,8,4
+-58.3654480035402,-34.6203187519606,71364,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,43,20
+-58.3654480035402,-34.6203187519606,71365,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,44,23
+-58.3654480035402,-34.6203187519606,72516,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,39,12
+-58.3654480035402,-34.6203187519606,72517,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,33,15
+-58.3654480035402,-34.6203187519606,72518,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,40,19
+-58.3654480035402,-34.6203187519606,72519,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,44,16
+-58.3654480035402,-34.6203187519606,72520,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,38,14
+-58.3654480035402,-34.6203187519606,72521,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,27,12
+-58.3654182256422,-34.6215477835416,72523,1,Moreau  de Justo Alicia Av.,1900.0,1901.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,50,16
+-58.3654480035402,-34.6203187519606,72529,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,33,12
+-58.3654480035402,-34.6203187519606,72531,1,Moreau  de Justo Alicia Av.,1900.0,1900.0,Platanus,2.9,Ocupada,Fuera de línea,A nivel,50,18
+-58.36747639817389,-34.5999669672932,73192,1,Moreau  de Justo Alicia Av.,NA,164.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,24,6
+-58.3674748240417,-34.6000069551391,73193,1,Moreau  de Justo Alicia Av.,NA,140.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,15,5
+-58.3674748240417,-34.6000069551391,73194,1,Moreau  de Justo Alicia Av.,NA,146.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,22,5
+-58.3674748240417,-34.6000069551391,73195,1,Moreau  de Justo Alicia Av.,NA,140.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,15,5
+-58.3652349822187,-34.6221279953741,73458,1,Moreau  de Justo Alicia Av.,1900.0,1996.0,Jacaranda,2.4,Ocupada,Regular,Elevada,20,5
+-58.365304044345294,-34.621560272459604,73459,1,Moreau  de Justo Alicia Av.,1900.0,1920.0,Jacaranda,3.2,Ocupada,Regular,A nivel,22,6
+-58.3652086319828,-34.6226919832323,73460,1,Moreau  de Justo Alicia Av.,2000.0,2030.0,Jacaranda,2.4,Ocupada,Regular,A nivel,20,6
+-58.3652349822187,-34.6221279953741,73461,1,Moreau  de Justo Alicia Av.,1900.0,1996.0,Jacaranda,2.4,Ocupada,Regular,Elevada,19,4
+-58.365304044345294,-34.621560272459604,73463,1,Moreau  de Justo Alicia Av.,1900.0,1930.0,Jacaranda,3.2,Ocupada,Regular,Elevada,29,7
+-58.365304044345294,-34.621560272459604,73464,1,Moreau  de Justo Alicia Av.,1900.0,1930.0,Jacaranda,3.2,Ocupada,Regular,Elevada,23,6
+-58.365304044345294,-34.621560272459604,73465,1,Moreau  de Justo Alicia Av.,1900.0,1942.0,Jacaranda,2.4,Ocupada,Regular,A nivel,24,7
+-58.3652349822187,-34.6221279953741,73466,1,Moreau  de Justo Alicia Av.,1900.0,1996.0,Jacaranda,2.4,Ocupada,Regular,Elevada,21,5
+-58.3652349822187,-34.6221279953741,73469,1,Moreau  de Justo Alicia Av.,1900.0,1996.0,Jacaranda,2.4,Ocupada,Regular,Elevada,20,5
+-58.3674748240417,-34.6000069551391,73196,1,Moreau  de Justo Alicia Av.,NA,146.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,19,5
+-58.36747639817389,-34.5999669672932,73197,1,Moreau  de Justo Alicia Av.,NA,170.0,Jacaranda,11.4,Ocupada,Regular,Elevada,27,6
+-58.36747639817389,-34.5999669672932,73198,1,Moreau  de Justo Alicia Av.,NA,170.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,12,5
+-58.36747639817389,-34.5999669672932,73200,1,Moreau  de Justo Alicia Av.,NA,164.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,23,6
+-58.36747639817389,-34.5999669672932,73202,1,Moreau  de Justo Alicia Av.,NA,170.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,29,6
+-58.3673153455196,-34.601452955119,73206,1,Moreau  de Justo Alicia Av.,NA,246.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,27,6
+-58.3673153455196,-34.601452955119,73208,1,Moreau  de Justo Alicia Av.,NA,240.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,13,4
+-58.3673153455196,-34.601452955119,73219,1,Moreau  de Justo Alicia Av.,NA,246.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,18,5
+-58.3673153455196,-34.601452955119,73220,1,Moreau  de Justo Alicia Av.,NA,246.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,19,5
+-58.36747639817389,-34.5999669672932,73224,1,Moreau  de Justo Alicia Av.,NA,170.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,17,5
+-58.3668693875712,-34.605275599432,73527,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Fuera de línea,Elevada,80,27
+-58.3668693875712,-34.605275599432,73540,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5.3,Ocupada,Fuera de línea,Elevada,86,23
+-58.3668693875712,-34.605275599432,74148,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5,Ocupada,Regular,Elevada,91,32
+-58.3668693875712,-34.605275599432,73544,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5.3,Ocupada,Regular,Elevada,69,23
+-58.3668693875712,-34.605275599432,73549,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5.3,Ocupada,Regular,Elevada,42,2
+-58.3668693875712,-34.605275599432,73550,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,62,29
+-58.3668693875712,-34.605275599432,73551,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5.3,Ocupada,Regular,Elevada,69,28
+-58.3668693875712,-34.605275599432,73554,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,72,28
+-58.3668693875712,-34.605275599432,73557,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,80,25
+-58.3668693875712,-34.605275599432,73559,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5.3,Ocupada,Regular,Elevada,71,31
+-58.3676694115246,-34.6000354110178,73320,1,Moreau  de Justo Alicia Av.,NA,145.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,17,5
+-58.3673153455196,-34.601452955119,73321,1,Moreau  de Justo Alicia Av.,NA,228.0,Jacaranda,11.4,Ocupada,Fuera de línea,Elevada,20,4
+-58.3673153455196,-34.601452955119,73323,1,Moreau  de Justo Alicia Av.,NA,246.0,Jacaranda,11.4,Ocupada,Regular,Elevada,18,5
+-58.3668693875712,-34.605275599432,74131,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5.3,Ocupada,Regular,Elevada,61,28
+-58.3668693875712,-34.605275599432,74132,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5.3,Ocupada,Regular,Elevada,63,27
+-58.3668693875712,-34.605275599432,74133,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5.3,Ocupada,Regular,Elevada,83,30
+-58.3668693875712,-34.605275599432,74134,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,A nivel,51,28
+-58.3668693875712,-34.605275599432,74135,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,46,26
+-58.3668693875712,-34.605275599432,74137,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,61,24
+-58.3668693875712,-34.605275599432,74138,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,46,21
+-58.3668693875712,-34.605275599432,74139,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,63,27
+-58.3668693875712,-34.605275599432,74140,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,61,22
+-58.3668693875712,-34.605275599432,74141,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,36,27
+-58.3668693875712,-34.605275599432,74142,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,35,19
+-58.3668693875712,-34.605275599432,74143,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,45,19
+-58.3668693875712,-34.605275599432,74144,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,37,19
+-58.3668693875712,-34.605275599432,74147,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5,Ocupada,Regular,Elevada,70,21
+-58.365304044345294,-34.621560272459604,73455,1,Moreau  de Justo Alicia Av.,1900.0,1920.0,Jacaranda,3.2,Ocupada,Regular,A nivel,24,6
+-58.3652349822187,-34.6221279953741,73456,1,Moreau  de Justo Alicia Av.,1900.0,1996.0,Jacaranda,2.4,Ocupada,Regular,Elevada,18,4
+-58.365304044345294,-34.621560272459604,73457,1,Moreau  de Justo Alicia Av.,1900.0,1930.0,Jacaranda,3.2,Ocupada,Regular,A nivel,36,8
+-58.3668693875712,-34.605275599432,75095,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5,Ocupada,Regular,Elevada,45,30
+-58.3668693875712,-34.605275599432,75156,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Sobreocupada,Regular,A nivel,64,27
+-58.3668693875712,-34.605275599432,75160,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Sobreocupada,Regular,Elevada,76,31
+-58.3668693875712,-34.605275599432,75161,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,72,28
+-58.3668693875712,-34.605275599432,75147,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,5,Ocupada,Regular,Elevada,57,31
+-58.365770029737206,-34.6178260661407,74472,1,Moreau  de Justo Alicia Av.,1600.0,1681.0,Platanus,2.75,Ocupada,Regular,Elevada,70,18
+-58.365770029737206,-34.6178260661407,74474,1,Moreau  de Justo Alicia Av.,1600.0,1681.0,Platanus,2.75,Ocupada,Regular,Elevada,81,20
+-58.365770029737206,-34.6178260661407,74480,1,Moreau  de Justo Alicia Av.,1600.0,1681.0,Platanus,2.75,Ocupada,Regular,Elevada,77,18
+-58.3668693875712,-34.605275599432,75304,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,1.6,Sobreocupada,Regular,Elevada,78,30
+-58.36606413219699,-34.6143288886925,75565,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,11,4
+-58.36606413219699,-34.6143288886925,75567,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,16,5
+-58.3668693875712,-34.605275599432,75324,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,1.8,Ocupada,Fuera de línea,Elevada,70,29
+-58.3668693875712,-34.605275599432,75327,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,4,Ocupada,Regular,Elevada,52,27
+-58.3668693875712,-34.605275599432,75329,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,86,29
+-58.3668693875712,-34.605275599432,75331,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,3,Ocupada,Regular,Elevada,92,29
+-58.3668693875712,-34.605275599432,75350,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,2.5,Ocupada,Regular,Elevada,86,29
+-58.3668693875712,-34.605275599432,75351,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,3,Ocupada,Regular,Elevada,76,30
+-58.3668693875712,-34.605275599432,75287,1,Moreau  de Justo Alicia Av.,700.0,700.0,Platanus,4,Ocupada,Regular,Elevada,79,29
+-58.36606413219699,-34.6143288886925,75558,1,Moreau  de Justo Alicia Av.,1200.0,1390.0,Tilia,8.5,Ocupada,Regular,A nivel,20,5
+-58.36620648853,-34.6131545768762,75560,1,Moreau  de Justo Alicia Av.,1200.0,1300.0,Tilia,8.5,Ocupada,Regular,A nivel,9,4
+-58.3663895065674,-34.6121981146536,79831,1,Moreau  de Justo Alicia Av.,1200.0,1203.0,Platanus,6.2,Sobreocupada,Fuera de línea,A nivel,75,12
+-58.3663895065674,-34.6121981146536,79832,1,Moreau  de Justo Alicia Av.,1200.0,1203.0,Platanus,6,Sobreocupada,Fuera de línea,A nivel,84,15
+-58.3654480035402,-34.6203187519606,81239,1,Moreau  de Justo Alicia Av.,1800.0,1848.0,Jacaranda,3.2,Ocupada,Regular,A nivel,26,7
+-58.365304044345294,-34.621560272459604,81240,1,Moreau  de Justo Alicia Av.,1900.0,1920.0,Jacaranda,3.2,Ocupada,Regular,A nivel,10,4
+-58.365304044345294,-34.621560272459604,81241,1,Moreau  de Justo Alicia Av.,1900.0,1920.0,Jacaranda,3.2,Ocupada,Regular,A nivel,18,6
+-58.3654480035402,-34.6203187519606,81242,1,Moreau  de Justo Alicia Av.,1800.0,1848.0,Jacaranda,3.2,Ocupada,Regular,A nivel,25,8
+-58.3654480035402,-34.6203187519606,81243,1,Moreau  de Justo Alicia Av.,1800.0,1848.0,Jacaranda,3.2,Ocupada,Regular,A nivel,27,7
+-58.3654480035402,-34.6203187519606,81244,1,Moreau  de Justo Alicia Av.,1800.0,1848.0,Jacaranda,3.2,Ocupada,Regular,A nivel,13,7
+-58.3654480035402,-34.6203187519606,81246,1,Moreau  de Justo Alicia Av.,1800.0,1848.0,Jacaranda,3.2,Ocupada,Regular,A nivel,18,8
+-58.3654480035402,-34.6203187519606,81247,1,Moreau  de Justo Alicia Av.,1800.0,1848.0,Jacaranda,3.2,Ocupada,Regular,A nivel,19,7
+-58.3654480035402,-34.6203187519606,81248,1,Moreau  de Justo Alicia Av.,1800.0,1848.0,Jacaranda,3.3,Ocupada,Regular,A nivel,24,6
+-58.36520580656429,-34.6231513842446,81999,1,Moreau  de Justo Alicia Av.,2000.0,2050.0,Jacaranda,4,Ocupada,Regular,A nivel,22,5
+-58.3652086319828,-34.6226919832323,82000,1,Moreau  de Justo Alicia Av.,2000.0,2030.0,Jacaranda,2.4,Ocupada,Regular,A nivel,27,5
+-58.3652086319828,-34.6226919832323,82001,1,Moreau  de Justo Alicia Av.,2000.0,2030.0,Jacaranda,2.4,Ocupada,Regular,A nivel,25,8
+-58.3652086319828,-34.6226919832323,82002,1,Moreau  de Justo Alicia Av.,2000.0,2034.0,Jacaranda,2.4,Ocupada,Regular,A nivel,16,5
+-58.36520580656429,-34.6231513842446,82003,1,Moreau  de Justo Alicia Av.,2000.0,2050.0,Jacaranda,2.4,Ocupada,Regular,A nivel,23,7
+-58.36520580656429,-34.6231513842446,82004,1,Moreau  de Justo Alicia Av.,2000.0,2050.0,Jacaranda,4,Ocupada,Regular,A nivel,12,5
+-58.3652086319828,-34.6226919832323,82005,1,Moreau  de Justo Alicia Av.,2000.0,2034.0,Jacaranda,2.4,Ocupada,Regular,A nivel,22,9
+-58.3652086319828,-34.6226919832323,82006,1,Moreau  de Justo Alicia Av.,2000.0,2030.0,Jacaranda,2.4,Ocupada,Regular,A nivel,15,6
+NA,NA,71368,1,Moreau  de Justo Alicia Av.,NA,NA,Platanus,NA,Ocupada,Fuera de línea,A nivel,4,3
+NA,NA,71357,1,Moreau  de Justo Alicia Av.,NA,NA,Platanus,NA,Ocupada,Fuera de línea,A nivel,4,3

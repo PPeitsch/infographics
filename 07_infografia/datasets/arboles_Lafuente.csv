@@ -1,0 +1,86 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.4667198876626,-34.6338586565644,329178,7,Lafuente Av.,200.0,288,Melia,2.8,Ocupada,Regular,A nivel,32,12
+-58.4659103258459,-34.6360044971752,329944,7,Lafuente Av.,400.0,479,Platanus,3.2,Ocupada,Regular,Elevada,83,13
+-58.4659748077591,-34.6358567946697,329945,7,Lafuente Av.,400.0,461,Platanus,3.2,Sobreocupada,Regular,A nivel,6,12
+-58.4660705666509,-34.635637447975604,329946,7,Lafuente Av.,400.0,439,Platanus,3.2,Ocupada,Regular,A nivel,80,12
+-58.46619514316011,-34.63535566565739,329947,7,Lafuente Av.,400.0,405,Platanus,3.2,Ocupada,Regular,A nivel,67,12
+-58.46619514316011,-34.63535566565739,329948,7,Lafuente Av.,400.0,403,Platanus,3.2,Ocupada,Ochava,A nivel,64,12
+-58.4658754562698,-34.6360843693189,330009,7,Lafuente Av.,400.0,489,Platanus,3.2,Ocupada,Regular,A nivel,54,12
+-58.4659535038361,-34.6359055935787,330010,7,Lafuente Av.,400.0,465,Platanus,3.2,Sobreocupada,Regular,A nivel,83,12
+-58.4660705666509,-34.635637447975604,330012,7,Lafuente Av.,400.0,439,Platanus,3.2,Ocupada,Regular,A nivel,70,12
+-58.46619514316011,-34.63535566565739,330013,7,Lafuente Av.,400.0,405,Platanus,3.2,Ocupada,Regular,A nivel,57,12
+-58.4670422512016,-34.6331204133568,329079,7,Lafuente Av.,200.0,210,Melia,2.8,Ocupada,Regular,A nivel,36,15
+-58.466825245264,-34.6336173791679,329081,7,Lafuente Av.,200.0,260,Melia,2.8,Ocupada,Regular,A nivel,39,12
+-58.4667198876626,-34.6338586565644,329083,7,Lafuente Av.,200.0,292,Melia,2.8,Ocupada,Regular,A nivel,30,12
+-58.467869254732,-34.6314565215342,314716,7,Lafuente Av.,0.0,83,Ficus,2.6,Ocupada,Regular,A nivel,28,10
+-58.4603254978096,-34.644910905137,348146,7,Lafuente Av.,1200.0,1225,Melia,5.8,Sobreocupada,Regular,Elevada,36,9
+-58.459982150368795,-34.6452438118571,348150,7,Lafuente Av.,1200.0,1259,Melia,5.8,Ocupada,Regular,A nivel,46,14
+-58.4647263860024,-34.6387435238194,348408,7,Lafuente Av.,700.0,713,Tilia,5.2,Sobreocupada,Regular,A nivel,13,6
+-58.4662902878814,-34.6348481424699,343894,7,Lafuente Av.,300.0,380,Ficus,2.8,Ocupada,Ochava,A nivel,64,10
+-58.466381390182505,-34.6346394780285,343896,7,Lafuente Av.,300.0,358,Ficus,2.8,Ocupada,Regular,A nivel,32,8
+-58.466508078342706,-34.6343493044135,343897,7,Lafuente Av.,300.0,332,Melia,2.8,Ocupada,Regular,A nivel,44,10
+-58.466598518992605,-34.6341421527879,343898,7,Lafuente Av.,300.0,306,Melia,2.8,Ocupada,Ochava,A nivel,29,11
+-58.4594381494686,-34.6457718385158,342448,7,Lafuente Av.,1300.0,1313,Tilia,5.4,Ocupada,Regular,A nivel,36,10
+-58.46651659299479,-34.63454347639001,343457,7,Lafuente Av.,300.0,353,Ficus,2.8,Ocupada,Regular,Bajo nivel,10,4
+-58.4665327515318,-34.6342927913225,343458,7,Lafuente Av.,300.0,324,Melia,2.8,Ocupada,Regular,A nivel,38,10
+-58.464825333013295,-34.6382120120119,339469,7,Lafuente Av.,600.0,690,Platanus,3.2,Ocupada,Regular,A nivel,18,4
+-58.464899275938606,-34.6380426282377,339470,7,Lafuente Av.,600.0,672,Platanus,3.2,Ocupada,Regular,A nivel,90,23
+-58.4649945340862,-34.6378244158091,339472,7,Lafuente Av.,600.0,632,Platanus,3.2,Ocupada,Regular,A nivel,75,20
+-58.465002516138,-34.6378061308749,339473,7,Lafuente Av.,600.0,628,Platanus,3.2,Ocupada,Regular,A nivel,70,19
+-58.4650585102486,-34.637677861833,339474,7,Lafuente Av.,600.0,616,Platanus,3.2,Ocupada,Regular,A nivel,69,20
+-58.4651914994456,-34.6376525528252,339517,7,Lafuente Av.,600.0,623,Platanus,3.2,Ocupada,Regular,Bajo nivel,81,19
+-58.4651914994456,-34.6376525528252,339518,7,Lafuente Av.,600.0,623,Platanus,3.2,Ocupada,Regular,A nivel,82,20
+-58.465092458897104,-34.6378794316324,339521,7,Lafuente Av.,600.0,649,Tilia,3.2,Ocupada,Regular,A nivel,18,8
+-58.465061794913304,-34.637949675402496,339522,7,Lafuente Av.,600.0,659,Platanus,3.2,Ocupada,Regular,A nivel,91,26
+-58.4649584790036,-34.6381863462136,339524,7,Lafuente Av.,600.0,679,Platanus,3.2,Ocupada,Regular,Elevada,89,25
+-58.464996894343,-34.6380983464891,339525,7,Lafuente Av.,600.0,675,Ficus,3.2,Ocupada,Regular,Elevada,30,8
+-58.4649321720964,-34.6382466085024,339527,7,Lafuente Av.,600.0,689,Platanus,3.2,Ocupada,Regular,A nivel,88,24
+-58.465899323222,-34.6357530404125,337418,7,Lafuente Av.,400.0,454,Platanus,3.2,Ocupada,Regular,A nivel,120,17
+-58.4665904403287,-34.634374331710504,338678,7,Lafuente Av.,300.0,325,Ficus,2.6,Ocupada,Regular,A nivel,58,14
+-58.466649960754296,-34.6342380017487,338679,7,Lafuente Av.,300.0,305,Melia,2.6,Ocupada,Ochava,A nivel,44,22
+-58.465899323222,-34.6357530404125,337419,7,Lafuente Av.,400.0,454,Platanus,3.2,Ocupada,Regular,Bajo nivel,100,17
+-58.458056566335294,-34.6471102234784,337960,7,Lafuente Av.,1400.0,1451,Melia,5.2,Ocupada,Regular,A nivel,86,8
+-58.458056566335294,-34.6471102234784,338229,7,Lafuente Av.,1400.0,1451,Melia,5.2,Ocupada,Regular,A nivel,56,6
+-58.45937487326539,-34.645633314938,353687,7,Lafuente Av.,1300.0,1308,Tilia,5.8,Ocupada,Regular,A nivel,32,8
+-58.45912026712059,-34.6458801543101,353689,7,Lafuente Av.,1300.0,1338,Melia,5.8,Ocupada,Regular,Elevada,75,12
+-58.4590517902724,-34.6459471290167,353690,7,Lafuente Av.,1300.0,1350,Melia,5.8,Ocupada,Regular,A nivel,58,11
+-58.4590517902724,-34.6459471290167,353691,7,Lafuente Av.,1300.0,1350,Melia,5.8,Ocupada,Regular,A nivel,57,9
+-58.458936726700706,-34.6460580945751,353692,7,Lafuente Av.,1300.0,1370,Melia,5.8,Ocupada,Regular,A nivel,48,12
+-58.4627379448744,-34.642166165124,378179,7,Lafuente Av.,900.0,977,Ficus,3.2,Ocupada,Regular,A nivel,91,11
+-58.463387959601896,-34.641022772066805,376034,7,Lafuente Av.,873.0,877,Ficus,4.4,Ocupada,Regular,Elevada,74,7
+-58.4597040656358,-34.6453153201466,399816,7,Lafuente Av.,1200.0,1270,Ficus,5.6,Ocupada,Regular,A nivel,40,9
+-58.4597661638068,-34.6452551109638,399817,7,Lafuente Av.,1200.0,1268,Platanus,5.6,Ocupada,Regular,Elevada,12,7
+-58.4561681578792,-34.6489486845761,397243,7,Lafuente Av.,1600.0,1667,Jacaranda,5,Ocupada,Fuera de línea,Elevada,3,2
+-58.4561681578792,-34.6489486845761,397244,7,Lafuente Av.,1600.0,1667,Melia,5,Ocupada,Fuera de línea,Elevada,10,4
+-58.4562290792928,-34.6488884158221,397245,7,Lafuente Av.,1600.0,1659,Melia,5,Ocupada,Regular,A nivel,40,9
+-58.4562910264752,-34.6488290088367,397246,7,Lafuente Av.,1600.0,1651,Melia,5,Ocupada,Regular,A nivel,60,10
+-58.456471855918394,-34.6486500933391,397247,7,Lafuente Av.,1600.0,1627,Melia,5,Ocupada,Regular,A nivel,60,9
+-58.4568570969394,-34.6482725476908,408673,7,Lafuente Av.,1500.0,1595,Melia,4.2,Ocupada,Regular,A nivel,45,10
+-58.4568570969394,-34.6482725476908,408674,7,Lafuente Av.,1500.0,1595,Melia,4.2,Ocupada,Regular,A nivel,45,10
+-58.4570012613658,-34.6481327876163,408676,7,Lafuente Av.,1500.0,1579,Ficus,4.2,Ocupada,Regular,A nivel,36,5
+-58.4572426710919,-34.6477029237765,413955,7,Lafuente Av.,1500.0,1508,Melia,5.6,Ocupada,Regular,A nivel,63,10
+-58.45812785238729,-34.6468440984072,413963,7,Lafuente Av.,1400.0,1420,Melia,5.6,Ocupada,Regular,A nivel,62,9
+-58.456931956535904,-34.648004147969395,413947,7,Lafuente Av.,1500.0,1560,Melia,5.6,Ocupada,Regular,A nivel,62,9
+-58.456931956535904,-34.648004147969395,413948,7,Lafuente Av.,1500.0,1560,Melia,5.6,Ocupada,Regular,A nivel,48,9
+-58.456931956535904,-34.648004147969395,413949,7,Lafuente Av.,1500.0,1560,Melia,5.6,Ocupada,Regular,A nivel,40,8
+-58.456931956535904,-34.648004147969395,413950,7,Lafuente Av.,1500.0,1560,Melia,5.6,Ocupada,Regular,A nivel,29,7
+-58.46522751585729,-34.6372873414896,425565,7,Lafuente Av.,500.0,594,Platanus,3.2,Ocupada,Regular,Bajo nivel,70,16
+-58.4652639889108,-34.637203785147904,425566,7,Lafuente Av.,500.0,588,Tilia,3.2,Ocupada,Regular,Elevada,16,8
+-58.4652946223217,-34.6371336067481,425567,7,Lafuente Av.,500.0,580,Platanus,3.2,Ocupada,Regular,A nivel,80,16
+-58.465604238181,-34.636424297385105,425574,7,Lafuente Av.,500.0,504,Tilia,3.2,Ocupada,Regular,A nivel,27,8
+-58.46559794132871,-34.636724798218395,416531,7,Lafuente Av.,500.0,541,Platanus,4.4,Ocupada,Regular,A nivel,71,16
+-58.4654373310097,-34.6370927459762,416535,7,Lafuente Av.,500.0,571,Lagerstroemia,4.4,Ocupada,Regular,Elevada,8,5
+-58.4653374643153,-34.637321532308505,416536,7,Lafuente Av.,500.0,595,Platanus,4.4,Ocupada,Regular,A nivel,70,16
+-58.4392854557928,-34.6622834273855,428066,8,Lafuente Av.,3100,3128,Tilia,3.2,Ocupada,Regular,A nivel,32,12
+-58.439206414903005,-34.6623462299658,428067,8,Lafuente Av.,3100,3140,Tilia,3.2,Ocupada,Regular,A nivel,22,5
+-58.43897210402721,-34.662532402686,428070,8,Lafuente Av.,3100,3174,Ficus,3.2,Ocupada,Regular,Elevada,33,7
+-58.4388937978312,-34.662594620921695,428071,8,Lafuente Av.,3100,3186,Jacaranda,3.2,Ocupada,Regular,Bajo nivel,8,5
+-58.4388201005698,-34.6626531770053,428072,8,Lafuente Av.,3100,3194,Jacaranda,3.2,Ocupada,Regular,Elevada,7,4
+-58.4409329416528,-34.6609679794836,428054,8,Lafuente Av.,2900,2982,Ficus,3.2,Ocupada,Regular,A nivel,38,5
+-58.4403153135833,-34.6614580491861,428058,8,Lafuente Av.,3000,3026,Ficus,3.2,Ocupada,Regular,A nivel,62,9
+-58.4394319947797,-34.6621669932754,428062,8,Lafuente Av.,3100,3114,Melia,3.2,Ocupada,Regular,Elevada,70,11
+-58.4390043444483,-34.6626416750381,415839,8,Lafuente Av.,3100,3177,Jacaranda,3.2,Ocupada,Regular,Bajo nivel,27,10
+-58.4390043444483,-34.6626416750381,415840,8,Lafuente Av.,3100,3177,Ficus,3.2,Ocupada,Regular,Bajo nivel,19,7
+-58.4383171305735,-34.663187086852105,415846,8,Lafuente Av.,3200,3255,Tilia,3.2,Sobreocupada,Regular,Bajo nivel,22,3
+-58.4381091779224,-34.6633523014936,415849,8,Lafuente Av.,3200,3275,Jacaranda,3.2,Ocupada,Regular,Bajo nivel,14,4
+-58.4381091779224,-34.6633523014936,415850,8,Lafuente Av.,3200,3277,Ficus,3.2,Sobreocupada,Regular,Bajo nivel,2,2

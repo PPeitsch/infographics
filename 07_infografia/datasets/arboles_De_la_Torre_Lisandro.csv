@@ -1,0 +1,237 @@
+long,lat,nro_registro,comuna,calle_nombre,calle_altura,calle_chapa,nombre_cientifico,ancho_acera,estado_plantera,ubicacion_plantera,nivel_plantera,diametro_altura_pecho,altura_arbol
+-58.471546768490896,-34.6854673092728,385162,8,"De la Torre, Lisandro Av.",4800.0,4867,Platanus,5.6,Ocupada,Fuera de línea,A nivel,63,16
+-58.4712827305699,-34.685674244941694,385165,8,"De la Torre, Lisandro Av.",4800.0,4893,Tilia,5.6,Ocupada,Ochava,A nivel,18,8
+-58.4701179715234,-34.6865815261841,385205,8,"De la Torre, Lisandro Av.",4900.0,4993,Tilia,5.2,Ocupada,Regular,A nivel,39,8
+-58.4701836483015,-34.6865301806808,385207,8,"De la Torre, Lisandro Av.",4900.0,4987,Tilia,5.2,Ocupada,Regular,A nivel,26,12
+-58.4706081698552,-34.686198879053,385212,8,"De la Torre, Lisandro Av.",4900.0,4947,Lagerstroemia,5.2,Ocupada,Regular,Elevada,12,6
+-58.4708721980828,-34.6859925669929,385214,8,"De la Torre, Lisandro Av.",4900.0,4917,Tilia,5.2,Ocupada,Regular,A nivel,20,8
+-58.4762023163033,-34.6818743411518,378839,8,"De la Torre, Lisandro Av.",4400.0,4465,Melia,4.4,Ocupada,Regular,A nivel,72,9
+-58.476478828980504,-34.681660568713,378843,8,"De la Torre, Lisandro Av.",4400.0,4447,Melia,4.4,Ocupada,Regular,A nivel,36,8
+-58.47687297166621,-34.6813498558428,378848,8,"De la Torre, Lisandro Av.",4400.0,4405,Lagerstroemia,4.4,Ocupada,Regular,A nivel,13,6
+-58.47689217195379,-34.6813352222646,378849,8,"De la Torre, Lisandro Av.",4400.0,4403,Jacaranda,4.4,Ocupada,Ochava,A nivel,39,11
+-58.474895344932,-34.6828866514715,378859,8,"De la Torre, Lisandro Av.",4500.0,4583,Melia,4.4,Ocupada,Regular,A nivel,52,9
+-58.4750324196671,-34.6827806818981,378862,8,"De la Torre, Lisandro Av.",4500.0,4567,Tilia,4.4,Ocupada,Regular,A nivel,40,8
+-58.475101898624494,-34.6827269690152,378863,8,"De la Torre, Lisandro Av.",4500.0,4563,Melia,4.4,Ocupada,Regular,A nivel,8,2
+-58.4752395969517,-34.682620516719396,378865,8,"De la Torre, Lisandro Av.",4500.0,4551,Melia,4.4,Ocupada,Regular,A nivel,45,6
+-58.4753772887411,-34.68251406904,378867,8,"De la Torre, Lisandro Av.",4500.0,4531,Lagerstroemia,4.4,Ocupada,Regular,Elevada,8,5
+-58.4754465068446,-34.682460557287605,378868,8,"De la Torre, Lisandro Av.",4500.0,4525,Tilia,4.4,Ocupada,Regular,A nivel,30,8
+-58.4755846626945,-34.6823537449418,378872,8,"De la Torre, Lisandro Av.",4500.0,4513,Tilia,4.4,Ocupada,Regular,A nivel,11,5
+-58.4755846626945,-34.6823537449418,378873,8,"De la Torre, Lisandro Av.",4500.0,4513,Lagerstroemia,4.4,Ocupada,Ochava,A nivel,14,4
+-58.46968054243871,-34.6869234772816,396057,8,"De la Torre, Lisandro Av.",5000.0,5021,Ficus,5,Ocupada,Regular,Elevada,13,4
+-58.46954654856749,-34.6870346099273,396060,8,"De la Torre, Lisandro Av.",5000.0,5033,Ficus,5,Ocupada,Regular,A nivel,13,9
+-58.4694776545192,-34.6870885299646,396061,8,"De la Torre, Lisandro Av.",5000.0,5037,Ficus,5,Ocupada,Regular,A nivel,4,4
+-58.4694776545192,-34.6870885299646,396062,8,"De la Torre, Lisandro Av.",5000.0,5039,Lagerstroemia,5,Ocupada,Regular,A nivel,20,5
+-58.4692727836974,-34.6872488718109,396064,8,"De la Torre, Lisandro Av.",5000.0,5063,Tilia,5,Ocupada,Regular,A nivel,35,12
+-58.468919133128,-34.687525653626,396070,8,"De la Torre, Lisandro Av.",5000.0,5095,Jacaranda,5,Ocupada,Regular,A nivel,2,4
+-58.4654050356612,-34.6902171179999,395846,8,"De la Torre, Lisandro Av.",5300.0,5399,Melia,4.4,Ocupada,Ochava,A nivel,65,14
+-58.46546411232861,-34.6901708881328,395847,8,"De la Torre, Lisandro Av.",5300.0,5393,Melia,4.4,Ocupada,Regular,A nivel,41,10
+-58.4655034967374,-34.6901400682053,395848,8,"De la Torre, Lisandro Av.",5300.0,5389,Melia,4.4,Ocupada,Regular,A nivel,54,12
+-58.465641341937705,-34.6900321983576,395849,8,"De la Torre, Lisandro Av.",5300.0,5375,Melia,4.4,Ocupada,Regular,A nivel,49,13
+-58.465739802577104,-34.6899551483698,395850,8,"De la Torre, Lisandro Av.",5300.0,5365,Melia,4.4,Ocupada,Regular,A nivel,37,10
+-58.46583826303289,-34.6898780983015,395851,8,"De la Torre, Lisandro Av.",5300.0,5355,Melia,4.4,Ocupada,Regular,A nivel,39,10
+-58.465779186781504,-34.6899243283522,395852,8,"De la Torre, Lisandro Av.",5300.0,5361,Melia,4.4,Ocupada,Regular,A nivel,65,14
+-58.46579887887221,-34.689908918338496,395853,8,"De la Torre, Lisandro Av.",5300.0,5359,Melia,4.4,Ocupada,Regular,A nivel,55,10
+-58.4658984720412,-34.6898817144911,395857,8,"De la Torre, Lisandro Av.",5300.0,5333,Melia,4.4,Ocupada,Regular,A nivel,55,13
+-58.4659280992758,-34.6898585257628,395858,8,"De la Torre, Lisandro Av.",5300.0,5331,Melia,4.4,Ocupada,Regular,A nivel,49,13
+-58.4659577264994,-34.6898353370335,395859,8,"De la Torre, Lisandro Av.",5300.0,5329,Melia,4.4,Ocupada,Regular,A nivel,47,11
+-58.4663428789151,-34.689533882890004,395861,8,"De la Torre, Lisandro Av.",5300.0,5303,Melia,4.4,Ocupada,Ochava,A nivel,73,11
+-58.46411087448529,-34.6912299742609,387019,8,"De la Torre, Lisandro Av.",5500.0,5500,Tilia,4.3,Ocupada,Regular,A nivel,33,10
+-58.46411087448529,-34.6912299742609,387020,8,"De la Torre, Lisandro Av.",5500.0,5500,Tilia,4.3,Ocupada,Regular,A nivel,34,10
+-58.46411087448529,-34.6912299742609,387021,8,"De la Torre, Lisandro Av.",5500.0,5500,Tilia,4.3,Ocupada,Regular,A nivel,28,9
+-58.46411087448529,-34.6912299742609,387022,8,"De la Torre, Lisandro Av.",5500.0,5500,Tilia,4.3,Ocupada,Regular,A nivel,38,11
+-58.46411087448529,-34.6912299742609,387023,8,"De la Torre, Lisandro Av.",5500.0,5500,Tilia,4.3,Ocupada,Regular,A nivel,27,9
+-58.46411087448529,-34.6912299742609,387024,8,"De la Torre, Lisandro Av.",5500.0,5500,Tilia,4.3,Ocupada,Regular,A nivel,30,10
+-58.4647042625037,-34.6908162760743,389470,8,"De la Torre, Lisandro Av.",5400.0,5471,Tilia,5,Ocupada,Ochava,A nivel,26,9
+-58.4647042625037,-34.6908162760743,389471,8,"De la Torre, Lisandro Av.",5400.0,5471,Tilia,5,Ocupada,Regular,A nivel,29,9
+-58.4647042625037,-34.6908162760743,389472,8,"De la Torre, Lisandro Av.",5400.0,5471,Tilia,5,Ocupada,Regular,A nivel,28,7
+-58.4647042625037,-34.6908162760743,389473,8,"De la Torre, Lisandro Av.",5400.0,5471,Tilia,5,Ocupada,Regular,A nivel,25,7
+-58.4647042625037,-34.6908162760743,389478,8,"De la Torre, Lisandro Av.",5400.0,5475,Tilia,6.5,Ocupada,Regular,A nivel,13,5
+-58.4647042625037,-34.6908162760743,389479,8,"De la Torre, Lisandro Av.",5400.0,5475,Jacaranda,6.5,Ocupada,Regular,A nivel,5,3
+-58.4646644908095,-34.6908474022613,389482,8,"De la Torre, Lisandro Av.",5400.0,5477,Jacaranda,6.5,Ocupada,Regular,A nivel,4,3
+-58.4646644908095,-34.6908474022613,389483,8,"De la Torre, Lisandro Av.",5400.0,5477,Jacaranda,5,Ocupada,Regular,A nivel,4,4
+-58.464425860031795,-34.6910341591198,389485,8,"De la Torre, Lisandro Av.",5400.0,5489,Jacaranda,5,Ocupada,Regular,A nivel,3,3
+-58.4642660816873,-34.6911580614326,389487,8,"De la Torre, Lisandro Av.",5400.0,5497,Tilia,5,Ocupada,Regular,A nivel,8,5
+-58.479218366243295,-34.679438104336,404428,8,"De la Torre, Lisandro Av.",4200.0,4202,Lagerstroemia,3.2,Ocupada,Regular,Elevada,11,4
+-58.467803967509205,-34.6883899167348,400597,8,"De la Torre, Lisandro Av.",5100.0,5189,Tilia,4,Ocupada,Regular,A nivel,0,9
+-58.4682984017215,-34.688007719145304,400605,8,"De la Torre, Lisandro Av.",5100.0,5143,Ficus,4,Ocupada,Regular,A nivel,0,4
+-58.468423137440006,-34.6879102824742,400607,8,"De la Torre, Lisandro Av.",5100.0,5133,Ficus,4,Ocupada,Regular,Elevada,0,5
+-58.468546769121104,-34.6878137078365,400609,8,"De la Torre, Lisandro Av.",5100.0,5121,Ficus,4,Ocupada,Regular,A nivel,0,5
+-58.46860877054521,-34.687765275429896,400610,8,"De la Torre, Lisandro Av.",5100.0,5115,Jacaranda,4,Ocupada,Fuera de línea,A nivel,0,4
+-58.4686807151414,-34.687709116091106,400613,8,"De la Torre, Lisandro Av.",5100.0,5107,Melia,4,Ocupada,Regular,A nivel,0,2
+-58.4781280028788,-34.6802824947853,401208,8,"De la Torre, Lisandro Av.",4300.0,4312,Tilia,4.4,Ocupada,Regular,A nivel,9,6
+-58.478871563151294,-34.6798262589862,401229,8,"De la Torre, Lisandro Av.",4200.0,4267,Ficus,4.4,Ocupada,Ochava,A nivel,96,6
+-58.478871563151294,-34.6798262589862,401231,8,"De la Torre, Lisandro Av.",4200.0,4267,Lagerstroemia,4.4,Ocupada,Regular,A nivel,15,5
+-58.4787615070644,-34.6797991900579,401236,8,"De la Torre, Lisandro Av.",4200.0,4250,Lagerstroemia,4.4,Ocupada,Regular,A nivel,8,5
+-58.478661267287706,-34.6798671570249,401239,8,"De la Torre, Lisandro Av.",4200.0,4256,Ficus,4.4,Ocupada,Regular,A nivel,46,6
+-58.478661267287706,-34.6798671570249,401240,8,"De la Torre, Lisandro Av.",4250.0,4256,Tilia,4.4,Ocupada,Ochava,A nivel,42,9
+-58.4731634499199,-34.6842135593588,409507,8,"De la Torre, Lisandro Av.",4700.0,4727,Tilia,4.4,Ocupada,Regular,A nivel,41,9
+-58.47270926115021,-34.6845626803852,409514,8,"De la Torre, Lisandro Av.",4700.0,4759,Ficus,4.4,Ocupada,Regular,Elevada,29,9
+-58.4768048276828,-34.681300242954805,408927,8,"De la Torre, Lisandro Av.",4300.0,4392,Melia,4.4,Ocupada,Regular,A nivel,70,11
+-58.477060427417605,-34.681103678597005,408930,8,"De la Torre, Lisandro Av.",4300.0,4370,Melia,4.4,Ocupada,Regular,A nivel,61,8
+-58.477105977577104,-34.681068642096804,408931,8,"De la Torre, Lisandro Av.",4300.0,4366,Melia,4.4,Ocupada,Regular,Elevada,65,8
+-58.4726658526279,-34.6845960469522,409516,8,"De la Torre, Lisandro Av.",4700.0,4761,Ficus,4.8,Ocupada,Regular,Elevada,24,5
+-58.472622444059894,-34.6846294134936,409517,8,"De la Torre, Lisandro Av.",4700.0,4763,Melia,4.8,Ocupada,Regular,A nivel,47,10
+-58.472622444059894,-34.6846294134936,409518,8,"De la Torre, Lisandro Av.",4700.0,4767,Melia,4.8,Ocupada,Regular,A nivel,46,9
+-58.472622444059894,-34.6846294134936,409519,8,"De la Torre, Lisandro Av.",4700.0,4767,Ficus,5.2,Ocupada,Ochava,Elevada,30,3
+-58.477247311749494,-34.6809599296878,408933,8,"De la Torre, Lisandro Av.",4300.0,4350,Melia,4.4,Ocupada,Regular,A nivel,65,7
+-58.477326960316496,-34.680898664851604,408935,8,"De la Torre, Lisandro Av.",4300.0,4344,Ficus,4.4,Ocupada,Regular,A nivel,11,2
+-58.477367048216706,-34.6808678419183,408936,8,"De la Torre, Lisandro Av.",4300.0,4342,Lagerstroemia,4.4,Ocupada,Regular,A nivel,19,5
+-58.477485656219905,-34.6807765971994,408937,8,"De la Torre, Lisandro Av.",4300.0,4338,Lagerstroemia,4.4,Ocupada,Regular,Elevada,18,5
+-58.477485656219905,-34.6807765971994,408939,8,"De la Torre, Lisandro Av.",4300.0,4338,Lagerstroemia,4.4,Sobreocupada,Regular,A nivel,3,3
+-58.467489952731704,-34.688640392436,407954,8,"De la Torre, Lisandro Av.",5200.0,5211,Tilia,4.4,Ocupada,Ochava,A nivel,14,5
+-58.467446667645,-34.688674206322304,407955,8,"De la Torre, Lisandro Av.",5200.0,5221,Tilia,4.4,Ocupada,Regular,A nivel,20,6
+-58.4671961567879,-34.6888699021022,407957,8,"De la Torre, Lisandro Av.",5200.0,5231,Tilia,4.4,Ocupada,Regular,A nivel,20,9
+-58.4671961567879,-34.6888699021022,407958,8,"De la Torre, Lisandro Av.",5200.0,5231,Tilia,4.4,Ocupada,Regular,A nivel,15,8
+-58.47559786265321,-34.682236912449696,428931,8,"De la Torre, Lisandro Av.",4400,4496,Platanus,4.4,Ocupada,Regular,A nivel,35,8
+-58.4757639640423,-34.6821084472283,428932,8,"De la Torre, Lisandro Av.",4400,4484,Melia,4.4,Ocupada,Regular,A nivel,55,5
+-58.4761110427752,-34.6818401225711,428937,8,"De la Torre, Lisandro Av.",4400,4460,Tilia,4.4,Ocupada,Regular,A nivel,12,5
+-58.4761908208685,-34.6817784462483,428939,8,"De la Torre, Lisandro Av.",4400,4452,Tilia,4.4,Ocupada,Regular,A nivel,11,5
+-58.47640655999721,-34.6816116579297,428941,8,"De la Torre, Lisandro Av.",4400,4424,Melia,4.4,Ocupada,Regular,A nivel,45,7
+-58.47640655999721,-34.6816116579297,428943,8,"De la Torre, Lisandro Av.",4400,4424,Melia,4.4,Ocupada,Regular,A nivel,62,10
+-58.46552806604299,-34.6900683471453,431907,8,"De la Torre, Lisandro Av.",5300,5394,Tilia,5,Ocupada,Regular,A nivel,13,3
+-58.4656073736377,-34.690006285482,431908,8,"De la Torre, Lisandro Av.",5300,5386,Tilia,5,Ocupada,Regular,A nivel,32,7
+-58.465686633835496,-34.6899442607587,431909,8,"De la Torre, Lisandro Av.",5300,5372,Tilia,5,Ocupada,Regular,A nivel,31,7
+-58.465686633835496,-34.6899442607587,431911,8,"De la Torre, Lisandro Av.",5300,5372,Tilia,7,Ocupada,Fuera de línea,A nivel,15,6
+-58.46576643488871,-34.6898818126447,431912,8,"De la Torre, Lisandro Av.",5300,5360,Tilia,7,Ocupada,Fuera de línea,A nivel,12,6
+-58.47361756817921,-34.6838680692765,414950,8,"De la Torre, Lisandro Av.",4600,4691,Melia,4.4,Ocupada,Regular,Elevada,57,8
+-58.47412827756371,-34.6834754611318,414953,8,"De la Torre, Lisandro Av.",4600,4649,Tilia,4.4,Ocupada,Regular,A nivel,4,2
+-58.47412827756371,-34.6834754611318,414954,8,"De la Torre, Lisandro Av.",4600,4649,Tilia,4.4,Ocupada,Regular,A nivel,4,2
+-58.47412827756371,-34.6834754611318,414955,8,"De la Torre, Lisandro Av.",4600,4649,Tilia,4.4,Ocupada,Regular,Bajo nivel,4,3
+-58.474405054035905,-34.6832626865961,414960,8,"De la Torre, Lisandro Av.",4600,4625,Tilia,4.4,Ocupada,Regular,A nivel,12,6
+-58.474405054035905,-34.6832626865961,414961,8,"De la Torre, Lisandro Av.",4600,4625,Tilia,5,Ocupada,Ochava,A nivel,13,6
+-58.4782929386941,-34.680255374465105,415027,8,"De la Torre, Lisandro Av.",4300,4309,Tilia,4.4,Ocupada,Regular,A nivel,32,6
+-58.4782929386941,-34.680255374465105,415028,8,"De la Torre, Lisandro Av.",4300,4309,Ficus,4.4,Ocupada,Regular,A nivel,55,5
+-58.4781955676073,-34.6803302791944,415029,8,"De la Torre, Lisandro Av.",4300,4315,Lagerstroemia,4.4,Ocupada,Regular,A nivel,6,2
+-58.4777188411431,-34.6806970126331,415036,8,"De la Torre, Lisandro Av.",4300,4349,Ficus,4.4,Ocupada,Regular,A nivel,24,3
+-58.477580514158895,-34.680803413290896,415038,8,"De la Torre, Lisandro Av.",4300,4355,Melia,4.4,Ocupada,Regular,A nivel,63,9
+-58.466990667768705,-34.6889188557096,435032,8,"De la Torre, Lisandro Av.",5200,5256,Tilia,7,Ocupada,Regular,A nivel,19,6
+-58.4688604572098,-34.687463173291896,435212,8,"De la Torre, Lisandro Av.",5100,5100,Jacaranda,15,Ocupada,Regular,A nivel,1,2
+-58.4688604572098,-34.687463173291896,435214,8,"De la Torre, Lisandro Av.",5100,5100,Ficus,15,Ocupada,Regular,A nivel,19,2
+-58.4688604572098,-34.687463173291896,435215,8,"De la Torre, Lisandro Av.",5100,5100,Ficus,15,Ocupada,Regular,A nivel,6,2
+-58.4676344534933,-34.6884252551943,433276,8,"De la Torre, Lisandro Av.",5200,5200,Tilia,17,Ocupada,Regular,A nivel,19,7
+-58.4676344534933,-34.6884252551943,433282,8,"De la Torre, Lisandro Av.",5200,5200,Tilia,17,Ocupada,Regular,A nivel,18,7
+-58.4676344534933,-34.6884252551943,433285,8,"De la Torre, Lisandro Av.",5200,5200,Tilia,17,Ocupada,Regular,A nivel,17,8
+-58.4676344534933,-34.6884252551943,433286,8,"De la Torre, Lisandro Av.",5200,5200,Ficus,17,Ocupada,Ochava,A nivel,137,16
+-58.484920344504395,-34.6747434259824,523614,8,"De la Torre, Lisandro Av.",3700,3758,Ficus,2.4,Ocupada,Regular,A Nivel,5,2
+-58.4850727598475,-34.6746161547941,523616,8,"De la Torre, Lisandro Av.",3700,3730,Ficus,2.4,Ocupada,Regular,A Nivel,41,7
+-58.482163507809105,-34.6770590966925,523749,8,"De la Torre, Lisandro Av.",4000,4030,Ficus,2.4,Ocupada,Regular,A Nivel,40,9
+-58.48231317312389,-34.676932643928,523752,8,"De la Torre, Lisandro Av.",4000,4020,Tilia,2.4,Ocupada,Regular,A Nivel,49,6
+-58.4829923451566,-34.6765166576554,523869,8,"De la Torre, Lisandro Av.",3900,3963,Melia,2.4,Ocupada,Regular,A nivel,59,11
+-58.482469418107,-34.6769609287605,523872,8,"De la Torre, Lisandro Av.",4000,4013,Tilia,2.4,Ocupada,Regular,A Nivel,12,8
+-58.482403692508,-34.6770164607824,523873,8,"De la Torre, Lisandro Av.",4000,4017,Tilia,2.4,Ocupada,Regular,A Nivel,9,4
+-58.4821065772258,-34.677267494209104,523877,8,"De la Torre, Lisandro Av.",4000,4037,Tilia,2.4,Ocupada,Regular,A Nivel,38,10
+-58.48180909623571,-34.677518834374105,523881,8,"De la Torre, Lisandro Av.",4000,4063,Lagerstroemia,2.4,Ocupada,Regular,Elevada,19,5
+-58.480693160255896,-34.6784558618546,523944,8,"De la Torre, Lisandro Av.",4100,4141,Ficus,2.4,Ocupada,Regular,A Nivel,11,2
+-58.474730855115205,-34.6829053913243,525522,8,"De la Torre, Lisandro Av.",4500,4598,Ficus,4.4,Ocupada,Regular,A nivel,18,4
+-58.47500952267861,-34.6826899596371,525525,8,"De la Torre, Lisandro Av.",4500,4554,Melia,4.4,Ocupada,Regular,A nivel,47,7
+-58.47500952267861,-34.6826899596371,525526,8,"De la Torre, Lisandro Av.",4500,4554,Melia,4.4,Ocupada,Regular,A nivel,47,5
+-58.47500952267861,-34.6826899596371,525527,8,"De la Torre, Lisandro Av.",4500,4554,Melia,4.4,Ocupada,Regular,A nivel,41,10
+-58.4750757801958,-34.6826387371835,525528,8,"De la Torre, Lisandro Av.",4500,4548,Melia,4.4,Ocupada,Regular,A nivel,55,7
+-58.475139635274104,-34.682589371887005,525529,8,"De la Torre, Lisandro Av.",4500,4538,Tilia,4.4,Ocupada,Regular,A nivel,9,6
+-58.47526786340261,-34.6824902406044,525532,8,"De la Torre, Lisandro Av.",4500,4524,Lagerstroemia,4.4,Ocupada,Regular,A nivel,10,4
+-58.4753311761079,-34.6824412943573,525533,8,"De la Torre, Lisandro Av.",4500,4512,Lagerstroemia,4.4,Sobreocupada,Regular,A nivel,10,4
+-58.4753311761079,-34.6824412943573,525535,8,"De la Torre, Lisandro Av.",4500,4512,Tilia,4.4,Ocupada,Regular,Elevada,32,10
+-58.4735031779544,-34.683851719713104,525588,8,"De la Torre, Lisandro Av.",4600,4684,Tilia,4.4,Ocupada,Regular,Elevada,10,4
+-58.4735031779544,-34.683851719713104,525589,8,"De la Torre, Lisandro Av.",4600,4684,Melia,4.4,Ocupada,Regular,A nivel,31,8
+-58.473641804571706,-34.6837451512215,525590,8,"De la Torre, Lisandro Av.",4600,4676,Melia,4.4,Ocupada,Regular,A nivel,59,8
+-58.4737113486829,-34.6836916893889,525591,8,"De la Torre, Lisandro Av.",4600,4668,Melia,4.4,Ocupada,Regular,A nivel,40,8
+-58.4737113486829,-34.6836916893889,525592,8,"De la Torre, Lisandro Av.",4600,4668,Melia,4.4,Ocupada,Regular,A nivel,48,8
+-58.4744418032414,-34.6831301479491,525600,8,"De la Torre, Lisandro Av.",4600,4610,Melia,4.4,Ocupada,Regular,A nivel,61,12
+-58.4744418032414,-34.6831301479491,525602,8,"De la Torre, Lisandro Av.",4600,4610,Melia,4.4,Ocupada,Regular,A nivel,69,10
+-58.471572614902705,-34.685341913541,527154,8,"De la Torre, Lisandro Av.",4800,4856,Platanus,8.5,Sobreocupada,Regular,A Nivel,54,14
+-58.4714936646772,-34.6854037697589,527155,8,"De la Torre, Lisandro Av.",4800,4864,Platanus,8.5,Ocupada,Regular,A Nivel,48,6
+-58.471572614902705,-34.685341913541,527365,8,"De la Torre, Lisandro Av.",4800,4856,Platanus,7.2,Ocupada,NA,NA,55,13
+-58.471255846782896,-34.685590095363395,527372,8,"De la Torre, Lisandro Av.",4800,4888,Tilia,7.2,Ocupada,NA,NA,20,6
+-58.470407348498,-34.6863058175953,527448,8,"De la Torre, Lisandro Av.",4950,4960,Tilia,12,Ocupada,Regular,A Nivel,17,7
+-58.470407348498,-34.6863058175953,527449,8,"De la Torre, Lisandro Av.",4950,4960,Tilia,12,Ocupada,Regular,A Nivel,14,6
+-58.4702637645698,-34.6864180199767,527450,8,"De la Torre, Lisandro Av.",4950,4972,Tilia,12,Ocupada,Regular,A Nivel,10,5
+-58.4702398338781,-34.686436720356696,527451,8,"De la Torre, Lisandro Av.",4950,4974,Tilia,12,Ocupada,Regular,A Nivel,12,6
+-58.4702398338781,-34.686436720356696,527452,8,"De la Torre, Lisandro Av.",4950,4974,Tilia,12,Ocupada,Fuera de línea,A Nivel,11,6
+-58.47019197246039,-34.6864741211032,527453,8,"De la Torre, Lisandro Av.",4950,4978,Tilia,12,Ocupada,Regular,A Nivel,15,6
+-58.47019197246039,-34.6864741211032,527454,8,"De la Torre, Lisandro Av.",4950,4978,Tilia,12,Ocupada,Fuera de línea,A Nivel,11,7
+-58.4700723187298,-34.6865676228859,527455,8,"De la Torre, Lisandro Av.",4950,4988,Tilia,12,Ocupada,Regular,A Nivel,24,10
+-58.4690539476085,-34.687308604439004,527462,8,"De la Torre, Lisandro Av.",5000,5080,Ficus,3.3,Ocupada,Fuera de línea,A nivel,53,5
+-58.4690539476085,-34.687308604439004,527464,8,"De la Torre, Lisandro Av.",5000,5080,Tilia,3.3,Ocupada,Regular,A nivel,37,6
+-58.4681038033411,-34.688054556108604,527497,8,"De la Torre, Lisandro Av.",5100,5166,Ficus,8,Ocupada,Fuera de línea,NA,20,5
+-58.4681038033411,-34.688054556108604,527498,8,"De la Torre, Lisandro Av.",5100,5166,Ficus,8,Ocupada,Regular,NA,19,4
+-58.4683414041891,-34.6878689559124,527506,8,"De la Torre, Lisandro Av.",5100,5140,Tilia,8,Ocupada,Regular,NA,15,6
+-58.46842073812861,-34.687806984496795,527508,8,"De la Torre, Lisandro Av.",5100,5132,Lagerstroemia,8,Ocupada,Fuera de línea,NA,28,5
+-58.46842073812861,-34.687806984496795,527509,8,"De la Torre, Lisandro Av.",5100,5132,Jacaranda,8,Ocupada,Regular,NA,45,5
+-58.4684998735083,-34.6877451680195,527511,8,"De la Torre, Lisandro Av.",5100,5122,Tilia,8,Ocupada,Regular,NA,19,7
+-58.4685792364384,-34.6876831736585,527514,8,"De la Torre, Lisandro Av.",5100,5114,Tilia,8,Ocupada,Regular,NA,19,7
+-58.4685792364384,-34.6876831736585,527515,8,"De la Torre, Lisandro Av.",5100,5114,Tilia,8,Ocupada,Regular,NA,21,7
+-58.4686587172108,-34.687621053567604,527516,8,"De la Torre, Lisandro Av.",5100,5106,Ficus,8,Ocupada,Fuera de línea,NA,19,6
+-58.4686587172108,-34.687621053567604,527517,8,"De la Torre, Lisandro Av.",5100,5106,Tilia,8,Ocupada,Fuera de línea,NA,45,6
+-58.5115509452924,-34.653586161654,230655,9,"De la Torre, Lisandro Av.",1400,1451,Tilia,3,Ocupada,Regular,Bajo nivel,20,4
+-58.5202902287729,-34.6457897832627,230973,9,"De la Torre, Lisandro Av.",600,608,Ficus,3,Ocupada,Regular,Bajo nivel,36,5
+-58.511765442844,-34.6534359597073,230537,9,"De la Torre, Lisandro Av.",1400,1435,Tilia,3,Ocupada,Regular,Elevada,7,3
+-58.5202205095372,-34.6470759800714,228003,9,"De la Torre, Lisandro Av.",700,761,Lagerstroemia,3.2,Sobreocupada,Regular,Elevada,4,3
+-58.51560352570501,-34.6506985401111,226028,9,"De la Torre, Lisandro Av.",1100,1131,Jacaranda,3.2,Ocupada,Regular,A nivel,8,5
+-58.5154961082167,-34.6507762009293,226063,9,"De la Torre, Lisandro Av.",1100,1143,Tilia,3.2,Ocupada,Regular,A nivel,11,5
+-58.513693075861,-34.6520704323454,246711,9,"De la Torre, Lisandro Av.",1200,1261,Lagerstroemia,3,Ocupada,Regular,Elevada,3,2
+-58.51350838992129,-34.652202322035606,246798,9,"De la Torre, Lisandro Av.",1200,1281,Tilia,3,Sobreocupada,Regular,Elevada,13,7
+-58.51737279181771,-34.649289470423696,244358,9,"De la Torre, Lisandro Av.",950,966,Tilia,3.2,Ocupada,Regular,A nivel,11,8
+-58.5155907328329,-34.6505764109061,232953,9,"De la Torre, Lisandro Av.",1100,1126,Ficus,3.2,Ocupada,Regular,A nivel,15,4
+-58.5204065414899,-34.6457991438037,231971,9,"De la Torre, Lisandro Av.",600,615,Lagerstroemia,3,Sobreocupada,Regular,A nivel,12,5
+-58.520391010037095,-34.6459050496238,232042,9,"De la Torre, Lisandro Av.",600,633,Jacaranda,3,Sobreocupada,Regular,A nivel,41,11
+-58.5201432363964,-34.6467830520778,248565,9,"De la Torre, Lisandro Av.",700,744,Tilia,3.1,Ocupada,Regular,Elevada,46,13
+-58.5131556359649,-34.6524565303589,236424,9,"De la Torre, Lisandro Av.",1300,1305,Lagerstroemia,3,Ocupada,Ochava,A nivel,14,5
+-58.5190092466153,-34.6482346912552,233959,9,"De la Torre, Lisandro Av.",800,849,Ficus,3,Sobreocupada,Regular,Bajo nivel,57,13
+-58.518528949119904,-34.648581784482005,234115,9,"De la Torre, Lisandro Av.",800,885,Tilia,3,Ocupada,Regular,Elevada,6,3
+-58.5114787601678,-34.6536367090942,234647,9,"De la Torre, Lisandro Av.",1400,1455,Lagerstroemia,3,Ocupada,Regular,Bajo nivel,14,3
+-58.5094367880328,-34.654956391056,259290,9,"De la Torre, Lisandro Av.",1600,1644,Tilia,3.2,Ocupada,Regular,A nivel,9,5
+-58.509222044488496,-34.6551081321567,259296,9,"De la Torre, Lisandro Av.",1600,1668,Jacaranda,3.2,Ocupada,Regular,Elevada,6,2
+-58.5113370302281,-34.6536256801355,260595,9,"De la Torre, Lisandro Av.",1400,1470,Ficus,3.2,Ocupada,Regular,A nivel,28,6
+-58.511408998999606,-34.6535752843319,260608,9,"De la Torre, Lisandro Av.",1400,1468,Ficus,3.2,Ocupada,Regular,A nivel,24,5
+-58.520787186778705,-34.6432170629843,257336,9,"De la Torre, Lisandro Av.",300,379,Ficus,3.8,Ocupada,Regular,Elevada,0,7
+-58.520452042044,-34.6446936083021,256033,9,"De la Torre, Lisandro Av.",500,516,Ficus,3.2,Sobreocupada,Regular,A nivel,10,4
+-58.5089903535255,-34.6554006186878,256102,9,"De la Torre, Lisandro Av.",1600,1699,Ficus,3.2,Ocupada,Ochava,A nivel,16,2
+-58.512372704932005,-34.6528855021383,254132,9,"De la Torre, Lisandro Av.",1300,1374,Tilia,3.2,Ocupada,Regular,A nivel,14,5
+-58.5020942895336,-34.6610629631462,274194,9,"De la Torre, Lisandro Av.",2200,2277,Ficus,5.8,Ocupada,Regular,A nivel,37,9
+-58.502965144387105,-34.6603457219014,274198,9,"De la Torre, Lisandro Av.",2200,2209,Ficus,5.8,Ocupada,Regular,A nivel,54,4
+-58.5187939280825,-34.6482625234608,278485,9,"De la Torre, Lisandro Av.",800,854,Lagerstroemia,3.2,Sobreocupada,Regular,Elevada,5,3
+-58.504061532676296,-34.6594436480923,291385,9,"De la Torre, Lisandro Av.",2100,2149,Platanus,6,Ocupada,Regular,A nivel,52,10
+-58.504061532676296,-34.6594436480923,291386,9,"De la Torre, Lisandro Av.",2100,2149,Platanus,6,Ocupada,Regular,A nivel,36,10
+-58.504428766306,-34.6591407971409,291710,9,"De la Torre, Lisandro Av.",2100,2109,Platanus,5.6,Ocupada,Regular,A nivel,41,9
+-58.504061532676296,-34.6594436480923,291711,9,"De la Torre, Lisandro Av.",2100,2149,Platanus,5.6,Ocupada,Regular,A nivel,41,10
+-58.5074425252958,-34.6566782484318,279097,9,"De la Torre, Lisandro Av.",1800.0,1867,Platanus,3.2,Ocupada,Regular,A nivel,25,4
+-58.5075221502283,-34.6563803473838,279123,9,"De la Torre, Lisandro Av.",1800.0,1838,Jacaranda,3.8,Ocupada,Regular,A nivel,4,3
+-58.506475792624904,-34.6572465182223,279138,9,"De la Torre, Lisandro Av.",1900.0,1948,Platanus,3.8,Ocupada,Regular,A nivel,26,6
+-58.506475792624904,-34.6572465182223,279140,9,"De la Torre, Lisandro Av.",1900.0,1948,Platanus,3.8,Ocupada,Regular,Elevada,39,8
+-58.506475792624904,-34.6572465182223,279210,9,"De la Torre, Lisandro Av.",1900.0,1948,Platanus,3.8,Ocupada,Regular,A nivel,57,12
+-58.506475792624904,-34.6572465182223,279211,9,"De la Torre, Lisandro Av.",1900.0,1948,Platanus,3.8,Ocupada,Regular,A nivel,24,8
+-58.505609909058705,-34.658187159185,285624,9,"De la Torre, Lisandro Av.",2000.0,2021,Platanus,4,Ocupada,Regular,Elevada,25,6
+-58.5056983704064,-34.6581142011189,285377,9,"De la Torre, Lisandro Av.",2000.0,2015,Platanus,4,Ocupada,Regular,A nivel,30,9
+-58.505609909058705,-34.658187159185,285378,9,"De la Torre, Lisandro Av.",2000.0,2025,Platanus,4,Ocupada,Regular,A nivel,31,9
+-58.5055078986026,-34.658044066497396,302647,9,"De la Torre, Lisandro Av.",2000.0,2020,Platanus,4.4,Ocupada,Regular,A nivel,83,16
+-58.504805321321896,-34.6586235066593,302649,9,"De la Torre, Lisandro Av.",2000.0,2084,Platanus,4.4,Ocupada,Regular,A nivel,80,26
+-58.5047552170055,-34.6586648289788,302096,9,"De la Torre, Lisandro Av.",2000.0,2090,Platanus,4.4,Ocupada,Regular,A nivel,34,14
+-58.521143635517,-34.640776898709,331359,9,"De la Torre, Lisandro Av.",100.0,143,Jacaranda,3.2,Ocupada,Regular,A nivel,40,11
+-58.521143635517,-34.640776898709,331362,9,"De la Torre, Lisandro Av.",100.0,143,Jacaranda,3.2,Ocupada,Regular,A nivel,40,13
+-58.4936226827059,-34.6679477987677,330969,9,"De la Torre, Lisandro Av.",3100.0,3100,Melia,4.4,Ocupada,Regular,A nivel,50,10
+-58.4936226827059,-34.6679477987677,331072,9,"De la Torre, Lisandro Av.",3100.0,3100,Melia,4.4,Ocupada,Regular,A nivel,35,11
+-58.4936226827059,-34.6679477987677,331074,9,"De la Torre, Lisandro Av.",3100.0,3100,Melia,4.4,Ocupada,Regular,A nivel,30,8
+-58.4936226827059,-34.6679477987677,331076,9,"De la Torre, Lisandro Av.",3100.0,3100,Melia,4.4,Ocupada,Regular,A nivel,40,12
+-58.4936226827059,-34.6679477987677,331077,9,"De la Torre, Lisandro Av.",3100.0,3100,Melia,4.4,Ocupada,Regular,A nivel,35,10
+-58.50127032603871,-34.6615605575202,399489,9,"De la Torre, Lisandro Av.",2300.0,2344,Platanus,2.8,Sobreocupada,Regular,A nivel,111,14
+-58.50127032603871,-34.6615605575202,399497,9,"De la Torre, Lisandro Av.",2300.0,2344,Platanus,11,Sobreocupada,Regular,A nivel,44,13
+-58.50127032603871,-34.6615605575202,399498,9,"De la Torre, Lisandro Av.",2300.0,2344,Platanus,11,Sobreocupada,Regular,A nivel,17,9
+-58.50127032603871,-34.6615605575202,399509,9,"De la Torre, Lisandro Av.",2300.0,2344,Platanus,11,Sobreocupada,Regular,A nivel,11,7
+-58.51593625668529,-34.650324148246604,386918,9,"De la Torre, Lisandro Av.",1100.0,1100,Jacaranda,3,Ocupada,Regular,Elevada,9,5
+-58.51593625668529,-34.650324148246604,386920,9,"De la Torre, Lisandro Av.",1100.0,1100,Jacaranda,3,Ocupada,Regular,A nivel,6,7
+-58.51593625668529,-34.650324148246604,386922,9,"De la Torre, Lisandro Av.",1100.0,1100,Jacaranda,3,Ocupada,Regular,Elevada,8,5
+-58.51593625668529,-34.650324148246604,386923,9,"De la Torre, Lisandro Av.",1100.0,1100,Ficus,3,Ocupada,Regular,Elevada,7,3
+-58.51593625668529,-34.650324148246604,386924,9,"De la Torre, Lisandro Av.",1100.0,1100,Jacaranda,3,Ocupada,Regular,Elevada,12,8
+-58.51593625668529,-34.650324148246604,386928,9,"De la Torre, Lisandro Av.",1100.0,1100,Melia,3,Ocupada,Regular,A nivel,22,9
+-58.5207251472269,-34.6436318957392,429158,9,"De la Torre, Lisandro Av.",500.0,407,Jacaranda,3.4,Ocupada,Regular,A nivel,40,14
+-58.5207251472269,-34.6436318957392,429159,9,"De la Torre, Lisandro Av.",500.0,407,Jacaranda,3.4,Ocupada,Regular,A nivel,50,14
+-58.5205131872376,-34.6442651435328,429172,9,"De la Torre, Lisandro Av.",500.0,472,Ficus,3.2,Ocupada,Regular,Elevada,3,6
+-58.5079713861024,-34.655993660015994,417760,9,"De la Torre, Lisandro Av.",1800.0,1800,Melia,3.2,Ocupada,Regular,A nivel,50,11
+-58.5205131872376,-34.6442651435328,438518,9,"De la Torre, Lisandro Av.",400.0,472,Ficus,3.4,Ocupada,Regular,Elevada,0,6
+-58.5207251472269,-34.6436318957392,438475,9,"De la Torre, Lisandro Av.",400.0,407,Jacaranda,3.4,Ocupada,Regular,A nivel,1,14
+-58.5207251472269,-34.6436318957392,438476,9,"De la Torre, Lisandro Av.",400.0,407,Jacaranda,3.4,Ocupada,Regular,A nivel,1,15
+-58.478557,-34.680108,404422,8,"De la Torre, Lisandro Av.",4200.0,NA,Lagerstroemia,4.4,Ocupada,Ochava,A nivel,13,5
+-58.473331,-34.683981,418651,8,"De la Torre, Lisandro Av.",4700,NA,Melia,4.4,Ocupada,Regular,A nivel,27,9
+-58.473331,-34.683981,418654,8,"De la Torre, Lisandro Av.",4700,NA,Melia,4.4,Ocupada,Regular,A nivel,37,8
+-58.473331,-34.683981,418656,8,"De la Torre, Lisandro Av.",4700,NA,Ficus,4.4,Ocupada,Regular,A nivel,54,9
+-58.507969,-34.655992,417759,9,"De la Torre, Lisandro Av.",1800.0,NA,Platanus,3.2,Ocupada,Regular,A nivel,11,4
