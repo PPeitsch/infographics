@@ -51,25 +51,31 @@ p2 <- ggplot(metricas_merge, aes(fill=salud, y=poblacion_pje, x=region)) +
     geom_text(aes(label = paste(poblacion_pje,"%")), colour = "black", position = position_fill(vjust = 0.5)) +
     theme(axis.line = element_line(colour = "black", size = 0.5), text = element_text(size = 20))
 
-modelo <- lm(charges ~ age +  smoker*obesidad, data=df_seguros)
+modelo_1 <- lm(charges ~ age + smoker + obesidad, data=df_seguros)
 
 # Agregar datos del modelo
-grid <- modelr::data_grid(df, age, smoker, obesidad)
+grid_1 <- modelr::data_grid(df_seguros, age, smoker, obesidad)
 # Agregar predicciones del modelo
-grid <- modelr::add_predictions(grid, mod5)
+grid_1 <- modelr::add_predictions(grid_1, modelo_1)
+
+p3 <- ggplot(df_seguros, aes(x=age, y=charges, color=smoker, shape=obesidad)) + geom_point(size=2) + 
+    geom_line(data=grid_1, mapping=aes(y=pred, linetype=obesidad), size=1.5) +
+    labs(color = "Tabaquismo", linetype = "Obesidad", shape = "Obesidad") +
+    xlab("Edad") +
+    ylab("Cargos anuales (usd)") +
+    theme(axis.line = element_line(colour = "black", size = 0.5), text = element_text(size = 20))
+
+modelo_2 <- lm(charges ~ age*smoker + age*obesidad + age*obesidad*smoker, data=df_seguros)
+
+# Agregar datos del modelo
+grid_2 <- modelr::data_grid(df_seguros, age, smoker, obesidad)
+# Agregar predicciones del modelo
+grid_2 <- modelr::add_predictions(grid_2, modelo_2)
 
 # Gráfico del modelo
-p <- ggplot(df_seguros, aes(x=age, y=charges, color=smoker, shape=obesidad)) + geom_point() + 
-    geom_line(data=grid, mapping=aes(y=pred, color=smoker, linetype=obesidad))
-
-ggplot(metricas_df3, aes(x=age, y=mediana_ch, color = salud)) +
-    geom_point(alpha=0.7) + geom_smooth(method='lm', se=FALSE, formula= y ~ x) +
-    labs(
-        x = 'Edad',
-        y = 'Mediana Gastos de Seguro',
-        title = 'Edad vs Mediana de Gastos de Seguro, por estado de salud',
-        # tag = 'Se incluyen las ecuaciones de las líneas de tendencia',
-        color = 'Estado de salud'
-    ) +
-    scale_color_discrete(labels = c('Fumador','Fumador Obeso','Obeso','Sano')) +
-    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 20))
+p4 <- ggplot(df_seguros, aes(x=age, y=charges, color=smoker, shape=obesidad)) + geom_point(size=2) + 
+    geom_line(data=grid_2, mapping=aes(y=pred, linetype=obesidad), size=1.5) +
+    labs(color = "Tabaquismo", linetype = "Obesidad", shape = "Obesidad") +
+    xlab("Edad") +
+    ylab("Cargos anuales (usd)") +
+    theme(axis.line = element_line(colour = "black", size = 0.5), text = element_text(size = 20))
