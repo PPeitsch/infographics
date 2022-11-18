@@ -10,15 +10,12 @@ fig_folder <- "fig"
 flights <- flights %>% filter_all(all_vars(!is.infinite(.)))
 #flights <- flights[!is.infinite(rowSums(flights)),]
 
-flights_grouped <- summarise(flights, .groups="month", month, departure=dep_delay/60, arrival=arr_delay/60, carrier)
+flights_grouped <- summarise(flights, .groups="month", month, departure=dep_delay, arrival=arr_delay, carrier)
 months_ = unique(month.abb[sort(flights_grouped$month)])
 carriers_ = unique(sort(flights_grouped$carrier))
 
-#flights_melted_1 <- subset(flights_grouped, select= -c(carrier)) %>% melt(id="month")
-#flights_grouped_month <- group_by(flights_melted_1, variable)
-
-flights_melted_2 <- subset(flights_grouped, select= -c(month)) %>% melt(id="carrier")
-flights_grouped_carrier <- group_by(flights_melted_2, variable)
+flights_melted_1 <- subset(flights_grouped, select= -c(month)) %>% melt(id="carrier")
+flights_grouped_carrier <- group_by(flights_melted_1, variable)
 p1 <- ggplot(data=flights_grouped_carrier,
        aes(
            y=value,
@@ -36,8 +33,8 @@ p1 <- ggplot(data=flights_grouped_carrier,
     theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 25))
 fig1_name <- "fig1.jpeg"
 
-flights_melted_3 <- melt(flights_grouped, id=c("carrier", "month"))
-flights_grouped_ <- group_by(flights_melted_3, month)
+flights_melted_2 <- melt(flights_grouped, id=c("carrier", "month"))
+flights_grouped_ <- group_by(flights_melted_2, month)
 p2 <- ggplot(data=flights_grouped_, aes(y=factor(carrier), x=value, color=factor(month))) +
     # Colores y forma del boxplot
     geom_density_ridges(alpha=0.05, lwd=1.5) +
