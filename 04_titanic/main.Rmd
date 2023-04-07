@@ -1,0 +1,20 @@
+---
+title: "Titanic Dataset Analysis"
+output: html_notebook
+---
+```{r}
+source("process.r")
+head(df_titanic, 5)
+```
+```{r}
+head(df_titanic_st, 5)
+```
+
+```{r}
+ggplot(data = df_titanic_st, aes(x = class, y = n_pasenger, fill = survived)) +
+  geom_bar(stat = "identity", color = "white", alpha = 0.8) +
+  theme_minimal() +
+  labs(x = 'Categoría de pasaje', y = 'Cantidad de personas', title = "Estadística breve de sobrevivientes del Titanic") +
+  theme(legend.position = "right")
+```
+
