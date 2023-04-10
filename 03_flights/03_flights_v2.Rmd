@@ -1,0 +1,152 @@
+---
+title: "Flights Dataset Analysis"
+output: pdf_document
+---
+
+##### **Autor/es:** Peitsch, Pablo
+##### Mis repositorios de Github: [\@PPeitsch](https://github.com/PPeitsch)
+##### **Fecha:** 2022-09-06
+
+
+```{r include=FALSE}
+library(tidyverse)
+library(nycflights13)
+library(ggridges)
+library(reshape2)
+
+#flights <- flights %>% filter_if(~is.numeric(.), all_vars(!is.infinite(.)))
+flights <- flights %>% filter_all(all_vars(!is.infinite(.)))
+#flights <- flights[!is.infinite(rowSums(flights)),]
+```
+
+```{r}
+flights_n <- group_by(flights, carrier) %>%
+  filter(n() >= 1000) %>%
+  ungroup()
+flights_la <- group_by(flights_n, carrier) %>% filter(dest == 'LAX') %>% ungroup()
+```
+
+```{r}
+flights_grouped <- summarise(flights_la, .groups="carrier", month, dep_delay, carrier)
+months_ = unique(month.abb[sort(flights_grouped$month)])
+carriers_ = unique(sort(flights_grouped$carrier))
+```
+```{r}
+flights_melted_2 <- flights_grouped[complete.cases(flights_grouped), ]
+flights_metricas_2 <- group_by(flights_melted_2, carrier) %>%
+                    summarise(
+                                #media_arr=mean(arr_delay),
+                                media=mean(dep_delay),
+                                #mediana_arr=median(arr_delay),
+                                mediana=median(dep_delay),
+                                #std_arr=sd(arr_delay),
+                                dev_std=sd(dep_delay)
+                                )
+flights_metricas_2
+```
+
+```{r echo=FALSE, fig.height=8, fig.width=10, warning=FALSE}
+flights_grouped_carrier <- group_by(flights_grouped, carrier)
+
+# Cambia tamaño del plot
+options(repr.plot.width=16, repr.plot.height=18)
+ggplot(data=flights_grouped_carrier,
+       aes(
+           x=dep_delay,
+           y=factor(carrier),
+           #color=factor(month)
+       )) +
+    # Colores y forma del boxplot
+    geom_boxplot(
+        outlier.shape = NA,
+        color="black",
+        lwd=1.5
+        ) +
+    coord_cartesian(xlim=c(-15, 95)) +
+    labs(
+        x = 'Tiempo de retraso en la salida (s)',
+        title = 'Compañías con mayor retraso en 2013, aeropuerto LA',
+        color = 'Mes'
+        ) +
+    #scale_color_discrete(label=months_) +
+    scale_y_discrete('Aerolíneas', label=carriers_) +
+    theme(
+      axis.line=element_line(colour="black", size=1),
+      text=element_text(size=20)
+        ) +
+  geom_jitter(alpha=0.2, color='blue', width=0.1, size=1)
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+flights_melted <- flights_grouped[complete.cases(flights_grouped_carrier), ]
+flights_metricas <- group_by(flights_melted, carrier, month) %>% filter(carrier=='UA') %>%
+                    summarise(
+                                #media_arr=mean(arr_delay),
+                                media=mean(dep_delay),
+                                #mediana_arr=median(arr_delay),
+                                mediana=median(dep_delay),
+                                #std_arr=sd(arr_delay),
+                                dev_std=sd(dep_delay)
+                                )
+flights_metricas
+```
+
+```{r echo=FALSE}
+uu <- melt(flights_metricas, id=c("carrier", "month"))
+
+# Cambia tamaño del plot
+options(repr.plot.width=25, repr.plot.height=12)
+# Se establece el color manualmente para usar en etiquetas y líneas verticales
+m_color = c('green', 'brown', 'azure4', 'deeppink', 'cyan2', 'darkviolet',
+            'darkgreen', 'blue', 'red', 'orange', 'black', 'coral3')
+
+p <- ggplot(uu,
+       aes(
+           x=value,
+           y=factor(carrier),
+           color=factor(month)
+       )) +
+    scale_color_manual(values=m_color, label=months_) +
+    # Colores y forma del boxplot
+    geom_boxplot() +
+    labs(
+        x = 'Tiempo de retraso (s)',
+        color = 'Etiqueta'
+        ) +
+    scale_y_discrete('Aerolínea') +
+    theme(axis.line = element_line(colour = "black"), text = element_text(size = 16))
+p + geom_vline(xintercept = flights_metricas$media, lty=2, color=m_color, size=1)
+flights_reduced
+```
+
+```{r fig.height=8, fig.width=14, warning=FALSE}
+ggplot(data=flights_reduced,
+      aes(
+         x=dep_delay,
+         y=factor(month),
+         #color=factor()
+      )) +
+  # Colores y forma del boxplot
+  geom_boxplot(alpha = 0.8, outlier.colour = "tomato2") +
+  stat_boxplot(geom = "errorbar", width = 0.4) +
+  labs(
+      x = 'Tiempo de retraso (s)',
+      color = 'Etiqueta',
+      #title = 'Retrasos en partida de la aeorlínea UA, aeropuerto LA'
+      ) +
+  #scale_color_discrete(label=months_) +
+  scale_y_discrete('Mes', label=months_) +
+  theme(axis.line=element_line(colour="black", size=1.5),
+        text=element_text(size = 20),
+        legend.text = element_text(size = 20)
+        ) +
+  coord_cartesian(xlim=c(-10, 75)) +
+  geom_point(data=uu,
+       aes(
+           x=value,
+           y=factor(month),
+           color=factor(variable),
+           size=1
+       ))
+```
+

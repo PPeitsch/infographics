@@ -1,21 +1,14 @@
 ---
 title: "Flights Dataset Analysis"
-output: html_notebook
+output: pdf_document
 ---
 
-### **03 - Flights Dataset**
-
-------------------------------------------------------------------------
-
-##### **Autor/es:**
-
-##### Peitsch, Pablo
-
+##### **Autor/es:** Peitsch, Pablo
 ##### Mis repositorios de Github: [\@PPeitsch](https://github.com/PPeitsch)
-
 ##### **Fecha:** 2022-09-06
 
-```{r}
+
+```{r include=FALSE}
 library(tidyverse)
 library(nycflights13)
 library(ggridges)
@@ -26,7 +19,7 @@ flights <- flights %>% filter_all(all_vars(!is.infinite(.)))
 #flights <- flights[!is.infinite(rowSums(flights)),]
 ```
 
-```{r}
+```{r include=FALSE}
 flights_grouped <- summarise(flights, .groups="month", month, dep_delay, arr_delay, carrier)
 months_ = unique(month.abb[sort(flights_grouped$month)])
 carriers_ = unique(sort(flights_grouped$carrier))
@@ -34,7 +27,7 @@ carriers_ = unique(sort(flights_grouped$carrier))
 
 ##### Se estudian debajo las demoras en despegue y arribo en función del mes.
 
-```{r}
+```{r echo=FALSE, warning=FALSE}
 flights_melted_1 <- subset(flights_grouped, select= -c(carrier)) %>% melt(id="month")
 flights_grouped_month <- group_by(flights_melted_1, variable)
 
@@ -56,14 +49,14 @@ ggplot(data=flights_grouped_month,
         ) +
     #scale_color_discrete(label=months_) +
     scale_y_discrete('Meses de 2013', label=months_) +
-    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 30))
+    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 16))
 ```
 
 ##### ***Figura 1.*** Distribución del retraso en la partida y el arribo de los vuelos en los meses del año 2013.
 
 ##### En principio, pareciera que los retrasos se dan mayormente en algunos meses que en otros. Se compara, a continuación, las demoras en despegue y arribo para las distintas aerolineas.
 
-```{r}
+```{r echo=FALSE, warning=FALSE}
 flights_melted_2 <- subset(flights_grouped, select= -c(month)) %>% melt(id="carrier")
 flights_grouped_carrier <- group_by(flights_melted_2, variable)
 
@@ -85,14 +78,14 @@ ggplot(data=flights_grouped_carrier,
         ) +
     #scale_color_discrete(label=months_) +
     scale_y_discrete('Aerolínea', label=carriers_) +
-    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 30))
+    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 16))
 ```
 
 ##### ***Figura 2.*** Distribución del retraso en partidas y arribos de los vuelos para las distintas compañías en el año 2013.
 
 ##### Se puede obserbar en la Fig. 2, que los retrasos predominan en algunas aerolíneas más que en otras. Intentamos evaluar si hay retrasos por aerolineas en algún mes en particular.
 
-```{r}
+```{r echo=FALSE, warning=FALSE}
 flights_melted_3 <- melt(flights_grouped, id=c("carrier", "month"))
 flights_grouped_ <- group_by(flights_melted_3, month)
 
@@ -113,57 +106,30 @@ ggplot(data=flights_grouped_,
         ) +
     scale_color_discrete(label=months_) +
     scale_y_discrete('Aerolínea', label=carriers_) +
-    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 30))
+    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 16))
 ```
 
 ##### ***Figura 3.*** Distribución del retraso en partidas y arribos de los vuelos para las distintas compañías en el año 2013, evaluados epor mes.
 
-##### Se puede observar claramente que algunas presentan pocos retrasos, así como otras retrasos importantes, predominando particularmente en algunos meses. Aún así, se hace difícil observar esto en un gráfico demasiado cargado. Por lo que es conveniente, quizás, realizar el análisis por aerolíneas.
+##### Se puede observar claramente que algunas presentan pocos retrasos, así como otras retrasos importantes, predominando particularmente en algunos meses. Aún así, se hace difícil observar esto en un gráfico demasiado cargado. Por lo que es conveniente realizar el análisis por aerolíneas. Para ello se selecciona una de éstas y se obtienen algunos estadísticos para agregarlos al gráfico.
 
-```{r}
-flights_reduced <- filter(flights_melted_3, carrier==c('AS', 'FL', 'YV'))
-
-# Cambia tamaño del plot
-options(repr.plot.width=20, repr.plot.height=12)
-
-ggplot(data=flights_reduced,
-       aes(
-           x=value,
-           y=factor(carrier),
-           color=factor(month)
-       )) +
-    # Colores y forma del boxplot
-    geom_boxplot() +
-    labs(
-        x = 'Tiempo de retraso (s)',
-        color = 'Etiqueta'
-        ) +
-    scale_color_discrete(label=months_) +
-    scale_y_discrete('Aerolínea', label=carriers_) +
-    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 30))
-```
-
-##### ***Figura 4.*** Distribución del retraso en partidas y arribos de los vuelos para tres compañías (AS, AA y 9E) en el año 2013, evaluados por mes.
-
-##### De estas aerolíneas seleccionamos una y nos concentramos en obtener algunos estadísticos para agregarlos al gráfico.
-
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 flights_melted_4 <- flights_grouped[complete.cases(flights_grouped), ]
 flights_metricas <- filter(flights_melted_4, carrier==c('FL')) %>% group_by(month, carrier) %>%
                     summarise(
-                                media_arr_delay=mean(arr_delay),
-                                media_dep_delay=mean(dep_delay),
-                                mediana_arr_delay=median(arr_delay),
-                                mediana_dep_delay=median(dep_delay),
-                                sd_arr_delay=sd(arr_delay),
-                                sd_dep_delay=sd(dep_delay)
+                                media_arr=mean(arr_delay),
+                                media_dep=mean(dep_delay),
+                                mediana_arr=median(arr_delay),
+                                mediana_dep=median(dep_delay),
+                                std_arr=sd(arr_delay),
+                                std_dep=sd(dep_delay)
                                 #iqr_arr_delay=iqr(arr_delay),
                                 #iqr_dep_delay=iqr(dep_delay),
                                 )# %>% filter(carrier==c('AS', 'FL', 'YV')) %>% melt(id=c("carrier", "month"))
 flights_metricas
 ```
 
-```{r}
+```{r echo=FALSE}
 uu <- melt(flights_metricas, id=c("carrier", "month"))
 
 # Cambia tamaño del plot
@@ -185,9 +151,46 @@ p <- ggplot(uu,
         x = 'Tiempo de retraso (s)',
         color = 'Etiqueta'
         ) +
-    scale_y_discrete('Aerolínea', label=carriers_) +
-    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 30))
-p + geom_vline(xintercept = flights_metricas$media_arr_delay, lty=2, color=m_color, size=1.5)
+    scale_y_discrete('Aerolínea') +
+    theme(axis.line = element_line(colour = "black"), text = element_text(size = 16))
+p + geom_vline(xintercept = flights_metricas$media_arr, lty=2, color=m_color, size=1)
 ```
 
-##### ***Figura 5.*** Distribución del retraso en partidas y arribos de los vuelos para la compañía 9E en el año 2013, evaluada por mes.
+##### ***Figura 5.*** Distribución del retraso en partidas y arribos de los vuelos para la compañía FL en el año 2013, evaluada por mes.
+
+```{r fig.height=5, fig.width=10, warning=FALSE}
+flights_reduced_2 <- filter(flights_melted_3, carrier==c('FL'))
+
+ggplot(data=flights_reduced_2,
+      aes(
+         x=value,
+         y=factor(month),
+         #color=factor()
+      )) +
+  # Colores y forma del boxplot
+  geom_boxplot(alpha = 0.8, outlier.colour = "tomato2") +
+  stat_boxplot(geom = "errorbar", width = 0.4) +
+  labs(
+      x = 'Tiempo de retraso (s)',
+      color = 'Etiqueta',
+      size = ''
+      ) +
+  #scale_color_discrete(label=months_) +
+  scale_y_discrete('Mes', label=months_) +
+  theme(axis.line=element_line(colour="black", size=1.5),
+        text=element_text(size = 20),
+        legend.text = element_text(size = 20),
+        #legend.key.size = unit(2,"line"),
+        #legend.key.height = unit(5, "point")
+        ) +
+  coord_cartesian(xlim=c(-40, 160)) +
+  geom_point(data=uu,
+       aes(
+           x=value,
+           y=factor(month),
+           color=factor(variable),
+           size=1
+       ))
+```
+##### ***Figura 5.*** Distribución del retraso en partidas y arribos de los vuelos para la compañía FL en el año 2013, evaluada por mes.
+
