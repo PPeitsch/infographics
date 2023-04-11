@@ -1,5 +1,6 @@
 # Library imports
 library(tidyverse)
+library(ggthemes)
 
 # Datasets folder
 data_folder <- "data"
@@ -27,33 +28,38 @@ variables[4] <- "parents"
 variables[6] <- "port"
 colnames(df_titanic) <- variables
 
+
 # Summary of passengers and survivors
 df_titanic_st <- group_by(df_titanic, survived, class) %>%
   summarize(n_pasenger = n(),
             mean_age = mean(age, na.rm = TRUE))
-
-# Graphic of survivors
-ggplot(data = df_titanic_st, aes(x = class, y = n_pasenger, fill = survived)) +
-  geom_bar(stat = "identity", color = "white", alpha = 0.8) +
+# Graphic of survivors by CLASS
+p1 <- ggplot(data = df_titanic_st, aes(x=class, y=n_pasenger, fill=survived)) +
+  geom_col(position="dodge") +
+  geom_text(aes(label=n_pasenger), colour="white", vjust = 3, position = position_dodge(.9)) +
   theme_minimal() +
-  labs(x = 'Categoría de pasaje', y = 'Cantidad de personas', title = "Estadística breve de sobrevivientes del Titanic") +
-  theme(legend.position = "right")
+  labs(x = 'Categoría de pasaje', y = 'Cantidad de personas') +
+  theme(legend.position = "right") +
+  theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 20))
 
 
 # Sorting dataset by age
-#df_titanic_st <- arrange(df_titanic, age)
+df_titanic_st2 <- group_by(df_titanic, survived, sex) %>%
+  summarize(n_pasenger = n(), age)
+# Graphic of survivors by SEX
+p2 <- ggplot(data=df_titanic_st2, aes(x=sex, y=n_pasenger, fill=survived)) +
+  geom_col(position="dodge") +
+  geom_text(aes(label=n_pasenger), colour="white", vjust = 3, position = position_dodge(.9)) +
+  theme_minimal() +
+  labs(x='Sexo', y='Cantidad de personas') +
+  theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 20))
 
-# Statistics of dataset
-#min_ticket <- min(df_titanic$fare)
-#max_ticket <- max(df_titanic$fare)
-#mean_ticket <- mean(df_titanic$fare)
 
-#min_age <- min(df_titanic$age)
-#max_age <- max(df_titanic$age)
-#mean_age <- mean(df_titanic$age)
-
-#df_titanic_st <- summarise(df_titanic, min())
-
-  #survivors = count(survived == 'yes')/n_pasenger * 100,
-  #gender = mean(sex == "male") * 100,
-  #first_class = count(class == 'yes')/n_pasenger * 100,
+# Graphic of survivors by AGE
+p3 <- ggplot(data=df_titanic_st2, aes(x=age, fill=sex, colour=sex)) +
+  geom_density(alpha=0.5, linewidth=1.5) +
+  theme_foundation() +
+  facet_wrap(~survived) +
+  theme(legend.position = "top") +
+  labs(x='Edad', y='Densidad de personas') +
+  theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 20))
