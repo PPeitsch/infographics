@@ -1,0 +1,20 @@
+---
+title: "Titanic Dataset Analysis"
+output: html_notebook
+---
+```{r}
+source("process.r")
+```
+```{r}
+head(df_insurance, 10)
+print(df_insurance)
+```
+
+```{r}
+p1
+p2
+```
+
+```{r warning=FALSE}
+p3
+```
