@@ -24,7 +24,7 @@ for (i in 1:n){
     temp_name <- list_files[i]
     temp_name <- tools::file_path_sans_ext(temp_name)
     d_names[i] <- temp_name
-    temp_df <- read.csv(file.path(data_folder, f_names[i]), dec=",", encoding="ISO-8859-1")
+    temp_df <- read.csv(file.path(data_folder, f_names[i]), dec=",", encoding="UTF-8")
     assign(d_names[[i]], temp_df)
 }
 
@@ -163,50 +163,71 @@ p5 <- ggplot(teams_stats, aes(x=reorder(name, total_goals))) +
     theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1), plot.title = element_text(color="Dark Blue", size=28, face="bold")) +
     labs(x="Teams", y="Goals per year, seasons 2015-2020", title="Top 10 scoring teams and with the most shots on goal", color="Tendencies")
 
+
+
+
+
 # League selection
 df_leagues <- inner_join(leagues, games, by="leagueID") %>% group_by(leagueID)
 
 league_goals <- summarise(df_leagues, leagueID, name, awayGoals_l=sum(awayGoals), homeGoals_l=sum(homeGoals)) %>%
-    distinct(leagueID, .keep_all=TRUE)
+    distinct(leagueID, .keep_all=TRUE) %>% mutate(sumGoals=awayGoals_l+homeGoals_l) %>% arrange(., -sumGoals)
 
 
-# League selection using highest local and visitant total shots. Result: Serie A
-# Top socring players
-df_shots <- inner_join(df_leagues, shots, by="gameID")
-df_shots <- filter(df_shots, leagueID=="2") %>%
+
+# League selection
+df_leagues <- inner_join(leagues, games, by="leagueID") %>% group_by(leagueID)
+
+league_goals <- summarise(df_leagues, leagueID, name, awayGoals_l=sum(awayGoals), homeGoals_l=sum(homeGoals)) %>%
+    distinct(leagueID, .keep_all=TRUE) %>% mutate(sumGoals=awayGoals_l+homeGoals_l) %>% arrange(., -sumGoals)
+
+
+
+# Top scoring players
+df_shots <- inner_join(df_leagues, shots, by="gameID") %>%
     summarise(name, gameID, homeTeamID, awayTeamID, homeGoals, awayGoals, shooterID, minute)
 
-df_players <- inner_join(df_leagues, appearances, by=c("leagueID", "gameID"))
-
-players_SerieA <- filter(df_players, leagueID=="2") %>%
+df_players <- inner_join(df_leagues, appearances, by=c("leagueID", "gameID")) %>%
     summarise(leagueID, gameID, playerID, goals, shots, homeGoals, awayGoals, date, time)
 
-best_5 <- inner_join(players_SerieA, players, by="playerID") %>% group_by(playerID) %>%
+best_shooters <- inner_join(df_players, players, by="playerID") %>% group_by(playerID) %>%
     mutate(total_goals=sum(goals), total_homeGoals=sum(homeGoals), total_awayGoals=sum(awayGoals))
-best_5_names <- summarise(best_5, playerID, name, total_goals) %>%
+best_5_shooters <- summarise(best_shooters, playerID, name, total_goals) %>%
     distinct(playerID, .keep_all=TRUE) %>% arrange(desc(total_goals))
+best_5_shooters <- head(best_5_shooters, 5)
 
-# Análisis temporal de los goles reashow_best_5s por los 5 jugadores seleccionados anteriormente, en todas las ligas que jugaron
-players_all_leagues <- inner_join(players, shots, by=c("playerID"="shooterID")) %>%
-    summarise(playerID, player_name=name, gameID, minute, shotResult)
-players_all_leagues <- inner_join(players_all_leagues, df_leagues, by="gameID") %>%
-    summarise(leagueID, league_name=name, playerID, player_name, gameID, minute, shotResult)
 
-best_players <- filter(players_all_leagues, playerID %in% c("1209", "1293", "1230", "1513", "1186")) %>%
-    group_by(playerID)
+# Statistics of all players 
+all_players <- inner_join(df_leagues, appearances, by=c("leagueID", "gameID")) %>%
+    summarise(leagueID, gameID, playerID, goals, shots, homeGoals, awayGoals, assists, keyPasses, yellowCard, redCard, date, time)
 
-p6 <- ggplot(data=best_players, aes(x=minute, y=factor(player_name))) +
-    geom_boxplot(outlier.colour = "red", outlier.fill="red", outlier.size=3) +
-    geom_jitter(aes(color=c(shotsResult="Goal"), size=factor(shotResult))) +
-    #coord_cartesian(xlim=c(55, 90)) +
-    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 24)) +
-    theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1), plot.title = element_text(color="Dark Blue", size=28, face="bold")) +
-    labs(x="Time (min)", y="Goals on games, seasons 2015-2020", title="Goals on games", color="Tendencies")
+# Most influencer players of all leagues
+influencer_players <- inner_join(players, shots, by=c("playerID"="shooterID"))
+influencer_players <- inner_join(influencer_players, all_players, by=c("playerID", "gameID")) %>%
+    summarise(playerID, player_name=name, gameID, assisterID, minute, shotResult, assists, date, time)
 
-p7 <- ggplot(data=best_players, aes(x=minute, y=factor(player_name), color=factor(shotResult))) +
-    geom_boxplot(outlier.colour = "red", outlier.fill="red", outlier.size=3) +
-    #geom_jitter(aes(color=c(shotsResult="Goal")), size=1.5) +
-    #coord_cartesian(xlim=c(55, 90)) +
-    theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 24)) +
-    theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1), plot.title = element_text(color="Dark Blue", size=28, face="bold")) +
-    labs(x="Time (min)", y="Goals on games, seasons 2015-2020", title="Goals on games", color="Tendencies")
+
+# Top 5 assisters
+best_assister <- group_by(influencer_players, assisterID) %>%
+    summarise(assisterID, assists) %>%
+    inner_join(players, by=c("assisterID"="playerID")) %>%
+    group_by(assisterID) %>%
+    mutate(total_asistencias=sum(assists)) %>%
+    arrange(-total_asistencias) %>%
+    distinct(assisterID, .keep_all = TRUE) %>%
+    filter(!assisterID==2097, !assisterID==8978)
+best_5_assiter <- head(best_assister, 5)
+
+
+
+# Worst 5 fairplay players
+fairplay_players <- inner_join(players, all_players, by="playerID") %>%
+    summarise(playerID, player_name=name, yellowCard, redCard, date, time) %>% group_by(playerID) %>%
+    mutate(amarillas=sum(yellowCard), rojas=sum(redCard))
+
+df_rojas <- mutate(fairplay_players, total=(amarillas/4 + rojas)) %>%
+    group_by(total) %>% summarise(player_name, total, rojas, amarillas) %>% arrange(-total)
+worst_players <- head(unique(df_rojas), 5)
+worst_players_names <- worst_players$player_name
+worst_players <- filter(df_rojas, player_name==worst_players_names)
+worst_players <- head(unique(worst_players), 5)
