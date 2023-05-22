@@ -4,6 +4,7 @@ library(tidyverse)
 # Folder names
 data_folder <- "data"
 keys_folder <- "keys"
+fig_folder <- "fig"
 
 # Datasets folder files list
 list_files <- list.files(data_folder)
@@ -51,6 +52,7 @@ p1 <- ggplot(best_10_goals, aes(x=reorder(name, total_goals), y=total_goals)) +
     theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 24)) +
     theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1), plot.title = element_text(color="Black", size=28, face="bold")) +
     labs(x="Teams", y="Goals per year, seasons 2015-2020", title="Top 10 scoring teams")
+fig1_name <- "fig1.jpeg"
 
 # Top ten teams with the highest number of shots on goal
 best_10_shots <- group_by(team_goals, teamID) %>% mutate(total_shots=sum(shots)) %>%
@@ -72,6 +74,7 @@ p2 <- ggplot(best_10_shots, aes(x=reorder(name, total_shots), y=total_shots, fil
     theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 24)) +
     theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1), plot.title = element_text(color="Dark Blue", size=28, face="bold")) +
     labs(x="Teams", y="Goals per year, seasons 2015-2020", fill="On Target Shots", title="Top 10 teams with the most shots on goal")
+fig2_name <- "fig2.jpeg"
 
 # Top ten scoring teams and with the highest number of shots on goal
 teams_stats <- group_by(df_team, teamID) %>% mutate(total_shots=sum(shots), total_goals=sum(goals), total_deep=sum(deep), total_OnTarget=sum(shotsOnTarget)) %>%
@@ -106,6 +109,7 @@ p3 <- ggplot(best_10, aes(x=reorder(name, total_goals))) +
     theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 24)) +
     theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1), plot.title = element_text(color="Dark Blue", size=28, face="bold")) +
     labs(x="Teams", y="Goals per year, seasons 2015-2020", title="Top 10 scoring teams and with the most shots on goal", color="Tendencies")
+fig3_name <- "fig3.jpeg"
 
 # Graph
 p4 <- ggplot(best_10, aes(x=reorder(name, total_goals))) + 
@@ -152,6 +156,7 @@ p4 <- ggplot(best_10, aes(x=reorder(name, total_goals))) +
     theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 24)) +
     theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1), plot.title = element_text(color="Dark Blue", size=28, face="bold")) +
     labs(x="Teams", y="Goals per year, seasons 2015-2020", title="Top 10 scoring teams and with the most shots on goal", color="Tendencies")
+fig4_name <- "fig4.jpeg"
 
 # Graph
 p5 <- ggplot(teams_stats, aes(x=reorder(name, total_goals))) + 
@@ -162,8 +167,7 @@ p5 <- ggplot(teams_stats, aes(x=reorder(name, total_goals))) +
     theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 24)) +
     theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1), plot.title = element_text(color="Dark Blue", size=28, face="bold")) +
     labs(x="Teams", y="Goals per year, seasons 2015-2020", title="Top 10 scoring teams and with the most shots on goal", color="Tendencies")
-
-
+fig5_name <- "fig5.jpeg"
 
 
 
@@ -215,19 +219,34 @@ best_assister <- group_by(influencer_players, assisterID) %>%
     mutate(total_asistencias=sum(assists)) %>%
     arrange(-total_asistencias) %>%
     distinct(assisterID, .keep_all = TRUE) %>%
-    filter(!assisterID==2097, !assisterID==8978)
+    filter(!assisterID==8978)
 best_5_assiter <- head(best_assister, 5)
 
 
+# Top 5 players according a score, score = (total_goals + total_asistencias)/total_players
+best_players <- inner_join(best_shooters, best_assister, by=c('playerID'='assisterID')) %>%
+    summarise(name=name.x, total_asistencias, total_goals, score=total_goals+total_asistencias) %>%
+    arrange(-score) %>% distinct(playerID, .keep_all = TRUE) %>%
+    ungroup() %>% mutate(total_players=n(), score=score/total_players)
+best_5_players <- head(best_players, 5)
+best_5_players_names <- best_5_players$name
 
-# Worst 5 fairplay players
+# Graph
+p6 <- ggplot(data=best_players, aes(x=score)) +
+        geom_density(fill="#69b3a2", color="#e9ecef", alpha=0.8) +
+        geom_vline(data=best_5_players, aes(xintercept=score, color=name, size=1.5)) +
+        scale_y_sqrt() +
+        theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 24))
+fig6_name <- "fig6.jpeg"
+
+
+# Top 5 fairplay players
 fairplay_players <- inner_join(players, all_players, by="playerID") %>%
     summarise(playerID, player_name=name, yellowCard, redCard, date, time) %>% group_by(playerID) %>%
     mutate(amarillas=sum(yellowCard), rojas=sum(redCard))
 
 df_rojas <- mutate(fairplay_players, total=(amarillas/4 + rojas)) %>%
-    group_by(total) %>% summarise(player_name, total, rojas, amarillas) %>% arrange(-total)
-worst_players <- head(unique(df_rojas), 5)
-worst_players_names <- worst_players$player_name
-worst_players <- filter(df_rojas, player_name==worst_players_names)
-worst_players <- head(unique(worst_players), 5)
+    group_by(total) %>% summarise(player_name, total, rojas, amarillas) %>% arrange(total)
+best_fairplay <- head(unique(df_rojas), 5)
+best_fairplay_names <- best_fairplay$player_name
+
