@@ -9,7 +9,7 @@ data_folder <- "data"
 # Graph folder
 fig_folder <- "fig"
 # Dataset file
-file_name <- 'complains.csv'
+file_name <- 'complains2.csv'
 # Importing dataset
 df_original <- read.csv(file.path(data_folder, file_name), sep=";", encoding = "UTF-8")
 
@@ -22,18 +22,6 @@ df_copy <- df_original
 df_copy$comuna[df_copy$comuna == 99] <- NA
 # 
 df_copy <- na.omit(df_copy)
-
-# changing format, wrong encoding in original file
-df_copy$tema <- gsub("<d3>", "Ó", df_copy$tema)
-df_copy$tema <- gsub("<da>", "Ú", df_copy$tema)
-df_copy$tema <- gsub("<c1><81>", "Á", df_copy$tema)
-df_copy$tema <- gsub("<c1><8d>", "Í", df_copy$tema)
-df_copy$tema <- gsub("<c1><ba>", "Ú", df_copy$tema)
-df_copy$tema <- gsub("<c1><91>", "Ñ", df_copy$tema)
-df_copy$tema <- gsub("<c1><89>", "É", df_copy$tema)
-df_copy$tema <- gsub("<c1><b3>", "ó", df_copy$tema)
-df_copy$tema <- gsub("<c1><89>", "É", df_copy$tema)
-df_copy$tema <- gsub("<c1><89>", "É", df_copy$tema)
 
 # sorting dataset by creation date
 df_ordenado <- arrange(df_copy, fecha_de_creacion)
@@ -62,25 +50,35 @@ df_closed_cases <- cbind(df_ordenado, tfinalizacion=closing_time)
 maximum_day = 365
 minimum_day = 100
 df_max <- filter(df_closed_cases, tfinalizacion > maximum_day)
-df_min <- filter(df_closed_cases, tfinalizacion > minimum_day)
+df_med <- filter(df_closed_cases, tfinalizacion < maximum_day & tfinalizacion > minimum_day)
+df_min <- filter(df_closed_cases, tfinalizacion < minimum_day)
 
 # plot longer closed cases
-p1 <- ggplot(data = df_max, aes(x = tema,
+p1 <- ggplot(data = subset(df_max, !is.na(tema)), aes(x = tema,
                                 y = tfinalizacion,
                                 color = tema)) +
   geom_point() +
-  labs(x = "Tema", y = "Días de Finalización [>300 Días]") +
+  labs(x = "Tema", y = "Días de Finalización (t>300)") +
   ggtitle("Gráfico de puntos: Tema vs. Días de Finalización") +
-  scale_color_discrete()
+  theme(legend.position="none")
+
+# plot longer closed cases
+p2 <- ggplot(data = subset(df_med, !is.na(tema)), aes(x = tema,
+                                                      y = tfinalizacion,
+                                                      color = tema)) +
+  geom_point() +
+  labs(x = "Tema", y = "Días de Finalización (100>t<300)") +
+  ggtitle("Gráfico de puntos: Tema vs. Días de Finalización") +
+  theme(legend.position="none")
 
 # plot faster closed cases
-p2 <- ggplot(data = df_max, aes(x = tema,
+p3 <- ggplot(data = subset(df_min, !is.na(tema)), aes(x = tema,
                                 y = tfinalizacion,
                                 color = tema)) +
   geom_point() +
-  labs(x = "Tema", y = "Días de Finalización [>300 Días]") +
+  labs(x = "Tema", y = "Días de Finalización (t<300)") +
   ggtitle("Gráfico de puntos: Tema vs. Días de Finalización") +
-  scale_color_brewer(palette ="Set2")
+  theme(legend.position="none")
 
 
 # top 10 cases by comuna
@@ -93,9 +91,10 @@ top10_temas_por_comuna <- df_copy %>%
 df_top_10 <- right_join(df_copy, top10_temas_por_comuna, by = c("comuna", "tema"))
 
 # plot top ten cases by comuna
-p3 <- ggplot(df_top_10,
+p4 <- ggplot(df_top_10,
              aes(x = factor(comuna),
                  fill = tema)) +
   geom_bar(position = "dodge") +
   labs(x = "Comuna", y = "Frecuencia") +
-  ggtitle("Top 10 de Temas por Comunas")
+  ggtitle("Top 10 de Temas por Comunas") +
+  theme(legend.position="none")
