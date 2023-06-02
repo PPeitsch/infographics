@@ -1,0 +1,24 @@
+---
+title: "Complains Project"
+output: html_notebook
+---
+
+
+```{r}
+source("core.R")
+str(df_original)
+str(df_copy)
+str(df_ordenado)
+str(df_closed_cases)
+str(top10_temas_por_comuna)
+str(df_top_10)
+```
+
+
+
+```{r}
+p1
+p2
+p3
+```
+
