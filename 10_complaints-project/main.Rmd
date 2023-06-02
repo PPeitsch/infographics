@@ -23,16 +23,8 @@ p1
 p2
 p3
 p4
+p5
+p6
 ```
 
-```{r}
-ggplot(data = subset(df_max, !is.na(tema)), aes(x = tema,
-                                y = tfinalizacion,
-                                color = tema)) +
-  geom_point() +
-  labs(x = "Tema", y = "Días de Finalización (t>300)") +
-  ggtitle("Gráfico de puntos: Tema vs. Días de Finalización") +
-  theme(legend.position="none")
-
-```
 
