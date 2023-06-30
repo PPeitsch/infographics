@@ -5,6 +5,7 @@ library(lubridate)
 
 # directories
 data_folder <- "data"
+fig_folder <- "fig"
 
 # dataframes
 btc_data <- read_csv(file.path(data_folder, 'BTC/BTC-USD_hist.csv'))
@@ -71,3 +72,9 @@ df_model_1 <- add_predictions(data=df_model_1, model=model_1) %>% add_residuals(
 df_model_2 <- df_model_1
 model_2 = lm(Close_btc ~ Date + Close_oro + Close_brent + Close_nasdaq, data=df_model_2)
 df_model_2 <- add_predictions(data=df_model_2, model=model_2) %>% add_residuals(model=model_2)
+
+
+# Third model
+df_model_3 <- df_model_1
+model_3 = lm(Close_btc ~ Close_oro*Date + Close_brent*Date + Close_nasdaq*Date, data=df_model_3)
+df_model_3 <- add_predictions(data=df_model_3, model=model_3) %>% add_residuals(model=model_3)
