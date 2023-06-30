@@ -55,3 +55,19 @@ combined_data_fed <- inner_join(combined_data_fed, desempleo, by = "DATE", suffi
 names(combined_data_fed)[names(combined_data_fed) == "GDP"] <- "PBI_FED"
 names(combined_data_fed)[names(combined_data_fed) == "UNRATE"] <- "desempleo_FED"
 names(combined_data_fed)[names(combined_data_fed) == "FEDFUNDS"] <- "tasa_FED"
+
+# data conversion
+combined_data <- data.frame(combined_data)
+combined_data_fed <- data.frame(combined_data_fed)
+
+
+# First model
+df_model_1 <- subset(combined_data, select=c("Date", "Close_btc", "Close_oro", "Close_brent", "Close_nasdaq"))
+model_1 = lm( Close_btc + Close_oro + Close_brent + Close_nasdaq ~ Date, data=df_model_1)
+df_model_1 <- add_predictions(data=df_model_1, model=model_1) %>% add_residuals(model=model_1)
+
+# Second model
+df_model_2 <- df_model_1
+model_2 = lm(Close_btc ~ Date + Close_oro + Close_brent + Close_nasdaq, data=df_model_2)
+df_model_2 <- add_predictions(data=df_model_2, model=model_2) %>% add_residuals(model=model_2)
+

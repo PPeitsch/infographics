@@ -1,3 +1,5 @@
+source("core.r")
+
 # GRAPHICS
 # Bitcoin vs time
 g1 <- ggplot(combined_data, aes(x = Date, y = Close_btc)) + 
@@ -47,3 +49,18 @@ g7 <- ggplot(combined_data_fed) +
         labs(x = "Fecha", y = "Tasa de desempleo", title = "Datos macroeconomicos de EEUU") +
         theme(axis.line = element_line(colour="black", size=1), text = element_text(size=30),
               plot.title = element_text(color="Black", size=30, face="bold"))
+
+
+# First model
+m1 <- ggplot(data=df_model_1) + 
+        geom_point(aes(x=Date, y=Close_btc)) +
+        geom_line(data=df_model_1, aes(x=Date, y=pred), color='Blue', size=1.5) +
+        theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 30),
+              plot.title = element_text(color="Black", size=30, face="bold")) +
+        labs(x="width", y="length", title="Sepal length and width")
+# Residual graph
+m2 <- ggplot(data=df_model_1, aes(y = resid)) +
+        geom_boxplot() +
+        labs(title='Boxplot: Residuals', y='Residuals value') +
+        theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 40),
+              plot.title = element_text(color="Black", size=40, face="bold"))

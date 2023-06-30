@@ -57,25 +57,17 @@ names(combined_data_fed)[names(combined_data_fed) == "UNRATE"] <- "desempleo_FED
 names(combined_data_fed)[names(combined_data_fed) == "FEDFUNDS"] <- "tasa_FED"
 
 # data conversion
-data.frame(combined_data)
-data.frame(combined_data_fed)
+combined_data <- data.frame(combined_data)
+combined_data_fed <- data.frame(combined_data_fed)
+
 
 # First model
-df_model_1 <- data.frame(combined_data$Close_btc, combined_data$Close_oro, combined_data$Close_Brent, combined_data$Close_Nasdaq)
-model_1 = lm(Close_btc ~ Close_oro + Close_Brent + Close_Nasdaq, data=df_model_1)
+df_model_1 <- subset(combined_data, select=c("Date", "Close_btc", "Close_oro", "Close_brent", "Close_nasdaq"))
+model_1 = lm( Close_btc + Close_oro + Close_brent + Close_nasdaq ~ Date, data=df_model_1)
 df_model_1 <- add_predictions(data=df_model_1, model=model_1) %>% add_residuals(model=model_1)
 
-m1 <- ggplot(data=df_model_1) + 
-        geom_point(aes(x=Sepal.Width, y=Sepal.Length, color=Species), size=3) +
-        geom_line(data=df_model_1, aes(x=Sepal.Width, y=pred), color='Blue', size=1.5) +
-        theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 30),
-              plot.title = element_text(color="Black", size=30, face="bold")) +
-        labs(x="width", y="length", title="Sepal length and width")
-fig1_name <- "fig1.jpeg"
-# Residual graph
-m2 <- ggplot(data=df_model_1, aes(y = .resid)) +
-        geom_boxplot() +
-        labs(title='Boxplot: Residuals', y='Residuals value') +
-        theme(axis.line = element_line(colour = "black", size = 1), text = element_text(size = 40),
-              plot.title = element_text(color="Black", size=40, face="bold"))
-fig2_name <- "fig2.jpeg"
+
+# Second model
+df_model_2 <- df_model_1
+model_2 = lm(Close_btc ~ Date + Close_oro + Close_brent + Close_nasdaq, data=df_model_2)
+df_model_2 <- add_predictions(data=df_model_2, model=model_2) %>% add_residuals(model=model_2)
