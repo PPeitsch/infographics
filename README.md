@@ -1,2 +1,2 @@
-# icd
+# Infographics
 Dataset analysis examples
